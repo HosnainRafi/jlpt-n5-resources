@@ -1,0 +1,446 @@
+{
+  "title": "JLPT N5 – Vocabulary Exercise 18",
+  "questions": [
+    {
+      "question": 1,
+      "text": "わからないひとはわたしに _______ ください。 かえって こたえて しつもんして れんしゅうして",
+      "options": [
+        "1. わからないひとはわたしに _______ ください。",
+        " かえって",
+        " こたえて",
+        " しつもんして",
+        " れんしゅうして"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "きょうはざっしを _______ よみました。 10キロ 10メートル 10グラム 10ページ",
+      "options": [
+        "2. きょうはざっしを _______ よみました。",
+        " 10キロ",
+        " 10メートル",
+        " 10グラム",
+        " 10ページ"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "「わたしがそうじをしましょうか。」「ええ、______。」 おねがいします いただきます しつれいします どうしたしまして",
+      "options": [
+        "3. 「わたしがそうじをしましょうか。」「ええ、______。」",
+        " おねがいします",
+        " いただきます",
+        " しつれいします",
+        " どうしたしまして"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "_______　があるから、そんなにいそがなくてもいいよ。 とき じかん じゆう とら",
+      "options": [
+        "4. _______　があるから、そんなにいそがなくてもいいよ。",
+        " とき",
+        " じかん",
+        " じゆう",
+        " とら"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "もうはるですね。これから、_______ あたたかくなりますね。 いちいち いろいろ だんだん もしもし",
+      "options": [
+        "5. もうはるですね。これから、_______ あたたかくなりますね。",
+        " いちいち",
+        " いろいろ",
+        " だんだん",
+        " もしもし"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "_______　でいったほうがはやいですよ。 プール バス シャワー チケット",
+      "options": [
+        "6. _______　でいったほうがはやいですよ。",
+        " プール",
+        " バス",
+        " シャワー",
+        " チケット"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "わたしはよるシャワーを _______ 。 あびます とります なきます ぬぎます",
+      "options": [
+        "7. わたしはよるシャワーを _______ 。",
+        " あびます",
+        " とります",
+        " なきます",
+        " ぬぎます"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "ギターを　_______　ことができますか。 つく おく いく ひく",
+      "options": [
+        "8. ギターを　_______　ことができますか。",
+        " つく",
+        " おく",
+        " いく",
+        " ひく"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "がくせい　_______　でひるごはんをたべます。 としょかん しょくどう えいがかん きょうしつ",
+      "options": [
+        "9. がくせい　_______　でひるごはんをたべます。",
+        " としょかん",
+        " しょくどう",
+        " えいがかん",
+        " きょうしつ"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "_______ は午後4時にともだちにあいます。 きのう おととい せんしゅう きょう",
+      "options": [
+        "10. _______ は午後4時にともだちにあいます。",
+        " きのう",
+        " おととい",
+        " せんしゅう",
+        " きょう"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "3",
+      "explanation": "3 (わからないひとはわたしに"
+    },
+    {
+      "question": 2,
+      "answer": "4",
+      "explanation": "4 (きょうはざっしを"
+    },
+    {
+      "question": 3,
+      "answer": "1",
+      "explanation": "1 (「わたしがそうじをしましょうか。」「ええ、"
+    },
+    {
+      "question": 4,
+      "answer": "2",
+      "explanation": "じかんがあるから、そんなにいそがなくてもいいよ。"
+    },
+    {
+      "question": 5,
+      "answer": "3",
+      "explanation": "3 (もうはるですね。これから、"
+    },
+    {
+      "question": 6,
+      "answer": "2",
+      "explanation": "2 "
+    },
+    {
+      "question": 7,
+      "answer": "1",
+      "explanation": "1 (わたしはよるシャワーを"
+    },
+    {
+      "question": 8,
+      "answer": "4",
+      "explanation": "4 (ギターを"
+    },
+    {
+      "question": 9,
+      "answer": "2",
+      "explanation": "2 (がくせい"
+    },
+    {
+      "question": 10,
+      "answer": "4",
+      "explanation": "4 "
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "分かる",
+      "romaji": "wakaru",
+      "en": "to be understood, to be comprehended"
+    },
+    {
+      "jp": "帰る",
+      "romaji": "kaeru",
+      "en": "to return, to come back"
+    },
+    {
+      "jp": "答える",
+      "romaji": "kotaeru",
+      "en": "to answer, to reply"
+    },
+    {
+      "jp": "質問",
+      "romaji": "shitsumon",
+      "en": "question, inquiry"
+    },
+    {
+      "jp": "練習",
+      "romaji": "renshuu",
+      "en": "practice"
+    },
+    {
+      "jp": "雑誌",
+      "romaji": "zasshi",
+      "en": "magazine"
+    },
+    {
+      "jp": "キロ: kilo, kilogram",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "メートル: meter",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "グラム: gram",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ページ: page",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "掃除",
+      "romaji": "souji",
+      "en": "cleaning, sweeping"
+    },
+    {
+      "jp": "おねがいします: please",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "いただきます: expression of gratitude before meals",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "しつれいします: excuse me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "どうしたしまして: you are welcome, don’t mention it",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "急ぐ",
+      "romaji": "isogu",
+      "en": "to hurry, to rush, to hasten"
+    },
+    {
+      "jp": "時",
+      "romaji": "toki",
+      "en": "time, hour, moment"
+    },
+    {
+      "jp": "時間",
+      "romaji": "jikan",
+      "en": "time, hours"
+    },
+    {
+      "jp": "自由",
+      "romaji": "jiyuu",
+      "en": "freedom, liberty"
+    },
+    {
+      "jp": "虎",
+      "romaji": "tora",
+      "en": "tiger"
+    },
+    {
+      "jp": "春",
+      "romaji": "haru",
+      "en": "spring, springtime"
+    },
+    {
+      "jp": "暖かい",
+      "romaji": "atatakai",
+      "en": "warm, mild"
+    },
+    {
+      "jp": "いちいち: one by one",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "だんだん: gradually",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "もしもし: hello (on phone)",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "行く",
+      "romaji": "iku",
+      "en": "to go, to proceed"
+    },
+    {
+      "jp": "速い",
+      "romaji": "hayai",
+      "en": "fast, quick"
+    },
+    {
+      "jp": "プール: swimming pool",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "バス: bus",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "シャワー: shower",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "チケット: ticket",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "夜",
+      "romaji": "yoru",
+      "en": "evening, night"
+    },
+    {
+      "jp": "浴びる",
+      "romaji": "abiru",
+      "en": "to bathe, to shower"
+    },
+    {
+      "jp": "取る",
+      "romaji": "toru",
+      "en": "to take, to pick up"
+    },
+    {
+      "jp": "泣く",
+      "romaji": "naku",
+      "en": "to cry, to weep, to sob"
+    },
+    {
+      "jp": "脱ぐ",
+      "romaji": "nugu",
+      "en": "to take off (clothes)"
+    },
+    {
+      "jp": "ギター: guitar",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "弾く",
+      "romaji": "hiku",
+      "en": "to play (piano, guitar)"
+    },
+    {
+      "jp": "学生",
+      "romaji": "gakusei",
+      "en": "student"
+    },
+    {
+      "jp": "昼ご飯",
+      "romaji": "hirugohan",
+      "en": "lunch, midday meal"
+    },
+    {
+      "jp": "図書館",
+      "romaji": "toshokan",
+      "en": "library"
+    },
+    {
+      "jp": "教室",
+      "romaji": "kyoushitsu",
+      "en": "classroom"
+    },
+    {
+      "jp": "午後",
+      "romaji": "gogo",
+      "en": "afternoon, p.m."
+    },
+    {
+      "jp": "友達",
+      "romaji": "tomodachi",
+      "en": "friend, companion"
+    },
+    {
+      "jp": "昨日",
+      "romaji": "kinou",
+      "en": "yesterday"
+    },
+    {
+      "jp": "一昨日",
+      "romaji": "ototoi",
+      "en": "day before yesterday"
+    },
+    {
+      "jp": "先週",
+      "romaji": "senshuu",
+      "en": "last week, the week before"
+    },
+    {
+      "jp": "今日",
+      "romaji": "kyou",
+      "en": "today, this day"
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Vocabulary Exercise 19",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Vocabulary Exercise 17",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-vocabulary-exercise-18/"
+}

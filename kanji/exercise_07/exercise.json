@@ -1,0 +1,260 @@
+{
+  "title": "JLPT N5 – Kanji Exercise 07",
+  "questions": [
+    {
+      "question": 1,
+      "text": "手紙 てかみ しゅかみ てがみ しゅがみ",
+      "options": [
+        "1. 手紙",
+        " てかみ",
+        " しゅかみ",
+        " てがみ",
+        " しゅがみ"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "半分 かんぶん はんぶん はんふｎ かんふｎ",
+      "options": [
+        "2. 半分",
+        " かんぶん",
+        " はんぶん",
+        " はんふｎ",
+        " かんふｎ"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "読んで すんで",
+      "options": [
+        "やんで さいんで よんで",
+        "そのかめらは すこしたかい です。"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "すこし 小し",
+      "options": [
+        "炎し 火し 少し"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "たかい 高い 重い 低い 広い",
+      "options": [
+        "銀行 は、この 道 を 西 は 四 キロいって 左 がわにあります。"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "銀行 きんこう ぎんこう ぎんきょ きんきょ",
+      "options": [
+        "6. 銀行",
+        " きんこう",
+        " ぎんこう",
+        " ぎんきょ",
+        " きんきょ"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "道 みち まち どう とう",
+      "options": [
+        "7. 道",
+        " みち",
+        " まち",
+        " どう",
+        " とう"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "西 にし きた みなみ ひがし",
+      "options": [
+        "8. 西",
+        " にし",
+        " きた",
+        " みなみ",
+        " ひがし"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "四 し いし よん よ",
+      "options": [
+        "9. 四",
+        " し",
+        " いし",
+        " よん",
+        " よ"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "左 みぎ した うえ ひだり",
+      "options": [
+        "10. 左",
+        " みぎ",
+        " した",
+        " うえ",
+        " ひだり"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "3",
+      "explanation": "手紙: てがみ"
+    },
+    {
+      "question": 2,
+      "answer": "2",
+      "explanation": "半分: はんぶん"
+    },
+    {
+      "question": 3,
+      "answer": "4",
+      "explanation": "読んで: よんで"
+    },
+    {
+      "question": 4,
+      "answer": "4",
+      "explanation": "すこし: 少し"
+    },
+    {
+      "question": 5,
+      "answer": "1",
+      "explanation": "たかい: 高い"
+    },
+    {
+      "question": 6,
+      "answer": "2",
+      "explanation": "銀行: ぎんこう"
+    },
+    {
+      "question": 7,
+      "answer": "1",
+      "explanation": "道: みち"
+    },
+    {
+      "question": 8,
+      "answer": "1",
+      "explanation": "西: にし"
+    },
+    {
+      "question": 9,
+      "answer": "3",
+      "explanation": "四: よん"
+    },
+    {
+      "question": 10,
+      "answer": "4",
+      "explanation": "左: ひだり"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "手紙: letter",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "半分: half",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "読む: to read",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "カメラ: camera",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "すこし: little, few",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "たかい: high, tall, expensive",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "銀行: bank",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "道: road, street, way, path",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "西: west",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "四: four",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "キロ: kilo, kilogram, kilometer",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "いく: to go",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "左: left, left hand side",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 08",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 06",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-7/"
+}

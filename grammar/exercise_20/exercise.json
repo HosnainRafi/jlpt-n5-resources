@@ -1,0 +1,281 @@
+{
+  "title": "JLPT N5 – Grammar Exercise 20",
+  "questions": [
+    {
+      "question": 1,
+      "text": "りんご _______ みかんを買いました。 が や は へ",
+      "options": [
+        "1. りんご _______ みかんを買いました。",
+        " が",
+        " や",
+        " は",
+        " へ"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "あなたはいま、お金を _______ か。 もってです もってあります もっています もってください",
+      "options": [
+        "2. あなたはいま、お金を _______ か。",
+        " もってです",
+        " もってあります",
+        " もっています",
+        " もってください"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "はる休みは _______ ありますか。 どれ いくら どちら どのぐらい",
+      "options": [
+        "3. はる休みは _______ ありますか。",
+        " どれ",
+        " いくら",
+        " どちら",
+        " どのぐらい"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "ここにかばんを _______ ないでください。 おか おき おく おけ",
+      "options": [
+        "4. ここにかばんを _______ ないでください。",
+        " おか",
+        " おき",
+        " おく",
+        " おけ"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "ゆきが、たくさんふったから、一人しか _______ 。 来ませんでした 来ました 来てください 来るでしょう",
+      "options": [
+        "5. ゆきが、たくさんふったから、一人しか _______ 。",
+        " 来ませんでした",
+        " 来ました",
+        " 来てください",
+        " 来るでしょう"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "きのうは _______ 早くかえりましたか。 いかが いくつ どうして どちら",
+      "options": [
+        "6. きのうは _______ 早くかえりましたか。",
+        " いかが",
+        " いくつ",
+        " どうして",
+        " どちら"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "きのうのよるは６時に _______ 、ごはんをつくりました。 かえる かえった かえって かえったり",
+      "options": [
+        "7. きのうのよるは６時に _______ 、ごはんをつくりました。",
+        " かえる",
+        " かえった",
+        " かえって",
+        " かえったり"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "A　［マリーさんのかさはどれですか。」　B　［あれです。 _______ 。」 あれはかさです あのあおいのです あれはマリーさんです あのかさはあおいです",
+      "options": [
+        "8. A　［マリーさんのかさはどれですか。」　B　［あれです。 _______ 。」",
+        " あれはかさです",
+        " あのあおいのです",
+        " あれはマリーさんです",
+        " あのかさはあおいです"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "もしもし、山本です _______ 、木下さんはいますか。 が と て で",
+      "options": [
+        "9. もしもし、山本です _______ 、木下さんはいますか。",
+        " が",
+        " と",
+        " て",
+        " で"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "_______ うんどうをしていますか。 どれ だれ いかが 何か",
+      "options": [
+        "10. _______ うんどうをしていますか。",
+        " どれ",
+        " だれ",
+        " いかが",
+        " 何か"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "2",
+      "explanation": "2 (りんご"
+    },
+    {
+      "question": 2,
+      "answer": "3",
+      "explanation": "3 (あなたはいま、お金を"
+    },
+    {
+      "question": 3,
+      "answer": "4",
+      "explanation": "4 (はる休みは"
+    },
+    {
+      "question": 4,
+      "answer": "1",
+      "explanation": "1 (ここにかばんを"
+    },
+    {
+      "question": 5,
+      "answer": "1",
+      "explanation": "1 (ゆきがたくさんふったから、一人しか"
+    },
+    {
+      "question": 6,
+      "answer": "3",
+      "explanation": "3 (きのうは"
+    },
+    {
+      "question": 7,
+      "answer": "3",
+      "explanation": "3 (きのうのよるは６時に"
+    },
+    {
+      "question": 8,
+      "answer": "2",
+      "explanation": "2 (A　［マリーさんのかさはどれですか。」　B　［あれです。"
+    },
+    {
+      "question": 9,
+      "answer": "1",
+      "explanation": "1 (もしもし、山本です"
+    },
+    {
+      "question": 10,
+      "answer": "4",
+      "explanation": "4 "
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "今",
+      "romaji": "ima",
+      "en": "now, the present time"
+    },
+    {
+      "jp": "持つ",
+      "romaji": "motsu",
+      "en": "to hold, to carry, to possess"
+    },
+    {
+      "jp": "春休み",
+      "romaji": "haruyasumi",
+      "en": "spring break, spring vacation"
+    },
+    {
+      "jp": "鞄",
+      "romaji": "kaban",
+      "en": "bag, briefcase"
+    },
+    {
+      "jp": "置く",
+      "romaji": "oku",
+      "en": "to put, to place"
+    },
+    {
+      "jp": "一人",
+      "romaji": "hitori",
+      "en": "one person"
+    },
+    {
+      "jp": "いかが: how about",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "いくつ:  how many, how old",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "どうして: why, for what reason",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "どちら: which way, which direction",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "夜",
+      "romaji": "yoru",
+      "en": "evening, night"
+    },
+    {
+      "jp": "時",
+      "romaji": "ji",
+      "en": "hour, o’clock"
+    },
+    {
+      "jp": "青い",
+      "romaji": "aoi",
+      "en": "blue"
+    },
+    {
+      "jp": "もしもし: hello (on phone)",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "運動",
+      "romaji": "undou",
+      "en": "motion, exercise"
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Grammar Exercise 21",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 - Grammar Exercise 19",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-20/"
+}

@@ -1,0 +1,306 @@
+{
+  "title": "JLPT N5 – Grammar Exercise 24",
+  "questions": [
+    {
+      "question": 1,
+      "text": "なつやすみに一人　_______　祖母のいえに行きます。 と で は が",
+      "options": [
+        "1. なつやすみに一人　_______　祖母のいえに行きます。",
+        " と",
+        " で",
+        " は",
+        " が"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "テーブルの上にナイフとフォークが　_______　。 おいてあります おいています おきます おきました",
+      "options": [
+        "2. テーブルの上にナイフとフォークが　_______　。",
+        " おいてあります",
+        " おいています",
+        " おきます",
+        " おきました"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "もう少し　_______　食べてください。 はやい はやくて はやく はやかった",
+      "options": [
+        "3. もう少し　_______　食べてください。",
+        " はやい",
+        " はやくて",
+        " はやく",
+        " はやかった"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "いつも母　_______　いっしょにしょくじをします。 へ と の で",
+      "options": [
+        "4. いつも母　_______　いっしょにしょくじをします。",
+        " へ",
+        " と",
+        " の",
+        " で"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "しゅくだいを　_______　あとで、テレビを見ます。 して した する しに",
+      "options": [
+        "5. しゅくだいを　_______　あとで、テレビを見ます。",
+        " して",
+        " した",
+        " する",
+        " しに"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "今日は　_______　ねましょう。 はやい はやくて はやく はやかった",
+      "options": [
+        "6. 今日は　_______　ねましょう。",
+        " はやい",
+        " はやくて",
+        " はやく",
+        " はやかった"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "わたしはよくラジオ　_______　おんがくを聞きます。 で に は を",
+      "options": [
+        "7. わたしはよくラジオ　_______　おんがくを聞きます。",
+        " で",
+        " に",
+        " は",
+        " を"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "ばんごはんを　_______　あとで、さんぽします。 たべる たべた たべて たべ",
+      "options": [
+        "8. ばんごはんを　_______　あとで、さんぽします。",
+        " たべる",
+        " たべた",
+        " たべて",
+        " たべ"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "わたしはさくぶんを　_______　とき、いつもじしょをつかいます。 かいた かいて かきに かく",
+      "options": [
+        "9. わたしはさくぶんを　_______　とき、いつもじしょをつかいます。",
+        " かいた",
+        " かいて",
+        " かきに",
+        " かく"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "わたしはたなかさんを３時間　_______　まっていました。 も を が で",
+      "options": [
+        "10. わたしはたなかさんを３時間　_______　まっていました。",
+        " も",
+        " を",
+        " が",
+        " で"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "2",
+      "explanation": ""
+    },
+    {
+      "question": 2,
+      "answer": "1",
+      "explanation": ""
+    },
+    {
+      "question": 3,
+      "answer": "3",
+      "explanation": ""
+    },
+    {
+      "question": 4,
+      "answer": "2",
+      "explanation": ""
+    },
+    {
+      "question": 5,
+      "answer": "2",
+      "explanation": ""
+    },
+    {
+      "question": 6,
+      "answer": "3",
+      "explanation": ""
+    },
+    {
+      "question": 7,
+      "answer": "1",
+      "explanation": ""
+    },
+    {
+      "question": 8,
+      "answer": "2",
+      "explanation": ""
+    },
+    {
+      "question": 9,
+      "answer": "4",
+      "explanation": ""
+    },
+    {
+      "question": 10,
+      "answer": "1",
+      "explanation": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "夏休み",
+      "romaji": "natsuyasumi",
+      "en": "summer vacation, summer holiday"
+    },
+    {
+      "jp": "祖母",
+      "romaji": "sobo",
+      "en": "grandmother"
+    },
+    {
+      "jp": "テーブル: table",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ナイフ: knife",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "フォーク: fork",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "もう少し",
+      "romaji": "mou sukoshi",
+      "en": "a bit more, a bit longer"
+    },
+    {
+      "jp": "食事",
+      "romaji": "shokuji",
+      "en": "meal"
+    },
+    {
+      "jp": "見る",
+      "romaji": "miru",
+      "en": "to see, to look, to watch"
+    },
+    {
+      "jp": "ラジオ: radio",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "聞く",
+      "romaji": "kiku",
+      "en": "to hear, to listen"
+    },
+    {
+      "jp": "晩御飯",
+      "romaji": "bangohan",
+      "en": "dinner, evening meal"
+    },
+    {
+      "jp": "作文",
+      "romaji": "sakubun",
+      "en": "composition, writing"
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Grammar Audio Lesson Part 1 (free).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Grammar Audio Lesson Part 2 to Part 6 (requires paid membership).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Vocabulary Audio Lesson Part 1 (free).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Vocabulary Audio Lesson Part 2 to Part 21 (requires paid membership).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Grammar Exercise 25",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Grammar Exercise 23",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-24/"
+}

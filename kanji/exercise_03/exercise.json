@@ -1,0 +1,270 @@
+{
+  "title": "JLPT N5 – Kanji Exercise 03",
+  "questions": [
+    {
+      "question": 1,
+      "text": "ちいさい 中さい 少さい 小さい 大さい",
+      "options": [
+        "1. ちいさい",
+        " 中さい",
+        " 少さい",
+        " 小さい",
+        " 大さい"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "らじお ラゾオ ラジオ ウゾオ ウジオ",
+      "options": [
+        "2. らじお",
+        " ラゾオ",
+        " ラジオ",
+        " ウゾオ",
+        " ウジオ"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "ぽけっと ポケット",
+      "options": [
+        "パクット ポクット パケット"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "でかけ 外かけ",
+      "options": [
+        "行かけ 来かけ 出かけ",
+        "そして、 でんしゃ のなかで きき ながら かいしゃ にいきます。"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "でんしゃ 電車 雷車 電東 雷東",
+      "options": [
+        "5. でんしゃ",
+        " 電車",
+        " 雷車",
+        " 電東",
+        " 雷東"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "きき 聞き 開き 閉き 間き",
+      "options": [
+        "6. きき",
+        " 聞き",
+        " 開き",
+        " 閉き",
+        " 間き"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "かいしゃ 社員 社会 会計 会社",
+      "options": [
+        "先 に 食べて ください。わたしは 後で 食べます。"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "先 せん つぎ すぐ さき",
+      "options": [
+        "8. 先",
+        " せん",
+        " つぎ",
+        " すぐ",
+        " さき"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "食べて とべて のべて たべて くべて",
+      "options": [
+        "9. 食べて",
+        " とべて",
+        " のべて",
+        " たべて",
+        " くべて"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "後で あとで のちで ごで こうで",
+      "options": [
+        "10. 後で",
+        " あとで",
+        " のちで",
+        " ごで",
+        " こうで"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "3",
+      "explanation": "ちいさい: 小さい"
+    },
+    {
+      "question": 2,
+      "answer": "2",
+      "explanation": "らじお: ラジオ"
+    },
+    {
+      "question": 3,
+      "answer": "1",
+      "explanation": "ぽけっと: ポケット"
+    },
+    {
+      "question": 4,
+      "answer": "4",
+      "explanation": "でかけ: 出かけ"
+    },
+    {
+      "question": 5,
+      "answer": "1",
+      "explanation": "でんしゃ: 電車"
+    },
+    {
+      "question": 6,
+      "answer": "1",
+      "explanation": "きき: 聞き"
+    },
+    {
+      "question": 7,
+      "answer": "4",
+      "explanation": "かいしゃ: 会社"
+    },
+    {
+      "question": 8,
+      "answer": "4",
+      "explanation": "先: さき"
+    },
+    {
+      "question": 9,
+      "answer": "3",
+      "explanation": "食べて: たべて"
+    },
+    {
+      "question": 10,
+      "answer": "1",
+      "explanation": "後で: あとで"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "あに: older brother",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ちいさい: small, little, tiny",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "らじお: radio",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ぽけっと: pocket",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "いれる: to put in, to insert",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "でかける: to depart, to go out",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "そして: and, and then",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "でんしゃ: (electric) train",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "なか: inside, in, among, within",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "きく: to listen, to hear",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "かいしゃ: company, corporation, workplace",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "いく: to go, to proceed",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "先に: before, ahead, earlier than",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "食べる: to eat",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "後で: afterwards",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 04",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 02",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-3/"
+}

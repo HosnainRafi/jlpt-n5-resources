@@ -1,0 +1,436 @@
+{
+  "title": "JLPT N5 – Vocabulary Exercise 04",
+  "questions": [
+    {
+      "question": 1,
+      "text": "たなかさんはべんきょうをして、_______ いしゃになりました。 りっぱな きれいな まっすぐな だいじょうぶな",
+      "options": [
+        "1. たなかさんはべんきょうをして、_______ いしゃになりました。",
+        " りっぱな",
+        " きれいな",
+        " まっすぐな",
+        " だいじょうぶな"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "あのおおきいはしを _______ 、みぎにまがってください。 あがって あそんで あるいて わたって",
+      "options": [
+        "2. あのおおきいはしを _______ 、みぎにまがってください。",
+        " あがって",
+        " あそんで",
+        " あるいて",
+        " わたって"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "このケーキにはさとうがたくさんはいっています。とても _______ です。 からい あまい まるい わかい",
+      "options": [
+        "3. このケーキにはさとうがたくさんはいっています。とても _______ です。",
+        " からい",
+        " あまい",
+        " まるい",
+        " わかい"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "すずきさんのじてんしゃは _______ きれいです。 いそがしくて わかくて あたらしくて あつくて",
+      "options": [
+        "4. すずきさんのじてんしゃは _______ きれいです。",
+        " いそがしくて",
+        " わかくて",
+        " あたらしくて",
+        " あつくて"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "「そろそろ、_______ 」と　いってせんせいのへやをでました。 しつれいしません しつれいします しつれいしています しつれいしました",
+      "options": [
+        "5. 「そろそろ、_______ 」と　いってせんせいのへやをでました。",
+        " しつれいしません",
+        " しつれいします",
+        " しつれいしています",
+        " しつれいしました"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "きょうはたくさんしごとをしたから、とても _______ 。 つかれました つくりました つかいました つとめました",
+      "options": [
+        "6. きょうはたくさんしごとをしたから、とても _______ 。",
+        " つかれました",
+        " つくりました",
+        " つかいました",
+        " つとめました"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "ラジオをけすときは、このボタンを _______ ください。 おして きって つけて さして",
+      "options": [
+        "7. ラジオをけすときは、このボタンを _______ ください。",
+        " おして",
+        " きって",
+        " つけて",
+        " さして"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "わたしは _______ あさ７じにおきます。 たいてい たいへん だいぶ だんだん",
+      "options": [
+        "8. わたしは _______ あさ７じにおきます。",
+        " たいてい",
+        " たいへん",
+        " だいぶ",
+        " だんだん"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "えいがかんのまえにみせが _______ ならんでいます。 ひじめて たいへん たくさん おおぜい",
+      "options": [
+        "9. えいがかんのまえにみせが _______ ならんでいます。",
+        " ひじめて",
+        " たいへん",
+        " たくさん",
+        " おおぜい"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "くるまでうちからびょういんまで２０ぷん _______ 。 かけます かかります いります います",
+      "options": [
+        "10. くるまでうちからびょういんまで２０ぷん _______ 。",
+        " かけます",
+        " かかります",
+        " いります",
+        " います"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "1",
+      "explanation": "1 (たなかさんはべんきょうをして、"
+    },
+    {
+      "question": 2,
+      "answer": "4",
+      "explanation": "4 (あのおおきいはしを"
+    },
+    {
+      "question": 3,
+      "answer": "2",
+      "explanation": "2 (このケーキにはさとうがたくさんはいっています。とても"
+    },
+    {
+      "question": 4,
+      "answer": "3",
+      "explanation": "3 (すずきさんのじてんしゃは"
+    },
+    {
+      "question": 5,
+      "answer": "2",
+      "explanation": "2 (「そろそろ、"
+    },
+    {
+      "question": 6,
+      "answer": "1",
+      "explanation": "1 (きょうはたくさんしごとをしたから、とても"
+    },
+    {
+      "question": 7,
+      "answer": "1",
+      "explanation": "1 (ラジオをけすときは、このボタンを"
+    },
+    {
+      "question": 8,
+      "answer": "1",
+      "explanation": "1 (わたしは"
+    },
+    {
+      "question": 9,
+      "answer": "3",
+      "explanation": "3 (えいがかんのまえにみせが"
+    },
+    {
+      "question": 10,
+      "answer": "2",
+      "explanation": "2 (くるまでうちからびょういんまで２０ぷん"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "医者",
+      "romaji": "isha",
+      "en": "(medical) doctor"
+    },
+    {
+      "jp": "立派",
+      "romaji": "rippa",
+      "en": "splendid, fine"
+    },
+    {
+      "jp": "きれい: pretty, beautiful",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "まっすぐ: straight, direct, upright",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "大丈夫",
+      "romaji": "daijoubu",
+      "en": "safe, all right"
+    },
+    {
+      "jp": "大きい",
+      "romaji": "ookii",
+      "en": "big, large, great"
+    },
+    {
+      "jp": "橋",
+      "romaji": "hashi",
+      "en": "bridge"
+    },
+    {
+      "jp": "右",
+      "romaji": "migi",
+      "en": "right, right hand side"
+    },
+    {
+      "jp": "曲がる",
+      "romaji": "magaru",
+      "en": "to turn, to bend"
+    },
+    {
+      "jp": "上がる",
+      "romaji": "agaru",
+      "en": "to rise, to go up"
+    },
+    {
+      "jp": "遊ぶ",
+      "romaji": "asobu",
+      "en": "to play, to enjoy oneself"
+    },
+    {
+      "jp": "渡る",
+      "romaji": "wataru",
+      "en": "to cross over, to go across"
+    },
+    {
+      "jp": "ケーキ: cake",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "砂糖",
+      "romaji": "satou",
+      "en": "sugar"
+    },
+    {
+      "jp": "たくさん: many, a lot",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "入る",
+      "romaji": "hairu",
+      "en": "to contain, to hold"
+    },
+    {
+      "jp": "辛い",
+      "romaji": "karai",
+      "en": "spicy, hot"
+    },
+    {
+      "jp": "甘い",
+      "romaji": "amai",
+      "en": "sweet"
+    },
+    {
+      "jp": "丸い",
+      "romaji": "marui",
+      "en": "round, circular"
+    },
+    {
+      "jp": "自転車",
+      "romaji": "jitensha",
+      "en": "bicycle"
+    },
+    {
+      "jp": "忙しい",
+      "romaji": "isogashii",
+      "en": "busy, occupied"
+    },
+    {
+      "jp": "新しい",
+      "romaji": "atarashii",
+      "en": "new"
+    },
+    {
+      "jp": "厚い",
+      "romaji": "atsui",
+      "en": "thick, deep"
+    },
+    {
+      "jp": "そろそろ: soon",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "言う",
+      "romaji": "iu",
+      "en": "to say"
+    },
+    {
+      "jp": "先生",
+      "romaji": "sensei",
+      "en": "teacher, master"
+    },
+    {
+      "jp": "部屋",
+      "romaji": "heya",
+      "en": "room"
+    },
+    {
+      "jp": "出る",
+      "romaji": "deru",
+      "en": "to go out, to exit"
+    },
+    {
+      "jp": "仕事",
+      "romaji": "shigoto",
+      "en": "work, job"
+    },
+    {
+      "jp": "疲れる",
+      "romaji": "tsukareru",
+      "en": "to get tired, to be worn out"
+    },
+    {
+      "jp": "作る",
+      "romaji": "tsukuru",
+      "en": "to make, to produce"
+    },
+    {
+      "jp": "使う",
+      "romaji": "tsukau",
+      "en": "to use, to make use of"
+    },
+    {
+      "jp": "務める",
+      "romaji": "tsutomeru",
+      "en": "to work for, to be employed at"
+    },
+    {
+      "jp": "消す",
+      "romaji": "kesu",
+      "en": "to turn off power"
+    },
+    {
+      "jp": "ボタン: button",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "押す",
+      "romaji": "osu",
+      "en": "to push, to press"
+    },
+    {
+      "jp": "切る",
+      "romaji": "kiru",
+      "en": "to cut, to sever"
+    },
+    {
+      "jp": "付ける",
+      "romaji": "tsukeru",
+      "en": "to attach, to join"
+    },
+    {
+      "jp": "たいへん: very, greatly",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "だいぶ: considerably, greatly",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "だんだん: gradually",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "映画館",
+      "romaji": "eigakan",
+      "en": "movie theater, cinema"
+    },
+    {
+      "jp": "はじめて: for the first time",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "大勢",
+      "romaji": "oozei",
+      "en": "many, great number of people"
+    },
+    {
+      "jp": "車",
+      "romaji": "kuruma",
+      "en": "car"
+    },
+    {
+      "jp": "病院",
+      "romaji": "byouin",
+      "en": "hospital"
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Vocabulary Exercise 05",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Vocabulary Exercise 03",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-vocabulary-exercise-4/"
+}

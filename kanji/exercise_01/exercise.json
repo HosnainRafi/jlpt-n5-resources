@@ -1,0 +1,303 @@
+{
+  "title": "JLPT N5 – Kanji Exercise 01",
+  "questions": [
+    {
+      "question": 1,
+      "text": "来月 くげつ らいがつ くがつ らいげつ",
+      "options": [
+        "1. 来月",
+        " くげつ",
+        " らいがつ",
+        " くがつ",
+        " らいげつ"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "七月 しちがつ しちげつ なのがつ なのげつ",
+      "options": [
+        "2. 七月",
+        " しちがつ",
+        " しちげつ",
+        " なのがつ",
+        " なのげつ"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "木よう日 きにょうび すいようび かようび もくようび",
+      "options": [
+        "3. 木よう日",
+        " きにょうび",
+        " すいようび",
+        " かようび",
+        " もくようび"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "九時 くうじ きゅじ くじ きゅうじ",
+      "options": [
+        "4. 九時",
+        " くうじ",
+        " きゅじ",
+        " くじ",
+        " きゅうじ"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "ふうとうに お金 が 八万円入って いました。",
+      "options": []
+    },
+    {
+      "question": 5,
+      "text": "お金",
+      "options": [
+        "おちゃ おかし おさら おかね"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "八万円 はちまんえん はっせんえん はちばんえん はっけんえん",
+      "options": [
+        "6. 八万円",
+        " はちまんえん",
+        " はっせんえん",
+        " はちばんえん",
+        " はっけんえん"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "入って いれって いって はって はいって",
+      "options": [
+        "きょうは 天気 がいいです。がっこうの5かいのまどから、 北 に 白い 山がよく見えます。"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "天気 げんき けんき てんき でんき",
+      "options": [
+        "8. 天気",
+        " げんき",
+        " けんき",
+        " てんき",
+        " でんき"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "北 みなみ きた ひがし にし",
+      "options": [
+        "9. 北",
+        " みなみ",
+        " きた",
+        " ひがし",
+        " にし"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "白い たかい ひろい しろい おかい",
+      "options": [
+        "10. 白い",
+        " たかい",
+        " ひろい",
+        " しろい",
+        " おかい"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "4",
+      "explanation": "来月: らいげつ"
+    },
+    {
+      "question": 2,
+      "answer": "1",
+      "explanation": "七月: しちがつ"
+    },
+    {
+      "question": 3,
+      "answer": "4",
+      "explanation": "木よう日: もくようび"
+    },
+    {
+      "question": 4,
+      "answer": "3",
+      "explanation": "九時: くじ"
+    },
+    {
+      "question": 5,
+      "answer": "4",
+      "explanation": "お金: おかね"
+    },
+    {
+      "question": 6,
+      "answer": "1",
+      "explanation": "八万円: はちまんえん"
+    },
+    {
+      "question": 7,
+      "answer": "4",
+      "explanation": "入って: はいって"
+    },
+    {
+      "question": 8,
+      "answer": "3",
+      "explanation": "天気: てんき"
+    },
+    {
+      "question": 9,
+      "answer": "2",
+      "explanation": "北: きた"
+    },
+    {
+      "question": 10,
+      "answer": "3",
+      "explanation": "白い: しろい"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "試験",
+      "romaji": "shiken",
+      "en": "examination, test"
+    },
+    {
+      "jp": "来月: next month",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "七月: July",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "八日",
+      "romaji": "youka",
+      "en": "eighth day of the month, eight days"
+    },
+    {
+      "jp": "木曜日: Thursday",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "封筒",
+      "romaji": "fuutou",
+      "en": "envelope"
+    },
+    {
+      "jp": "お金: money",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "八万: eighty thousand",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "円: Yen",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "入る: to contain, to hold",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "今日",
+      "romaji": "kyou",
+      "en": "today, this day"
+    },
+    {
+      "jp": "天気: weather",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "いい: good, excellent",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "学校",
+      "romaji": "gakkou",
+      "en": "school"
+    },
+    {
+      "jp": "階",
+      "romaji": "kai",
+      "en": "stories"
+    },
+    {
+      "jp": "窓",
+      "romaji": "mado",
+      "en": "window"
+    },
+    {
+      "jp": "北: north",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "白い: white",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "山",
+      "romaji": "yama",
+      "en": "mountain"
+    },
+    {
+      "jp": "よく: well, properly",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "見える",
+      "romaji": "mieru",
+      "en": "to be seen, to be in sight"
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 02",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-1/"
+}

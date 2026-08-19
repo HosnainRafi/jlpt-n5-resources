@@ -1,0 +1,283 @@
+{
+  "title": "JLPT N5 – Listening Exercise 02 &#8211; Japanesetest4you.com",
+  "audios": [
+    "https://japanesetest4you.com/choukai/0002/n5_1_6.mp3",
+    "https://japanesetest4you.com/choukai/0002/n5_1_7.mp3",
+    "https://japanesetest4you.com/choukai/0002/n5_1_8.mp3",
+    "https://japanesetest4you.com/choukai/0002/n5_1_9.mp3",
+    "https://japanesetest4you.com/choukai/0002/n5_1_10.mp3"
+  ],
+  "images": [
+    "https://japanesetest4you.com/image/2007_04_listen_quiz6.jpg",
+    "https://japanesetest4you.com/image/2007_04_listen_quiz7.jpg",
+    "https://japanesetest4you.com/image/2007_04_listen_quiz8.jpg",
+    "https://japanesetest4you.com/image/2007_04_listen_quiz9.jpg",
+    "https://japanesetest4you.com/image/jlpt-n5-listening-2-05.gif"
+  ],
+  "transcript_pdf": "https://japanesetest4you.com/pdf/n5-listening-2.pdf",
+  "answers": [
+    {
+      "question": 1,
+      "answer": "3"
+    },
+    {
+      "question": 2,
+      "answer": "1"
+    },
+    {
+      "question": 3,
+      "answer": "4"
+    },
+    {
+      "question": 4,
+      "answer": "2"
+    },
+    {
+      "question": 5,
+      "answer": "4"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "冷蔵庫",
+      "romaji": "reizouko",
+      "en": "refrigerator"
+    },
+    {
+      "jp": "何",
+      "romaji": "nani",
+      "en": "what"
+    },
+    {
+      "jp": "入れる",
+      "romaji": "ireru",
+      "en": "to put in, to let in"
+    },
+    {
+      "jp": "果物",
+      "romaji": "kudamono",
+      "en": "fruit"
+    },
+    {
+      "jp": "お菓子",
+      "romaji": "okashi",
+      "en": "sweets, candy"
+    },
+    {
+      "jp": "上",
+      "romaji": "ue",
+      "en": "on, above"
+    },
+    {
+      "jp": "ビール: beer",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "温かい",
+      "romaji": "atatakai",
+      "en": "warm, mild"
+    },
+    {
+      "jp": "パーティー: party",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "時間",
+      "romaji": "jikan",
+      "en": "time, hours"
+    },
+    {
+      "jp": "一緒に",
+      "romaji": "issho ni",
+      "en": "together with"
+    },
+    {
+      "jp": "先生",
+      "romaji": "sensei",
+      "en": "teacher, master"
+    },
+    {
+      "jp": "生徒",
+      "romaji": "seito",
+      "en": "student"
+    },
+    {
+      "jp": "右手",
+      "romaji": "migite",
+      "en": "right hand"
+    },
+    {
+      "jp": "右脇",
+      "romaji": "migiwaki",
+      "en": "right armpit"
+    },
+    {
+      "jp": "持つ",
+      "romaji": "motsu",
+      "en": "to hold, to carry, to possess"
+    },
+    {
+      "jp": "高い",
+      "romaji": "takai",
+      "en": "high, tall"
+    },
+    {
+      "jp": "挙げる",
+      "romaji": "ageru",
+      "en": "to raise, to elevate"
+    },
+    {
+      "jp": "ゆっくり: slowly, at ease",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "次",
+      "romaji": "tsugi",
+      "en": "next, following"
+    },
+    {
+      "jp": "左",
+      "romaji": "hidari",
+      "en": "left, left hand side"
+    },
+    {
+      "jp": "手",
+      "romaji": "te",
+      "en": "hand"
+    },
+    {
+      "jp": "まっすぐ: straight, upright",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "横に",
+      "romaji": "yoko ni",
+      "en": "horizontally"
+    },
+    {
+      "jp": "写真",
+      "romaji": "shashin",
+      "en": "photograph, photo"
+    },
+    {
+      "jp": "建物",
+      "romaji": "tatemono",
+      "en": "building"
+    },
+    {
+      "jp": "撮る",
+      "romaji": "toru",
+      "en": "to take (a photo)"
+    },
+    {
+      "jp": "全部",
+      "romaji": "zenbu",
+      "en": "all, entire"
+    },
+    {
+      "jp": "入る",
+      "romaji": "hairu",
+      "en": "to contain, to hold"
+    },
+    {
+      "jp": "入り口",
+      "romaji": "iriguchi",
+      "en": "entrance, gate"
+    },
+    {
+      "jp": "今月",
+      "romaji": "kongetsu",
+      "en": "this month"
+    },
+    {
+      "jp": "カレンダー: calendar",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "来週",
+      "romaji": "raishuu",
+      "en": "next week"
+    },
+    {
+      "jp": "金曜日",
+      "romaji": "kin&#8217;youbi",
+      "en": "Friday"
+    },
+    {
+      "jp": "十日",
+      "romaji": "tooka",
+      "en": "tenth day of the month, ten days"
+    },
+    {
+      "jp": "忙しい",
+      "romaji": "isogashii",
+      "en": "busy, occupied"
+    },
+    {
+      "jp": "先月",
+      "romaji": "sengetsu",
+      "en": "last month"
+    },
+    {
+      "jp": "本当",
+      "romaji": "hontou",
+      "en": "truth, reality"
+    },
+    {
+      "jp": "二人",
+      "romaji": "futari",
+      "en": "two person, two people, pair"
+    },
+    {
+      "jp": "店",
+      "romaji": "mise",
+      "en": "shop, store"
+    },
+    {
+      "jp": "スカート: skirt",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "いかが: how about",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "同じ",
+      "romaji": "onaji",
+      "en": "same, identical"
+    },
+    {
+      "jp": "形",
+      "romaji": "katachi",
+      "en": "form, shape, figure"
+    },
+    {
+      "jp": "他に",
+      "romaji": "hoka ni",
+      "en": "in addition, besides"
+    },
+    {
+      "jp": "黒",
+      "romaji": "kuro",
+      "en": "black"
+    },
+    {
+      "jp": "灰色",
+      "romaji": "haiiro",
+      "en": "grey"
+    },
+    {
+      "jp": "赤",
+      "romaji": "aka",
+      "en": "red"
+    }
+  ],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-2/"
+}

@@ -1,0 +1,311 @@
+{
+  "title": "JLPT N5 – Kanji Exercise 19",
+  "questions": [
+    {
+      "question": 1,
+      "text": "おがわさんは四月から毎朝ぎゅうにゅうを 飲んで います。 たのんで すんで のんで やんで",
+      "options": [
+        "1. おがわさんは四月から毎朝ぎゅうにゅうを",
+        "飲んで",
+        "います。",
+        " たのんで",
+        " すんで",
+        " のんで",
+        " やんで"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "あそこには ながい かわがあります。 安い 広い 多い 長い",
+      "options": [
+        "2. あそこには",
+        "ながい",
+        "かわがあります。",
+        " 安い",
+        " 広い",
+        " 多い",
+        " 長い"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "この 門 は子どもの力では開けられません。 と はこ まど もん",
+      "options": [
+        "3. この",
+        "門",
+        "は子どもの力では開けられません。",
+        " と",
+        " はこ",
+        " まど",
+        " もん"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "はやく しゃしん をおくってください。 曷真 曷頁 写真 写頁",
+      "options": [
+        "4. はやく",
+        "しゃしん",
+        "をおくってください。",
+        " 曷真",
+        " 曷頁",
+        " 写真",
+        " 写頁"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "中田さんはくろい 背広 をきています。 せびろ せひろ せいこう せこう",
+      "options": [
+        "5. 中田さんはくろい",
+        "背広",
+        "をきています。",
+        " せびろ",
+        " せひろ",
+        " せいこう",
+        " せこう"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "この国はふゆでも ２０ど いじょうになることがある。 ２０広 ２０度 ２０庄 ２０席",
+      "options": [
+        "6. この国はふゆでも",
+        "２０ど",
+        "いじょうになることがある。",
+        " ２０広",
+        " ２０度",
+        " ２０庄",
+        " ２０席"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "このことばの 意味 はなんですか。 いみ いい いり いし",
+      "options": [
+        "7. このことばの",
+        "意味",
+        "はなんですか。",
+        " いみ",
+        " いい",
+        " いり",
+        " いし"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "かわいい 女の子 が生まれました。 おんなのこ おなのこ あんなのこ あなのこ",
+      "options": [
+        "8. かわいい",
+        "女の子",
+        "が生まれました。",
+        " おんなのこ",
+        " おなのこ",
+        " あんなのこ",
+        " あなのこ"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "えきの 後ろ にこうえんがあります。 あとろ ごろ うしろ こうろ",
+      "options": [
+        "9. えきの",
+        "後ろ",
+        "にこうえんがあります。",
+        " あとろ",
+        " ごろ",
+        " うしろ",
+        " こうろ"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "このまちのにしには おおきな かわがあります。 犬きな 夫きな 大きな 夭きな",
+      "options": [
+        "10. このまちのにしには",
+        "おおきな",
+        "かわがあります。",
+        " 犬きな",
+        " 夫きな",
+        " 大きな",
+        " 夭きな"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "3",
+      "explanation": " 飲んで => のんで "
+    },
+    {
+      "question": 2,
+      "answer": "4",
+      "explanation": " ながい => 長い "
+    },
+    {
+      "question": 3,
+      "answer": "4",
+      "explanation": " 門 => もん "
+    },
+    {
+      "question": 4,
+      "answer": "3",
+      "explanation": " しゃしん => 写真 "
+    },
+    {
+      "question": 5,
+      "answer": "1",
+      "explanation": " 背広 => せびろ "
+    },
+    {
+      "question": 6,
+      "answer": "2",
+      "explanation": " ２０ど => ２０度 "
+    },
+    {
+      "question": 7,
+      "answer": "1",
+      "explanation": " 意味 => いみ "
+    },
+    {
+      "question": 8,
+      "answer": "1",
+      "explanation": " 女の子 => おんなのこ "
+    },
+    {
+      "question": 9,
+      "answer": "3",
+      "explanation": " 後ろ => うしろ "
+    },
+    {
+      "question": 10,
+      "answer": "3",
+      "explanation": " おおきな => 大きな "
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "四月",
+      "romaji": "shigatsu",
+      "en": "April"
+    },
+    {
+      "jp": "毎朝",
+      "romaji": "maiasa",
+      "en": "every morning"
+    },
+    {
+      "jp": "ぎゅうにゅう: milk",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "飲む: to drink",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "あそこ: there, over there",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ながい: long, lengthy",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "くろい: black",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "背広: business suit",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "きる: to wear",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ふゆ: winter",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ど: degree",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "いじょう: beyond, more than",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ことば: word, phrase",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "意味: meaning, significance",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "かわいい: cute, adorable",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "女の子: girl",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "生まれる",
+      "romaji": "umareru",
+      "en": "to be born"
+    },
+    {
+      "jp": "後ろ: back, behind, rear",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 18",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-19/"
+}

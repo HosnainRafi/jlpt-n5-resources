@@ -1,0 +1,262 @@
+{
+  "title": "JLPT N5 – Kanji Exercise 10",
+  "questions": [
+    {
+      "question": 1,
+      "text": "しんぶん 新聞 新刊 新間 新門",
+      "options": [
+        "1. しんぶん",
+        " 新聞",
+        " 新刊",
+        " 新間",
+        " 新門"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "かい 会い 行い 食い 買い",
+      "options": [
+        "一日 は 二十四時間 です。そして、一時間は 六十分 で、 一分 は六十びょうです。"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "一日 いちひ",
+      "options": [
+        "いっちにち いちにち いっちに"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "二十四 にちゅうよん",
+      "options": [
+        "にじゅうよ にじゅよん にちゅよん"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "時間 じかん じけん しかん しけん",
+      "options": [
+        "5. 時間",
+        " じかん",
+        " じけん",
+        " しかん",
+        " しけん"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "六十分 ろくじゅうふん ろくじゅうふん ろっくじゅっぷん ろくじゅっぷん",
+      "options": [
+        "6. 六十分",
+        " ろくじゅうふん",
+        " ろくじゅうふん",
+        " ろっくじゅっぷん",
+        " ろくじゅっぷん"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "一分 いちふん",
+      "options": [
+        "いっぷん いっちぷん いちぷん",
+        "ながい じかん でんしゃ にのりました。"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "ながい 高い 張い 長い 短い",
+      "options": [
+        "8. ながい",
+        " 高い",
+        " 張い",
+        " 長い",
+        " 短い"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "でんしゃ 雷車 雷社 電社 電車",
+      "options": [
+        "ひがしのそらが あかるく なりました。"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "あかるく 明るく 昼るく 月るく 日るく",
+      "options": [
+        "10. あかるく",
+        " 明るく",
+        "　昼るく",
+        " 月るく",
+        " 日るく"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "1",
+      "explanation": "しんぶん: 新聞"
+    },
+    {
+      "question": 2,
+      "answer": "4",
+      "explanation": "かい: 買い"
+    },
+    {
+      "question": 3,
+      "answer": "3",
+      "explanation": "一日: いちにち"
+    },
+    {
+      "question": 4,
+      "answer": "2",
+      "explanation": "二十四: にじゅうよ"
+    },
+    {
+      "question": 5,
+      "answer": "1",
+      "explanation": "時間: じかん"
+    },
+    {
+      "question": 6,
+      "answer": "4",
+      "explanation": "六十分: ろくじゅっぷん"
+    },
+    {
+      "question": 7,
+      "answer": "2",
+      "explanation": "一分: いっぷん"
+    },
+    {
+      "question": 8,
+      "answer": "3",
+      "explanation": "ながい: 長い"
+    },
+    {
+      "question": 9,
+      "answer": "4",
+      "explanation": "でんしゃ: 電車"
+    },
+    {
+      "question": 10,
+      "answer": "1",
+      "explanation": "あかるく: 明るく"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "いつも: always, every time",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ここ: here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "しんぶん: newspaper",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "かう: to buy",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "一日: first day of the month, one day",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "にじゅうよじかん: twenty four hours",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "時間: hour",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "びょう: second",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "一分: a minute",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ながい: long, lengthy",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "でんしゃ: (electric) train",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "のる: to get on, to ride in, to board",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ひがし: east",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "そら: sky",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "あかるい: bright, colorful",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 11",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 09",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-10/"
+}

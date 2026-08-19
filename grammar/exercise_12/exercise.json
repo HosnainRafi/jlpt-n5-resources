@@ -1,0 +1,269 @@
+{
+  "title": "JLPT N5 – Grammar Exercise 12",
+  "questions": [
+    {
+      "question": 1,
+      "text": "まいにちおふろに _______ からねます。 入り 入る 入った 入って",
+      "options": [
+        "1. まいにちおふろに _______ からねます。",
+        " 入り",
+        " 入る",
+        " 入った",
+        " 入って"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "きのう友達に電話を _______ が、いませんでした。 します しました して する",
+      "options": [
+        "2. きのう友達に電話を _______ が、いませんでした。",
+        " します",
+        " しました",
+        " して",
+        " する"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "土よう日はさんぽ _______ ギターをれんしゅう _______ します。 したり/したり しったり/しったり して/して しいて/しいて",
+      "options": [
+        "3. 土よう日はさんぽ _______ ギターをれんしゅう _______ します。",
+        " したり/したり",
+        " しったり/しったり",
+        " して/して",
+        " しいて/しいて"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "このみかんはぜんぶ _______ いくらですか。 を",
+      "options": [
+        "の で に"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "おさけを飲みます ________ ？ に と か は",
+      "options": [
+        "5. おさけを飲みます ",
+        "________",
+        " ？",
+        " に",
+        " と",
+        " か",
+        " は"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "きょうは _______ ねます。 はやいに はやい はやくない はやく",
+      "options": [
+        "6. きょうは _______ ねます。",
+        " はやいに",
+        " はやい",
+        " はやくない",
+        " はやく"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "本を _______ 前に、このかみに名前を書いてください。 かりて かりる かりた かりない",
+      "options": [
+        "7. 本を _______ 前に、このかみに名前を書いてください。",
+        " かりて",
+        " かりる",
+        " かりた",
+        " かりない"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "わたしは音楽を _______ ながらべんきょうをします。 聞く 聞か 聞き 聞いて",
+      "options": [
+        "8. わたしは音楽を _______ ながらべんきょうをします。",
+        " 聞く",
+        " 聞か",
+        " 聞き",
+        " 聞いて"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "わたしはまいばんこどもが _______ あとで本を読みます。 ねる ねた ねて ねます",
+      "options": [
+        "9. わたしはまいばんこどもが _______ あとで本を読みます。",
+        " ねる",
+        " ねた",
+        " ねて",
+        " ねます"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "さいふはどこ _______ ありませんでした。 にも へも にか へか",
+      "options": [
+        "10. さいふはどこ _______ ありませんでした。",
+        " にも",
+        " へも",
+        " にか",
+        " へか"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "4",
+      "explanation": "4 (まいにちおふろに"
+    },
+    {
+      "question": 2,
+      "answer": "2",
+      "explanation": "2 (きのう友達に電話を"
+    },
+    {
+      "question": 3,
+      "answer": "1",
+      "explanation": "1 (土よう日はさんぽ"
+    },
+    {
+      "question": 4,
+      "answer": "3",
+      "explanation": "3 (このみかんはぜんぶ"
+    },
+    {
+      "question": 5,
+      "answer": "3",
+      "explanation": "3 (おさけを飲みます"
+    },
+    {
+      "question": 6,
+      "answer": "4",
+      "explanation": "4 (きょうは"
+    },
+    {
+      "question": 7,
+      "answer": "2",
+      "explanation": "2 (本を"
+    },
+    {
+      "question": 8,
+      "answer": "3",
+      "explanation": "3 (わたしは音楽を"
+    },
+    {
+      "question": 9,
+      "answer": "2",
+      "explanation": "2 (わたしはまいばんこどもが"
+    },
+    {
+      "question": 10,
+      "answer": "1",
+      "explanation": "1 (さいふはどこ"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "入る",
+      "romaji": "hairu",
+      "en": "to enter"
+    },
+    {
+      "jp": "電話",
+      "romaji": "denwa",
+      "en": "telephone"
+    },
+    {
+      "jp": "土曜日",
+      "romaji": "doyoubi",
+      "en": "Saturday"
+    },
+    {
+      "jp": "散歩",
+      "romaji": "sanpo",
+      "en": "walk, stroll"
+    },
+    {
+      "jp": "練習",
+      "romaji": "renshuu",
+      "en": "practice"
+    },
+    {
+      "jp": "みかん: mandarin orange",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "全部",
+      "romaji": "zenbu",
+      "en": "all, entire, whole"
+    },
+    {
+      "jp": "いくら: how much",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "お酒",
+      "romaji": "osake",
+      "en": "alcohol, sake"
+    },
+    {
+      "jp": "借りる",
+      "romaji": "kariru",
+      "en": "to borrow, to rent"
+    },
+    {
+      "jp": "紙",
+      "romaji": "kami",
+      "en": "paper"
+    },
+    {
+      "jp": "毎晩",
+      "romaji": "maiban",
+      "en": "every night"
+    },
+    {
+      "jp": "財布",
+      "romaji": "saifu",
+      "en": "wallet"
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 - Grammar Exercise 13",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Grammar Exercise 11",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-12/"
+}

@@ -1,0 +1,486 @@
+{
+  "title": "JLPT N5 – Vocabulary Exercise 01",
+  "questions": [
+    {
+      "question": 1,
+      "text": "_______ 、えいがをみにいきませんか？ ゆうべ きのう あした おととい",
+      "options": [
+        "1. _______ 、えいがをみにいきませんか？",
+        " ゆうべ",
+        " きのう",
+        " あした",
+        " おととい"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "わたしはいつも　_______ をききながらべんきょうします。 ぺん ラジオ テーブル ストーブ",
+      "options": [
+        "2. わたしはいつも　_______ をききながらべんきょうします。",
+        " ぺん",
+        " ラジオ",
+        " テーブル",
+        " ストーブ"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "わたしのすきなのみものは　_______ です。 おかし こうちゃ みかん ねこ",
+      "options": [
+        "3. わたしのすきなのみものは　_______ です。",
+        " おかし",
+        " こうちゃ",
+        " みかん",
+        " ねこ"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "わたしはじてんしゃを　_______ もっています。 にだい にさつ にほん にまい",
+      "options": [
+        "4. わたしはじてんしゃを　_______ もっています。",
+        " にだい",
+        " にさつ",
+        " にほん",
+        " にまい"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "この　_______ じしょはだれのですか？ ほそい まるい みじかい ちいさい",
+      "options": [
+        "5. この　_______ じしょはだれのですか？",
+        " ほそい",
+        " まるい",
+        " みじかい",
+        " ちいさい"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "ちちはことし80さいですが、_______ です。 げんき けっこう ざんねん かんたん",
+      "options": [
+        "6. ちちはことし80さいですが、_______ です。",
+        " げんき",
+        " けっこう",
+        " ざんねん",
+        " かんたん"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "あめがふっています。みんなかさを　_______ います。 あけて あげて さして つけて",
+      "options": [
+        "7. あめがふっています。みんなかさを　_______ います。",
+        " あけて",
+        " あげて",
+        " さして",
+        " つけて"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "がくせいたちはきょうしつでやまだせんせいににほんごを　_______ います。 ならって つくって おぼえて べんきょうして",
+      "options": [
+        "8. がくせいたちはきょうしつでやまだせんせいににほんごを　_______ います。",
+        " ならって",
+        " つくって",
+        " おぼえて",
+        " べんきょうして"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "やまださんはあかいぼうしを　_______ います。 きて しめて はいって かぶって",
+      "options": [
+        "9. やまださんはあかいぼうしを　_______ います。",
+        " きて",
+        " しめて",
+        " はいって",
+        " かぶって"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "やまださんはたいていおふろにはいって、_______ ねます。 ちょうど すぐに まだ だんだん",
+      "options": [
+        "10. やまださんはたいていおふろにはいって、_______ ねます。",
+        "　ちょうど",
+        " すぐに",
+        " まだ",
+        " だんだん"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "3",
+      "explanation": "3 "
+    },
+    {
+      "question": 2,
+      "answer": "2",
+      "explanation": "2 (わたしはいつも"
+    },
+    {
+      "question": 3,
+      "answer": "2",
+      "explanation": "2 (わたしのすきなのみものは"
+    },
+    {
+      "question": 4,
+      "answer": "1",
+      "explanation": "1 (わたしはじてんしゃを"
+    },
+    {
+      "question": 5,
+      "answer": "4",
+      "explanation": "4 (この"
+    },
+    {
+      "question": 6,
+      "answer": "1",
+      "explanation": "1 (ちちはことし80さいですが、"
+    },
+    {
+      "question": 7,
+      "answer": "3",
+      "explanation": "3 (あめがふっています。みんなかさを"
+    },
+    {
+      "question": 8,
+      "answer": "1",
+      "explanation": "1 (がくせいたちはきょうしつでやまだせんせいににほんごを"
+    },
+    {
+      "question": 9,
+      "answer": "4",
+      "explanation": "4 (やまださんはあかいぼうしを"
+    },
+    {
+      "question": 10,
+      "answer": "2",
+      "explanation": "2 (やまださんはたいていおふろにはいって、"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "映画",
+      "romaji": "eiga",
+      "en": "movie, film"
+    },
+    {
+      "jp": "見る",
+      "romaji": "miru",
+      "en": "to see, to watch, to look"
+    },
+    {
+      "jp": "夕べ",
+      "romaji": "yuube",
+      "en": "evening, last night"
+    },
+    {
+      "jp": "昨日",
+      "romaji": "kinou",
+      "en": "yesterday"
+    },
+    {
+      "jp": "明日",
+      "romaji": "ashita",
+      "en": "tomorrow"
+    },
+    {
+      "jp": "一昨日",
+      "romaji": "ototoi",
+      "en": "day before yesterday"
+    },
+    {
+      "jp": "いつも: always, usually",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "聞く",
+      "romaji": "kiku",
+      "en": "to listen, to hear"
+    },
+    {
+      "jp": "勉強",
+      "romaji": "benkyou",
+      "en": "study, diligence"
+    },
+    {
+      "jp": "ぺん: pen",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ラジオ: radio",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "テーブル: table",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ストーブ: heater (from stove)",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "好き",
+      "romaji": "suki",
+      "en": "liking, fondness, love"
+    },
+    {
+      "jp": "飲み物",
+      "romaji": "nomimono",
+      "en": "drink, beverage"
+    },
+    {
+      "jp": "お菓子",
+      "romaji": "okashi",
+      "en": "sweets, candy"
+    },
+    {
+      "jp": "紅茶",
+      "romaji": "koucha",
+      "en": "black tea"
+    },
+    {
+      "jp": "みかん: mandarin orange",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "猫",
+      "romaji": "neko",
+      "en": "cat"
+    },
+    {
+      "jp": "自転車",
+      "romaji": "jitensha",
+      "en": "bicycle"
+    },
+    {
+      "jp": "持つ",
+      "romaji": "motsu",
+      "en": "to hold, to carry, to possess"
+    },
+    {
+      "jp": "辞書",
+      "romaji": "jisho",
+      "en": "dictionary"
+    },
+    {
+      "jp": "誰",
+      "romaji": "dare",
+      "en": "who"
+    },
+    {
+      "jp": "細い",
+      "romaji": "hosoi",
+      "en": "thin, slender"
+    },
+    {
+      "jp": "丸い",
+      "romaji": "marui",
+      "en": "round, circular"
+    },
+    {
+      "jp": "短い",
+      "romaji": "mijikai",
+      "en": "short"
+    },
+    {
+      "jp": "小さい",
+      "romaji": "chiisai",
+      "en": "small, little, tiny"
+    },
+    {
+      "jp": "父",
+      "romaji": "chichi",
+      "en": "father"
+    },
+    {
+      "jp": "今年",
+      "romaji": "kotoshi",
+      "en": "this year"
+    },
+    {
+      "jp": "歳",
+      "romaji": "sai",
+      "en": "-years-old"
+    },
+    {
+      "jp": "元気",
+      "romaji": "genki",
+      "en": "healthy, robust"
+    },
+    {
+      "jp": "結構",
+      "romaji": "kekkou",
+      "en": "splendid, nice, wonderful"
+    },
+    {
+      "jp": "残念",
+      "romaji": "zannen",
+      "en": "bad luck, regret, disappointment"
+    },
+    {
+      "jp": "簡単",
+      "romaji": "kantan",
+      "en": "simple"
+    },
+    {
+      "jp": "雨",
+      "romaji": "ame",
+      "en": "rain"
+    },
+    {
+      "jp": "降る",
+      "romaji": "furu",
+      "en": "to fall (rain)"
+    },
+    {
+      "jp": "みんな: everyone, everybody",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "傘",
+      "romaji": "kasa",
+      "en": "umbrella"
+    },
+    {
+      "jp": "学生",
+      "romaji": "gakusei",
+      "en": "student"
+    },
+    {
+      "jp": "教室",
+      "romaji": "kyoushitsu",
+      "en": "classroom"
+    },
+    {
+      "jp": "日本語",
+      "romaji": "nihongo",
+      "en": "Japanese (language)"
+    },
+    {
+      "jp": "習う",
+      "romaji": "narau",
+      "en": "to learn"
+    },
+    {
+      "jp": "作る",
+      "romaji": "tsukuru",
+      "en": "to make, to produce"
+    },
+    {
+      "jp": "覚える",
+      "romaji": "oboeru",
+      "en": "to remember, to recollect"
+    },
+    {
+      "jp": "赤い",
+      "romaji": "akai",
+      "en": "red"
+    },
+    {
+      "jp": "帽子",
+      "romaji": "boushi",
+      "en": "hat, cap"
+    },
+    {
+      "jp": "着る",
+      "romaji": "kiru",
+      "en": "to wear (from the shoulders down)"
+    },
+    {
+      "jp": "閉める",
+      "romaji": "shimeru",
+      "en": "to close, to shut"
+    },
+    {
+      "jp": "履く",
+      "romaji": "haku",
+      "en": "to put on lower-body clothing"
+    },
+    {
+      "jp": "被る",
+      "romaji": "kaburu",
+      "en": "to wear (on head)"
+    },
+    {
+      "jp": "たいてい: mostly, usually",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "お風呂",
+      "romaji": "ofuro",
+      "en": "bath"
+    },
+    {
+      "jp": "入る",
+      "romaji": "hairu",
+      "en": "to enter"
+    },
+    {
+      "jp": "寝る",
+      "romaji": "neru",
+      "en": "to sleep"
+    },
+    {
+      "jp": "ちょうど: just, right, exactly",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "すぐに: instantly, immediately",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "だんだん: gradually",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Vocabulary Exercise 02",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-vocabulary-exercise-1/"
+}

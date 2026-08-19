@@ -1,0 +1,411 @@
+{
+  "title": "JLPT N5 – Vocabulary Exercise 02",
+  "questions": [
+    {
+      "question": 1,
+      "text": "なのかのつぎは　_______ です。 とおか ようか むいか よっか",
+      "options": [
+        "1. なのかのつぎは　_______ です。",
+        " とおか",
+        " ようか",
+        " むいか",
+        " よっか"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "わたしはゆうべともだちに　_______ をかきました。 ふうとう きって でんわ てがみ",
+      "options": [
+        "2. わたしはゆうべともだちに　_______ をかきました。",
+        " ふうとう",
+        " きって",
+        " でんわ",
+        " てがみ"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "わたしのすきなスポーツは　_______ です。 ピアノ レコード スキー テーブル",
+      "options": [
+        "3. わたしのすきなスポーツは　_______ です。",
+        " ピアノ",
+        " レコード",
+        " スキー",
+        " テーブル"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "わたしのうちにねこが　_______ います。 ふたつ ふたり にだい にひき",
+      "options": [
+        "4.　わたしのうちにねこが　_______ います。",
+        " ふたつ",
+        " ふたり",
+        " にだい",
+        " にひき"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "このみちは　_______ です。 わかい うすい せまい おもい",
+      "options": [
+        "5. このみちは　_______ です。",
+        " わかい",
+        " うすい",
+        " せまい",
+        " おもい"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "さかながかわを　_______ います。 およいで はしって あるいて とんで",
+      "options": [
+        "6. さかながかわを　_______ います。",
+        " およいで",
+        " はしって",
+        " あるいて",
+        " とんで"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "きのうのパーテイーでやまださんに　_______ あいました。 はじめ はじめて はじめの はじめから",
+      "options": [
+        "7. きのうのパーテイーでやまださんに　_______ あいました。",
+        " はじめ",
+        " はじめて",
+        " はじめの",
+        " はじめから"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "たなかさんはきょうはあおいズボンを　_______ います。 かぶって はいて きて かけて",
+      "options": [
+        "8. たなかさんはきょうはあおいズボンを　_______ います。",
+        " かぶって",
+        " はいて",
+        " きて",
+        " かけて"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "えきででんしゃに　_______ ます。 のり とり すわり のぼり",
+      "options": [
+        "9. えきででんしゃに　_______ ます。",
+        " のり",
+        " とり",
+        " すわり",
+        " のぼり"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "まちださんはせが　_______ です。 とおい ながい おもい たかい",
+      "options": [
+        "10. まちださんはせが　_______ です。",
+        " とおい",
+        " ながい",
+        " おもい",
+        " たかい"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "2",
+      "explanation": "2 (なのかのつぎは"
+    },
+    {
+      "question": 2,
+      "answer": "4",
+      "explanation": "4 (わたしはゆうべともだちに"
+    },
+    {
+      "question": 3,
+      "answer": "3",
+      "explanation": "3 (わたしのすきなスポーツは"
+    },
+    {
+      "question": 4,
+      "answer": "4",
+      "explanation": "4 (わたしのうちにねこが"
+    },
+    {
+      "question": 5,
+      "answer": "3",
+      "explanation": "3 (このみちは"
+    },
+    {
+      "question": 6,
+      "answer": "1",
+      "explanation": "1 (さかながかわを"
+    },
+    {
+      "question": 7,
+      "answer": "2",
+      "explanation": "2 (きのうのパーテイーでやまださんに"
+    },
+    {
+      "question": 8,
+      "answer": "2",
+      "explanation": "2 (たなかさんはきょうはあおいズボンを"
+    },
+    {
+      "question": 9,
+      "answer": "1",
+      "explanation": "1 (えきででんしゃに"
+    },
+    {
+      "question": 10,
+      "answer": "4",
+      "explanation": "4 (まちださんはせが"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "七日",
+      "romaji": "nanoka",
+      "en": "seventh day of the month, seven days"
+    },
+    {
+      "jp": "次",
+      "romaji": "tsugi",
+      "en": "next, following"
+    },
+    {
+      "jp": "十日",
+      "romaji": "tooka",
+      "en": "tenth day of the month, ten days"
+    },
+    {
+      "jp": "八日",
+      "romaji": "youka",
+      "en": "eighth day of the month, eight days"
+    },
+    {
+      "jp": "六日",
+      "romaji": "muika",
+      "en": "sixth days of the month, six days"
+    },
+    {
+      "jp": "四日",
+      "romaji": "yokka",
+      "en": "fourth day of the month, four days"
+    },
+    {
+      "jp": "友達",
+      "romaji": "tomodachi",
+      "en": "friend, companion"
+    },
+    {
+      "jp": "書く",
+      "romaji": "kaku",
+      "en": "to write"
+    },
+    {
+      "jp": "封筒",
+      "romaji": "fuutou",
+      "en": "envelope"
+    },
+    {
+      "jp": "切手",
+      "romaji": "kitte",
+      "en": "stamp (postage)"
+    },
+    {
+      "jp": "電話",
+      "romaji": "denwa",
+      "en": "telephone"
+    },
+    {
+      "jp": "手紙",
+      "romaji": "tegami",
+      "en": "letter"
+    },
+    {
+      "jp": "スポーツ: sport",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ピアノ: piano",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "レコード: record",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "スキー: skiing",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "うち: house, home (one’s own)",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "道",
+      "romaji": "michi",
+      "en": "road, street, way"
+    },
+    {
+      "jp": "若い",
+      "romaji": "wakai",
+      "en": "young"
+    },
+    {
+      "jp": "薄い",
+      "romaji": "usui",
+      "en": "thin, pale"
+    },
+    {
+      "jp": "狭い",
+      "romaji": "semai",
+      "en": "narrow, confined"
+    },
+    {
+      "jp": "重い",
+      "romaji": "omoi",
+      "en": "heavy, massive"
+    },
+    {
+      "jp": "魚",
+      "romaji": "sakana",
+      "en": "fish"
+    },
+    {
+      "jp": "川",
+      "romaji": "kawa",
+      "en": "river, stream"
+    },
+    {
+      "jp": "泳ぐ",
+      "romaji": "oyogu",
+      "en": "to swim"
+    },
+    {
+      "jp": "走る",
+      "romaji": "hashiru",
+      "en": "to run"
+    },
+    {
+      "jp": "歩く",
+      "romaji": "aruku",
+      "en": "to walk"
+    },
+    {
+      "jp": "飛ぶ",
+      "romaji": "tobu",
+      "en": "to fly"
+    },
+    {
+      "jp": "パーテイー: party",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "初めて",
+      "romaji": "hajimete",
+      "en": "for the first time"
+    },
+    {
+      "jp": "今日",
+      "romaji": "kyou",
+      "en": "today, this day"
+    },
+    {
+      "jp": "青い",
+      "romaji": "aoi",
+      "en": "blue"
+    },
+    {
+      "jp": "ズボン: trousers",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "掛ける",
+      "romaji": "kakeru",
+      "en": "to hang, to hoist"
+    },
+    {
+      "jp": "駅",
+      "romaji": "eki",
+      "en": "station"
+    },
+    {
+      "jp": "電車",
+      "romaji": "densha",
+      "en": "(electric) train"
+    },
+    {
+      "jp": "乗る",
+      "romaji": "noru",
+      "en": "to ride in, to board"
+    },
+    {
+      "jp": "取る",
+      "romaji": "toru",
+      "en": "to take, to pick up"
+    },
+    {
+      "jp": "座る",
+      "romaji": "suwaru",
+      "en": "to sit"
+    },
+    {
+      "jp": "登る",
+      "romaji": "noboru",
+      "en": "to ascend, to go up, to climb"
+    },
+    {
+      "jp": "背が高い",
+      "romaji": "se ga takai",
+      "en": "tall (of a person)"
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Vocabulary Exercise 03",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Vocabulary Exercise 01",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-vocabulary-exercise-2/"
+}

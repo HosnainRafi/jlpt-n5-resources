@@ -1,0 +1,426 @@
+{
+  "title": "JLPT N5 – Vocabulary Exercise 09",
+  "questions": [
+    {
+      "question": 1,
+      "text": "友だちはしんせつですが、いつも　_______ です。 うれしい いそがしい むずかしい やさしい",
+      "options": [
+        "1. 友だちはしんせつですが、いつも　_______ です。",
+        " うれしい",
+        " いそがしい",
+        " むずかしい",
+        " やさしい"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "インドの　_______　はどうですか？おいしいですか？ かいもの しょくぶつ たてもの たべもの",
+      "options": [
+        "2. インドの　_______　はどうですか？おいしいですか？",
+        " かいもの",
+        " しょくぶつ",
+        " たてもの",
+        " たべもの"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "「とうきょうまでのきっぷはいくらですか。」「＿＿＿＿ は２００えんで、こどもは１００えんです。」 おとこ おとな おんな おとうと",
+      "options": [
+        "3. 「とうきょうまでのきっぷはいくらですか。」「＿＿＿＿ は２００えんで、こどもは１００えんです。」",
+        " おとこ",
+        " おとな",
+        " おんな",
+        " おとうと"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "_______　のちょうしがわるいですか？ あたま げんき じぶん からだ",
+      "options": [
+        "4. _______　のちょうしがわるいですか？",
+        " あたま",
+        " げんき",
+        " じぶん",
+        " からだ"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "このおかしにはさとうがたくさんはいっています。とても　_______　です。 あまい あかい あおい あつい",
+      "options": [
+        "5. このおかしにはさとうがたくさんはいっています。とても　_______　です。",
+        " あまい",
+        " あかい",
+        " あおい",
+        " あつい"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "_______ までべんきょうしますか？ なに なんかい なんじ なんにん",
+      "options": [
+        "6. _______ までべんきょうしますか？",
+        " なに",
+        " なんかい",
+        " なんじ",
+        " なんにん"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "すぐわたしの _______ へ来てください。 いえ かばん えんぴつ ベア",
+      "options": [
+        "7. すぐわたしの _______ へ来てください。",
+        " いえ",
+        " かばん",
+        " えんぴつ",
+        " ベア"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "きょうはとてもつかれました。いえにかえって _______ ねます。 ほんとう すぐに たぶん ちょうど",
+      "options": [
+        "8. きょうはとてもつかれました。いえにかえって _______ ねます。",
+        " ほんとう",
+        " すぐに",
+        " たぶん",
+        " ちょうど"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "_______　はサッカーがだいすきです。 いす あに ねこ りんご",
+      "options": [
+        "9. _______　はサッカーがだいすきです。",
+        " いす",
+        " あに",
+        " ねこ",
+        " りんご"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "こどもたちはかわで　_______　います。 あるいて はしって およいで すわって",
+      "options": [
+        "10. こどもたちはかわで　_______　います。",
+        " あるいて",
+        " はしって",
+        " およいで",
+        " すわって"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "2",
+      "explanation": "2 (友だちはしんせつですが、いつも"
+    },
+    {
+      "question": 2,
+      "answer": "4",
+      "explanation": "4 (インドの"
+    },
+    {
+      "question": 3,
+      "answer": "2",
+      "explanation": "2 (「とうきょうまでのきっぷはいくらですか。」「"
+    },
+    {
+      "question": 4,
+      "answer": "4",
+      "explanation": "4 "
+    },
+    {
+      "question": 5,
+      "answer": "1",
+      "explanation": "1 (このおかしにはさとうがたくさんはいっています。とても"
+    },
+    {
+      "question": 6,
+      "answer": "3",
+      "explanation": "3 "
+    },
+    {
+      "question": 7,
+      "answer": "1",
+      "explanation": "1 (すぐわたしの"
+    },
+    {
+      "question": 8,
+      "answer": "2",
+      "explanation": "2 (きょうはとてもつかれました。いえにかえって"
+    },
+    {
+      "question": 9,
+      "answer": "2",
+      "explanation": "2 "
+    },
+    {
+      "question": 10,
+      "answer": "3",
+      "explanation": "3 (こどもたちはかわで"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "友達",
+      "romaji": "tomodachi",
+      "en": "friend, companion"
+    },
+    {
+      "jp": "親切",
+      "romaji": "shinsetsu",
+      "en": "kindness, gentleness"
+    },
+    {
+      "jp": "嬉しい",
+      "romaji": "ureshii",
+      "en": "happy, glad, pleasant"
+    },
+    {
+      "jp": "忙しい",
+      "romaji": "isogashii",
+      "en": "busy, occupied"
+    },
+    {
+      "jp": "難しい",
+      "romaji": "muzukashii",
+      "en": "difficult"
+    },
+    {
+      "jp": "優しい",
+      "romaji": "yasashii",
+      "en": "gentle, kind"
+    },
+    {
+      "jp": "インド: India",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "買い物",
+      "romaji": "kaimono",
+      "en": "shopping"
+    },
+    {
+      "jp": "植物",
+      "romaji": "shokubutsu",
+      "en": "plant, vegetation"
+    },
+    {
+      "jp": "建物",
+      "romaji": "tatemono",
+      "en": "building"
+    },
+    {
+      "jp": "食べ物",
+      "romaji": "tabemono",
+      "en": "food"
+    },
+    {
+      "jp": "切符",
+      "romaji": "kippu",
+      "en": "ticket"
+    },
+    {
+      "jp": "いくら: how much, how many",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "子供",
+      "romaji": "kodomo",
+      "en": "child, children"
+    },
+    {
+      "jp": "大人",
+      "romaji": "otona",
+      "en": "adult"
+    },
+    {
+      "jp": "女",
+      "romaji": "onna",
+      "en": "woman"
+    },
+    {
+      "jp": "弟",
+      "romaji": "otouto",
+      "en": "younger brother"
+    },
+    {
+      "jp": "調子",
+      "romaji": "choushi",
+      "en": "state of health"
+    },
+    {
+      "jp": "頭",
+      "romaji": "atama",
+      "en": "head, mind, brain"
+    },
+    {
+      "jp": "元気",
+      "romaji": "genki",
+      "en": "health, robust"
+    },
+    {
+      "jp": "自分",
+      "romaji": "jibun",
+      "en": "myself, yourself, oneself"
+    },
+    {
+      "jp": "体",
+      "romaji": "karada",
+      "en": "body, health"
+    },
+    {
+      "jp": "お菓子",
+      "romaji": "okashi",
+      "en": "sweets, candy"
+    },
+    {
+      "jp": "甘い",
+      "romaji": "amai",
+      "en": "sweet"
+    },
+    {
+      "jp": "何",
+      "romaji": "nani",
+      "en": "what"
+    },
+    {
+      "jp": "何回",
+      "romaji": "nankai",
+      "en": "how many times"
+    },
+    {
+      "jp": "何時",
+      "romaji": "nanji",
+      "en": "what time"
+    },
+    {
+      "jp": "何人",
+      "romaji": "nannin",
+      "en": "how many people"
+    },
+    {
+      "jp": "すぐ: immediately, at once",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "家",
+      "romaji": "ie",
+      "en": "house, residence"
+    },
+    {
+      "jp": "鞄",
+      "romaji": "kaban",
+      "en": "bag"
+    },
+    {
+      "jp": "鉛筆",
+      "romaji": "enpitsu",
+      "en": "pencil"
+    },
+    {
+      "jp": "ベア: door",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "大好き",
+      "romaji": "daisuki",
+      "en": "like very much"
+    },
+    {
+      "jp": "椅子",
+      "romaji": "isu",
+      "en": "chair"
+    },
+    {
+      "jp": "兄",
+      "romaji": "ani",
+      "en": "older brother"
+    },
+    {
+      "jp": "猫",
+      "romaji": "neko",
+      "en": "cat"
+    },
+    {
+      "jp": "りんご: apple",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "子供たち",
+      "romaji": "kodomotachi",
+      "en": "children"
+    },
+    {
+      "jp": "川",
+      "romaji": "kawa",
+      "en": "river, stream"
+    },
+    {
+      "jp": "歩く",
+      "romaji": "aruku",
+      "en": "to walk"
+    },
+    {
+      "jp": "走る",
+      "romaji": "hashiru",
+      "en": "to run"
+    },
+    {
+      "jp": "泳ぐ",
+      "romaji": "oyogu",
+      "en": "to swim"
+    },
+    {
+      "jp": "座る",
+      "romaji": "suwaru",
+      "en": "to sit"
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Vocabulary Exercise 10",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Vocabulary Exercise 08",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-vocabulary-exercise-9/"
+}

@@ -1,0 +1,337 @@
+{
+  "title": "JLPT N5 – Grammar Exercise 15",
+  "questions": [
+    {
+      "question": 1,
+      "text": "きょねんのふゆはゆきが１かい _______ ふりませんでした。 は に しか だけ",
+      "options": [
+        "1. きょねんのふゆはゆきが１かい _______ ふりませんでした。",
+        " は",
+        " に",
+        " しか",
+        " だけ"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "ぎんこう _______ デパ－ト _______ 行きませんでした。 へも/へも もへ/もへ へは/へは はへ/はへ",
+      "options": [
+        "2. ぎんこう _______ デパ－ト _______ 行きませんでした。",
+        " へも/へも",
+        " もへ/もへ",
+        " へは/へは",
+        " はへ/はへ"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "まいあさ会社に _______ まえにスポーツをします。 行く 行きます 行った 行って",
+      "options": [
+        "3. まいあさ会社に _______ まえにスポーツをします。",
+        " 行く",
+        " 行きます",
+        " 行った",
+        " 行って"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "りょうりはじぶん _______ つくりますか。 へ か で を",
+      "options": [
+        "4. りょうりはじぶん _______ つくりますか。",
+        " へ",
+        " か",
+        " で",
+        " を"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "すみません、ちょっと _______ ください。 まち まって まった またない",
+      "options": [
+        "5. すみません、ちょっと _______ ください。",
+        " まち",
+        " まって",
+        " まった",
+        " またない"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "びょうきに _______ 時は、びょういんへ行きます。 ならない なるの なって なった",
+      "options": [
+        "6. びょうきに _______ 時は、びょういんへ行きます。",
+        " ならない",
+        " なるの",
+        " なって",
+        " なった"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "へやにはだれ _______ いません。 が",
+      "options": [
+        "か も は"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "わたしはなつにうみで _______ たいです。 およぐ およい およが およぎ",
+      "options": [
+        "8. わたしはなつにうみで _______ たいです。",
+        " およぐ",
+        " およい",
+        " およが",
+        " およぎ"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "山田さんはテニスはしますが、ゴルフ _______ しません。 は と が も",
+      "options": [
+        "9. 山田さんはテニスはしますが、ゴルフ _______ しません。",
+        " は",
+        " と",
+        " が",
+        " も"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "あしたのパーディーはたぶん _______ でしょう。 にぎやかに にぎやかだ にぎやかな にぎやか",
+      "options": [
+        "10. あしたのパーディーはたぶん _______ でしょう。",
+        " にぎやかに",
+        " にぎやかだ",
+        " にぎやかな",
+        " にぎやか"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "3",
+      "explanation": "3 (きょねんのふゆはゆきが１かい"
+    },
+    {
+      "question": 2,
+      "answer": "1",
+      "explanation": "1 (ぎんこう"
+    },
+    {
+      "question": 3,
+      "answer": "1",
+      "explanation": "1 (まいあさ会社に"
+    },
+    {
+      "question": 4,
+      "answer": "3",
+      "explanation": "3 (りょうりはじぶん"
+    },
+    {
+      "question": 5,
+      "answer": "2",
+      "explanation": "2 (すみません、ちょっと"
+    },
+    {
+      "question": 6,
+      "answer": "4",
+      "explanation": "4 (びょうきに"
+    },
+    {
+      "question": 7,
+      "answer": "3",
+      "explanation": "3 (へやにはだれ"
+    },
+    {
+      "question": 8,
+      "answer": "4",
+      "explanation": "4 (わたしはなつにうみで"
+    },
+    {
+      "question": 9,
+      "answer": "1",
+      "explanation": "1 (山田さんはテニスはしますが、ゴルフ"
+    },
+    {
+      "question": 10,
+      "answer": "4",
+      "explanation": "4 (あしたのパーディーはたぶん"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "去年",
+      "romaji": "kyonen",
+      "en": "last year"
+    },
+    {
+      "jp": "冬",
+      "romaji": "fuyu",
+      "en": "winter"
+    },
+    {
+      "jp": "雪",
+      "romaji": "yuki",
+      "en": "snow"
+    },
+    {
+      "jp": "一回",
+      "romaji": "ikkai",
+      "en": "once, one time"
+    },
+    {
+      "jp": "デパ－ト: department store",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "毎朝",
+      "romaji": "maiasa",
+      "en": "every morning"
+    },
+    {
+      "jp": "会社",
+      "romaji": "kaisha",
+      "en": "company, workplace"
+    },
+    {
+      "jp": "スポーツ: sport",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "料理",
+      "romaji": "ryouri",
+      "en": "cooking, cuisine"
+    },
+    {
+      "jp": "自分",
+      "romaji": "jibun",
+      "en": "yourself, oneself"
+    },
+    {
+      "jp": "作る",
+      "romaji": "tsukuru",
+      "en": "to make, to produce"
+    },
+    {
+      "jp": "病気",
+      "romaji": "byouki",
+      "en": "illness, disease, sickness"
+    },
+    {
+      "jp": "病院",
+      "romaji": "byouin",
+      "en": "hospital"
+    },
+    {
+      "jp": "夏",
+      "romaji": "natsu",
+      "en": "summer"
+    },
+    {
+      "jp": "海",
+      "romaji": "umi",
+      "en": "sea, beach"
+    },
+    {
+      "jp": "泳ぐ",
+      "romaji": "oyogu",
+      "en": "to swim"
+    },
+    {
+      "jp": "ゴルフ: golf",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "たぶん: perhaps, probably",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "賑やか",
+      "romaji": "nigiyaka",
+      "en": "bustling, busy"
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Grammar Audio Lesson Part 1 (free).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Grammar Audio Lesson Part 2 to Part 6 (requires paid membership).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Vocabulary Audio Lesson Part 1 (free).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Vocabulary Audio Lesson Part 2 to Part 21 (requires paid membership).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 - Grammar Exercise 16",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 - Grammar Exercise 14",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-15/"
+}

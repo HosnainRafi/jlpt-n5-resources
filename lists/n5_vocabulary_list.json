@@ -1,0 +1,2747 @@
+[
+  {
+    "jp": "浴びる",
+    "romaji": "abiru",
+    "en": "to take a shower"
+  },
+  {
+    "jp": "危ない",
+    "romaji": "abunai",
+    "en": "dangerous, risky"
+  },
+  {
+    "jp": "あげる",
+    "romaji": "ageru",
+    "en": "to give"
+  },
+  {
+    "jp": "赤/赤い",
+    "romaji": "aka/akai",
+    "en": "red"
+  },
+  {
+    "jp": "明るい",
+    "romaji": "akarui",
+    "en": "bright, colorful"
+  },
+  {
+    "jp": "開ける",
+    "romaji": "akeru",
+    "en": "to open"
+  },
+  {
+    "jp": "秋",
+    "romaji": "aki",
+    "en": "autumn"
+  },
+  {
+    "jp": "開く",
+    "romaji": "aku",
+    "en": "to open"
+  },
+  {
+    "jp": "甘い",
+    "romaji": "amai",
+    "en": "sweet"
+  },
+  {
+    "jp": "雨",
+    "romaji": "ame",
+    "en": "rain"
+  },
+  {
+    "jp": "あなた",
+    "romaji": "anata",
+    "en": "you"
+  },
+  {
+    "jp": "兄",
+    "romaji": "ani",
+    "en": "older brother"
+  },
+  {
+    "jp": "姉",
+    "romaji": "ane",
+    "en": "older sister"
+  },
+  {
+    "jp": "青い",
+    "romaji": "aoi",
+    "en": "blue"
+  },
+  {
+    "jp": "洗う",
+    "romaji": "arau",
+    "en": "to wash"
+  },
+  {
+    "jp": "有る",
+    "romaji": "aru",
+    "en": "to be, to exist"
+  },
+  {
+    "jp": "歩く",
+    "romaji": "aruku",
+    "en": "to walk"
+  },
+  {
+    "jp": "朝",
+    "romaji": "asa",
+    "en": "morning"
+  },
+  {
+    "jp": "朝ご飯",
+    "romaji": "asagohan",
+    "en": "breakfast"
+  },
+  {
+    "jp": "明後日",
+    "romaji": "asatte",
+    "en": "day after tomorrow"
+  },
+  {
+    "jp": "足",
+    "romaji": "ashi",
+    "en": "foot, leg"
+  },
+  {
+    "jp": "明日",
+    "romaji": "ashita",
+    "en": "tomorrow"
+  },
+  {
+    "jp": "遊ぶ",
+    "romaji": "asobu",
+    "en": "to play"
+  },
+  {
+    "jp": "あそこ",
+    "romaji": "asoko",
+    "en": "there, over there"
+  },
+  {
+    "jp": "頭",
+    "romaji": "atama",
+    "en": "head"
+  },
+  {
+    "jp": "暖かい",
+    "romaji": "atatakai",
+    "en": "warm, mild"
+  },
+  {
+    "jp": "新しい",
+    "romaji": "atarashii",
+    "en": "new, fresh"
+  },
+  {
+    "jp": "後",
+    "romaji": "ato",
+    "en": "behind after, later"
+  },
+  {
+    "jp": "暑い",
+    "romaji": "atsui",
+    "en": "hot (weather)"
+  },
+  {
+    "jp": "熱い",
+    "romaji": "atsui",
+    "en": "hot (thing)"
+  },
+  {
+    "jp": "厚い",
+    "romaji": "atsui",
+    "en": "thick"
+  },
+  {
+    "jp": "会う",
+    "romaji": "au",
+    "en": "to meet"
+  },
+  {
+    "jp": "晩ご飯",
+    "romaji": "bangohan",
+    "en": "dinner"
+  },
+  {
+    "jp": "番号",
+    "romaji": "bangou",
+    "en": "number"
+  },
+  {
+    "jp": "勉強",
+    "romaji": "benkyou",
+    "en": "study, diligence"
+  },
+  {
+    "jp": "便利",
+    "romaji": "benri",
+    "en": "convenient, handy"
+  },
+  {
+    "jp": "帽子",
+    "romaji": "boushi",
+    "en": "hat, cap"
+  },
+  {
+    "jp": "病院",
+    "romaji": "byouin",
+    "en": "hospital"
+  },
+  {
+    "jp": "病気",
+    "romaji": "byouki",
+    "en": "illness, disease"
+  },
+  {
+    "jp": "豚肉",
+    "romaji": "butaniku",
+    "en": "pork"
+  },
+  {
+    "jp": "茶色",
+    "romaji": "chairo",
+    "en": "light brown"
+  },
+  {
+    "jp": "茶碗",
+    "romaji": "chawan",
+    "en": "rice bowl, tea cup"
+  },
+  {
+    "jp": "父",
+    "romaji": "chichi",
+    "en": "father"
+  },
+  {
+    "jp": "違う",
+    "romaji": "chigau",
+    "en": "to differ (from)"
+  },
+  {
+    "jp": "小さい",
+    "romaji": "chiisai",
+    "en": "small, little, tiny"
+  },
+  {
+    "jp": "近い",
+    "romaji": "chikai",
+    "en": "near, close"
+  },
+  {
+    "jp": "近く",
+    "romaji": "chikaku",
+    "en": "near, neighborhood"
+  },
+  {
+    "jp": "地下鉄",
+    "romaji": "chikatetsu",
+    "en": "subway, metro"
+  },
+  {
+    "jp": "ちょっと",
+    "romaji": "chotto",
+    "en": "a little"
+  },
+  {
+    "jp": "ちょうど",
+    "romaji": "choudo",
+    "en": "exactly, precisely, just"
+  },
+  {
+    "jp": "地図",
+    "romaji": "chizu",
+    "en": "map"
+  },
+  {
+    "jp": "台所",
+    "romaji": "daidokoro",
+    "en": "kitchen"
+  },
+  {
+    "jp": "大学",
+    "romaji": "daigaku",
+    "en": "university"
+  },
+  {
+    "jp": "大丈夫",
+    "romaji": "daijoubu",
+    "en": "safe, all right, okay"
+  },
+  {
+    "jp": "段々",
+    "romaji": "dandan",
+    "en": "gradually, little by little"
+  },
+  {
+    "jp": "誰",
+    "romaji": "dare",
+    "en": "who"
+  },
+  {
+    "jp": "誰か",
+    "romaji": "dareka",
+    "en": "someone, somebody"
+  },
+  {
+    "jp": "出す",
+    "romaji": "dasu",
+    "en": "to take out"
+  },
+  {
+    "jp": "出口",
+    "romaji": "deguchi",
+    "en": "exit, gateway"
+  },
+  {
+    "jp": "出かける",
+    "romaji": "dekakeru",
+    "en": "to go out"
+  },
+  {
+    "jp": "電気",
+    "romaji": "denki",
+    "en": "electricity, light"
+  },
+  {
+    "jp": "電車",
+    "romaji": "densha",
+    "en": "train, electric train"
+  },
+  {
+    "jp": "電話",
+    "romaji": "denwa",
+    "en": "telephone call, phone"
+  },
+  {
+    "jp": "出る",
+    "romaji": "deru",
+    "en": "to leave, to exit"
+  },
+  {
+    "jp": "どちら",
+    "romaji": "dochira",
+    "en": "which one"
+  },
+  {
+    "jp": "どこ",
+    "romaji": "doko",
+    "en": "where"
+  },
+  {
+    "jp": "どう",
+    "romaji": "dou",
+    "en": "how, in what way, how about"
+  },
+  {
+    "jp": "動物",
+    "romaji": "doubutsu",
+    "en": "animal"
+  },
+  {
+    "jp": "どうも",
+    "romaji": "doumo",
+    "en": "thanks"
+  },
+  {
+    "jp": "どうして",
+    "romaji": "doushite",
+    "en": "why, for what reason"
+  },
+  {
+    "jp": "どうぞ",
+    "romaji": "douzo",
+    "en": "please, feel free"
+  },
+  {
+    "jp": "土曜日",
+    "romaji": "doyoubi",
+    "en": "Saturday"
+  },
+  {
+    "jp": "絵",
+    "romaji": "e",
+    "en": "picture, drawing, painting"
+  },
+  {
+    "jp": "映画",
+    "romaji": "eiga",
+    "en": "movie, film"
+  },
+  {
+    "jp": "映画館",
+    "romaji": "eigakan",
+    "en": "movie theater, cinema"
+  },
+  {
+    "jp": "英語",
+    "romaji": "eigo",
+    "en": "English (language)"
+  },
+  {
+    "jp": "駅",
+    "romaji": "eki",
+    "en": "station"
+  },
+  {
+    "jp": "鉛筆",
+    "romaji": "enpitsu",
+    "en": "pencil"
+  },
+  {
+    "jp": "服",
+    "romaji": "fuku",
+    "en": "clothes"
+  },
+  {
+    "jp": "吹く",
+    "romaji": "fuku",
+    "en": "to blow (wind)"
+  },
+  {
+    "jp": "二人",
+    "romaji": "futari",
+    "en": "two people, pair"
+  },
+  {
+    "jp": "二日",
+    "romaji": "futsuka",
+    "en": "second day of the month, two days"
+  },
+  {
+    "jp": "降る",
+    "romaji": "furu",
+    "en": "to fall (rain)"
+  },
+  {
+    "jp": "古い",
+    "romaji": "furui",
+    "en": "old (not person)"
+  },
+  {
+    "jp": "封筒",
+    "romaji": "fuutou",
+    "en": "envelope"
+  },
+  {
+    "jp": "冬",
+    "romaji": "fuyu",
+    "en": "winter"
+  },
+  {
+    "jp": "学校",
+    "romaji": "gakkou",
+    "en": "school"
+  },
+  {
+    "jp": "学生",
+    "romaji": "gakusei",
+    "en": "student"
+  },
+  {
+    "jp": "外国",
+    "romaji": "gaikoku",
+    "en": "foreign country"
+  },
+  {
+    "jp": "外国人",
+    "romaji": "gaikokujin",
+    "en": "foreigner"
+  },
+  {
+    "jp": "元気",
+    "romaji": "genki",
+    "en": "lively, full of spirit"
+  },
+  {
+    "jp": "玄関",
+    "romaji": "genkan",
+    "en": "entranceway, entrance hall"
+  },
+  {
+    "jp": "月曜日",
+    "romaji": "getsuyoubi",
+    "en": "Monday"
+  },
+  {
+    "jp": "銀行",
+    "romaji": "ginkou",
+    "en": "bank"
+  },
+  {
+    "jp": "牛肉",
+    "romaji": "gyuuniku",
+    "en": "beef"
+  },
+  {
+    "jp": "牛乳",
+    "romaji": "gyuunyuu",
+    "en": "milk"
+  },
+  {
+    "jp": "五",
+    "romaji": "go",
+    "en": "five"
+  },
+  {
+    "jp": "午後",
+    "romaji": "gogo",
+    "en": "afternoon, p.m."
+  },
+  {
+    "jp": "ご飯",
+    "romaji": "gohan",
+    "en": "cooked rice, meal"
+  },
+  {
+    "jp": "午前",
+    "romaji": "gozen",
+    "en": "morning, a.m."
+  },
+  {
+    "jp": "歯",
+    "romaji": "ha",
+    "en": "tooth"
+  },
+  {
+    "jp": "八",
+    "romaji": "hachi",
+    "en": "eight"
+  },
+  {
+    "jp": "葉書",
+    "romaji": "hagaki",
+    "en": "postcard"
+  },
+  {
+    "jp": "母",
+    "romaji": "haha",
+    "en": "mother"
+  },
+  {
+    "jp": "入る",
+    "romaji": "hairu",
+    "en": "to enter, to go into"
+  },
+  {
+    "jp": "灰皿",
+    "romaji": "haizara",
+    "en": "ashtray"
+  },
+  {
+    "jp": "始め",
+    "romaji": "hajime",
+    "en": "beginning, start"
+  },
+  {
+    "jp": "初めて",
+    "romaji": "hajimete",
+    "en": "for the first time"
+  },
+  {
+    "jp": "始まる",
+    "romaji": "hajimaru",
+    "en": "to begin, to start"
+  },
+  {
+    "jp": "箱",
+    "romaji": "hako",
+    "en": "box, chest"
+  },
+  {
+    "jp": "半分",
+    "romaji": "hanbun",
+    "en": "half"
+  },
+  {
+    "jp": "花",
+    "romaji": "hana",
+    "en": "flower, blossom"
+  },
+  {
+    "jp": "鼻",
+    "romaji": "hana",
+    "en": "nose"
+  },
+  {
+    "jp": "話",
+    "romaji": "hanashi",
+    "en": "talk, speech, chat"
+  },
+  {
+    "jp": "話す",
+    "romaji": "hanasu",
+    "en": "to talk, to speak"
+  },
+  {
+    "jp": "晴れる",
+    "romaji": "hareru",
+    "en": "to clear up"
+  },
+  {
+    "jp": "春",
+    "romaji": "haru",
+    "en": "spring, springtime"
+  },
+  {
+    "jp": "貼る",
+    "romaji": "haru",
+    "en": "to stick, to paste"
+  },
+  {
+    "jp": "箸",
+    "romaji": "hashi",
+    "en": "chopsticks"
+  },
+  {
+    "jp": "橋",
+    "romaji": "hashi",
+    "en": "bridge"
+  },
+  {
+    "jp": "走る",
+    "romaji": "hashiru",
+    "en": "to run"
+  },
+  {
+    "jp": "二十歳",
+    "romaji": "hatachi",
+    "en": "twenty years old"
+  },
+  {
+    "jp": "働く",
+    "romaji": "hataraku",
+    "en": "to work"
+  },
+  {
+    "jp": "二十日",
+    "romaji": "hatsuka",
+    "en": "twentieth day of the month, twenty days"
+  },
+  {
+    "jp": "早い",
+    "romaji": "hayai",
+    "en": "early"
+  },
+  {
+    "jp": "早く",
+    "romaji": "hayaku",
+    "en": "early, soon, quickly"
+  },
+  {
+    "jp": "速い",
+    "romaji": "hayai",
+    "en": "fast, quick"
+  },
+  {
+    "jp": "辺",
+    "romaji": "hen",
+    "en": "area, vicinity"
+  },
+  {
+    "jp": "下手",
+    "romaji": "heta",
+    "en": "unskillful"
+  },
+  {
+    "jp": "部屋",
+    "romaji": "heya",
+    "en": "room, chamber"
+  },
+  {
+    "jp": "日",
+    "romaji": "hi",
+    "en": "day, sun"
+  },
+  {
+    "jp": "火",
+    "romaji": "hi",
+    "en": "fire, flame"
+  },
+  {
+    "jp": "左",
+    "romaji": "hidari",
+    "en": "left, left hand side"
+  },
+  {
+    "jp": "東",
+    "romaji": "higashi",
+    "en": "east"
+  },
+  {
+    "jp": "弾く",
+    "romaji": "hiku",
+    "en": "to play (piano, guitar)"
+  },
+  {
+    "jp": "引く",
+    "romaji": "hiku",
+    "en": "to pull, to draw"
+  },
+  {
+    "jp": "低い",
+    "romaji": "hikui",
+    "en": "low (rank), short (height)"
+  },
+  {
+    "jp": "飛行機",
+    "romaji": "hikouki",
+    "en": "aeroplane, airplane"
+  },
+  {
+    "jp": "暇",
+    "romaji": "hima",
+    "en": "spare time, free time"
+  },
+  {
+    "jp": "広い",
+    "romaji": "hiroi",
+    "en": "spacious, vast, wide"
+  },
+  {
+    "jp": "昼",
+    "romaji": "hiru",
+    "en": "noon, midday"
+  },
+  {
+    "jp": "昼ご飯",
+    "romaji": "hirugohan",
+    "en": "lunch, midday meal"
+  },
+  {
+    "jp": "人",
+    "romaji": "hito",
+    "en": "person"
+  },
+  {
+    "jp": "一人",
+    "romaji": "hitori",
+    "en": "one person, alone"
+  },
+  {
+    "jp": "一つ",
+    "romaji": "hitotsu",
+    "en": "one"
+  },
+  {
+    "jp": "本",
+    "romaji": "hon",
+    "en": "book"
+  },
+  {
+    "jp": "本棚",
+    "romaji": "hondana",
+    "en": "bookshelf, bookcase"
+  },
+  {
+    "jp": "本当",
+    "romaji": "hontou",
+    "en": "truth, reality"
+  },
+  {
+    "jp": "他",
+    "romaji": "hoka",
+    "en": "other, the rest"
+  },
+  {
+    "jp": "百",
+    "romaji": "hyaku",
+    "en": "hundred"
+  },
+  {
+    "jp": "一",
+    "romaji": "ichi",
+    "en": "one"
+  },
+  {
+    "jp": "一番",
+    "romaji": "ichiban",
+    "en": "number one, first, first place"
+  },
+  {
+    "jp": "一日",
+    "romaji": "ichinichi",
+    "en": "one day"
+  },
+  {
+    "jp": "家",
+    "romaji": "ie",
+    "en": "house, residence"
+  },
+  {
+    "jp": "いい",
+    "romaji": "ii",
+    "en": "good"
+  },
+  {
+    "jp": "否",
+    "romaji": "iie",
+    "en": "no, nay"
+  },
+  {
+    "jp": "池",
+    "romaji": "ike",
+    "en": "pond"
+  },
+  {
+    "jp": "行く",
+    "romaji": "iku",
+    "en": "to go"
+  },
+  {
+    "jp": "幾ら",
+    "romaji": "ikura",
+    "en": "how much, how many"
+  },
+  {
+    "jp": "幾つ",
+    "romaji": "ikutsu",
+    "en": "how many, how old"
+  },
+  {
+    "jp": "今",
+    "romaji": "ima",
+    "en": "now, the present time"
+  },
+  {
+    "jp": "意味",
+    "romaji": "imi",
+    "en": "meaning, significance"
+  },
+  {
+    "jp": "妹",
+    "romaji": "imouto",
+    "en": "younger sister"
+  },
+  {
+    "jp": "犬",
+    "romaji": "inu",
+    "en": "dog"
+  },
+  {
+    "jp": "入れる",
+    "romaji": "ireru",
+    "en": "to put in, to let in"
+  },
+  {
+    "jp": "入口",
+    "romaji": "iriguchi",
+    "en": "entrance, gate"
+  },
+  {
+    "jp": "色",
+    "romaji": "iro",
+    "en": "color, complexion"
+  },
+  {
+    "jp": "色々",
+    "romaji": "iroiro",
+    "en": "various"
+  },
+  {
+    "jp": "要る",
+    "romaji": "iru",
+    "en": "to need, to want"
+  },
+  {
+    "jp": "医者",
+    "romaji": "isha",
+    "en": "(medical) doctor, physician"
+  },
+  {
+    "jp": "忙しい",
+    "romaji": "isogashii",
+    "en": "busy, occupied"
+  },
+  {
+    "jp": "一緒",
+    "romaji": "issho",
+    "en": "together"
+  },
+  {
+    "jp": "椅子",
+    "romaji": "isu",
+    "en": "chair, stool"
+  },
+  {
+    "jp": "痛い",
+    "romaji": "itai",
+    "en": "painful, sore"
+  },
+  {
+    "jp": "五日",
+    "romaji": "itsuka",
+    "en": "fifth day of the month, five days"
+  },
+  {
+    "jp": "いつも",
+    "romaji": "itsumo",
+    "en": "always, usually"
+  },
+  {
+    "jp": "五つ",
+    "romaji": "itsutsu",
+    "en": "five"
+  },
+  {
+    "jp": "言う",
+    "romaji": "iu",
+    "en": "to say, to utter"
+  },
+  {
+    "jp": "嫌",
+    "romaji": "iya",
+    "en": "disagreeable, detestable"
+  },
+  {
+    "jp": "字引",
+    "romaji": "jibiki",
+    "en": "dictionary"
+  },
+  {
+    "jp": "自分",
+    "romaji": "jibun",
+    "en": "myself, yourself, oneself"
+  },
+  {
+    "jp": "自動車",
+    "romaji": "jidousha",
+    "en": "automobile"
+  },
+  {
+    "jp": "時間",
+    "romaji": "jikan",
+    "en": "time, hours"
+  },
+  {
+    "jp": "辞書",
+    "romaji": "jisho",
+    "en": "dictionary"
+  },
+  {
+    "jp": "自転車",
+    "romaji": "jitensha",
+    "en": "bicycle"
+  },
+  {
+    "jp": "上手",
+    "romaji": "jouzu",
+    "en": "skill, skillful"
+  },
+  {
+    "jp": "授業",
+    "romaji": "jugyou",
+    "en": "lesson, class work"
+  },
+  {
+    "jp": "鞄",
+    "romaji": "kaban",
+    "en": "bag"
+  },
+  {
+    "jp": "花瓶",
+    "romaji": "kabin",
+    "en": "(flower) vase"
+  },
+  {
+    "jp": "角",
+    "romaji": "kado",
+    "en": "corner, edge"
+  },
+  {
+    "jp": "帰る",
+    "romaji": "kaeru",
+    "en": "to return, to come home"
+  },
+  {
+    "jp": "返す",
+    "romaji": "kaesu",
+    "en": "to return (something)"
+  },
+  {
+    "jp": "鍵",
+    "romaji": "kagi",
+    "en": "key, lock"
+  },
+  {
+    "jp": "階段",
+    "romaji": "kaidan",
+    "en": "stairs, stairway"
+  },
+  {
+    "jp": "買物",
+    "romaji": "kaimono",
+    "en": "shopping"
+  },
+  {
+    "jp": "会社",
+    "romaji": "kaisha",
+    "en": "company, corporation"
+  },
+  {
+    "jp": "書く",
+    "romaji": "kaku",
+    "en": "to write, to compose"
+  },
+  {
+    "jp": "紙",
+    "romaji": "kami",
+    "en": "paper"
+  },
+  {
+    "jp": "漢字",
+    "romaji": "kanji",
+    "en": "Chinese characters"
+  },
+  {
+    "jp": "体",
+    "romaji": "karada",
+    "en": "body, torso"
+  },
+  {
+    "jp": "辛い",
+    "romaji": "karai",
+    "en": "spicy, hot"
+  },
+  {
+    "jp": "借りる",
+    "romaji": "kariru",
+    "en": "to borrow"
+  },
+  {
+    "jp": "軽い",
+    "romaji": "karui",
+    "en": "light (not heavy)"
+  },
+  {
+    "jp": "傘",
+    "romaji": "kasa",
+    "en": "umbrella"
+  },
+  {
+    "jp": "貸す",
+    "romaji": "kasu",
+    "en": "to lend, to loan"
+  },
+  {
+    "jp": "方",
+    "romaji": "kata",
+    "en": "person"
+  },
+  {
+    "jp": "家庭",
+    "romaji": "katei",
+    "en": "home, family, household"
+  },
+  {
+    "jp": "買う",
+    "romaji": "kau",
+    "en": "to buy, to purchase"
+  },
+  {
+    "jp": "可愛い",
+    "romaji": "kawaii",
+    "en": "cute, adorable"
+  },
+  {
+    "jp": "家族",
+    "romaji": "kazoku",
+    "en": "family, members of a family"
+  },
+  {
+    "jp": "風",
+    "romaji": "kaze",
+    "en": "wind, breeze"
+  },
+  {
+    "jp": "風邪",
+    "romaji": "kaze",
+    "en": "cold, influenza"
+  },
+  {
+    "jp": "川",
+    "romaji": "kawa",
+    "en": "river, stream"
+  },
+  {
+    "jp": "警官",
+    "romaji": "keikan",
+    "en": "police officer, policeman"
+  },
+  {
+    "jp": "結婚",
+    "romaji": "kekkon",
+    "en": "marriage"
+  },
+  {
+    "jp": "結構",
+    "romaji": "kekkou",
+    "en": "spenlid, nice, okay"
+  },
+  {
+    "jp": "今朝",
+    "romaji": "kesa",
+    "en": "this morning"
+  },
+  {
+    "jp": "消す",
+    "romaji": "kesu",
+    "en": "to erase, to delete"
+  },
+  {
+    "jp": "木",
+    "romaji": "ki",
+    "en": "tree"
+  },
+  {
+    "jp": "消える",
+    "romaji": "kieru",
+    "en": "to go out, to vanish"
+  },
+  {
+    "jp": "黄色い",
+    "romaji": "kiiroi",
+    "en": "yellow"
+  },
+  {
+    "jp": "昨日",
+    "romaji": "kinou",
+    "en": "yesterday"
+  },
+  {
+    "jp": "切符",
+    "romaji": "kippu",
+    "en": "ticket"
+  },
+  {
+    "jp": "嫌い",
+    "romaji": "kirai",
+    "en": "dislike, hate"
+  },
+  {
+    "jp": "切る",
+    "romaji": "kiru",
+    "en": "to cut"
+  },
+  {
+    "jp": "着る",
+    "romaji": "kiru",
+    "en": "to wear, to put on"
+  },
+  {
+    "jp": "喫茶店",
+    "romaji": "kissaten",
+    "en": "coffee shop"
+  },
+  {
+    "jp": "北",
+    "romaji": "kita",
+    "en": "north"
+  },
+  {
+    "jp": "汚い",
+    "romaji": "kitanai",
+    "en": "dirty, filthy"
+  },
+  {
+    "jp": "切手",
+    "romaji": "kitte",
+    "en": "stamp (postage)"
+  },
+  {
+    "jp": "九",
+    "romaji": "kyuu",
+    "en": "nine"
+  },
+  {
+    "jp": "声",
+    "romaji": "koe",
+    "en": "voice"
+  },
+  {
+    "jp": "ここ",
+    "romaji": "koko",
+    "en": "here"
+  },
+  {
+    "jp": "九日",
+    "romaji": "kokonoka",
+    "en": "ninth day of the month, nine days"
+  },
+  {
+    "jp": "困る",
+    "romaji": "komaru",
+    "en": "to be troubled, to be worried"
+  },
+  {
+    "jp": "今晩",
+    "romaji": "konban",
+    "en": "tonight, this evening"
+  },
+  {
+    "jp": "今週",
+    "romaji": "konshuu",
+    "en": "this week"
+  },
+  {
+    "jp": "交番",
+    "romaji": "kouban",
+    "en": "police box"
+  },
+  {
+    "jp": "紅茶",
+    "romaji": "koucha",
+    "en": "black tea"
+  },
+  {
+    "jp": "公園",
+    "romaji": "kouen",
+    "en": "(public) park"
+  },
+  {
+    "jp": "子供",
+    "romaji": "kodomo",
+    "en": "child, children"
+  },
+  {
+    "jp": "答える",
+    "romaji": "kotaeru",
+    "en": "to answer, to reply"
+  },
+  {
+    "jp": "言葉",
+    "romaji": "kotoba",
+    "en": "language, dialect"
+  },
+  {
+    "jp": "今年",
+    "romaji": "kotoshi",
+    "en": "this year"
+  },
+  {
+    "jp": "交差点",
+    "romaji": "kousaten",
+    "en": "crossing, intersection"
+  },
+  {
+    "jp": "聞く",
+    "romaji": "kiku",
+    "en": "to hear, to listen"
+  },
+  {
+    "jp": "奇麗",
+    "romaji": "kirei",
+    "en": "pretty, lovely, beautiful"
+  },
+  {
+    "jp": "去年",
+    "romaji": "kyonen",
+    "en": "last year"
+  },
+  {
+    "jp": "今日",
+    "romaji": "kyou",
+    "en": "today, this day"
+  },
+  {
+    "jp": "兄弟",
+    "romaji": "kyoudai",
+    "en": "siblings, brothers and sisters"
+  },
+  {
+    "jp": "教室",
+    "romaji": "kyoushitsu",
+    "en": "classroom, department"
+  },
+  {
+    "jp": "口",
+    "romaji": "kuchi",
+    "en": "mouth, opening, hole"
+  },
+  {
+    "jp": "果物",
+    "romaji": "kudamono",
+    "en": "fruit"
+  },
+  {
+    "jp": "曇り",
+    "romaji": "kumori",
+    "en": "cloudiness, cloudy weather"
+  },
+  {
+    "jp": "国",
+    "romaji": "kuni",
+    "en": "country, state, region"
+  },
+  {
+    "jp": "暗い",
+    "romaji": "kurai",
+    "en": "dark, gloomy"
+  },
+  {
+    "jp": "黒い",
+    "romaji": "kuroi",
+    "en": "black, dark"
+  },
+  {
+    "jp": "来る",
+    "romaji": "kuru",
+    "en": "to come"
+  },
+  {
+    "jp": "車",
+    "romaji": "kuruma",
+    "en": "car, automobile"
+  },
+  {
+    "jp": "薬",
+    "romaji": "kusuri",
+    "en": "medicine"
+  },
+  {
+    "jp": "靴",
+    "romaji": "kutsu",
+    "en": "shoes, boots"
+  },
+  {
+    "jp": "靴下",
+    "romaji": "kutsushita",
+    "en": "socks"
+  },
+  {
+    "jp": "町",
+    "romaji": "machi",
+    "en": "town, block"
+  },
+  {
+    "jp": "まだ",
+    "romaji": "mada",
+    "en": "still, not yet"
+  },
+  {
+    "jp": "前",
+    "romaji": "mae",
+    "en": "front, ahead, previous"
+  },
+  {
+    "jp": "毎朝",
+    "romaji": "maiasa",
+    "en": "every morning"
+  },
+  {
+    "jp": "毎晩",
+    "romaji": "maiban",
+    "en": "every night"
+  },
+  {
+    "jp": "毎月",
+    "romaji": "maitsuki/maigetsu",
+    "en": "every month"
+  },
+  {
+    "jp": "毎日",
+    "romaji": "mainichi",
+    "en": "every day"
+  },
+  {
+    "jp": "毎週",
+    "romaji": "maishuu",
+    "en": "every week"
+  },
+  {
+    "jp": "毎年",
+    "romaji": "maitoshi",
+    "en": "every year, yearly"
+  },
+  {
+    "jp": "窓",
+    "romaji": "mado",
+    "en": "window"
+  },
+  {
+    "jp": "曲がる",
+    "romaji": "magaru",
+    "en": "to bend, to curve"
+  },
+  {
+    "jp": "万",
+    "romaji": "man",
+    "en": "ten thousand"
+  },
+  {
+    "jp": "丸い",
+    "romaji": "marui",
+    "en": "round, circular"
+  },
+  {
+    "jp": "また",
+    "romaji": "mata",
+    "en": "again, also"
+  },
+  {
+    "jp": "待つ",
+    "romaji": "matsu",
+    "en": "to wait, to look forward to"
+  },
+  {
+    "jp": "不味い",
+    "romaji": "mazui",
+    "en": "unappetizing, unsavory"
+  },
+  {
+    "jp": "目",
+    "romaji": "me",
+    "en": "eye, eyeball"
+  },
+  {
+    "jp": "眼鏡",
+    "romaji": "megane",
+    "en": "spectacles, glasses"
+  },
+  {
+    "jp": "道",
+    "romaji": "michi",
+    "en": "road, street, way"
+  },
+  {
+    "jp": "緑",
+    "romaji": "midori",
+    "en": "green"
+  },
+  {
+    "jp": "磨く",
+    "romaji": "migaku",
+    "en": "to polish, to shine"
+  },
+  {
+    "jp": "右",
+    "romaji": "migi",
+    "en": "right, right hand side"
+  },
+  {
+    "jp": "短い",
+    "romaji": "mijikai",
+    "en": "short"
+  },
+  {
+    "jp": "耳",
+    "romaji": "mimi",
+    "en": "ear"
+  },
+  {
+    "jp": "南",
+    "romaji": "minami",
+    "en": "south"
+  },
+  {
+    "jp": "皆",
+    "romaji": "minna",
+    "en": "all, everyone"
+  },
+  {
+    "jp": "見る",
+    "romaji": "miru",
+    "en": "to see, to look, to watch"
+  },
+  {
+    "jp": "店",
+    "romaji": "mise",
+    "en": "store, shop"
+  },
+  {
+    "jp": "見せる",
+    "romaji": "miseru",
+    "en": "to show, to display"
+  },
+  {
+    "jp": "水",
+    "romaji": "mizu",
+    "en": "water"
+  },
+  {
+    "jp": "門",
+    "romaji": "mon",
+    "en": "gate"
+  },
+  {
+    "jp": "問題",
+    "romaji": "mondai",
+    "en": "question, problem"
+  },
+  {
+    "jp": "持つ",
+    "romaji": "motsu",
+    "en": "to hold (in one’s hands)"
+  },
+  {
+    "jp": "木曜日",
+    "romaji": "mokuyoubi",
+    "en": "Thursday"
+  },
+  {
+    "jp": "六日",
+    "romaji": "muika",
+    "en": "sixth day of the month, six days"
+  },
+  {
+    "jp": "向こう",
+    "romaji": "mukou",
+    "en": "opposite side, other side"
+  },
+  {
+    "jp": "村",
+    "romaji": "mura",
+    "en": "village"
+  },
+  {
+    "jp": "難しい",
+    "romaji": "muzukashii",
+    "en": "difficult, hard"
+  },
+  {
+    "jp": "長い",
+    "romaji": "nagai",
+    "en": "long, lengthy"
+  },
+  {
+    "jp": "中",
+    "romaji": "naka",
+    "en": "inside, in, among"
+  },
+  {
+    "jp": "鳴く",
+    "romaji": "naku",
+    "en": "to sing (bird)"
+  },
+  {
+    "jp": "無くす",
+    "romaji": "nakusu",
+    "en": "to lose something"
+  },
+  {
+    "jp": "名前",
+    "romaji": "namae",
+    "en": "name, full name"
+  },
+  {
+    "jp": "何",
+    "romaji": "nani",
+    "en": "what"
+  },
+  {
+    "jp": "七日",
+    "romaji": "nanoka",
+    "en": "seventh day of the month, seven days"
+  },
+  {
+    "jp": "並ぶ",
+    "romaji": "narabu",
+    "en": "to stand in a line"
+  },
+  {
+    "jp": "並べる",
+    "romaji": "naraberu",
+    "en": "to line up"
+  },
+  {
+    "jp": "習う",
+    "romaji": "narau",
+    "en": "to be taught, to learn (from a teacher)"
+  },
+  {
+    "jp": "なる",
+    "romaji": "naru",
+    "en": "to become"
+  },
+  {
+    "jp": "夏",
+    "romaji": "natsu",
+    "en": "summer"
+  },
+  {
+    "jp": "猫",
+    "romaji": "neko",
+    "en": "cat"
+  },
+  {
+    "jp": "寝る",
+    "romaji": "neru",
+    "en": "to go to bed"
+  },
+  {
+    "jp": "二",
+    "romaji": "ni",
+    "en": "two"
+  },
+  {
+    "jp": "日曜日",
+    "romaji": "nichiyoubi",
+    "en": "Sunday"
+  },
+  {
+    "jp": "賑やか",
+    "romaji": "nigiyaka",
+    "en": "bustling, busy, lively"
+  },
+  {
+    "jp": "肉",
+    "romaji": "niku",
+    "en": "flesh, meat"
+  },
+  {
+    "jp": "荷物",
+    "romaji": "nimotsu",
+    "en": "luggage, baggage"
+  },
+  {
+    "jp": "西",
+    "romaji": "nishi",
+    "en": "west"
+  },
+  {
+    "jp": "庭",
+    "romaji": "niwa",
+    "en": "garden, yard"
+  },
+  {
+    "jp": "登る",
+    "romaji": "noboru",
+    "en": "to ascend, to go up"
+  },
+  {
+    "jp": "飲物",
+    "romaji": "nomimono",
+    "en": "drink, beverage"
+  },
+  {
+    "jp": "飲む",
+    "romaji": "nomu",
+    "en": "to drink, to gulp"
+  },
+  {
+    "jp": "乗る",
+    "romaji": "noru",
+    "en": "to get on (train, plane, bus, ship)"
+  },
+  {
+    "jp": "脱ぐ",
+    "romaji": "nugu",
+    "en": "to take off (clothes, shoes)"
+  },
+  {
+    "jp": "伯母さん",
+    "romaji": "obasan",
+    "en": "aunt"
+  },
+  {
+    "jp": "お祖母さん",
+    "romaji": "obaasan",
+    "en": "grandmother"
+  },
+  {
+    "jp": "お弁当",
+    "romaji": "obentou",
+    "en": "Japanese lunch box"
+  },
+  {
+    "jp": "覚える",
+    "romaji": "oboeru",
+    "en": "to memorize, to remember"
+  },
+  {
+    "jp": "お茶",
+    "romaji": "ocha",
+    "en": "tea"
+  },
+  {
+    "jp": "お風呂",
+    "romaji": "ofuro",
+    "en": "bath"
+  },
+  {
+    "jp": "美味しい",
+    "romaji": "oishii",
+    "en": "delicious, tasty"
+  },
+  {
+    "jp": "お母さん",
+    "romaji": "okaasan",
+    "en": "mother"
+  },
+  {
+    "jp": "お金",
+    "romaji": "okane",
+    "en": "money"
+  },
+  {
+    "jp": "お菓子",
+    "romaji": "okashi",
+    "en": "sweets, candy"
+  },
+  {
+    "jp": "起きる",
+    "romaji": "okiru",
+    "en": "to get up, to rise"
+  },
+  {
+    "jp": "置く",
+    "romaji": "oku",
+    "en": "to put, to place"
+  },
+  {
+    "jp": "奥さん",
+    "romaji": "okusan",
+    "en": "wife, your wife, his wife"
+  },
+  {
+    "jp": "お巡りさん",
+    "romaji": "omawarisan",
+    "en": "police officer"
+  },
+  {
+    "jp": "重い",
+    "romaji": "omoi",
+    "en": "heavy, weighty"
+  },
+  {
+    "jp": "面白い",
+    "romaji": "omoshiroi",
+    "en": "interesting, fascinating"
+  },
+  {
+    "jp": "お腹",
+    "romaji": "onaka",
+    "en": "stomach"
+  },
+  {
+    "jp": "音楽",
+    "romaji": "ongaku",
+    "en": "music"
+  },
+  {
+    "jp": "女",
+    "romaji": "onna",
+    "en": "female, woman"
+  },
+  {
+    "jp": "同じ",
+    "romaji": "onaji",
+    "en": "same, identical"
+  },
+  {
+    "jp": "お姉さん",
+    "romaji": "oneesan",
+    "en": "elder sister"
+  },
+  {
+    "jp": "お兄さん",
+    "romaji": "oniisan",
+    "en": "elder brother"
+  },
+  {
+    "jp": "女の子",
+    "romaji": "onna no ko",
+    "en": "girl"
+  },
+  {
+    "jp": "多い",
+    "romaji": "ooi",
+    "en": "many, numerous, a lot"
+  },
+  {
+    "jp": "大きい",
+    "romaji": "ookii",
+    "en": "big, large, great"
+  },
+  {
+    "jp": "大勢",
+    "romaji": "oozei",
+    "en": "many, crowd, great number of people"
+  },
+  {
+    "jp": "降りる",
+    "romaji": "oriru",
+    "en": "to descend, to get off"
+  },
+  {
+    "jp": "お皿",
+    "romaji": "osara",
+    "en": "plate, dish"
+  },
+  {
+    "jp": "教える",
+    "romaji": "oshieru",
+    "en": "to teach, to instruct"
+  },
+  {
+    "jp": "遅い",
+    "romaji": "osoi",
+    "en": "slow, late"
+  },
+  {
+    "jp": "押す",
+    "romaji": "osu",
+    "en": "to push, to press"
+  },
+  {
+    "jp": "お手洗い",
+    "romaji": "otearai",
+    "en": "toilet, restroom"
+  },
+  {
+    "jp": "男",
+    "romaji": "otoko",
+    "en": "man, male"
+  },
+  {
+    "jp": "男の子",
+    "romaji": "otoko no ko",
+    "en": "boy"
+  },
+  {
+    "jp": "大人",
+    "romaji": "otona",
+    "en": "adult"
+  },
+  {
+    "jp": "一昨日",
+    "romaji": "ototoi",
+    "en": "day before yesterday"
+  },
+  {
+    "jp": "お父さん",
+    "romaji": "otousan",
+    "en": "father, dad"
+  },
+  {
+    "jp": "一昨年",
+    "romaji": "ototoshi",
+    "en": "year before last"
+  },
+  {
+    "jp": "弟",
+    "romaji": "otouto",
+    "en": "younger brother"
+  },
+  {
+    "jp": "終わる",
+    "romaji": "owaru",
+    "en": "to finish, to end"
+  },
+  {
+    "jp": "泳ぐ",
+    "romaji": "oyogu",
+    "en": "to swim"
+  },
+  {
+    "jp": "来月",
+    "romaji": "raigetsu",
+    "en": "next month"
+  },
+  {
+    "jp": "来年",
+    "romaji": "rainen",
+    "en": "next year"
+  },
+  {
+    "jp": "来週",
+    "romaji": "raishuu",
+    "en": "next week"
+  },
+  {
+    "jp": "冷蔵庫",
+    "romaji": "reizouko",
+    "en": "refrigerator"
+  },
+  {
+    "jp": "練習",
+    "romaji": "renshuu",
+    "en": "practice"
+  },
+  {
+    "jp": "六",
+    "romaji": "roku",
+    "en": "six"
+  },
+  {
+    "jp": "廊下",
+    "romaji": "rouka",
+    "en": "corridor, hallway"
+  },
+  {
+    "jp": "旅行",
+    "romaji": "ryokou",
+    "en": "travel, trip"
+  },
+  {
+    "jp": "料理",
+    "romaji": "ryouri",
+    "en": "cooking, cuisine"
+  },
+  {
+    "jp": "両親",
+    "romaji": "ryoushin",
+    "en": "parents, both parents"
+  },
+  {
+    "jp": "留学生",
+    "romaji": "ryuugakusei",
+    "en": "overseas student"
+  },
+  {
+    "jp": "歳",
+    "romaji": "sai",
+    "en": "years old"
+  },
+  {
+    "jp": "財布",
+    "romaji": "saifu",
+    "en": "purse, wallet"
+  },
+  {
+    "jp": "魚",
+    "romaji": "sakana",
+    "en": "fish"
+  },
+  {
+    "jp": "酒",
+    "romaji": "sake",
+    "en": "alcohol, sake"
+  },
+  {
+    "jp": "先",
+    "romaji": "saki",
+    "en": "previous, prior, former"
+  },
+  {
+    "jp": "咲く",
+    "romaji": "saku",
+    "en": "to bloom"
+  },
+  {
+    "jp": "作文",
+    "romaji": "sakubun",
+    "en": "writing (an essay), composition"
+  },
+  {
+    "jp": "寒い",
+    "romaji": "samui",
+    "en": "cold"
+  },
+  {
+    "jp": "三",
+    "romaji": "san",
+    "en": "three"
+  },
+  {
+    "jp": "散歩",
+    "romaji": "sanpo",
+    "en": "walk, stroll"
+  },
+  {
+    "jp": "再来年",
+    "romaji": "sarainen",
+    "en": "year after next"
+  },
+  {
+    "jp": "砂糖",
+    "romaji": "satou",
+    "en": "sugar"
+  },
+  {
+    "jp": "背",
+    "romaji": "se",
+    "en": "height, stature"
+  },
+  {
+    "jp": "背広",
+    "romaji": "sebiro",
+    "en": "business suit"
+  },
+  {
+    "jp": "生徒",
+    "romaji": "seito",
+    "en": "pupil"
+  },
+  {
+    "jp": "石鹸",
+    "romaji": "sekken",
+    "en": "soap"
+  },
+  {
+    "jp": "狭い",
+    "romaji": "semai",
+    "en": "narrow, confined"
+  },
+  {
+    "jp": "千",
+    "romaji": "sen",
+    "en": "thousand"
+  },
+  {
+    "jp": "先月",
+    "romaji": "sengetsu",
+    "en": "last month"
+  },
+  {
+    "jp": "先生",
+    "romaji": "sensei",
+    "en": "teacher, master, doctor"
+  },
+  {
+    "jp": "先週",
+    "romaji": "senshuu",
+    "en": "last week"
+  },
+  {
+    "jp": "洗濯",
+    "romaji": "sentaku",
+    "en": "washing, laundry"
+  },
+  {
+    "jp": "写真",
+    "romaji": "shashin",
+    "en": "photograph, photo, picture"
+  },
+  {
+    "jp": "仕事",
+    "romaji": "shigoto",
+    "en": "work, job"
+  },
+  {
+    "jp": "閉まる",
+    "romaji": "shimaru",
+    "en": "to be shut, to close"
+  },
+  {
+    "jp": "閉める",
+    "romaji": "shimeru",
+    "en": "to close, to shut"
+  },
+  {
+    "jp": "締める",
+    "romaji": "shimeru",
+    "en": "to tie, to fasten"
+  },
+  {
+    "jp": "新聞",
+    "romaji": "shinbun",
+    "en": "newspaper"
+  },
+  {
+    "jp": "死ぬ",
+    "romaji": "shinu",
+    "en": "to die, to pass away"
+  },
+  {
+    "jp": "塩",
+    "romaji": "shio",
+    "en": "salt"
+  },
+  {
+    "jp": "白い",
+    "romaji": "shiroi",
+    "en": "white"
+  },
+  {
+    "jp": "知る",
+    "romaji": "shiru",
+    "en": "to be aware of, to know"
+  },
+  {
+    "jp": "下",
+    "romaji": "shita",
+    "en": "below, down, under"
+  },
+  {
+    "jp": "質問",
+    "romaji": "shitsumon",
+    "en": "question, inquiry"
+  },
+  {
+    "jp": "静か",
+    "romaji": "shizuka",
+    "en": "quiet, silent"
+  },
+  {
+    "jp": "食堂",
+    "romaji": "shokudou",
+    "en": "dining room, dining hall"
+  },
+  {
+    "jp": "醤油",
+    "romaji": "shouyu",
+    "en": "soy sauce"
+  },
+  {
+    "jp": "宿題",
+    "romaji": "shukudai",
+    "en": "homework"
+  },
+  {
+    "jp": "側",
+    "romaji": "soba",
+    "en": "near, close, beside"
+  },
+  {
+    "jp": "空",
+    "romaji": "sora",
+    "en": "sky"
+  },
+  {
+    "jp": "外",
+    "romaji": "soto",
+    "en": "outside, exterior"
+  },
+  {
+    "jp": "掃除",
+    "romaji": "souji",
+    "en": "cleaning, sweeping"
+  },
+  {
+    "jp": "水曜日",
+    "romaji": "suiyoubi",
+    "en": "Wednesday"
+  },
+  {
+    "jp": "好き",
+    "romaji": "suki",
+    "en": "liking, fondness, love"
+  },
+  {
+    "jp": "少し",
+    "romaji": "sukoshi",
+    "en": "small quantity, little"
+  },
+  {
+    "jp": "少ない",
+    "romaji": "sukunai",
+    "en": "few, a little"
+  },
+  {
+    "jp": "住む",
+    "romaji": "sumu",
+    "en": "to live, to reside"
+  },
+  {
+    "jp": "する",
+    "romaji": "suru",
+    "en": "to do"
+  },
+  {
+    "jp": "吸う",
+    "romaji": "suu",
+    "en": "to smoke, to breathe in"
+  },
+  {
+    "jp": "座る",
+    "romaji": "suwaru",
+    "en": "to sit"
+  },
+  {
+    "jp": "涼しい",
+    "romaji": "suzushii",
+    "en": "cool, refreshing"
+  },
+  {
+    "jp": "煙草",
+    "romaji": "tabako",
+    "en": "tabacco, cigarette"
+  },
+  {
+    "jp": "食べ物",
+    "romaji": "tabemono",
+    "en": "food"
+  },
+  {
+    "jp": "食べる",
+    "romaji": "taberu",
+    "en": "to eat"
+  },
+  {
+    "jp": "多分",
+    "romaji": "tabun",
+    "en": "perhaps, probably"
+  },
+  {
+    "jp": "大変",
+    "romaji": "taihen",
+    "en": "very, greatly, immense"
+  },
+  {
+    "jp": "大切",
+    "romaji": "taisetsu",
+    "en": "important, necessary"
+  },
+  {
+    "jp": "大使館",
+    "romaji": "taishikan",
+    "en": "embassy"
+  },
+  {
+    "jp": "高い",
+    "romaji": "takai",
+    "en": "high, tall, expensive"
+  },
+  {
+    "jp": "沢山",
+    "romaji": "takusan",
+    "en": "a lot, plenty, many"
+  },
+  {
+    "jp": "卵",
+    "romaji": "tamago",
+    "en": "egg, spawn"
+  },
+  {
+    "jp": "誕生日",
+    "romaji": "tanjoubi",
+    "en": "birthday"
+  },
+  {
+    "jp": "楽しい",
+    "romaji": "tanoshii",
+    "en": "enjoyable, fun"
+  },
+  {
+    "jp": "頼む",
+    "romaji": "tanomu",
+    "en": "to request, to beg, to ask"
+  },
+  {
+    "jp": "建物",
+    "romaji": "tatemono",
+    "en": "building"
+  },
+  {
+    "jp": "立つ",
+    "romaji": "tatsu",
+    "en": "to stand, to rise"
+  },
+  {
+    "jp": "手",
+    "romaji": "te",
+    "en": "hand"
+  },
+  {
+    "jp": "手紙",
+    "romaji": "tegami",
+    "en": "letter"
+  },
+  {
+    "jp": "天気",
+    "romaji": "tenki",
+    "en": "weather"
+  },
+  {
+    "jp": "戸",
+    "romaji": "to",
+    "en": "door"
+  },
+  {
+    "jp": "飛ぶ",
+    "romaji": "tobu",
+    "en": "to fly"
+  },
+  {
+    "jp": "友達",
+    "romaji": "tomodachi",
+    "en": "friend, companion"
+  },
+  {
+    "jp": "止まる",
+    "romaji": "tomaru",
+    "en": "to stop (moving)"
+  },
+  {
+    "jp": "隣",
+    "romaji": "tonari",
+    "en": "neighbor, next to"
+  },
+  {
+    "jp": "十日",
+    "romaji": "tooka",
+    "en": "tenth day of the month, ten days"
+  },
+  {
+    "jp": "鳥",
+    "romaji": "tori",
+    "en": "bird"
+  },
+  {
+    "jp": "取る",
+    "romaji": "toru",
+    "en": "to take, to pick up"
+  },
+  {
+    "jp": "年",
+    "romaji": "toshi",
+    "en": "year, age"
+  },
+  {
+    "jp": "図書館",
+    "romaji": "toshokan",
+    "en": "library"
+  },
+  {
+    "jp": "時計",
+    "romaji": "tokei",
+    "en": "watch, clock"
+  },
+  {
+    "jp": "時々",
+    "romaji": "tokidoki",
+    "en": "sometimes, at times"
+  },
+  {
+    "jp": "所",
+    "romaji": "tokoro",
+    "en": "place, spot, scene"
+  },
+  {
+    "jp": "遠い",
+    "romaji": "tooi",
+    "en": "far, distant"
+  },
+  {
+    "jp": "撮る",
+    "romaji": "toru",
+    "en": "to take (a photo), to record (a video)"
+  },
+  {
+    "jp": "とても",
+    "romaji": "totemo",
+    "en": "very, exceedingly"
+  },
+  {
+    "jp": "疲れる",
+    "romaji": "tsukareru",
+    "en": "to get tired"
+  },
+  {
+    "jp": "次",
+    "romaji": "tsugi",
+    "en": "next, following"
+  },
+  {
+    "jp": "使う",
+    "romaji": "tsukau",
+    "en": "to use, to make use of"
+  },
+  {
+    "jp": "一日",
+    "romaji": "tsuitachi",
+    "en": "first day of the month"
+  },
+  {
+    "jp": "着く",
+    "romaji": "tsuku",
+    "en": "to arrive at, to reach"
+  },
+  {
+    "jp": "机",
+    "romaji": "tsukue",
+    "en": "desk"
+  },
+  {
+    "jp": "作る",
+    "romaji": "tsukuru",
+    "en": "to make, to produce"
+  },
+  {
+    "jp": "詰まらない",
+    "romaji": "tsumaranai",
+    "en": "dull, uninteresting"
+  },
+  {
+    "jp": "冷たい",
+    "romaji": "tsumetai",
+    "en": "cold (to the touch)"
+  },
+  {
+    "jp": "勤める",
+    "romaji": "tsutomeru",
+    "en": "to work (for), to be employed (at)"
+  },
+  {
+    "jp": "強い",
+    "romaji": "tsuyoi",
+    "en": "strong, powerful"
+  },
+  {
+    "jp": "上",
+    "romaji": "ue",
+    "en": "above, up, over"
+  },
+  {
+    "jp": "生まれる",
+    "romaji": "umareru",
+    "en": "to be born"
+  },
+  {
+    "jp": "海",
+    "romaji": "umi",
+    "en": "sea, ocean"
+  },
+  {
+    "jp": "売る",
+    "romaji": "uru",
+    "en": "to sell"
+  },
+  {
+    "jp": "煩い",
+    "romaji": "urusai",
+    "en": "noisy, loud"
+  },
+  {
+    "jp": "後ろ",
+    "romaji": "ushiro",
+    "en": "back, behind, rear"
+  },
+  {
+    "jp": "薄い",
+    "romaji": "usui",
+    "en": "thin, pale, light"
+  },
+  {
+    "jp": "歌",
+    "romaji": "uta",
+    "en": "song"
+  },
+  {
+    "jp": "歌う",
+    "romaji": "utau",
+    "en": "to sing"
+  },
+  {
+    "jp": "上着",
+    "romaji": "uwagi",
+    "en": "coat, jacket"
+  },
+  {
+    "jp": "若い",
+    "romaji": "wakai",
+    "en": "young, youthful"
+  },
+  {
+    "jp": "分かる",
+    "romaji": "wakaru",
+    "en": "to understand, to comprehend"
+  },
+  {
+    "jp": "悪い",
+    "romaji": "warui",
+    "en": "bad, poor, inferior"
+  },
+  {
+    "jp": "忘れる",
+    "romaji": "wasureru",
+    "en": "to forget"
+  },
+  {
+    "jp": "私",
+    "romaji": "watashi",
+    "en": "I, me"
+  },
+  {
+    "jp": "渡る",
+    "romaji": "wataru",
+    "en": "to cross over"
+  },
+  {
+    "jp": "渡す",
+    "romaji": "watasu",
+    "en": "to hand over, to hand in"
+  },
+  {
+    "jp": "山",
+    "romaji": "yama",
+    "en": "mountain"
+  },
+  {
+    "jp": "やる",
+    "romaji": "yaru",
+    "en": "to do"
+  },
+  {
+    "jp": "野菜",
+    "romaji": "yasai",
+    "en": "vegetable"
+  },
+  {
+    "jp": "安い",
+    "romaji": "yasui",
+    "en": "cheap, inexpensive"
+  },
+  {
+    "jp": "休み",
+    "romaji": "yasumi",
+    "en": "rest, recess"
+  },
+  {
+    "jp": "休む",
+    "romaji": "yasumu",
+    "en": "to be absent, to take a day off"
+  },
+  {
+    "jp": "呼ぶ",
+    "romaji": "yobu",
+    "en": "to call out, to call"
+  },
+  {
+    "jp": "四日",
+    "romaji": "yokka",
+    "en": "fourth day of the month, four days"
+  },
+  {
+    "jp": "横",
+    "romaji": "yoko",
+    "en": "horizontal"
+  },
+  {
+    "jp": "読む",
+    "romaji": "yomu",
+    "en": "to read"
+  },
+  {
+    "jp": "夜",
+    "romaji": "yoru",
+    "en": "evening, night"
+  },
+  {
+    "jp": "洋服",
+    "romaji": "youfuku",
+    "en": "Western-style clothes"
+  },
+  {
+    "jp": "八日",
+    "romaji": "youka",
+    "en": "eight day of the month, eight days"
+  },
+  {
+    "jp": "弱い",
+    "romaji": "yowai",
+    "en": "weak, frail, delicate"
+  },
+  {
+    "jp": "雪",
+    "romaji": "yuki",
+    "en": "snow"
+  },
+  {
+    "jp": "ゆっくり",
+    "romaji": "yukkuri",
+    "en": "slowly, at ease"
+  },
+  {
+    "jp": "郵便局",
+    "romaji": "yuubinkyoku",
+    "en": "post office"
+  },
+  {
+    "jp": "有名",
+    "romaji": "yuumei",
+    "en": "famous"
+  },
+  {
+    "jp": "雑誌",
+    "romaji": "zasshi",
+    "en": "journal, magazine"
+  },
+  {
+    "jp": "全部",
+    "romaji": "zenbu",
+    "en": "all, entire, whole"
+  },
+  {
+    "jp": "アパート",
+    "romaji": "apaato",
+    "en": "apartment"
+  },
+  {
+    "jp": "バス",
+    "romaji": "basu",
+    "en": "bus"
+  },
+  {
+    "jp": "ベッド",
+    "romaji": "beddo",
+    "en": "bed"
+  },
+  {
+    "jp": "デパート",
+    "romaji": "depaato",
+    "en": "department store"
+  },
+  {
+    "jp": "ドア",
+    "romaji": "doa",
+    "en": "door (Western style)"
+  },
+  {
+    "jp": "エレベータ",
+    "romaji": "erebeeta",
+    "en": "elevator"
+  },
+  {
+    "jp": "フォーク",
+    "romaji": "fooku",
+    "en": "fork"
+  },
+  {
+    "jp": "ギター",
+    "romaji": "gitaa",
+    "en": "guitar"
+  },
+  {
+    "jp": "グラム",
+    "romaji": "guramu",
+    "en": "gram"
+  },
+  {
+    "jp": "ホテル",
+    "romaji": "hoteru",
+    "en": "hotel"
+  },
+  {
+    "jp": "カメラ",
+    "romaji": "kamera",
+    "en": "camera"
+  },
+  {
+    "jp": "キロ",
+    "romaji": "kiro",
+    "en": "kilogram"
+  },
+  {
+    "jp": "コーヒー",
+    "romaji": "koohii",
+    "en": "coffee"
+  },
+  {
+    "jp": "コート",
+    "romaji": "kooto",
+    "en": "coat"
+  },
+  {
+    "jp": "コップ",
+    "romaji": "koppu",
+    "en": "glass"
+  },
+  {
+    "jp": "クラス",
+    "romaji": "kurasu",
+    "en": "class"
+  },
+  {
+    "jp": "パーティー",
+    "romaji": "paatii",
+    "en": "party"
+  },
+  {
+    "jp": "ペン",
+    "romaji": "pen",
+    "en": "pen"
+  },
+  {
+    "jp": "ペット",
+    "romaji": "petto",
+    "en": "pet"
+  },
+  {
+    "jp": "ポケット",
+    "romaji": "poketto",
+    "en": "pocket"
+  },
+  {
+    "jp": "プール",
+    "romaji": "puuru",
+    "en": "swimming pool"
+  },
+  {
+    "jp": "セーター",
+    "romaji": "seetaa",
+    "en": "sweater, jumper"
+  },
+  {
+    "jp": "シャワー",
+    "romaji": "shawaa",
+    "en": "shower"
+  },
+  {
+    "jp": "シャツ",
+    "romaji": "shatsu",
+    "en": "shirt"
+  },
+  {
+    "jp": "スカート",
+    "romaji": "sukaato",
+    "en": "skirt"
+  },
+  {
+    "jp": "スポーツ",
+    "romaji": "supootsu",
+    "en": "sport"
+  },
+  {
+    "jp": "スプーン",
+    "romaji": "supuun",
+    "en": "spoon"
+  },
+  {
+    "jp": "スリッパ",
+    "romaji": "surippa",
+    "en": "slippers"
+  },
+  {
+    "jp": "ストーブ",
+    "romaji": "sutoobu",
+    "en": "heater, stove"
+  },
+  {
+    "jp": "タクシー",
+    "romaji": "takushii",
+    "en": "taxi"
+  },
+  {
+    "jp": "テーブル",
+    "romaji": "teeburu",
+    "en": "table"
+  },
+  {
+    "jp": "テープ",
+    "romaji": "teepu",
+    "en": "tape"
+  },
+  {
+    "jp": "テープレコーダー",
+    "romaji": "teepu rekoodaa",
+    "en": "tape recorder"
+  },
+  {
+    "jp": "テレビ",
+    "romaji": "terebi",
+    "en": "television, TV"
+  },
+  {
+    "jp": "テスト",
+    "romaji": "tesuto",
+    "en": "test"
+  },
+  {
+    "jp": "トイレ",
+    "romaji": "toire",
+    "en": "toilet, restroom"
+  },
+  {
+    "jp": "ゼロ",
+    "romaji": "zero",
+    "en": "zero, naught"
+  },
+  {
+    "jp": "ズボン",
+    "romaji": "zubon",
+    "en": "trousers, pants"
+  }
+]

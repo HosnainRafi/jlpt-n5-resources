@@ -1,0 +1,260 @@
+{
+  "title": "JLPT N5 – Kanji Exercise 02",
+  "questions": [
+    {
+      "question": 1,
+      "text": "この 山 には 百本 のさくらがあります。 春 にはおおぜいの 人 が 花見 にきます。",
+      "options": []
+    },
+    {
+      "question": 1,
+      "text": "山 まち むら かわ やま",
+      "options": [
+        "1. 山",
+        " まち",
+        " むら",
+        " かわ",
+        " やま"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "百本 ひゃくぼん ひゃっぽん ひゃっぷん ひゃくふん",
+      "options": [
+        "2. 百本",
+        " ひゃくぼん",
+        " ひゃっぽん",
+        " ひゃっぷん",
+        " ひゃくふん"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "春 はる",
+      "options": [
+        "なつ あき ふゆ"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "人 にん",
+      "options": [
+        "ひと じん いと"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "花見 つきみ はなみ かぜみ ゆきみ",
+      "options": [
+        "はは は まいにち 、 だいがく の としょかん で はたらいて います。"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "はは 父 火 花 母",
+      "options": [
+        "6. はは",
+        " 父",
+        " 火",
+        " 花",
+        " 母"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "まいにち 宙日",
+      "options": [
+        "週日 中日 毎日"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "だいがく 大核 退学 大学 最核",
+      "options": [
+        "8. だいがく",
+        " 大核",
+        " 退学",
+        " 大学",
+        " 最核"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "としょかん 図書館 図所館 読所管 読書館",
+      "options": [
+        "9. としょかん",
+        " 図書館",
+        " 図所館",
+        " 読所管",
+        " 読書館"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "はたらいて 動いて 隠いて 働いて 行いて",
+      "options": [
+        "10. はたらいて",
+        " 動いて",
+        " 隠いて",
+        " 働いて",
+        " 行いて"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "4",
+      "explanation": "山: やま"
+    },
+    {
+      "question": 2,
+      "answer": "2",
+      "explanation": "百本: ひゃっぽん"
+    },
+    {
+      "question": 3,
+      "answer": "1",
+      "explanation": "春: はる"
+    },
+    {
+      "question": 4,
+      "answer": "2",
+      "explanation": "人: ひと"
+    },
+    {
+      "question": 5,
+      "answer": "2",
+      "explanation": "花見:  はなみ"
+    },
+    {
+      "question": 6,
+      "answer": "4",
+      "explanation": "はは:  母"
+    },
+    {
+      "question": 7,
+      "answer": "4",
+      "explanation": "まいにち:  毎日"
+    },
+    {
+      "question": 8,
+      "answer": "3",
+      "explanation": "だいがく:  大学"
+    },
+    {
+      "question": 9,
+      "answer": "1",
+      "explanation": "としょかん:  図書館"
+    },
+    {
+      "question": 10,
+      "answer": "3",
+      "explanation": "はたらいて: 働いて"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "この: this",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "山: mountain",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "桜",
+      "romaji": "sakura",
+      "en": "cherry tree, cherry blossom"
+    },
+    {
+      "jp": "春: spring, springtime",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "大勢",
+      "romaji": "oozei",
+      "en": "many, crowd, great number of people"
+    },
+    {
+      "jp": "人: man, person, people",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "花見: cherry blossom viewing, flower viewing",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "来る",
+      "romaji": "kuru",
+      "en": "to come, to arrive"
+    },
+    {
+      "jp": "はは: mother",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "まいにち: every day",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "だいがく: university, college",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "としょかん: library",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "はたらく: to work, to labor",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 03",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 01",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-2/"
+}

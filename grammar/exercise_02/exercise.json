@@ -1,0 +1,346 @@
+{
+  "title": "JLPT N5 – Grammar Exercise 02",
+  "questions": [
+    {
+      "question": 1,
+      "text": "この本は　_______ 読みました。 どう もう も まだ",
+      "options": [
+        "1. この本は　_______ 読みました。",
+        " どう",
+        " もう",
+        " も",
+        " まだ"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "山田さんはたいへんいい人ですよ。なにもわるいことはきいたことが　_______ わ。 しません いません なりません ありません",
+      "options": [
+        "2. 山田さんはたいへんいい人ですよ。なにもわるいことはきいたことが　_______ わ。",
+        " しません",
+        " いません",
+        " なりません",
+        " ありません"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "ここにじゅうしょを書いて　_______ か？ ください くださいます くださいません くださいましょうか",
+      "options": [
+        "3. ここにじゅうしょを書いて　_______ か？",
+        " ください",
+        " くださいます",
+        " くださいません",
+        " くださいましょうか"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "あなたはあそこへ行って　_______ いけませんよ。 が は と に",
+      "options": [
+        "4. あなたはあそこへ行って　_______ いけませんよ。",
+        " が",
+        " は",
+        " と",
+        " に"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "どれ　_______ ここではたらいていましたか？ まで もう より くらい",
+      "options": [
+        "5. どれ　_______ ここではたらいていましたか？",
+        " まで",
+        " もう",
+        " より",
+        " くらい"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "わたしはおんがくをきく_______ 好きです。 のが ので のに のは",
+      "options": [
+        "6. わたしはおんがくをきく_______ 好きです。",
+        " のが",
+        " ので",
+        " のに",
+        " のは"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "わたしは一人でクリスマスをすごす _______ です。 たい つもり だろう ほう",
+      "options": [
+        "7. わたしは一人でクリスマスをすごす _______ です。",
+        " たい",
+        " つもり",
+        " だろう",
+        " ほう"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "_______ ながら水を飲まないでください。 あるく あるいて あるき あるかな",
+      "options": [
+        "8. _______ ながら水を飲まないでください。",
+        " あるく",
+        " あるいて",
+        " あるき",
+        " あるかな"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "れいぞうこにビールが入っている　_______ 、そこにすわって飲みましょう。 から と なら たら",
+      "options": [
+        "9. れいぞうこにビールが入っている　_______ 、そこにすわって飲みましょう。",
+        " から",
+        " と",
+        " なら",
+        " たら"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "わたしのことをいつまでも　_______ ください。 わすれない わすれないて わすれなくて わすれないで",
+      "options": [
+        "10. わたしのことをいつまでも　_______ ください。",
+        " わすれない",
+        " わすれないて",
+        " わすれなくて",
+        " わすれないで"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "2",
+      "explanation": "2 (この本は"
+    },
+    {
+      "question": 2,
+      "answer": "4",
+      "explanation": "4 (山田さんはたいへんいい人ですよ。なにもわるいことはきいたことが"
+    },
+    {
+      "question": 3,
+      "answer": "3",
+      "explanation": "3 (ここにじゅうしょを書いて"
+    },
+    {
+      "question": 4,
+      "answer": "2",
+      "explanation": "2 (あなたはあそこへ行って"
+    },
+    {
+      "question": 5,
+      "answer": "4",
+      "explanation": "4 (どれ"
+    },
+    {
+      "question": 6,
+      "answer": "1",
+      "explanation": "1 (わたしはおんがくをきく"
+    },
+    {
+      "question": 7,
+      "answer": "2",
+      "explanation": "2 (わたしは一人でクリスマスをすごす"
+    },
+    {
+      "question": 8,
+      "answer": "3",
+      "explanation": "3 "
+    },
+    {
+      "question": 9,
+      "answer": "1",
+      "explanation": "1 (れいぞうこにビールが入っている"
+    },
+    {
+      "question": 10,
+      "answer": "4",
+      "explanation": "4 (わたしのことをいつまでも"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "本",
+      "romaji": "hon",
+      "en": "book"
+    },
+    {
+      "jp": "たいへん: very, greatly",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "いい: good, fine",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "人",
+      "romaji": "hito",
+      "en": "man, person"
+    },
+    {
+      "jp": "悪い",
+      "romaji": "warui",
+      "en": "bad, evil"
+    },
+    {
+      "jp": "聞く",
+      "romaji": "kiku",
+      "en": "to hear, to listen"
+    },
+    {
+      "jp": "ここ: here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "住所",
+      "romaji": "juusho",
+      "en": "address"
+    },
+    {
+      "jp": "書く",
+      "romaji": "kaku",
+      "en": "to write"
+    },
+    {
+      "jp": "あそこ: there, over there",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "どれ: which",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "働く",
+      "romaji": "hataraku",
+      "en": "to work, to labor"
+    },
+    {
+      "jp": "音楽",
+      "romaji": "ongaku",
+      "en": "music"
+    },
+    {
+      "jp": "一人で",
+      "romaji": "hitori de",
+      "en": "alone, by oneself"
+    },
+    {
+      "jp": "クリスマス: Christmas",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "過ごす",
+      "romaji": "sugosu",
+      "en": "to pass, to spend"
+    },
+    {
+      "jp": "歩く",
+      "romaji": "aruku",
+      "en": "to walk"
+    },
+    {
+      "jp": "水",
+      "romaji": "mizu",
+      "en": "water"
+    },
+    {
+      "jp": "飲む",
+      "romaji": "nomu",
+      "en": "to drink, to gulp"
+    },
+    {
+      "jp": "冷蔵庫",
+      "romaji": "reizouko",
+      "en": "refrigerator"
+    },
+    {
+      "jp": "ビール: beer",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "入る",
+      "romaji": "hairu",
+      "en": "to enter, to contain"
+    },
+    {
+      "jp": "そこ: there",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "座る",
+      "romaji": "suwaru",
+      "en": "to sit"
+    },
+    {
+      "jp": "いつまでも: forever, for good",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "忘れる",
+      "romaji": "wasureru",
+      "en": "to forget"
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download this test for offline viewing.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 - Grammar Exercise 03",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 - Grammar Exercise 01",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-2/"
+}

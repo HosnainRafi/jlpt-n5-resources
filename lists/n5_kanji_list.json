@@ -1,0 +1,392 @@
+[
+  {
+    "kanji": "母",
+    "romaji": "bo",
+    "meaning": "mother"
+  },
+  {
+    "kanji": "聞",
+    "romaji": "bun",
+    "meaning": "hear, ask, listen"
+  },
+  {
+    "kanji": "長",
+    "romaji": "chou",
+    "meaning": "long, leader, superior, senior"
+  },
+  {
+    "kanji": "中",
+    "romaji": "chuu",
+    "meaning": "in, inside, middle, center"
+  },
+  {
+    "kanji": "円",
+    "romaji": "en",
+    "meaning": "circle, yen, round"
+  },
+  {
+    "kanji": "大",
+    "romaji": "dai",
+    "meaning": "large, big"
+  },
+  {
+    "kanji": "男",
+    "romaji": "dan",
+    "meaning": "male"
+  },
+  {
+    "kanji": "電",
+    "romaji": "den",
+    "meaning": "electricity"
+  },
+  {
+    "kanji": "土",
+    "romaji": "do",
+    "meaning": "soil, earth, ground, Turkey"
+  },
+  {
+    "kanji": "読",
+    "romaji": "doku",
+    "meaning": "read"
+  },
+  {
+    "kanji": "父",
+    "romaji": "fu",
+    "meaning": "father"
+  },
+  {
+    "kanji": "外",
+    "romaji": "gai",
+    "meaning": "outside"
+  },
+  {
+    "kanji": "学",
+    "romaji": "gaku",
+    "meaning": "study, learning, science"
+  },
+  {
+    "kanji": "月",
+    "romaji": "getsu",
+    "meaning": "month, moon"
+  },
+  {
+    "kanji": "後",
+    "romaji": "go",
+    "meaning": "behind, back, later"
+  },
+  {
+    "kanji": "五",
+    "romaji": "go",
+    "meaning": "five"
+  },
+  {
+    "kanji": "午",
+    "romaji": "go",
+    "meaning": "noon, sign of the horse"
+  },
+  {
+    "kanji": "語",
+    "romaji": "go",
+    "meaning": "word, speech, language"
+  },
+  {
+    "kanji": "八",
+    "romaji": "hachi",
+    "meaning": "eight, eight radical"
+  },
+  {
+    "kanji": "白",
+    "romaji": "haku",
+    "meaning": "white"
+  },
+  {
+    "kanji": "半",
+    "romaji": "han",
+    "meaning": "half, middle, odd number, semi-, part-"
+  },
+  {
+    "kanji": "北",
+    "romaji": "hoku",
+    "meaning": "north"
+  },
+  {
+    "kanji": "百",
+    "romaji": "hyaku",
+    "meaning": "hundred"
+  },
+  {
+    "kanji": "本",
+    "romaji": "hon",
+    "meaning": "book, present, main, origin, true, real"
+  },
+  {
+    "kanji": "時",
+    "romaji": "ji",
+    "meaning": "time, hour"
+  },
+  {
+    "kanji": "人",
+    "romaji": "jin",
+    "meaning": "person"
+  },
+  {
+    "kanji": "女",
+    "romaji": "jo",
+    "meaning": "woman, female"
+  },
+  {
+    "kanji": "上",
+    "romaji": "jou",
+    "meaning": "above, up"
+  },
+  {
+    "kanji": "十",
+    "romaji": "juu",
+    "meaning": "ten"
+  },
+  {
+    "kanji": "火",
+    "romaji": "ka",
+    "meaning": "fire"
+  },
+  {
+    "kanji": "下",
+    "romaji": "ka",
+    "meaning": "below, down, descend, give, low, inferior"
+  },
+  {
+    "kanji": "何",
+    "romaji": "ka",
+    "meaning": "what"
+  },
+  {
+    "kanji": "間",
+    "romaji": "kan",
+    "meaning": "interval, space"
+  },
+  {
+    "kanji": "見",
+    "romaji": "ken",
+    "meaning": "see, hopes, chances, idea, opinion, look at, visible"
+  },
+  {
+    "kanji": "気",
+    "romaji": "ki",
+    "meaning": "spirit, mind, air, atmosphere, mood"
+  },
+  {
+    "kanji": "金",
+    "romaji": "kin",
+    "meaning": "gold"
+  },
+  {
+    "kanji": "古",
+    "romaji": "ko",
+    "meaning": "old"
+  },
+  {
+    "kanji": "校",
+    "romaji": "kou",
+    "meaning": "exam, school, printing, proof, correction"
+  },
+  {
+    "kanji": "国",
+    "romaji": "koku",
+    "meaning": "country"
+  },
+  {
+    "kanji": "今",
+    "romaji": "kon",
+    "meaning": "now"
+  },
+  {
+    "kanji": "高",
+    "romaji": "kou",
+    "meaning": "tall, high, expensive"
+  },
+  {
+    "kanji": "行",
+    "romaji": "kou",
+    "meaning": "going, journey, carry out, conduct, act, line, row, bank"
+  },
+  {
+    "kanji": "休",
+    "romaji": "kyuu",
+    "meaning": "rest, day off, retire, sleep"
+  },
+  {
+    "kanji": "九",
+    "romaji": "kyuu",
+    "meaning": "nine"
+  },
+  {
+    "kanji": "毎",
+    "romaji": "mai",
+    "meaning": "every"
+  },
+  {
+    "kanji": "万",
+    "romaji": "man",
+    "meaning": "ten thousand"
+  },
+  {
+    "kanji": "名",
+    "romaji": "mei",
+    "meaning": "name, noted, distinguished, reputation"
+  },
+  {
+    "kanji": "南",
+    "romaji": "nan",
+    "meaning": "south"
+  },
+  {
+    "kanji": "年",
+    "romaji": "nen",
+    "meaning": "year, counter for years"
+  },
+  {
+    "kanji": "二",
+    "romaji": "ni",
+    "meaning": "two, two radical"
+  },
+  {
+    "kanji": "日",
+    "romaji": "nichi",
+    "meaning": "day, sun, Japan, counter for days"
+  },
+  {
+    "kanji": "入",
+    "romaji": "nyuu",
+    "meaning": "enter, insert"
+  },
+  {
+    "kanji": "来",
+    "romaji": "rai",
+    "meaning": "come, due, next, cause, become"
+  },
+  {
+    "kanji": "六",
+    "romaji": "roku",
+    "meaning": "six"
+  },
+  {
+    "kanji": "左",
+    "romaji": "sa",
+    "meaning": "left"
+  },
+  {
+    "kanji": "三",
+    "romaji": "san",
+    "meaning": "three"
+  },
+  {
+    "kanji": "山",
+    "romaji": "san",
+    "meaning": "mountain"
+  },
+  {
+    "kanji": "書",
+    "romaji": "sho",
+    "meaning": "write"
+  },
+  {
+    "kanji": "生",
+    "romaji": "sei",
+    "meaning": "life, genuine, birth"
+  },
+  {
+    "kanji": "西",
+    "romaji": "sei",
+    "meaning": "west, Spain"
+  },
+  {
+    "kanji": "先",
+    "romaji": "sen",
+    "meaning": "before, ahead, previous, future, precedence"
+  },
+  {
+    "kanji": "川",
+    "romaji": "sen",
+    "meaning": "stream, river"
+  },
+  {
+    "kanji": "千",
+    "romaji": "sen",
+    "meaning": "thousand"
+  },
+  {
+    "kanji": "車",
+    "romaji": "sha",
+    "meaning": "car"
+  },
+  {
+    "kanji": "四",
+    "romaji": "shi",
+    "meaning": "four"
+  },
+  {
+    "kanji": "子",
+    "romaji": "shi",
+    "meaning": "child, sign of the rat"
+  },
+  {
+    "kanji": "七",
+    "romaji": "shichi",
+    "meaning": "seven"
+  },
+  {
+    "kanji": "食",
+    "romaji": "shoku",
+    "meaning": "eat, food"
+  },
+  {
+    "kanji": "小",
+    "romaji": "shou",
+    "meaning": "little, small"
+  },
+  {
+    "kanji": "出",
+    "romaji": "shutsu",
+    "meaning": "exit, leave, go out, come out, put out"
+  },
+  {
+    "kanji": "水",
+    "romaji": "sui",
+    "meaning": "water"
+  },
+  {
+    "kanji": "天",
+    "romaji": "ten",
+    "meaning": "heavens, sky, imperial"
+  },
+  {
+    "kanji": "東",
+    "romaji": "tou",
+    "meaning": "east"
+  },
+  {
+    "kanji": "雨",
+    "romaji": "u",
+    "meaning": "rain"
+  },
+  {
+    "kanji": "話",
+    "romaji": "wa",
+    "meaning": "tale, talk"
+  },
+  {
+    "kanji": "友",
+    "romaji": "yuu",
+    "meaning": "friend"
+  },
+  {
+    "kanji": "右",
+    "romaji": "yuu",
+    "meaning": "right"
+  },
+  {
+    "kanji": "前",
+    "romaji": "zen",
+    "meaning": "in front, before"
+  }
+]

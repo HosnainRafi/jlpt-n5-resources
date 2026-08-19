@@ -1,0 +1,316 @@
+{
+  "title": "JLPT N5 – Grammar Exercise 01",
+  "questions": [
+    {
+      "question": 1,
+      "text": "まいにちしんぶん　_______ 読みます。 へ を に が",
+      "options": [
+        "1. まいにちしんぶん　_______ 読みます。",
+        " へ",
+        " を",
+        " に",
+        " が"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "田中さんは　_______ 来ていませんよ。 もう だけ まだ まで",
+      "options": [
+        "2. 田中さんは　_______ 来ていませんよ。",
+        " もう",
+        " だけ",
+        " まだ",
+        " まで"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "ナイフ　_______ パンをきりました。 で を に が",
+      "options": [
+        "3. ナイフ　_______ パンをきりました。",
+        " で",
+        " を",
+        " に",
+        " が"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "家にかえってねたほう　_______ いいですよ。 と に が は",
+      "options": [
+        "4. 家にかえってねたほう　_______ いいですよ。",
+        " と",
+        " に",
+        " が",
+        " は"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "お母さん、もうあそびに　_______ もいいですか？ 行く 行って 行った 行っている",
+      "options": [
+        "5. お母さん、もうあそびに　_______ もいいですか？",
+        " 行く",
+        " 行って",
+        " 行った",
+        " 行っている"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "すいようびには日本語のテスト　_______ 。 はいます はあります がいます があります",
+      "options": [
+        "6. すいようびには日本語のテスト　_______ 。",
+        " はいます",
+        " はあります",
+        " がいます",
+        " があります"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "あなたのかみは　_______ よ。 長ってすぎます 長くすぎます 長いすぎます 長すぎます",
+      "options": [
+        "7. あなたのかみは　_______ よ。",
+        " 長ってすぎます",
+        " 長くすぎます",
+        " 長いすぎます",
+        " 長すぎます"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "わたしはけいかんに　_______ です。 なりたい したい いきたい いたい",
+      "options": [
+        "8. わたしはけいかんに　_______ です。",
+        " なりたい",
+        " したい",
+        " いきたい",
+        " いたい"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "わたしは、これから　_______ に行きます。 およぐ およいで およぎ およいだ",
+      "options": [
+        "9. わたしは、これから　_______ に行きます。",
+        " およぐ",
+        " およいで",
+        " およぎ",
+        " およいだ"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "あの人たちはどこに行っているん　_______ 。 だろう つもりだ から けれども",
+      "options": [
+        "10. あの人たちはどこに行っているん　_______ 。",
+        " だろう",
+        " つもりだ",
+        " から",
+        " けれども"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "2",
+      "explanation": "2 (まいにちしんぶん"
+    },
+    {
+      "question": 2,
+      "answer": "3",
+      "explanation": "3 (田中さんは"
+    },
+    {
+      "question": 3,
+      "answer": "1",
+      "explanation": "1 (ナイフ"
+    },
+    {
+      "question": 4,
+      "answer": "3",
+      "explanation": "3 (家にかえってねたほう"
+    },
+    {
+      "question": 5,
+      "answer": "2",
+      "explanation": "2 (お母さん、もうあそびに"
+    },
+    {
+      "question": 6,
+      "answer": "4",
+      "explanation": "4 (すいようびには日本語のテスト"
+    },
+    {
+      "question": 7,
+      "answer": "4",
+      "explanation": "4 (あなたのかみは"
+    },
+    {
+      "question": 8,
+      "answer": "1",
+      "explanation": "1 (わたしはけいかんに"
+    },
+    {
+      "question": 9,
+      "answer": "3",
+      "explanation": "3 (わたしは、これから"
+    },
+    {
+      "question": 10,
+      "answer": "1",
+      "explanation": "1 (あの人たちはどこに行っているん"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "毎日",
+      "romaji": "mainichi",
+      "en": "every day"
+    },
+    {
+      "jp": "新聞",
+      "romaji": "shinbun",
+      "en": "newspaper"
+    },
+    {
+      "jp": "読む",
+      "romaji": "yomu",
+      "en": "to read"
+    },
+    {
+      "jp": "来る",
+      "romaji": "kuru",
+      "en": "to come, to arrive"
+    },
+    {
+      "jp": "ナイフ: knife",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "パン: bread",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "切る",
+      "romaji": "kiru",
+      "en": "to cut, to sever"
+    },
+    {
+      "jp": "家",
+      "romaji": "ie",
+      "en": "house, residence"
+    },
+    {
+      "jp": "帰る",
+      "romaji": "kaeru",
+      "en": "to return, to come home"
+    },
+    {
+      "jp": "寝る",
+      "romaji": "neru",
+      "en": "to sleep, to lie down"
+    },
+    {
+      "jp": "お母さん",
+      "romaji": "okaasan",
+      "en": "mother"
+    },
+    {
+      "jp": "遊ぶ",
+      "romaji": "asobu",
+      "en": "to play, to enjoy oneself"
+    },
+    {
+      "jp": "水曜日",
+      "romaji": "suiyoubi",
+      "en": "Wednesday"
+    },
+    {
+      "jp": "日本語",
+      "romaji": "nihongo",
+      "en": "Japanese (language)"
+    },
+    {
+      "jp": "テスト: test",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "髪",
+      "romaji": "kami",
+      "en": "hair (on the head)"
+    },
+    {
+      "jp": "長い",
+      "romaji": "nagai",
+      "en": "long"
+    },
+    {
+      "jp": "警官",
+      "romaji": "keikan",
+      "en": "policeman"
+    },
+    {
+      "jp": "泳ぐ",
+      "romaji": "oyogu",
+      "en": "to swim"
+    },
+    {
+      "jp": "人たち",
+      "romaji": "hitotachi",
+      "en": "people"
+    },
+    {
+      "jp": "行く",
+      "romaji": "iku",
+      "en": "to go"
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download this test for offline viewing.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 - Grammar Exercise 02",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-1/"
+}

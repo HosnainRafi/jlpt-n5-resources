@@ -1,0 +1,346 @@
+{
+  "title": "JLPT N5 – Kanji Exercise 12",
+  "questions": [
+    {
+      "question": 1,
+      "text": "母 はかぜをひいていて手があつかったです。 ちち はは あね いもうと",
+      "options": [
+        "1. ",
+        "母",
+        "はかぜをひいていて手があつかったです。",
+        " ちち",
+        " はは",
+        " あね",
+        " いもうと"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "ぎんこう はどこですか。 金行 銀行 良行 傘行",
+      "options": [
+        "2. ",
+        "ぎんこう",
+        "はどこですか。",
+        " 金行",
+        " 銀行",
+        " 良行",
+        " 傘行"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "あの 人 はとても有名です。 にん ひと しと じん",
+      "options": [
+        "3. あの",
+        "人",
+        "はとても有名です。",
+        " にん",
+        " ひと",
+        " しと",
+        " じん"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "わたしは えいご がぜんぜんできません。 英話 英詰 英誘 英語",
+      "options": [
+        "4. わたしは",
+        "えいご",
+        "がぜんぜんできません。",
+        " 英話",
+        " 英詰",
+        " 英誘",
+        " 英語"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "ドアの前に 立って ください。 たって すわって のって とまって",
+      "options": [
+        "5. ドアの前に",
+        "立って",
+        "ください。",
+        " たって",
+        " すわって",
+        " のって",
+        " とまって"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "きのうの ごご へやでラジオをききました。 半後 牛後 午後 干後",
+      "options": [
+        "6. きのうの",
+        "ごご",
+        "へやでラジオをききました。",
+        " 半後",
+        " 牛後",
+        " 午後",
+        " 干後"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "火よう日に 駅 で会いましょう。 へや もん えき うち",
+      "options": [
+        "7. 火よう日に",
+        "駅",
+        "で会いましょう。",
+        " へや",
+        " もん",
+        " えき",
+        " うち"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "ビールを 三本 かいました。 さんほん さんぽん さんぼん みつほん",
+      "options": [
+        "8. ビールを",
+        "三本",
+        "かいました。",
+        " さんほん",
+        " さんぽん",
+        " さんぼん",
+        " みつほん"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "このへやは くらくて さむい。 黒くて 暗くて 晩くて 暮くて",
+      "options": [
+        "9. このへやは",
+        "くらくて",
+        "さむい。",
+        " 黒くて",
+        " 暗くて",
+        " 晩くて",
+        " 暮くて"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "あした れぽーと をだします。 ルポート ルプート レポート レプート",
+      "options": [
+        "10. あした",
+        "れぽーと",
+        "をだします。",
+        " ルポート",
+        " ルプート",
+        " レポート",
+        " レプート"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "2",
+      "explanation": " 母 => はは "
+    },
+    {
+      "question": 2,
+      "answer": "2",
+      "explanation": " ぎんこう => 銀行 "
+    },
+    {
+      "question": 3,
+      "answer": "2",
+      "explanation": " 人 => ひと "
+    },
+    {
+      "question": 4,
+      "answer": "4",
+      "explanation": " えいご => 英語 "
+    },
+    {
+      "question": 5,
+      "answer": "1",
+      "explanation": " 立って => たって "
+    },
+    {
+      "question": 6,
+      "answer": "3",
+      "explanation": " ごご => 午後 "
+    },
+    {
+      "question": 7,
+      "answer": "3",
+      "explanation": " 駅 => えき "
+    },
+    {
+      "question": 8,
+      "answer": "3",
+      "explanation": " 三本 => さんぼん "
+    },
+    {
+      "question": 9,
+      "answer": "2",
+      "explanation": " くらくて => 暗くて "
+    },
+    {
+      "question": 10,
+      "answer": "3",
+      "explanation": " れぽーと => レポート "
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "母: mother",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "かぜをひく: to catch a cold",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "手",
+      "romaji": "te",
+      "en": "hand"
+    },
+    {
+      "jp": "あつい: hot (thing)",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ぎんこう: bank",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "どこ: where",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "人: man, person",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "とても: very, awfully",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "有名",
+      "romaji": "yuumei",
+      "en": "famous, fame"
+    },
+    {
+      "jp": "えいご: English (language)",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ぜんぜん: not at all",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "できる: to be able to do",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "立つ: to stand, to rise, to stand up",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "きのう: yesterday",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ごご: afternoon, p.m.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "へや: room",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ラジオ: radio",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "駅: station",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "会う",
+      "romaji": "au",
+      "en": "to meet, to encounter"
+    },
+    {
+      "jp": "ビール: beer",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "くらい: dark, gloomy",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "さむい: cold (weather)",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "だす: to turn in, to submit",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "あした: tomorrow",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 13",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 11",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-12/"
+}

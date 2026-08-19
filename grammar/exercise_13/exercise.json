@@ -1,0 +1,274 @@
+{
+  "title": "JLPT N5 – Grammar Exercise 13",
+  "questions": [
+    {
+      "question": 1,
+      "text": "きのうはあたたかかったですが、きょうは _______ 。 あたたかかったです あたたかいでした あたたかくないです あたたかくではありません",
+      "options": [
+        "1. きのうはあたたかかったですが、きょうは _______ 。",
+        " あたたかかったです",
+        " あたたかいでした",
+        " あたたかくないです",
+        " あたたかくではありません"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "田中さん _______ 来る日は火よう日です。 を へ で の",
+      "options": [
+        "2. 田中さん _______ 来る日は火よう日です。",
+        " を",
+        " へ",
+        " で",
+        " の"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "あした雨がふるかふらない _______ わかりません。 か",
+      "options": [
+        "が も は"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "どこ _______ 来ましたか。 から",
+      "options": [
+        "だけ など しか"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "テニスをしました。それから、ピンポン _______ しました。 は が も と",
+      "options": [
+        "5. テニスをしました。それから、ピンポン _______ しました。",
+        " は",
+        " が",
+        " も",
+        " と"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "わたしのケーキを _______ ください。 食べなくて 食べないで 食べません 食べない",
+      "options": [
+        "6. わたしのケーキを _______ ください。",
+        " 食べなくて",
+        " 食べないで",
+        " 食べません",
+        " 食べない"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "外国にりょこう _______ 行きます。 が",
+      "options": [
+        "を の に"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "テストが _______ あとでパ－ティ－をします。 おわった おわって おわる おわります",
+      "options": [
+        "8. テストが _______ あとでパ－ティ－をします。",
+        " おわった",
+        " おわって",
+        " おわる",
+        " おわります"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "その大きいにもつはわたし _______ です。 が の や を",
+      "options": [
+        "9. その大きいにもつはわたし _______ です。",
+        " が",
+        " の",
+        " や",
+        " を"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "コーヒーを _______ いかがですか。 いっぱいが いっぱい いっぱいか いっぱいを",
+      "options": [
+        "10. コーヒーを _______ いかがですか。",
+        " いっぱいが",
+        " いっぱい",
+        " いっぱいか",
+        " いっぱいを"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "3",
+      "explanation": "3 (きのうはあたたかかったですが、きょうは"
+    },
+    {
+      "question": 2,
+      "answer": "4",
+      "explanation": "4 (田中さん"
+    },
+    {
+      "question": 3,
+      "answer": "1",
+      "explanation": "1 (あした雨がふるかふらない"
+    },
+    {
+      "question": 4,
+      "answer": "1",
+      "explanation": "1 (どこ"
+    },
+    {
+      "question": 5,
+      "answer": "3",
+      "explanation": "3 (テニスをしました。それから、ピンポン"
+    },
+    {
+      "question": 6,
+      "answer": "2",
+      "explanation": "2 (わたしのケーキを"
+    },
+    {
+      "question": 7,
+      "answer": "4",
+      "explanation": "4 (外国にりょこう"
+    },
+    {
+      "question": 8,
+      "answer": "1",
+      "explanation": "1 (テストが"
+    },
+    {
+      "question": 9,
+      "answer": "2",
+      "explanation": "2 (その大きいにもつはわたし"
+    },
+    {
+      "question": 10,
+      "answer": "2",
+      "explanation": "2 (コーヒーを"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "暖かい",
+      "romaji": "atatakai",
+      "en": "warm, mild"
+    },
+    {
+      "jp": "来る",
+      "romaji": "kuru",
+      "en": "to come, to arrive"
+    },
+    {
+      "jp": "日",
+      "romaji": "hi",
+      "en": "day"
+    },
+    {
+      "jp": "火曜日",
+      "romaji": "kayoubi",
+      "en": "Tuesday"
+    },
+    {
+      "jp": "明日",
+      "romaji": "ashita",
+      "en": "tomorrow"
+    },
+    {
+      "jp": "雨",
+      "romaji": "ame",
+      "en": "rain"
+    },
+    {
+      "jp": "降る",
+      "romaji": "furu",
+      "en": "to fall (rain)"
+    },
+    {
+      "jp": "分かる",
+      "romaji": "wakaru",
+      "en": "to be understood"
+    },
+    {
+      "jp": "テニス: tennis",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "それから: and then, after that",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ピンポン: table tennis",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ケーキ: cake",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "外国",
+      "romaji": "gaikoku",
+      "en": "foreign country"
+    },
+    {
+      "jp": "終わる",
+      "romaji": "owaru",
+      "en": "to finish, to end"
+    },
+    {
+      "jp": "荷物",
+      "romaji": "nimotsu",
+      "en": "luggage, baggage"
+    },
+    {
+      "jp": "いっぱい: a cup of…",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 - Grammar Exercise 14",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 - Grammar Exercise 12",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-13/"
+}

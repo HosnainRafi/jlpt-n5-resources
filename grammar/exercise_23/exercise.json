@@ -1,0 +1,315 @@
+{
+  "title": "JLPT N5 – Grammar Exercise 23",
+  "questions": [
+    {
+      "question": 1,
+      "text": "わたしの旅行中、　_______　_______　…★… _______　を忘れないです。 の 花に やる 水を",
+      "options": [
+        "1. わたしの旅行中、　_______　_______　…★… _______　を忘れないです。",
+        " の",
+        " 花に",
+        " やる",
+        " 水を"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "いまは　_______　_______　…★… _______　です。 おなかが いたいですから たべたくない 何も",
+      "options": [
+        "2. いまは　_______　_______　…★… _______　です。",
+        " おなかが",
+        " いたいですから",
+        " たべたくない",
+        " 何も"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "_______　_______　…★… _______　かかります。 かいしゃまで バスで うちから ３０分ぐらい",
+      "options": [
+        "3. _______　_______　…★… _______　かかります。",
+        " かいしゃまで",
+        " バスで",
+        " うちから",
+        " ３０分ぐらい"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "ここは　_______　_______　…★… _______　できます。 入る でも だれ ことが",
+      "options": [
+        "4. ここは　_______　_______　…★… _______　できます。",
+        " 入る",
+        " でも",
+        " だれ",
+        " ことが"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "男１　「これ、使ってもいいですか。」 男２　「どうぞ。でもあまりきれいじゃないですか、　_______　_______　…★… _______　。」 使って 洗って ください から",
+      "options": [
+        "「１」から「５」に何を入れますか。１・２・３・４からいちばんいいものを一つえらんでください。",
+        "今日はあさから雨が「１」。今７時はんです。わたしは日本語センターのロビーにいます。「２」テレビを見ています。わたしはまいあさ「３」。",
+        "マリさんはしんぶんを読んでいます。キムさんはまどの近く「４」日本語をべんきょうしています。キムさんはまいあさ２じかんべんきょうします。",
+        "まいあさ９時からしけんがあります。キムさんは「５」。"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "「１」に何を入れますか。 ふっています ふります ふっていました ふりました",
+      "options": [
+        "6. 「１」に何を入れますか。",
+        " ふっています",
+        " ふります",
+        " ふっていました",
+        " ふりました"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "「２」に何を入れますか。 だから しかし そして けれど",
+      "options": [
+        "7. 「２」に何を入れますか。",
+        " だから",
+        " しかし",
+        " そして",
+        " けれど"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "「３」に何を入れますか。 ８時からテレビを見ます ７時からテレビを見ます ８時からテレビを見ています ７時からテレビを見ました",
+      "options": [
+        "8. 「３」に何を入れますか。",
+        " ８時からテレビを見ます",
+        " ７時からテレビを見ます",
+        " ８時からテレビを見ています",
+        " ７時からテレビを見ました"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "「４」に何を入れますか。 に へ で の",
+      "options": [
+        "9. 「４」に何を入れますか。",
+        " に",
+        " へ",
+        " で",
+        " の"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "「５」に何を入れますか。 いつもべんきょうしません いつもよくべんきょうします ときどきべんきょうしません ときどきよくべんきょうします",
+      "options": [
+        "10. 「５」に何を入れますか。",
+        " いつもべんきょうしません",
+        " いつもよくべんきょうします",
+        " ときどきべんきょうしません",
+        " ときどきよくべんきょうします"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "3",
+      "explanation": ""
+    },
+    {
+      "question": 2,
+      "answer": "4",
+      "explanation": ""
+    },
+    {
+      "question": 3,
+      "answer": "2",
+      "explanation": ""
+    },
+    {
+      "question": 4,
+      "answer": "1",
+      "explanation": ""
+    },
+    {
+      "question": 5,
+      "answer": "1",
+      "explanation": ""
+    },
+    {
+      "question": 6,
+      "answer": "1",
+      "explanation": ""
+    },
+    {
+      "question": 7,
+      "answer": "3",
+      "explanation": ""
+    },
+    {
+      "question": 8,
+      "answer": "2",
+      "explanation": ""
+    },
+    {
+      "question": 9,
+      "answer": "3",
+      "explanation": ""
+    },
+    {
+      "question": 10,
+      "answer": "2",
+      "explanation": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "お腹",
+      "romaji": "onaka",
+      "en": "stomach"
+    },
+    {
+      "jp": "洗う",
+      "romaji": "arau",
+      "en": "to wash"
+    },
+    {
+      "jp": "朝",
+      "romaji": "asa",
+      "en": "morning"
+    },
+    {
+      "jp": "センター: centre, center",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ロビー: lobby, lounge",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "テレビ: television, TV",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "だから: so, therefore",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "しかし: however, but",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "そして: and, and then",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "けれど: but, however",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "窓",
+      "romaji": "mado",
+      "en": "window"
+    },
+    {
+      "jp": "近く",
+      "romaji": "chikaku",
+      "en": "near, vicinity"
+    },
+    {
+      "jp": "試験",
+      "romaji": "shiken",
+      "en": "test, examination"
+    },
+    {
+      "jp": "よく: often, frequently",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Grammar Audio Lesson Part 1 (free).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Grammar Audio Lesson Part 2 to Part 6 (requires paid membership).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Vocabulary Audio Lesson Part 1 (free).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Vocabulary Audio Lesson Part 2 to Part 21 (requires paid membership).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Grammar Exercise 24",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Grammar Exercise 22",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-23/"
+}

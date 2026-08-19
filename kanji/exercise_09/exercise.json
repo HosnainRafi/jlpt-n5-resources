@@ -1,0 +1,286 @@
+{
+  "title": "JLPT N5 – Kanji Exercise 09",
+  "questions": [
+    {
+      "question": 1,
+      "text": "今月 こんつき こんげつ いまつき こんがつ",
+      "options": [
+        "1. 今月",
+        " こんつき",
+        " こんげつ",
+        " いまつき",
+        " こんがつ"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "五日 ごにち ごひ いつか いっか",
+      "options": [
+        "2. 五日",
+        " ごにち",
+        " ごひ",
+        " いつか",
+        " いっか"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "話 はなし",
+      "options": [
+        "ばなし わ ごん",
+        "えきの まえ でバスをおります。そして、 みなみ のほうへ100メートルぐらい いって ください。 ひだり がわに おおきい ホテルがあります。"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "まえ 下",
+      "options": [
+        "後 上 前"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "みなみ 北 東 南 西",
+      "options": [
+        "5. みなみ",
+        " 北",
+        " 東",
+        " 南",
+        " 西"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "いって 来て 行って 着て 住て",
+      "options": [
+        "6. いって",
+        " 来て",
+        " 行って",
+        " 着て",
+        " 住て"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "ひだり 左",
+      "options": [
+        "右 石 在"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "おおきい 小きい 太きい 大きい 少きい",
+      "options": [
+        "おふろに 入って すこし 休んで から、べんきょうします。"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "入って いって はいって はって いて",
+      "options": [
+        "9. 入って",
+        " いって",
+        " はいって",
+        " はって",
+        " いて"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "休んで やすんで すすんで ぬすんで やんで",
+      "options": [
+        "10. 休んで",
+        " やすんで",
+        " すすんで",
+        " ぬすんで",
+        " やんで"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "2",
+      "explanation": "今月: こんげつ"
+    },
+    {
+      "question": 2,
+      "answer": "3",
+      "explanation": "五日: いつか"
+    },
+    {
+      "question": 3,
+      "answer": "1",
+      "explanation": "話: はなし"
+    },
+    {
+      "question": 4,
+      "answer": "4",
+      "explanation": "まえ: 前"
+    },
+    {
+      "question": 5,
+      "answer": "3",
+      "explanation": "みなみ: 南"
+    },
+    {
+      "question": 6,
+      "answer": "2",
+      "explanation": "いって: 行って"
+    },
+    {
+      "question": 7,
+      "answer": "1",
+      "explanation": "ひだり: 左"
+    },
+    {
+      "question": 8,
+      "answer": "3",
+      "explanation": "おおきい: 大きい"
+    },
+    {
+      "question": 9,
+      "answer": "2",
+      "explanation": "入って: はいって"
+    },
+    {
+      "question": 10,
+      "answer": "1",
+      "explanation": "休んで: やすんで"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "今月: this month",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "五日: fifth day of the month, five days",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "話: talk, speech, chat, conversation",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "えき: station",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "まえ: before, in front of",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "バス: bus",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "おりる: to descend, to go down",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "そして: and, and then",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "みなみ: south",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "メートル: meter",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "いく: to go, to proceed",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ひだりがわ: left, left hand side",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "おおきい: big, large, great",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ホテル: hotel",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "おふろ: bath",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "入る: to get in, to go in",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "すこし: little, few",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "休む: to rest, to have a break, to take a day off",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "べんきょう: study, diligence",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 10",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 08",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-9/"
+}

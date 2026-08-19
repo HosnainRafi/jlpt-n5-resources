@@ -1,0 +1,331 @@
+{
+  "title": "JLPT N5 – Kanji Exercise 14",
+  "questions": [
+    {
+      "question": 1,
+      "text": "この門は子どもの力では 開けられません 。 あけられません うけられません かけられません つけられません",
+      "options": [
+        "1. この門は子どもの力では",
+        "開けられません",
+        "。",
+        " あけられません",
+        " うけられません",
+        " かけられません",
+        " つけられません"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "パンを はんぶん たべました。 半部 半分 平部 平分",
+      "options": [
+        "2. パンを",
+        "はんぶん",
+        "たべました。",
+        " 半部",
+        " 半分",
+        " 平部",
+        " 平分"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "きょうは お金 がたくさんあります。 おぎん おかね おがね おきん",
+      "options": [
+        "3. きょうは",
+        "お金",
+        "がたくさんあります。",
+        " おぎん",
+        " おかね",
+        " おがね",
+        " おきん"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "このレストランの りょうり はおいしいです。 科理 料理 科里 料里",
+      "options": [
+        "4. このレストランの",
+        "りょうり",
+        "はおいしいです。",
+        " 科理",
+        " 料理",
+        " 科里",
+        " 料里"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "これは一つ 千円 です。 せいえん せいねん せんねん せんえん",
+      "options": [
+        "5. これは一つ",
+        "千円",
+        "です。",
+        " せいえん",
+        " せいねん",
+        " せんねん",
+        " せんえん"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "こどもたちはかわで およいで います。 凍いで 水いで 氷いで 泳いで",
+      "options": [
+        "6. こどもたちはかわで",
+        "およいで",
+        "います。",
+        " 凍いで",
+        " 水いで",
+        " 氷いで",
+        " 泳いで"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "これは なん ですか。 同 何 向 伺",
+      "options": [
+        "7. これは",
+        "なん",
+        "ですか。",
+        " 同",
+        " 何",
+        " 向",
+        " 伺"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "今日はじゅうがつ 十日 です。 とおか とうか じゅうか じゅっか",
+      "options": [
+        "8. 今日はじゅうがつ",
+        "十日",
+        "です。",
+        " とおか",
+        " とうか",
+        " じゅうか",
+        " じゅっか"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "この 道 を百メートいってください。左にこうばんがあります。 かど はし へん みち",
+      "options": [
+        "9. この",
+        "道",
+        "を百メートいってください。左にこうばんがあります。",
+        " かど",
+        " はし",
+        " へん",
+        " みち"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "このへやは せまい です。 広い 小い 高い 狭い",
+      "options": [
+        "10. このへやは",
+        "せまい",
+        "です。",
+        " 広い",
+        " 小い",
+        " 高い",
+        " 狭い"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "1",
+      "explanation": " 開けられません => あけられません "
+    },
+    {
+      "question": 2,
+      "answer": "2",
+      "explanation": " はんぶん => 半分 "
+    },
+    {
+      "question": 3,
+      "answer": "2",
+      "explanation": " お金 => おかね "
+    },
+    {
+      "question": 4,
+      "answer": "2",
+      "explanation": " りょうり => 料理 "
+    },
+    {
+      "question": 5,
+      "answer": "4",
+      "explanation": " 千円 => せんえん "
+    },
+    {
+      "question": 6,
+      "answer": "4",
+      "explanation": " およいで => 泳いで "
+    },
+    {
+      "question": 7,
+      "answer": "2",
+      "explanation": " なん => 何 "
+    },
+    {
+      "question": 8,
+      "answer": "1",
+      "explanation": " 十日 => とおか "
+    },
+    {
+      "question": 9,
+      "answer": "4",
+      "explanation": " 道 => みち "
+    },
+    {
+      "question": 10,
+      "answer": "4",
+      "explanation": " せまい => 狭い "
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "門",
+      "romaji": "mon",
+      "en": "gate"
+    },
+    {
+      "jp": "子ども",
+      "romaji": "kodomo",
+      "en": "child, children"
+    },
+    {
+      "jp": "力",
+      "romaji": "chikara",
+      "en": "force, strength"
+    },
+    {
+      "jp": "開ける: to open",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "パン: bread",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "はんぶん: half",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "たくさん: many, a lot",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "レストラン: restaurant",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "りょうり: cooking, cuisine",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "おいしい: delicious, tasty",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "一つ",
+      "romaji": "hitotsu",
+      "en": "one"
+    },
+    {
+      "jp": "かわ: river, stream",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "およぐ: to swim",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "今日",
+      "romaji": "kyou",
+      "en": "today, this day"
+    },
+    {
+      "jp": "じゅうがつ: October",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "十日: tenth day of the month, ten days",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "道: road, street, way",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "百",
+      "romaji": "hyaku",
+      "en": "hundred"
+    },
+    {
+      "jp": "左",
+      "romaji": "hidari",
+      "en": "left, left hand side"
+    },
+    {
+      "jp": "こうばん: police box",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "せまい: narrow, confined, small",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 15",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 13",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-14/"
+}

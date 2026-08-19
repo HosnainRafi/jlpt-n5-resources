@@ -1,0 +1,331 @@
+{
+  "title": "JLPT N5 – Kanji Exercise 18",
+  "questions": [
+    {
+      "question": 1,
+      "text": "ははと やま にのぼりました。 上 山 止 凸",
+      "options": [
+        "1. ははと",
+        "やま",
+        "にのぼりました。",
+        " 上",
+        " 山",
+        " 止",
+        " 凸"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "きのうじゅぎょうに 遅れました 。 おかれました おくれました おそれました およれました",
+      "options": [
+        "2. きのうじゅぎょうに",
+        "遅れました",
+        "。",
+        " おかれました",
+        " おくれました",
+        " おそれました",
+        " およれました"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "きのうは ゆうはん にぎゅうにくをたべた。 夕飲 夕飯 夜飲 夜飯",
+      "options": [
+        "3. きのうは",
+        "ゆうはん",
+        "にぎゅうにくをたべた。",
+        " 夕飲",
+        " 夕飯",
+        " 夜飲",
+        " 夜飯"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "また 病気 になりました。 びょうき ぴょうき ひょうき ひょうぎ",
+      "options": [
+        "4. また",
+        "病気",
+        "になりました。",
+        " びょうき",
+        " ぴょうき",
+        " ひょうき",
+        " ひょうぎ"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "きかいは ただしく つかってください。 止しく 丘して 正しく 疋しく",
+      "options": [
+        "5. きかいは",
+        "ただしく",
+        "つかってください。",
+        " 止しく",
+        " 丘して",
+        " 正しく",
+        " 疋しく"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "きょうしつに 何人 いますか。 なにじん なににん なんじん なんにん",
+      "options": [
+        "6. きょうしつに",
+        "何人",
+        "いますか。",
+        " なにじん",
+        " なににん",
+        " なんじん",
+        " なんにん"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "こんしゅうは てんき がよかった。 天気 天汽 矢気 矢汽",
+      "options": [
+        "7. こんしゅうは",
+        "てんき",
+        "がよかった。",
+        " 天気",
+        " 天汽",
+        " 矢気",
+        " 矢汽"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "人によって考え方も 違います 。 ちがいます ちかいます かたいます おもいます",
+      "options": [
+        "8. 人によって考え方も",
+        "違います",
+        "。",
+        " ちがいます",
+        " ちかいます",
+        " かたいます",
+        " おもいます"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "それはいい かめら ですね。 刀メラ カメヲ 刀メヲ カメラ",
+      "options": [
+        "9. それはいい",
+        "かめら",
+        "ですね。",
+        " 刀メラ",
+        " カメヲ",
+        " 刀メヲ",
+        " カメラ"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "ことし のふゆやすみにくにへかえります。 令年 来年 今年 金年",
+      "options": [
+        "10. ",
+        "ことし",
+        "のふゆやすみにくにへかえります。",
+        " 令年",
+        " 来年",
+        " 今年",
+        " 金年"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "2",
+      "explanation": " やま => 山 "
+    },
+    {
+      "question": 2,
+      "answer": "2",
+      "explanation": " 遅れました => おくれました "
+    },
+    {
+      "question": 3,
+      "answer": "2",
+      "explanation": " ゆうはん => 夕飯 "
+    },
+    {
+      "question": 4,
+      "answer": "1",
+      "explanation": " 病気 => びょうき "
+    },
+    {
+      "question": 5,
+      "answer": "3",
+      "explanation": " ただしく => 正しく "
+    },
+    {
+      "question": 6,
+      "answer": "4",
+      "explanation": " 何人 => なんにん "
+    },
+    {
+      "question": 7,
+      "answer": "1",
+      "explanation": " てんき => 天気 "
+    },
+    {
+      "question": 8,
+      "answer": "1",
+      "explanation": " 違います => ちがいます "
+    },
+    {
+      "question": 9,
+      "answer": "4",
+      "explanation": " かめら => カメラ "
+    },
+    {
+      "question": 10,
+      "answer": "3",
+      "explanation": " ことし => 今年 "
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "やま: mountain",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "のぼる: to ascend, to go up, to climb",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "きのう: yesterday",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "じゅぎょう: lesson, class work",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "遅れる: to be late, to be overdue",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ゆうはん: evening meal",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ぎゅうにく: beef",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "また: again, also",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "病気: illness, disease, sickness",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "きかい: machine, mechanism",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ただしい: right, just, correct",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "きょうしつ: classroom",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "何人: how many people",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "こんしゅう: this week",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "てんき: weather",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "考え方",
+      "romaji": "kangaekata",
+      "en": "way of thinking"
+    },
+    {
+      "jp": "違う: to vary, to differ",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ことし: this year",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ふゆやすみ: winter vacation",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "くに: country",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "かえる: to return, to go back",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 19",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 17",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-18/"
+}

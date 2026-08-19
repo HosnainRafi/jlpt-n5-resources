@@ -1,0 +1,346 @@
+{
+  "title": "JLPT N5 – Kanji Exercise 16",
+  "questions": [
+    {
+      "question": 1,
+      "text": "今月 のとおかにえんそくにいきます。 こんげつ こんがつ ほんげつ ほんがつ",
+      "options": [
+        "1. ",
+        "今月",
+        "のとおかにえんそくにいきます。",
+        " こんげつ",
+        " こんがつ",
+        " ほんげつ",
+        " ほんがつ"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "北のまちに 電車 ででかけました。 てんしゃ てんじゃ でんしゃ でんじゃ",
+      "options": [
+        "2. 北のまちに",
+        "電車",
+        "ででかけました。",
+        " てんしゃ",
+        " てんじゃ",
+        " でんしゃ",
+        " でんじゃ"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "このかばんを だいじ につかっています。 大字 大事 犬字 犬事",
+      "options": [
+        "3. このかばんを",
+        "だいじ",
+        "につかっています。",
+        " 大字",
+        " 大事",
+        " 犬字",
+        " 犬事"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "あの えいがかん はおとがいいです。 眩写館 映写館 映画館 眩画館",
+      "options": [
+        "4. あの",
+        "えいがかん",
+        "はおとがいいです。",
+        " 眩写館",
+        " 映写館",
+        " 映画館",
+        " 眩画館"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "ちちはいましんぶんを 読んで います。 よんで のんで とんで しんで",
+      "options": [
+        "5. ちちはいましんぶんを",
+        "読んで",
+        "います。",
+        " よんで",
+        " のんで",
+        " とんで",
+        " しんで"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "父は目も 耳 もおおきい。 くち あたま みみ からだ",
+      "options": [
+        "6. 父は目も",
+        "耳",
+        "もおおきい。",
+        " くち",
+        " あたま",
+        " みみ",
+        " からだ"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "そのほんを みせて ください。 目せて 覚せて 聞せて 見せて",
+      "options": [
+        "7. そのほんを",
+        "みせて",
+        "ください。",
+        " 目せて",
+        " 覚せて",
+        " 聞せて",
+        " 見せて"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "わたしのこどもは はな がすきです。 衣 芘 笩 花",
+      "options": [
+        "8. わたしのこどもは",
+        "はな",
+        "がすきです。",
+        " 衣",
+        " 芘",
+        " 笩",
+        " 花"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "らいねん 外国 へりゅうがくにいきます。 がいこく がいごく かいこく かいごく",
+      "options": [
+        "9. らいねん",
+        "外国",
+        "へりゅうがくにいきます。",
+        " がいこく",
+        " がいごく",
+        " かいこく",
+        " かいごく"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "妹 の代わりに手紙を書きました。 いもと むすめ いもうと むすうめ",
+      "options": [
+        "10. ",
+        "妹",
+        "の代わりに手紙を書きました。",
+        " いもと",
+        " むすめ",
+        " いもうと",
+        " むすうめ"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "1",
+      "explanation": " 今月 => こんげつ "
+    },
+    {
+      "question": 2,
+      "answer": "3",
+      "explanation": " 電車 => でんしゃ "
+    },
+    {
+      "question": 3,
+      "answer": "2",
+      "explanation": " だいじ => 大事 "
+    },
+    {
+      "question": 4,
+      "answer": "3",
+      "explanation": " えいがかん => 映画館 "
+    },
+    {
+      "question": 5,
+      "answer": "1",
+      "explanation": " 読んで => よんで "
+    },
+    {
+      "question": 6,
+      "answer": "3",
+      "explanation": " 耳 => みみ "
+    },
+    {
+      "question": 7,
+      "answer": "4",
+      "explanation": " みせて => 見せて "
+    },
+    {
+      "question": 8,
+      "answer": "4",
+      "explanation": " はな => 花 "
+    },
+    {
+      "question": 9,
+      "answer": "1",
+      "explanation": " 外国 => がいこく "
+    },
+    {
+      "question": 10,
+      "answer": "3",
+      "explanation": " 妹 => いもうと "
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "今月: this month",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "とおか: tenth day of the month, ten days",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "えんそく: excursion, outing, trip",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "北",
+      "romaji": "kita",
+      "en": "north"
+    },
+    {
+      "jp": "電車: (electric) train",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "でかける: to depart, to go out",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "かばん: bag",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "だいじ: important, valuable",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "つかう: to use, to make use of",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "えいがかん: movie theater, cinema",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "おと: sound, noise",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "いま: now, the present time",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "しんぶん: newspaper",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "読む: to read",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "目",
+      "romaji": "me",
+      "en": "eye"
+    },
+    {
+      "jp": "耳: ear",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ほん: book",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "みせる: to show, to display",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "外国: foreign country",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "りゅうがく: studying abroad",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "妹: younger sister",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "代わりに",
+      "romaji": "kawari ni",
+      "en": "instead of"
+    },
+    {
+      "jp": "手紙",
+      "romaji": "tegami",
+      "en": "letter"
+    },
+    {
+      "jp": "書く",
+      "romaji": "kaku",
+      "en": "to write"
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 17",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Kanji Exercise 15",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-16/"
+}

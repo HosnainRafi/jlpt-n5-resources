@@ -1,0 +1,296 @@
+{
+  "title": "JLPT N5 – Reading Exercise 08",
+  "questions": [
+    {
+      "question": 1,
+      "text": "ただしいものはどれですか。 山の上まで２時間あるきました。 ひるごはんをつくってつかれました。 ２時間休んでひるごはんを食べました。 つかれたからもう山へ行きたくないです。",
+      "options": [
+        "Reading Passage 2",
+        "わたしはきょねんの１０月に日本へ来ました。今、とうきょうのアパートにひとりですんでいます。へやはひろいですが、駅からとおいからべんりじゃありません。もっと駅にちかいへやにすみたいです。でも、駅にちかいへやは高いです。"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "ただしいものはどれですか。 わたしのへやは駅からとおいですが、ひろいです。 わたしのへやは駅にちかいですが、少し高いです。 わたしのへやは駅にちかいですが、ひとくありません。 わたしのへやは駅から少しとおいですが、べんりです。",
+      "options": [
+        "Reading Passage 3",
+        "明日車で中山へ行く。うちから山までふつうは３時間ぐらいかかる。でも、明日は土曜日で、道がこむから、少し早く家を出たほうがいいだろう。１１時までには山に着きたい。着いたら、すぐ昼ごはんを食べるつもりだ。",
+        "中山には美しい湖があって、たくさんの人が遊びに来る。天気がよければ、泳いだり、魚をつったりすることができる。ふねにも乗れる。わたしは、魚がつりたい。でも、天気があまりよくなかったら、つりはやめて、山でめずらしい花や鳥を見ようと思う。",
+        "湖のそばににんぎょうの美術館がある。日本のだけでなく、世界中のにんぎょうがかざってあるらしい。時間があったら、見てみたい。帰りにいなかの家によって、両親と一緒に晩ご飯を食べるつもりだ。母の料理はひさしぶりなので、とてもたのしみだ。"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "明日この人はどうして早く出かけますか。 土曜日で車が多いから 美しい湖があるから めずらしい花や鳥がいるから あまり天気がよくないから",
+      "options": [
+        "3. 明日この人はどうして早く出かけますか。",
+        " 土曜日で車が多いから",
+        " 美しい湖があるから",
+        " めずらしい花や鳥がいるから",
+        " あまり天気がよくないから"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "この人は明日天気がよかったら、何をしますか。 花や鳥を見ます 湖で泳ぎます ふねに乗ります 魚をつります",
+      "options": [
+        "4. この人は明日天気がよかったら、何をしますか。",
+        " 花や鳥を見ます",
+        " 湖で泳ぎます",
+        " ふねに乗ります",
+        " 魚をつります"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "この人は美術館に行きますか。 行かないつもりです 行くかもしれません 行きません 行きたくないです",
+      "options": [
+        "5. この人は美術館に行きますか。",
+        " 行かないつもりです",
+        " 行くかもしれません",
+        " 行きません",
+        " 行きたくないです"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "1",
+      "explanation": "1 (ただしいものはどれですか。=>"
+    },
+    {
+      "question": 2,
+      "answer": "1",
+      "explanation": "1 (ただしいものはどれですか。=>"
+    },
+    {
+      "question": 3,
+      "answer": "1",
+      "explanation": "1 (明日この人はどうして早く出かけますか。=>"
+    },
+    {
+      "question": 4,
+      "answer": "4",
+      "explanation": "4 (この人は明日天気がよかったら、何をしますか。=>"
+    },
+    {
+      "question": 5,
+      "answer": "2",
+      "explanation": "2 (この人は美術館に行きますか。=>"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "山",
+      "romaji": "yama",
+      "en": "mountain"
+    },
+    {
+      "jp": "着く",
+      "romaji": "tsuku",
+      "en": "to arrive at, to reach"
+    },
+    {
+      "jp": "疲れる",
+      "romaji": "tsukareru",
+      "en": "to get tired, to tire"
+    },
+    {
+      "jp": "楽しい",
+      "romaji": "tanoshii",
+      "en": "enjoyable, fun"
+    },
+    {
+      "jp": "住む",
+      "romaji": "sumu",
+      "en": "to live"
+    },
+    {
+      "jp": "部屋",
+      "romaji": "heya",
+      "en": "room"
+    },
+    {
+      "jp": "広い",
+      "romaji": "hiroi",
+      "en": "spacious, vast, wide"
+    },
+    {
+      "jp": "遠い",
+      "romaji": "tooi",
+      "en": "far, distant"
+    },
+    {
+      "jp": "便利",
+      "romaji": "benri",
+      "en": "convenient, handy, useful"
+    },
+    {
+      "jp": "近い",
+      "romaji": "chikai",
+      "en": "near, close, short (distance)"
+    },
+    {
+      "jp": "車",
+      "romaji": "kuruma",
+      "en": "car"
+    },
+    {
+      "jp": "普通",
+      "romaji": "futsuu",
+      "en": "general, ordinary, normally"
+    },
+    {
+      "jp": "道",
+      "romaji": "michi",
+      "en": "road, street, way"
+    },
+    {
+      "jp": "混む",
+      "romaji": "komu",
+      "en": "to be crowded, to be packed"
+    },
+    {
+      "jp": "美しい",
+      "romaji": "utsukushii",
+      "en": "beautiful, lovely"
+    },
+    {
+      "jp": "湖",
+      "romaji": "mizuumi",
+      "en": "lake"
+    },
+    {
+      "jp": "泳ぐ",
+      "romaji": "oyogu",
+      "en": "to swim"
+    },
+    {
+      "jp": "魚",
+      "romaji": "sakana",
+      "en": "fish"
+    },
+    {
+      "jp": "釣る",
+      "romaji": "tsuru",
+      "en": "to fish"
+    },
+    {
+      "jp": "船",
+      "romaji": "fune",
+      "en": "ship, boat"
+    },
+    {
+      "jp": "止める",
+      "romaji": "yameru",
+      "en": "to end, to stop, to cease"
+    },
+    {
+      "jp": "珍しい",
+      "romaji": "mezurashii",
+      "en": "unusual, rare"
+    },
+    {
+      "jp": "花",
+      "romaji": "hana",
+      "en": "flower"
+    },
+    {
+      "jp": "鳥",
+      "romaji": "tori",
+      "en": "bird"
+    },
+    {
+      "jp": "そば: near, close, vicinity",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "人形",
+      "romaji": "ningyou",
+      "en": "doll, puppet"
+    },
+    {
+      "jp": "美術館",
+      "romaji": "bijutsukan",
+      "en": "art gallery, art museum"
+    },
+    {
+      "jp": "世界中",
+      "romaji": "sekaijuu",
+      "en": "throughout the world"
+    },
+    {
+      "jp": "飾る",
+      "romaji": "kazaru",
+      "en": "to decorate"
+    },
+    {
+      "jp": "田舎",
+      "romaji": "inaka",
+      "en": "rural area, countryside"
+    },
+    {
+      "jp": "両親",
+      "romaji": "ryoushin",
+      "en": "parents, both parents"
+    },
+    {
+      "jp": "晩ご飯",
+      "romaji": "bangohan",
+      "en": "dinner"
+    },
+    {
+      "jp": "ひさしぶり: a long time (since the last time)",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "楽しみ",
+      "romaji": "tanoshimi",
+      "en": "anticipation, looking forward to"
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Reading Exercise 09",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Reading Exercise 07",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [
+    "https://japanesetest4you.com/image/jlpt-n5-reading-8-01.gif",
+    "https://japanesetest4you.com/image/jlpt-n5-reading-8-02.gif",
+    "https://japanesetest4you.com/image/jlpt-n5-reading-8-03.gif"
+  ],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-reading-exercise-08/"
+}

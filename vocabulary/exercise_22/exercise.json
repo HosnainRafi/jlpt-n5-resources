@@ -1,0 +1,416 @@
+{
+  "title": "JLPT N5 – Vocabulary Exercise 22",
+  "questions": [
+    {
+      "question": 1,
+      "text": "なつやすみにやまに _______ 。 あけました あげました のりました のぼりました",
+      "options": [
+        "1. なつやすみにやまに _______ 。",
+        " あけました",
+        " あげました",
+        " のりました",
+        " のぼりました"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "かぞくが　_______　だいじだとおもいます。 また いちばん ひとり さいしょに",
+      "options": [
+        "2. かぞくが　_______　だいじだとおもいます。",
+        " また",
+        " いちばん",
+        " ひとり",
+        " さいしょに"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "さようなら。 _______ あした。 また もう いかが しかし",
+      "options": [
+        "3. さようなら。 _______ あした。",
+        " また",
+        " もう",
+        " いかが",
+        " しかし"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "ここでたばこを _______ ぐださい。 かけないで きえないで すわないで つかないで",
+      "options": [
+        "4. ここでたばこを _______ ぐださい。",
+        " かけないで",
+        " きえないで",
+        " すわないで",
+        " つかないで"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "おんがくが　_______　か。 みえます みせます ききます きこえます",
+      "options": [
+        "5. おんがくが　_______　か。",
+        " みえます",
+        " みせます",
+        " ききます",
+        " きこえます"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "あのゆうびんきょくの　_______ で止めてください。 あと まえ した うえ",
+      "options": [
+        "6. あのゆうびんきょくの　_______ で止めてください。",
+        " あと",
+        " まえ",
+        " した",
+        " うえ"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "あの　_______ をかぶっているひとがたなかさんです。 くつした とけい ぼうし めがね",
+      "options": [
+        "7. あの　_______ をかぶっているひとがたなかさんです。",
+        " くつした",
+        " とけい",
+        " ぼうし",
+        " めがね"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "この　_______　ではたらきたいです。 せき かいしゃ げんかん みち",
+      "options": [
+        "8. この　_______　ではたらきたいです。",
+        " せき",
+        " かいしゃ",
+        " げんかん",
+        " みち"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "さむいですね。まどを _______ ください。 おして きって けして しめて",
+      "options": [
+        "9. さむいですね。まどを _______ ください。",
+        " おして",
+        " きって",
+        " けして",
+        " しめて"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "たまごは _______ いりますか。 なんこ なんさつ なんだい なんまい",
+      "options": [
+        "10. たまごは _______ いりますか。",
+        " なんこ",
+        " なんさつ",
+        " なんだい",
+        " なんまい"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "4",
+      "explanation": ""
+    },
+    {
+      "question": 2,
+      "answer": "2",
+      "explanation": ""
+    },
+    {
+      "question": 3,
+      "answer": "1",
+      "explanation": ""
+    },
+    {
+      "question": 4,
+      "answer": "3",
+      "explanation": ""
+    },
+    {
+      "question": 5,
+      "answer": "4",
+      "explanation": ""
+    },
+    {
+      "question": 6,
+      "answer": "2",
+      "explanation": ""
+    },
+    {
+      "question": 7,
+      "answer": "3",
+      "explanation": ""
+    },
+    {
+      "question": 8,
+      "answer": "2",
+      "explanation": ""
+    },
+    {
+      "question": 9,
+      "answer": "4",
+      "explanation": ""
+    },
+    {
+      "question": 10,
+      "answer": "1",
+      "explanation": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "夏休み",
+      "romaji": "natsuyasumi",
+      "en": "summer vacation, summer holiday"
+    },
+    {
+      "jp": "山",
+      "romaji": "yama",
+      "en": "mountain"
+    },
+    {
+      "jp": "開ける",
+      "romaji": "akeru",
+      "en": "to open"
+    },
+    {
+      "jp": "乗る",
+      "romaji": "noru",
+      "en": "to get on, to ride in"
+    },
+    {
+      "jp": "登る",
+      "romaji": "noboru",
+      "en": "to ascend, to go up, to climb"
+    },
+    {
+      "jp": "家族",
+      "romaji": "kazoku",
+      "en": "family, members of a family"
+    },
+    {
+      "jp": "大事",
+      "romaji": "daiji",
+      "en": "important, valuable"
+    },
+    {
+      "jp": "思う",
+      "romaji": "omou",
+      "en": "to think, to believe, to consider"
+    },
+    {
+      "jp": "一番",
+      "romaji": "ichiban",
+      "en": "best, first, number one"
+    },
+    {
+      "jp": "最初",
+      "romaji": "saisho",
+      "en": "beginning, first"
+    },
+    {
+      "jp": "また: again, also",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "ひとり: one person, alone",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "煙草",
+      "romaji": "tabako",
+      "en": "tobacco, cigarettes"
+    },
+    {
+      "jp": "吸う",
+      "romaji": "suu",
+      "en": "to smoke, to breathe in"
+    },
+    {
+      "jp": "消える",
+      "romaji": "kieru",
+      "en": "to go out, to vanish, to disappear"
+    },
+    {
+      "jp": "音楽",
+      "romaji": "ongaku",
+      "en": "music"
+    },
+    {
+      "jp": "見える",
+      "romaji": "mieru",
+      "en": "to be seen, to be in sight"
+    },
+    {
+      "jp": "見せる",
+      "romaji": "miseru",
+      "en": "to show, to display"
+    },
+    {
+      "jp": "聞く",
+      "romaji": "kiku",
+      "en": "to listen, to hear"
+    },
+    {
+      "jp": "聞こえる",
+      "romaji": "kikoeru",
+      "en": "to be heard, to be audible"
+    },
+    {
+      "jp": "止める",
+      "romaji": "tomeru",
+      "en": "to stop"
+    },
+    {
+      "jp": "被る",
+      "romaji": "kaburu",
+      "en": "to wear (on head)"
+    },
+    {
+      "jp": "靴下",
+      "romaji": "kutsushita",
+      "en": "socks, stockings"
+    },
+    {
+      "jp": "時計",
+      "romaji": "tokei",
+      "en": "watch, clock"
+    },
+    {
+      "jp": "帽子",
+      "romaji": "boushi",
+      "en": "hat, cap"
+    },
+    {
+      "jp": "眼鏡",
+      "romaji": "megane",
+      "en": "glasses, spectacles"
+    },
+    {
+      "jp": "働く",
+      "romaji": "hataraku",
+      "en": "to work, to labor"
+    },
+    {
+      "jp": "席",
+      "romaji": "seki",
+      "en": "seat"
+    },
+    {
+      "jp": "会社",
+      "romaji": "kaisha",
+      "en": "company, corporation, workplace"
+    },
+    {
+      "jp": "玄関",
+      "romaji": "genkan",
+      "en": "entranceway, entry hall"
+    },
+    {
+      "jp": "道",
+      "romaji": "michi",
+      "en": "road, street, way"
+    },
+    {
+      "jp": "閉める",
+      "romaji": "shimeru",
+      "en": "to close, to shut"
+    },
+    {
+      "jp": "卵",
+      "romaji": "tamago",
+      "en": "egg"
+    },
+    {
+      "jp": "要る",
+      "romaji": "iru",
+      "en": "to need"
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Grammar Audio Lesson Part 1 (free).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Grammar Audio Lesson Part 2 to Part 6 (requires paid membership).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Vocabulary Audio Lesson Part 1 (free).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "Click here",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "to download JLPT N5 Vocabulary Audio Lesson Part 2 to Part 21 (requires paid membership).",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Vocabulary Exercise 23",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Vocabulary Exercise 21",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-vocabulary-exercise-22/"
+}

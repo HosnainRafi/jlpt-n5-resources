@@ -1,0 +1,387 @@
+{
+  "title": "JLPT N5 – Vocabulary Exercise 06",
+  "questions": [
+    {
+      "question": 1,
+      "text": "このくつしたはうすいですが、_______ です。 かんたん じょうぶ げんき じょうず",
+      "options": [
+        "1. このくつしたはうすいですが、_______ です。",
+        " かんたん",
+        " じょうぶ",
+        " げんき",
+        " じょうず"
+      ]
+    },
+    {
+      "question": 2,
+      "text": "いっしゅかんに _______ テニスを　します。 さんかい さんばん さんがい さんぼん",
+      "options": [
+        "2. いっしゅかんに _______ テニスを　します。",
+        " さんかい",
+        " さんばん",
+        " さんがい",
+        " さんぼん"
+      ]
+    },
+    {
+      "question": 3,
+      "text": "あの _______ をわたって、だいがくへいきます。 もん まど はし やま",
+      "options": [
+        "3. あの _______ をわたって、だいがくへいきます。",
+        " もん",
+        " まど",
+        " はし",
+        " やま"
+      ]
+    },
+    {
+      "question": 4,
+      "text": "このほんをたむらさんに _______ ください。 みて かいて かえって わたして",
+      "options": [
+        "4. このほんをたむらさんに _______ ください。",
+        " みて",
+        " かいて",
+        " かえって",
+        " わたして"
+      ]
+    },
+    {
+      "question": 5,
+      "text": "ほんだなにほんを　_______ 。 ならいましょう ならしましょう ならびましょう ならべましょう",
+      "options": [
+        "5. ほんだなにほんを　_______ 。",
+        " ならいましょう",
+        " ならしましょう",
+        " ならびましょう",
+        " ならべましょう"
+      ]
+    },
+    {
+      "question": 6,
+      "text": "あのレストランのりょうりはとても　_______ ですよ。 へた おいしい にぎやか じょうず",
+      "options": [
+        "6. あのレストランのりょうりはとても　_______ ですよ。",
+        " へた",
+        " おいしい",
+        " にぎやか",
+        " じょうず"
+      ]
+    },
+    {
+      "question": 7,
+      "text": "このみちを _______ びょういんへいきます。 あるいて だして およいで とんで",
+      "options": [
+        "7. このみちを _______ びょういんへいきます。",
+        " あるいて",
+        " だして",
+        " およいで",
+        " とんで"
+      ]
+    },
+    {
+      "question": 8,
+      "text": "いもうとは　きょねん _______ 。　ことし、いっさいに　なります。 うまれました おきなました はじまりました つきました",
+      "options": [
+        "8. いもうとは　きょねん _______ 。　ことし、いっさいに　なります。",
+        " うまれました",
+        " おきなました",
+        " はじまりました",
+        " つきました"
+      ]
+    },
+    {
+      "question": 9,
+      "text": "やまだ「このほん、どうもありがとうございました。」 たなか「いいえ、 _______ 。 どういたしまして ごちそうさまでした おねがいします ごめんなさい",
+      "options": [
+        "9. やまだ「このほん、どうもありがとうございました。」",
+        "たなか「いいえ、 _______ 。",
+        " どういたしまして",
+        " ごちそうさまでした",
+        " おねがいします",
+        " ごめんなさい"
+      ]
+    },
+    {
+      "question": 10,
+      "text": "たくさんありますから、_______ たべてください。 もう よく もっと とても",
+      "options": [
+        "10. たくさんありますから、_______ たべてください。",
+        " もう",
+        " よく",
+        " もっと",
+        " とても"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": 1,
+      "answer": "2",
+      "explanation": "2 (このくつしたはうすいですが、"
+    },
+    {
+      "question": 2,
+      "answer": "1",
+      "explanation": "1 (いっしゅかんに"
+    },
+    {
+      "question": 3,
+      "answer": "3",
+      "explanation": "3 (あの"
+    },
+    {
+      "question": 4,
+      "answer": "4",
+      "explanation": "4 (このほんをたむらさんに"
+    },
+    {
+      "question": 5,
+      "answer": "4",
+      "explanation": "4 (ほんだなにほんを"
+    },
+    {
+      "question": 6,
+      "answer": "2",
+      "explanation": "2 (あのレストランのりょうりはとても"
+    },
+    {
+      "question": 7,
+      "answer": "1",
+      "explanation": "1 (このみちを"
+    },
+    {
+      "question": 8,
+      "answer": "1",
+      "explanation": "1 (いもうとはきょねん"
+    },
+    {
+      "question": 9,
+      "answer": "1",
+      "explanation": "1 (やまだ「このほん、どうもありがとうございました。」たなか「いいえ、"
+    },
+    {
+      "question": 10,
+      "answer": "3",
+      "explanation": "3 (たくさんありますから、"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "靴下",
+      "romaji": "kutsushita",
+      "en": "socks, stockings"
+    },
+    {
+      "jp": "薄い",
+      "romaji": "usui",
+      "en": "thin, pale"
+    },
+    {
+      "jp": "簡単",
+      "romaji": "kantan",
+      "en": "simple"
+    },
+    {
+      "jp": "丈夫",
+      "romaji": "joubu",
+      "en": "strong, solid"
+    },
+    {
+      "jp": "元気",
+      "romaji": "genki",
+      "en": "healthy, robust"
+    },
+    {
+      "jp": "上手",
+      "romaji": "jouzu",
+      "en": "skill, skillful"
+    },
+    {
+      "jp": "一週間",
+      "romaji": "isshuukan",
+      "en": "one week"
+    },
+    {
+      "jp": "テニス: tennis",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "大学",
+      "romaji": "daigaku",
+      "en": "university, college"
+    },
+    {
+      "jp": "門",
+      "romaji": "mon",
+      "en": "gate"
+    },
+    {
+      "jp": "窓",
+      "romaji": "mado",
+      "en": "window"
+    },
+    {
+      "jp": "山",
+      "romaji": "yama",
+      "en": "mountain"
+    },
+    {
+      "jp": "渡す",
+      "romaji": "watasu",
+      "en": "to give, to hand over"
+    },
+    {
+      "jp": "本棚",
+      "romaji": "hondana",
+      "en": "bookshelf, bookcase"
+    },
+    {
+      "jp": "習う",
+      "romaji": "narau",
+      "en": "to learn"
+    },
+    {
+      "jp": "鳴らす",
+      "romaji": "narasu",
+      "en": "to ring, to sound"
+    },
+    {
+      "jp": "並ぶ",
+      "romaji": "narabu",
+      "en": "to line up, to stand in a line"
+    },
+    {
+      "jp": "並べる",
+      "romaji": "naraberu",
+      "en": "to line up, to set up, to itemize"
+    },
+    {
+      "jp": "レストラン: restaurant",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "料理",
+      "romaji": "ryouri",
+      "en": "cooking, cuisine"
+    },
+    {
+      "jp": "下手",
+      "romaji": "heta",
+      "en": "unskillful, poor"
+    },
+    {
+      "jp": "美味しい",
+      "romaji": "oishii",
+      "en": "delicious, tasty"
+    },
+    {
+      "jp": "賑やか",
+      "romaji": "nigiyaka",
+      "en": "bustling, busy"
+    },
+    {
+      "jp": "道",
+      "romaji": "michi",
+      "en": "road, street, way"
+    },
+    {
+      "jp": "出す",
+      "romaji": "dasu",
+      "en": "to take out, to get out"
+    },
+    {
+      "jp": "妹",
+      "romaji": "imouto",
+      "en": "younger sister"
+    },
+    {
+      "jp": "去年",
+      "romaji": "kyonen",
+      "en": "last year"
+    },
+    {
+      "jp": "生まれる",
+      "romaji": "umareru",
+      "en": "to be born"
+    },
+    {
+      "jp": "起きる",
+      "romaji": "okiru",
+      "en": "to get up, to wake up"
+    },
+    {
+      "jp": "始まる",
+      "romaji": "hajimaru",
+      "en": "to begin"
+    },
+    {
+      "jp": "着く",
+      "romaji": "tsuku",
+      "en": "to arrive at, to reach"
+    },
+    {
+      "jp": "今年",
+      "romaji": "kotoshi",
+      "en": "this year"
+    },
+    {
+      "jp": "一歳",
+      "romaji": "issai",
+      "en": "one-year-old"
+    },
+    {
+      "jp": "食べる",
+      "romaji": "taberu",
+      "en": "to eat"
+    },
+    {
+      "jp": "よく: often, frequently",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "もっと: more, even more",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find any error in this post please don't hesitate to",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "contact me",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": ".",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you have any questions please check the F.A.Q section.",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "If you find this post useful, please share it with your friends!",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Vocabulary Exercise 07",
+      "romaji": "",
+      "en": ""
+    },
+    {
+      "jp": "JLPT N5 – Vocabulary Exercise 05",
+      "romaji": "",
+      "en": ""
+    }
+  ],
+  "images": [],
+  "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-vocabulary-exercise-6/"
+}

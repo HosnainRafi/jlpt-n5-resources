@@ -1,0 +1,348 @@
+{
+  "title": "JLPT N5 – Listening Exercise 34 &#8211; Japanesetest4you.com",
+  "audios": [
+    "https://japanesetest4you.com/choukai/0017/listening-n5-34-01.mp3",
+    "https://japanesetest4you.com/choukai/0017/listening-n5-34-02.mp3",
+    "https://japanesetest4you.com/choukai/0017/listening-n5-34-03.mp3",
+    "https://japanesetest4you.com/choukai/0017/listening-n5-34-04.mp3",
+    "https://japanesetest4you.com/choukai/0017/listening-n5-34-05.mp3"
+  ],
+  "images": [
+    "https://japanesetest4you.com/images/listening/jlpt-n5-listening-34-01.gif",
+    "https://japanesetest4you.com/images/listening/jlpt-n5-listening-34-02.gif",
+    "https://japanesetest4you.com/images/listening/jlpt-n5-listening-34-03.gif",
+    "https://japanesetest4you.com/images/listening/jlpt-n5-listening-34-04.gif",
+    "https://japanesetest4you.com/images/listening/jlpt-n5-listening-34-05.gif"
+  ],
+  "transcript_pdf": "https://japanesetest4you.com/pdf/n5-listening-34.pdf",
+  "answers": [
+    {
+      "question": 1,
+      "answer": "2"
+    },
+    {
+      "question": 2,
+      "answer": "3"
+    },
+    {
+      "question": 3,
+      "answer": "3"
+    },
+    {
+      "question": 4,
+      "answer": "1"
+    },
+    {
+      "question": 5,
+      "answer": "4"
+    }
+  ],
+  "vocabulary": [
+    {
+      "jp": "病院",
+      "romaji": "byouin",
+      "en": "hospital"
+    },
+    {
+      "jp": "医者",
+      "romaji": "isha",
+      "en": "doctor"
+    },
+    {
+      "jp": "一日",
+      "romaji": "ichinichi",
+      "en": "one day"
+    },
+    {
+      "jp": "何回",
+      "romaji": "nankai",
+      "en": "how many times"
+    },
+    {
+      "jp": "薬",
+      "romaji": "kusuri",
+      "en": "medicine"
+    },
+    {
+      "jp": "飲む",
+      "romaji": "nomu",
+      "en": "to drink"
+    },
+    {
+      "jp": "朝",
+      "romaji": "asa",
+      "en": "morning"
+    },
+    {
+      "jp": "夜",
+      "romaji": "yoru",
+      "en": "night"
+    },
+    {
+      "jp": "ご飯",
+      "romaji": "gohan",
+      "en": "cooked rice, meal"
+    },
+    {
+      "jp": "食べる",
+      "romaji": "taberu",
+      "en": "to eat"
+    },
+    {
+      "jp": "あとで",
+      "romaji": "ato de",
+      "en": "after"
+    },
+    {
+      "jp": "昼ごはん",
+      "romaji": "hirugohan",
+      "en": "lunch"
+    },
+    {
+      "jp": "昼",
+      "romaji": "hiru",
+      "en": "midday, noon, daytime"
+    },
+    {
+      "jp": "四日間",
+      "romaji": "yokkakan",
+      "en": "for four days"
+    },
+    {
+      "jp": "デパート",
+      "romaji": "depaato",
+      "en": "department store"
+    },
+    {
+      "jp": "店",
+      "romaji": "mise",
+      "en": "store"
+    },
+    {
+      "jp": "鞄",
+      "romaji": "kaban",
+      "en": "bag"
+    },
+    {
+      "jp": "とる",
+      "romaji": "toru",
+      "en": "to take"
+    },
+    {
+      "jp": "黒い",
+      "romaji": "kuroi",
+      "en": "black"
+    },
+    {
+      "jp": "どちら",
+      "romaji": "dochira",
+      "en": "which one"
+    },
+    {
+      "jp": "小さい",
+      "romaji": "chiisai",
+      "en": "small"
+    },
+    {
+      "jp": "大きい",
+      "romaji": "ookii",
+      "en": "big"
+    },
+    {
+      "jp": "教室",
+      "romaji": "kyoushitsu",
+      "en": "classroom"
+    },
+    {
+      "jp": "先生",
+      "romaji": "sensei",
+      "en": "teacher"
+    },
+    {
+      "jp": "生徒",
+      "romaji": "seito",
+      "en": "student"
+    },
+    {
+      "jp": "机",
+      "romaji": "tsukue",
+      "en": "desk"
+    },
+    {
+      "jp": "置く",
+      "romaji": "oku",
+      "en": "to put, to place"
+    },
+    {
+      "jp": "今から",
+      "romaji": "ima kara",
+      "en": "from now, from the present moment"
+    },
+    {
+      "jp": "テスト",
+      "romaji": "tesuto",
+      "en": "test"
+    },
+    {
+      "jp": "辞書",
+      "romaji": "jisho",
+      "en": "dictionary"
+    },
+    {
+      "jp": "使う",
+      "romaji": "tsukau",
+      "en": "to use"
+    },
+    {
+      "jp": "問題",
+      "romaji": "mondai",
+      "en": "problem, question"
+    },
+    {
+      "jp": "出す",
+      "romaji": "dasu",
+      "en": "to take out, to put out"
+    },
+    {
+      "jp": "えんぴつ",
+      "romaji": "enpitsu",
+      "en": "pencil"
+    },
+    {
+      "jp": "消しゴム",
+      "romaji": "keshigomu",
+      "en": "eraser, rubber"
+    },
+    {
+      "jp": "時計",
+      "romaji": "tokei",
+      "en": "clock, watch"
+    },
+    {
+      "jp": "ノート",
+      "romaji": "nooto",
+      "en": "notebook"
+    },
+    {
+      "jp": "バス",
+      "romaji": "basu",
+      "en": "bus"
+    },
+    {
+      "jp": "旅行会社",
+      "romaji": "ryokou gaisha",
+      "en": "travel agent, travel agency"
+    },
+    {
+      "jp": "はじめに",
+      "romaji": "hajime ni",
+      "en": "first, at first"
+    },
+    {
+      "jp": "みなさん",
+      "romaji": "minasan",
+      "en": "everyone"
+    },
+    {
+      "jp": "ホテル",
+      "romaji": "hoteru",
+      "en": "hotel"
+    },
+    {
+      "jp": "着く",
+      "romaji": "tsuku",
+      "en": "to arrive"
+    },
+    {
+      "jp": "一階",
+      "romaji": "ikkai",
+      "en": "first floor"
+    },
+    {
+      "jp": "レストラン",
+      "romaji": "resutoran",
+      "en": "restaurant"
+    },
+    {
+      "jp": "晩ご飯",
+      "romaji": "bangohan",
+      "en": "dinner"
+    },
+    {
+      "jp": "すぐに",
+      "romaji": "sugu ni",
+      "en": "immediately"
+    },
+    {
+      "jp": "荷物",
+      "romaji": "nimotsu",
+      "en": "luggage, baggage"
+    },
+    {
+      "jp": "部屋",
+      "romaji": "heya",
+      "en": "room"
+    },
+    {
+      "jp": "持っていく",
+      "romaji": "motte iku",
+      "en": "to take (something) along, to bring with one"
+    },
+    {
+      "jp": "テレビ",
+      "romaji": "terebi",
+      "en": "television"
+    },
+    {
+      "jp": "買い物",
+      "romaji": "kaimono",
+      "en": "shopping"
+    },
+    {
+      "jp": "来週",
+      "romaji": "raishuu",
+      "en": "next week"
+    },
+    {
+      "jp": "日曜日",
+      "romaji": "nichiyoubi",
+      "en": "Sunday"
+    },
+    {
+      "jp": "海",
+      "romaji": "umi",
+      "en": "sea"
+    },
+    {
+      "jp": "おにぎり",
+      "romaji": "onigiri",
+      "en": "rice ball"
+    },
+    {
+      "jp": "飲み物",
+      "romaji": "nomimono",
+      "en": "drink, beverage"
+    },
+    {
+      "jp": "お菓子",
+      "romaji": "okashi",
+      "en": "sweets, candy"
+    },
+    {
+      "jp": "おねがいします",
+      "romaji": "onegai shimasu",
+      "en": "please"
+    },
+    {
+      "jp": "重い",
+      "romaji": "omoi",
+      "en": "heavy"
+    },
+    {
+      "jp": "買う",
+      "romaji": "kau",
+      "en": "to buy"
+    }
+  ],
+  "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-34/"
+}
