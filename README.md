@@ -79,6 +79,14 @@ The `index.json` file in each category folder gives a quick overview of every ex
 | Vocabulary | 24 | 240 | ~900 | text-based |
 | **Total** | **126** | **~993** | **1,874 unique** | **~550 files** |
 
+## Optional Content
+
+The `optional/` directory contains content that is **not required** for the JLPT N5 experience and can be excluded from your app entirely. Currently it holds one section:
+
+| Section | Description |
+|---|---|
+| `optional/keigo/` | Keigo (敬語) polite speech lesson — verb table (plain/sonkeigo/kenjougo/teineigo), usage explanations, N1 patterns, and a 20-question practice quiz ([learn-japanese.org/en/keigo](https://learn-japanese.org/en/keigo)) |
+
 ## Notes for App Integration
 
 1. **Listening exercises** pair each `question_N_audio.mp3` with `question_N.jpg` and an answer in `exercise.json` `answers[question-1]`.
