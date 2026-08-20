@@ -41,7 +41,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 Question 2: 3 Question 3: 3 Question 4: 4 Question 5: 3 JLPT N3 Kanji Lesson #1: 民 (min) Download the video lesson and ",
  "vocabulary": [
   "父親",
   "母親",
@@ -76,5 +75,35 @@
   "書類",
   "無理"
  ],
- "page_text_sample": "1. Question 1\n\n\n1\n2\n3\n4\n\n\n\n\n2. Question 2\n\n\n\n\n400円\n500円\n600円\n700円\n\n\n\n\n3. Question 3\n\n\n\n\n帽子を送ります\nファックスをします\nメールします\n写真を送ります\n\n\n\n\n4. Question 4\n\n\n\n\nラジオを聞きます\n歌を歌います\nラジオ局に電話します\nインターネットします\n\n\n\n\n5. Question 5\n\n\n\n\n休みます\n会議に出ます\n田中さんに電話します\n書類の準備をします\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 3\nQuestion 3: 3\nQuestion 4: 4\nQuestion 5: 3\n\n\n\n\nJLPT N3 Kanji Lesson #1: 民 (min)\n\n\n\n\n\n\n\n\nDownload the video lesson and transcript\n\n\n\n\nNew words:\n\n\n父親 (chichioya): father\n\n\n母親 (hahaoya): mother\n\n\n選ぶ (erabu): to choose, to select\n\n\n首 (kubi): neck, head\n\n\nまわり: circumference, surroundings\n\n\nあく: to be empty, to be vacant\n\n\n楽 (raku): comfort, ease\n\n\nセーター: sweater, jumper\n\n\n受付 (uketsuke): reception desk, information desk\n\n\n係の人 (kakari no hito): official in charge, person in charge\n\n\n支払う (shiharau): to pay\n\n\n利用 (riyou): use,"
+ "page_text_sample": "1. Question 1\n\n\n1\n2\n3\n4\n\n\n\n\n2. Question 2\n\n\n\n\n400円\n500円\n600円\n700円\n\n\n\n\n3. Question 3\n\n\n\n\n帽子を送ります\nファックスをします\nメールします\n写真を送ります\n\n\n\n\n4. Question 4\n\n\n\n\nラジオを聞きます\n歌を歌います\nラジオ局に電話します\nインターネットします\n\n\n\n\n5. Question 5\n\n\n\n\n休みます\n会議に出ます\n田中さんに電話します\n書類の準備をします\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 3\nQuestion 3: 3\nQuestion 4: 4\nQuestion 5: 3\n\n\n\n\nJLPT N3 Kanji Lesson #1: 民 (min)\n\n\n\n\n\n\n\n\nDownload the video lesson and transcript\n\n\n\n\nNew words:\n\n\n父親 (chichioya): father\n\n\n母親 (hahaoya): mother\n\n\n選ぶ (erabu): to choose, to select\n\n\n首 (kubi): neck, head\n\n\nまわり: circumference, surroundings\n\n\nあく: to be empty, to be vacant\n\n\n楽 (raku): comfort, ease\n\n\nセーター: sweater, jumper\n\n\n受付 (uketsuke): reception desk, information desk\n\n\n係の人 (kakari no hito): official in charge, person in charge\n\n\n支払う (shiharau): to pay\n\n\n利用 (riyou): use,",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 Question 2: 3 Question 3: 3 Question 4: 4 Question 5: 3 JLPT N3 Kanji Lesson #1: 民 (min) Download the video lesson and",
+ "level": "N3",
+ "category": "listening"
 }

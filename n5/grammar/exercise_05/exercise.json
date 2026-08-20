@@ -1,0 +1,285 @@
+{
+ "title": "JLPT N5 – Grammar Exercise 05",
+ "questions": [
+  {
+   "question": 1,
+   "text": "これ _______ ちずです。 に を は や",
+   "options": [
+    "これ _______ ちずです。",
+    "に",
+    "を",
+    "は"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "スーパー _______ かいものをしました。 か に で へ",
+   "options": [
+    "スーパー _______ かいものをしました。",
+    "か",
+    "に",
+    "で"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "犬が２ひきいます。ねこ _______ ２ひきいます。 や",
+   "options": [
+    "も",
+    "で",
+    "に"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "らいげつおきなわへりょこう _______ 行きます。 と",
+   "options": [
+    "が",
+    "を",
+    "に"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "ぼくはまいにち中国語 _______ べんきょうします。 と の や を",
+   "options": [
+    "ぼくはまいにち中国語 _______ べんきょうします。",
+    "と",
+    "の",
+    "や"
+   ]
+  },
+  {
+   "question": 6,
+   "text": "– らいしゅうもひとりで来ますか？- いいえ、らいしゅうはともだち _______ 来ます。 と は へ が",
+   "options": [
+    "– らいしゅうもひとりで来ますか？- いいえ、らいしゅうはともだち _______ 来ます。",
+    "と",
+    "は",
+    "へ"
+   ]
+  },
+  {
+   "question": 7,
+   "text": "“どういたしまして”はえいご _______ なんといいますか？ が",
+   "options": [
+    "を",
+    "で",
+    "に"
+   ]
+  },
+  {
+   "question": 8,
+   "text": "ここにじゅうしょ _______ せいねんがっぴをかいてください。 で を と も",
+   "options": [
+    "ここにじゅうしょ _______ せいねんがっぴをかいてください。",
+    "で",
+    "を",
+    "と"
+   ]
+  },
+  {
+   "question": 9,
+   "text": "わたしはいつもうちからがっこう _______ くるまで行きます。 しか まで ごろ で",
+   "options": [
+    "わたしはいつもうちからがっこう _______ くるまで行きます。",
+    "しか",
+    "まで",
+    "ごろ"
+   ]
+  },
+  {
+   "question": 10,
+   "text": "このバスはゆうびんきょくのまえ _______ とおります。 で に へ を | Japanese | Romaji | English | |---|---|---| | 地図 | chizu | map | | スーパー: supermarket | | | | 買い物 | kaimono | shopping | | 犬 | inu | dog | | 猫 | neko | cat | | 来月 | raigetsu | next month | | 旅行 | ryokou | travel, trip | | 中国語 | chuugokugo | Chinese (language) | | 勉強 | benkyou | study, diligence | | 来週 | raishuu | next week | | 英語 | eigo | English (language) | | 生年月日 | seinengappi | birth date | | いつも: always | | | | うち: house, home (one’s own) | | | | 車 | kuruma | car, automobile | | バス: bus | | | | 郵便局 | yuubinkyoku | post office | | 通る | tooru | to pass by, to go through | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 - Grammar Exercise 06 | | | | JLPT N5 - Grammar Exercise 04 | | |",
+   "options": [
+    "このバスはゆうびんきょくのまえ _______ とおります。",
+    "で",
+    "に",
+    "へ"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": "3 (これ"
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": "3 (スーパー"
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": "2 (犬が２ひきいます。ねこ"
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": "4 (らいげつおきなわへりょこう"
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": "4 (ぼくはまいにち中国語"
+  },
+  {
+   "question": 6,
+   "answer": "1",
+   "explanation": "1 (「らいしゅうもひとりで来ますか？」「いいえ、らいしゅうはともだち"
+  },
+  {
+   "question": 7,
+   "answer": "3",
+   "explanation": "3 (「どういたしまして」はえいご"
+  },
+  {
+   "question": 8,
+   "answer": "3",
+   "explanation": "3 (ここにじゅうしょ"
+  },
+  {
+   "question": 9,
+   "answer": "2",
+   "explanation": "2 (わたしはいつもうちからがっこう"
+  },
+  {
+   "question": 10,
+   "answer": "4",
+   "explanation": "4 (このバスはゆうびんきょくのまえ"
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "地図",
+   "romaji": "chizu",
+   "en": "map"
+  },
+  {
+   "jp": "スーパー: supermarket",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "買い物",
+   "romaji": "kaimono",
+   "en": "shopping"
+  },
+  {
+   "jp": "犬",
+   "romaji": "inu",
+   "en": "dog"
+  },
+  {
+   "jp": "猫",
+   "romaji": "neko",
+   "en": "cat"
+  },
+  {
+   "jp": "来月",
+   "romaji": "raigetsu",
+   "en": "next month"
+  },
+  {
+   "jp": "旅行",
+   "romaji": "ryokou",
+   "en": "travel, trip"
+  },
+  {
+   "jp": "中国語",
+   "romaji": "chuugokugo",
+   "en": "Chinese (language)"
+  },
+  {
+   "jp": "勉強",
+   "romaji": "benkyou",
+   "en": "study, diligence"
+  },
+  {
+   "jp": "来週",
+   "romaji": "raishuu",
+   "en": "next week"
+  },
+  {
+   "jp": "英語",
+   "romaji": "eigo",
+   "en": "English (language)"
+  },
+  {
+   "jp": "生年月日",
+   "romaji": "seinengappi",
+   "en": "birth date"
+  },
+  {
+   "jp": "いつも: always",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "うち: house, home (one’s own)",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "車",
+   "romaji": "kuruma",
+   "en": "car, automobile"
+  },
+  {
+   "jp": "バス: bus",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "郵便局",
+   "romaji": "yuubinkyoku",
+   "en": "post office"
+  },
+  {
+   "jp": "通る",
+   "romaji": "tooru",
+   "en": "to pass by, to go through"
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Grammar Exercise 06",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Grammar Exercise 04",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-5/",
+ "level": "N5",
+ "category": "grammar"
+}

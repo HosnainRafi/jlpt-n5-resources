@@ -51,7 +51,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 Question 2: 3 Question 3: 2 Question 4: 3 Question 5: 2 Question 6: 1 Question 7: 2 ",
  "vocabulary": [
   "殺到",
   "維持",
@@ -89,5 +88,45 @@
   "喫煙席",
   "別々"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n6. Question 6\n\n\n\n\n１号車\n２号車\n３号車\n４号車\n\n\n7. Question 7\n\n\n\n\n１号車\n２号車\n３号車\n４号車\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 3\nQuestion 5: 2\nQuestion 6: 1\nQuestion 7: 2\n\n\nNew words:\n\n\n殺到 (sattou): rush; flood\n\n\n維持 (iji): maintenance; preservation\n\n\n秘訣 (hiketsu): secret (method, trick, etc.); key (e.g. to success)\n\n\n微笑み (hohoemi): smile\n\n\nのろのろ: slowly; sluggishly\n\n\n朝寝坊 (asanebou): oversleeping; late riser\n\n\n黒板 (kokuban): blackboard\n\n\nねじる: to screw; to twist; to distort\n\n\n話し合い (hanashiai): discussion; conference\n\n\nスタイル: style\n\n\n深める (fukameru): to deepen; to heighten; to intensify\n\n\n問題点 (mondaiten): the pr"
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n6. Question 6\n\n\n\n\n１号車\n２号車\n３号車\n４号車\n\n\n7. Question 7\n\n\n\n\n１号車\n２号車\n３号車\n４号車\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 3\nQuestion 5: 2\nQuestion 6: 1\nQuestion 7: 2\n\n\nNew words:\n\n\n殺到 (sattou): rush; flood\n\n\n維持 (iji): maintenance; preservation\n\n\n秘訣 (hiketsu): secret (method, trick, etc.); key (e.g. to success)\n\n\n微笑み (hohoemi): smile\n\n\nのろのろ: slowly; sluggishly\n\n\n朝寝坊 (asanebou): oversleeping; late riser\n\n\n黒板 (kokuban): blackboard\n\n\nねじる: to screw; to twist; to distort\n\n\n話し合い (hanashiai): discussion; conference\n\n\nスタイル: style\n\n\n深める (fukameru): to deepen; to heighten; to intensify\n\n\n問題点 (mondaiten): the pr",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 Question 2: 3 Question 3: 2 Question 4: 3 Question 5: 2 Question 6: 1 Question 7: 2",
+ "level": "N2",
+ "category": "listening"
 }

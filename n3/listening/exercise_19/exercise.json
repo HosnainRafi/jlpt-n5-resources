@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 3 Question 3: 3 Question 4: 2 Question 5: 2 ",
  "vocabulary": [
   "夕飯",
   "いちご",
@@ -80,5 +79,35 @@
   "事務所",
   "入口"
  ],
- "page_text_sample": "1. Question 1\n\n\nA. いちご\nB. りんご\nC. ジュース\nD. 牛乳\nE. バター\nF. チーズ\n\n\nA と C\nA と D\nA と D と E\nC と D と E\n\n\n\n\n\n2. Question 2\n\n\n\n\n新幹線です\n飛行機です\n車です\n高速バスです\n\n\n\n\n\n3. Question 3\n\n\n\n\n質問を考える\n工場の歴史を調べる\n工場に連絡する\n先生と一緒に工場に行く\n\n\n\n\n\n4. Question 4\n\n\n\n\nシャツをクリーニングに出す\nコンビニで飛行機代を払う\n銀行でお金をおろす\n旅行会社に行って飛行機代を払う\n\n\n\n\n\n5. Question 5\n\n\n\n\n学校に電話する\n欠席届を書く\nしんだん書をもらいに行く\nテストを受ける\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 3\nQuestion 3: 3\nQuestion 4: 2\nQuestion 5: 2\n\n\nNew words:\n\n\n夕飯 (yuuhan): evening meal\n\n\nいちご: strawberry\n\n\n安売り (yasuuri): discount, bargain sale, selling cheaply\n\n\n夕べ (yuube): evening, last night\n\n\n今度 (kondo): this time, next time, another time\n\n\nバター: butter\n\n\nもう少し (mou sukoshi): a bit more, a bit longer\n\n\n乗り物 (norimono): vehicle\n\n\n計画を立てる (keikaku o tateru): to make plans\n\n\n得意 (tokui): strong point, one’s forte\n\n\n新幹線 (shi"
+ "page_text_sample": "1. Question 1\n\n\nA. いちご\nB. りんご\nC. ジュース\nD. 牛乳\nE. バター\nF. チーズ\n\n\nA と C\nA と D\nA と D と E\nC と D と E\n\n\n\n\n\n2. Question 2\n\n\n\n\n新幹線です\n飛行機です\n車です\n高速バスです\n\n\n\n\n\n3. Question 3\n\n\n\n\n質問を考える\n工場の歴史を調べる\n工場に連絡する\n先生と一緒に工場に行く\n\n\n\n\n\n4. Question 4\n\n\n\n\nシャツをクリーニングに出す\nコンビニで飛行機代を払う\n銀行でお金をおろす\n旅行会社に行って飛行機代を払う\n\n\n\n\n\n5. Question 5\n\n\n\n\n学校に電話する\n欠席届を書く\nしんだん書をもらいに行く\nテストを受ける\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 3\nQuestion 3: 3\nQuestion 4: 2\nQuestion 5: 2\n\n\nNew words:\n\n\n夕飯 (yuuhan): evening meal\n\n\nいちご: strawberry\n\n\n安売り (yasuuri): discount, bargain sale, selling cheaply\n\n\n夕べ (yuube): evening, last night\n\n\n今度 (kondo): this time, next time, another time\n\n\nバター: butter\n\n\nもう少し (mou sukoshi): a bit more, a bit longer\n\n\n乗り物 (norimono): vehicle\n\n\n計画を立てる (keikaku o tateru): to make plans\n\n\n得意 (tokui): strong point, one’s forte\n\n\n新幹線 (shi",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 3 Question 3: 3 Question 4: 2 Question 5: 2",
+ "level": "N3",
+ "category": "listening"
 }

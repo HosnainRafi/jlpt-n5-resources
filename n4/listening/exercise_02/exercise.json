@@ -24,7 +24,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 3 Question 2: 4 Question 3: 3 Question 4: 4 Question 5: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 全部 (zenbu): all; entire; whole; altogether 出す (dasu): to take out; to get out 天気予報 (tenkiyohou): weather forecast; weather report 午前中 (gozenchuu): in the morning; during the morning 夕方 (yuugata): evening; dusk 止む (yamu): to cease; to stop; to be ove",
  "vocabulary": [
   "Infographics Part",
   "Click here",
@@ -105,5 +104,35 @@
   "your friends",
   "Listening Exercise"
  ],
- "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 View transcript Answer Key: Question 1: 3 Question 2: 4 Question 3: 3 Question 4: 4 Question 5: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 全部 (zenbu): all; entire; whole; altogether 出す (dasu): to take out; to get out 天気予報 (tenkiyohou): weather forecast; weather report 午前中 (gozenchuu): in the morning; during the morning 夕方 (yuugata): evening; dusk 止む (yamu): to cease; to stop; to be over オートバイ: motorcycle 眼鏡をかける (megane o kakeru): to wear glasses; to put on glasses 格好いい (kakko ii): attractive; good-looking 喫茶店 (kissaten): coffee shop; coffeehous"
+ "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 View transcript Answer Key: Question 1: 3 Question 2: 4 Question 3: 3 Question 4: 4 Question 5: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 全部 (zenbu): all; entire; whole; altogether 出す (dasu): to take out; to get out 天気予報 (tenkiyohou): weather forecast; weather report 午前中 (gozenchuu): in the morning; during the morning 夕方 (yuugata): evening; dusk 止む (yamu): to cease; to stop; to be over オートバイ: motorcycle 眼鏡をかける (megane o kakeru): to wear glasses; to put on glasses 格好いい (kakko ii): attractive; good-looking 喫茶店 (kissaten): coffee shop; coffeehous",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 3 Question 2: 4 Question 3: 3 Question 4: 4 Question 5: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 全部 (zenbu): all; entire; whole; altogether 出す (dasu): to take out; to get out 天気予報 (tenkiyohou): weather forecast; weather report 午前中 (gozenchuu): in the morning; during the morning 夕方 (yuugata): evening; dusk 止む (yamu): to cease; to stop; to be ove",
+ "level": "N4",
+ "category": "listening"
 }

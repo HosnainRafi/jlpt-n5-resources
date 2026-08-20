@@ -24,7 +24,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 Question 2: 3 Question 3: 1 Question 4: 3 Question 5: 2 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 本屋 (honya): bookstore レコード屋 (rekoodoya): record shop レコード (rekoodo): record 何度 (nando): how many times 今回 (konkai): this time 以前 (izen): before, previous 場合 (baai): case, situation 食べ物 (tabemono): food 運動 (undou): exercise しばらく (shibaraku): for a mo",
  "vocabulary": [
   "Infographics Part",
   "Click here",
@@ -91,5 +90,35 @@
   "your friends",
   "Listening Exercise"
  ],
- "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 4 Question 2: 3 Question 3: 1 Question 4: 3 Question 5: 2 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 本屋 (honya): bookstore レコード屋 (rekoodoya): record shop レコード (rekoodo): record 何度 (nando): how many times 今回 (konkai): this time 以前 (izen): before, previous 場合 (baai): case, situation 食べ物 (tabemono): food 運動 (undou): exercise しばらく (shibaraku): for a moment, for a while 病気 (byouki): illness, disease 薬 (kusuri): medicine タバコ (tabako): cigarette 構う (kamau): to mind 兄弟 (kyoudai): siblings 元気 (genki): healthy, well テスト (tesuto): te"
+ "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 4 Question 2: 3 Question 3: 1 Question 4: 3 Question 5: 2 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 本屋 (honya): bookstore レコード屋 (rekoodoya): record shop レコード (rekoodo): record 何度 (nando): how many times 今回 (konkai): this time 以前 (izen): before, previous 場合 (baai): case, situation 食べ物 (tabemono): food 運動 (undou): exercise しばらく (shibaraku): for a moment, for a while 病気 (byouki): illness, disease 薬 (kusuri): medicine タバコ (tabako): cigarette 構う (kamau): to mind 兄弟 (kyoudai): siblings 元気 (genki): healthy, well テスト (tesuto): te",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 Question 2: 3 Question 3: 1 Question 4: 3 Question 5: 2 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 本屋 (honya): bookstore レコード屋 (rekoodoya): record shop レコード (rekoodo): record 何度 (nando): how many times 今回 (konkai): this time 以前 (izen): before, previous 場合 (baai): case, situation 食べ物 (tabemono): food 運動 (undou): exercise しばらく (shibaraku): for a mo",
+ "level": "N4",
+ "category": "listening"
 }

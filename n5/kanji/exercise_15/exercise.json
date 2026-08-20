@@ -1,0 +1,426 @@
+{
+ "title": "JLPT N5 – Kanji Exercise 15",
+ "questions": [
+  {
+   "question": 1,
+   "text": "その ちいさい かれんだーをください。 小い 小さい 少い 少さい",
+   "options": [
+    "その",
+    "ちいさい",
+    "かれんだーをください。",
+    "小い",
+    "小さい",
+    "少い",
+    "少さい"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "いすの した にねこがいます。 下 外 上 中",
+   "options": [
+    "いすの",
+    "した",
+    "にねこがいます。",
+    "下",
+    "外",
+    "上",
+    "中"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "むいか のごごにあいましょう。 九日 三日 六日 五日",
+   "options": [
+    "むいか",
+    "のごごにあいましょう。",
+    "九日",
+    "三日",
+    "六日",
+    "五日"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "しんかんせんに 乗った ことがありますか。 やった いった のった おった",
+   "options": [
+    "しんかんせんに",
+    "乗った",
+    "ことがありますか。",
+    "やった",
+    "いった",
+    "のった",
+    "おった"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "よく考えてから 質問 に答えてください。 しつもん せつめい せんもん しょうめい",
+   "options": [
+    "よく考えてから",
+    "質問",
+    "に答えてください。",
+    "しつもん",
+    "せつめい",
+    "せんもん",
+    "しょうめい"
+   ]
+  },
+  {
+   "question": 6,
+   "text": "たなかさんはあした 会社 をやすみます。 かいじや かいしや かいじゃ かいしゃ",
+   "options": [
+    "たなかさんはあした",
+    "会社",
+    "をやすみます。",
+    "かいじや",
+    "かいしや",
+    "かいじゃ",
+    "かいしゃ"
+   ]
+  },
+  {
+   "question": 7,
+   "text": "このまちの にし にはおおきなかわがあります。 酉 西 東 束",
+   "options": [
+    "このまちの",
+    "にし",
+    "にはおおきなかわがあります。",
+    "酉",
+    "西",
+    "東",
+    "束"
+   ]
+  },
+  {
+   "question": 8,
+   "text": "きのう たくしー でかいしゃへいきました。 タクシー タウシー タケシー タワシー",
+   "options": [
+    "きのう",
+    "たくしー",
+    "でかいしゃへいきました。",
+    "タクシー",
+    "タウシー",
+    "タケシー",
+    "タワシー"
+   ]
+  },
+  {
+   "question": 9,
+   "text": "らいねん はながいやすみがほしいです。 未年 未牛 来年 来牛",
+   "options": [
+    "らいねん",
+    "はながいやすみがほしいです。",
+    "未年",
+    "未牛",
+    "来年",
+    "来牛"
+   ]
+  },
+  {
+   "question": 10,
+   "text": "うちのちかくに 新しい としょかんがあります。 いそがしい あたらしい なつかしい うつくしい | Japanese | Romaji | English | |---|---|---| | カレンダー: calendar | | | | いす: chair | | | | した: below, down, under | | | | ねこ: cat | | | | むいか: sixth day of the month, six days | | | | ごご: afternoon, p.m. | | | | しんかんせん: bullet train | | | | 乗る: to get on, to ride in, to board | | | | 考える | kangaeru | to consider, to think about | | 質問: question, inquiry | | | | 答える | kotaeru | to answer, to reply | | 会社: company, corporation, workplace | | | | まち: town, block, street | | | | にし: west | | | | おおきな: big, large, great | | | | かわ: river, stream | | | | らいねん: next year | | | | ながい: long, lengthy | | | | やすみ: rest, holiday | | | | ほしい: wanted, wished for, in need of | | | | うち: house, home (one’s own) | | | | ちかく: near, neighborhood, vicinity | | | | 新しい: new | | | | としょかん: library | | | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 – Kanji Exercise 16 | | | | JLPT N5 – Kanji Exercise 14 | | |",
+   "options": [
+    "うちのちかくに",
+    "新しい",
+    "としょかんがあります。",
+    "いそがしい",
+    "あたらしい",
+    "なつかしい",
+    "うつくしい",
+    "Question",
+    "1:",
+    "2",
+    "(",
+    "ちいさい",
+    "=>",
+    "小さい",
+    ")",
+    "Question",
+    "2:",
+    "1",
+    "(",
+    "した",
+    "=>",
+    "下",
+    ")",
+    "Question",
+    "3:",
+    "3",
+    "(",
+    "むいか",
+    "=>",
+    "六日",
+    ")",
+    "Question",
+    "4:",
+    "3",
+    "(",
+    "乗った",
+    "=>",
+    "のった",
+    ")",
+    "Question",
+    "5:",
+    "1",
+    "(",
+    "質問",
+    "=>",
+    "しつもん",
+    ")",
+    "Question",
+    "6:",
+    "4",
+    "(",
+    "会社",
+    "=>",
+    "かいしゃ",
+    ")",
+    "Question",
+    "7:",
+    "2",
+    "(",
+    "にし",
+    "=>",
+    "西",
+    ")",
+    "Question",
+    "8:",
+    "1",
+    "(",
+    "たくしー",
+    "=>",
+    "タクシー",
+    ")",
+    "Question",
+    "9:",
+    "3",
+    "(",
+    "来年",
+    "=>",
+    "らいねん",
+    ")",
+    "Question",
+    "10:",
+    "2",
+    "(",
+    "新しい",
+    "=>",
+    "あたらしい",
+    ")"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": " ちいさい => 小さい "
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": " した => 下 "
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": " むいか => 六日 "
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": " 乗った => のった "
+  },
+  {
+   "question": 5,
+   "answer": "1",
+   "explanation": " 質問 => しつもん "
+  },
+  {
+   "question": 6,
+   "answer": "4",
+   "explanation": " 会社 => かいしゃ "
+  },
+  {
+   "question": 7,
+   "answer": "2",
+   "explanation": " にし => 西 "
+  },
+  {
+   "question": 8,
+   "answer": "1",
+   "explanation": " たくしー => タクシー "
+  },
+  {
+   "question": 9,
+   "answer": "3",
+   "explanation": " 来年 => らいねん "
+  },
+  {
+   "question": 10,
+   "answer": "2",
+   "explanation": " 新しい => あたらしい "
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "カレンダー: calendar",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "いす: chair",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "した: below, down, under",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "ねこ: cat",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "むいか: sixth day of the month, six days",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "ごご: afternoon, p.m.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "しんかんせん: bullet train",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "乗る: to get on, to ride in, to board",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "考える",
+   "romaji": "kangaeru",
+   "en": "to consider, to think about"
+  },
+  {
+   "jp": "質問: question, inquiry",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "答える",
+   "romaji": "kotaeru",
+   "en": "to answer, to reply"
+  },
+  {
+   "jp": "会社: company, corporation, workplace",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "まち: town, block, street",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "にし: west",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "おおきな: big, large, great",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "かわ: river, stream",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "らいねん: next year",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "ながい: long, lengthy",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "やすみ: rest, holiday",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "ほしい: wanted, wished for, in need of",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "うち: house, home (one’s own)",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "ちかく: near, neighborhood, vicinity",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "新しい: new",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "としょかん: library",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Kanji Exercise 16",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Kanji Exercise 14",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-15/",
+ "level": "N5",
+ "category": "kanji"
+}

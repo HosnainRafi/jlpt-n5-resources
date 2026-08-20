@@ -39,7 +39,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 3 Question 2: 3 Question 3: 1 Question 4: 3 Question 5: 1 ",
  "vocabulary": [
   "欠かす",
   "楽器",
@@ -72,5 +71,35 @@
   "積極的",
   "強調"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n青\n赤\nピンク\nオレンジ\n\n\n5. Question 5\n\n\n\n\n青\n赤\nピンク\nオレンジ\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 3\nQuestion 3: 1\nQuestion 4: 3\nQuestion 5: 1\n\n\nNew words:\n\n\n欠かす (kakasu): to miss (doing); to fail (to do)\n\n\n楽器 (gakki): musical instrument\n\n\n希望者 (kibousha): applicant; candidate; person interested in doing something\n\n\n締め切る (shimekiru): to close up; to cut off (e.g. because a deadline has expired); to close off (e.g. subscription list)\n\n\n教育 (kyouiku): education\n\n\n見学 (kengaku): inspection; study by observation; field trip\n\n\n発表 (happyou): announcement; publication; presenting\n\n\n経営 (keiei): management; administration; running (business)\n\n\nサークル: group with a common interest (e.g."
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n青\n赤\nピンク\nオレンジ\n\n\n5. Question 5\n\n\n\n\n青\n赤\nピンク\nオレンジ\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 3\nQuestion 3: 1\nQuestion 4: 3\nQuestion 5: 1\n\n\nNew words:\n\n\n欠かす (kakasu): to miss (doing); to fail (to do)\n\n\n楽器 (gakki): musical instrument\n\n\n希望者 (kibousha): applicant; candidate; person interested in doing something\n\n\n締め切る (shimekiru): to close up; to cut off (e.g. because a deadline has expired); to close off (e.g. subscription list)\n\n\n教育 (kyouiku): education\n\n\n見学 (kengaku): inspection; study by observation; field trip\n\n\n発表 (happyou): announcement; publication; presenting\n\n\n経営 (keiei): management; administration; running (business)\n\n\nサークル: group with a common interest (e.g.",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 3 Question 2: 3 Question 3: 1 Question 4: 3 Question 5: 1",
+ "level": "N2",
+ "category": "listening"
 }

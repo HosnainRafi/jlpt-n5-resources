@@ -49,7 +49,61 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 ( 折って => おって ) Question 2: 2 ( 鳴った => なった ) Question 3: 4 ( よろこんで => 喜んで ) Question 4: 1 ( 故障 => こしょう ) Question 5: 4 ( みな => 皆 ) Question 6: 3 ( そだて => 育て ) Question 7: 2 ( 一生 => いっしょう ) Question 8: 3 ( まわり => 周り ) Question 9: 2 ( 貿易 => ぼうえき ) Question 10: 2 ( けいかく => 計画 ) ",
  "vocabulary": [],
- "page_text_sample": "1. 手紙を二つに\n折って\n封筒に入れました。\nおって\nまがって\nはって\nさわって\n\n\n2. 彼に電話をかけようとしたとき、授業のベルが\n鳴った\n。\nぬった\nなった\nはった\nふった\n\n\n3.\nよろこんで\nパーティーに参加させていただきます。\n楽んで\n嬉んで\n薬んで\n喜んで\n\n\n4. 工場のきかいが\n故障\nしたので、今大変です。\nこしょう\nこうしょう\nこじょう\nこうじょう\n\n\n5.\nみな\nさん、また東京であいましょう。\n階\n潜\n翼\n皆\n\n\n6. 子供をお医者さんに\nそだて\nたいです。\n養て\n培て\n育て\n生きて\n\n\n7. がくせいは\n一生\n懸命勉強しなければなりません。\nいしょう\nいっしょう\nいしゅう\nいっしゅう\n\n\n8.\nまわり\nの人たちからいろいろお世話になった。\n回り\n廻り\n周り\n週り\n\n\n9. わたしは\n貿易\n会社で働いている。\nぼういき\nぼうえき\nぼいき\nぼえき\n\n\n10. わたしたちの\nけいかく\nがすべて水の泡になった。\n針画\n計画\n針宙\n計宙\n\n\nAnswer Key:\n\n\nQuestion 1: 1 ( 折って => おって )\nQuestion 2: 2 ( 鳴った => なった )\nQuestion 3: 4 ( よろこんで => 喜んで )\nQuestion 4: 1 ( 故障 => こしょう )\nQuestion 5: 4 ( みな => 皆 )\nQuestion 6: 3 ( そだて => 育て )\nQuestion 7: 2 ( 一生 => いっしょう )\nQuestion 8: 3 ( まわり => 周り )\nQuestion 9: 2 ( 貿易 => ぼうえき )\nQuestion 10: 2 ( けいかく => 計画 )\n\n\nNew words:\n\n\n手紙 (tegami): letter\n\n\n折る: to fold, to break\n\n\n封"
+ "page_text_sample": "1. 手紙を二つに\n折って\n封筒に入れました。\nおって\nまがって\nはって\nさわって\n\n\n2. 彼に電話をかけようとしたとき、授業のベルが\n鳴った\n。\nぬった\nなった\nはった\nふった\n\n\n3.\nよろこんで\nパーティーに参加させていただきます。\n楽んで\n嬉んで\n薬んで\n喜んで\n\n\n4. 工場のきかいが\n故障\nしたので、今大変です。\nこしょう\nこうしょう\nこじょう\nこうじょう\n\n\n5.\nみな\nさん、また東京であいましょう。\n階\n潜\n翼\n皆\n\n\n6. 子供をお医者さんに\nそだて\nたいです。\n養て\n培て\n育て\n生きて\n\n\n7. がくせいは\n一生\n懸命勉強しなければなりません。\nいしょう\nいっしょう\nいしゅう\nいっしゅう\n\n\n8.\nまわり\nの人たちからいろいろお世話になった。\n回り\n廻り\n周り\n週り\n\n\n9. わたしは\n貿易\n会社で働いている。\nぼういき\nぼうえき\nぼいき\nぼえき\n\n\n10. わたしたちの\nけいかく\nがすべて水の泡になった。\n針画\n計画\n針宙\n計宙\n\n\nAnswer Key:\n\n\nQuestion 1: 1 ( 折って => おって )\nQuestion 2: 2 ( 鳴った => なった )\nQuestion 3: 4 ( よろこんで => 喜んで )\nQuestion 4: 1 ( 故障 => こしょう )\nQuestion 5: 4 ( みな => 皆 )\nQuestion 6: 3 ( そだて => 育て )\nQuestion 7: 2 ( 一生 => いっしょう )\nQuestion 8: 3 ( まわり => 周り )\nQuestion 9: 2 ( 貿易 => ぼうえき )\nQuestion 10: 2 ( けいかく => 計画 )\n\n\nNew words:\n\n\n手紙 (tegami): letter\n\n\n折る: to fold, to break\n\n\n封",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 ( 折って => おって ) Question 2: 2 ( 鳴った => なった ) Question 3: 4 ( よろこんで => 喜んで ) Question 4: 1 ( 故障 => こしょう ) Question 5: 4 ( みな => 皆 ) Question 6: 3 ( そだて => 育て ) Question 7: 2 ( 一生 => いっしょう ) Question 8: 3 ( まわり => 周り ) Question 9: 2 ( 貿易 => ぼうえき ) Question 10: 2 ( けいかく => 計画 )",
+ "level": "N4",
+ "category": "kanji"
 }

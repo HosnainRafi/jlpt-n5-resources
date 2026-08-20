@@ -41,7 +41,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 1 Question 3: 3 Question 4: 2 Question 5: 2 ",
  "vocabulary": [
   "パーティー",
   "残念",
@@ -55,5 +54,35 @@
   "携帯電話",
   "何回も"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 1\nQuestion 3: 3\nQuestion 4: 2\nQuestion 5: 2\n\n\nNew words:\n\n\nパーティー: party\n\n\n残念 (zannen): regret, disappointment, bad luck\n\n\nごぶさた: not writing or contacting for a while, long silence\n\n\nお久しぶり (ohisashiburi): it’s been a long time, long time no see\n\n\n楽しい (tanoshi): enjoyable, fun\n\n\nすっかり: all, completely, thoroughly\n\n\n\n\n\n\n\n\n留守の間 (rusu no aida): in one’s absence\n\n\n急ぐ (isogu): to hurry, to rush, to hasten\n\n\n休む (yasumu): to rest, to have a break\n\n\n携帯電話 (keitaidenwa): mobile telephone, cellular telephone\n\n\n何回も (nankai mo): time and time again\n\n\nView transcript\n\n\nClick here\nto download JLPT N3 Grammar Ebook (preview ver"
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 1\nQuestion 3: 3\nQuestion 4: 2\nQuestion 5: 2\n\n\nNew words:\n\n\nパーティー: party\n\n\n残念 (zannen): regret, disappointment, bad luck\n\n\nごぶさた: not writing or contacting for a while, long silence\n\n\nお久しぶり (ohisashiburi): it’s been a long time, long time no see\n\n\n楽しい (tanoshi): enjoyable, fun\n\n\nすっかり: all, completely, thoroughly\n\n\n\n\n\n\n\n\n留守の間 (rusu no aida): in one’s absence\n\n\n急ぐ (isogu): to hurry, to rush, to hasten\n\n\n休む (yasumu): to rest, to have a break\n\n\n携帯電話 (keitaidenwa): mobile telephone, cellular telephone\n\n\n何回も (nankai mo): time and time again\n\n\nView transcript\n\n\nClick here\nto download JLPT N3 Grammar Ebook (preview ver",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 1 Question 3: 3 Question 4: 2 Question 5: 2",
+ "level": "N3",
+ "category": "listening"
 }

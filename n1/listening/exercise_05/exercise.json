@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 2 Question 3: 1 Question 4: 3 Question 5: 2 ",
  "vocabulary": [
   "経営者",
   "セミナー",
@@ -79,5 +78,35 @@
   "打ち勝つ",
   "先方"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 2\nQuestion 3: 1\nQuestion 4: 3\nQuestion 5: 2\n\n\nNew words:\n\n\n経営者 (keieisha): manager; proprietor\n\n\nセミナー: seminar\n\n\n淡々 (tantan): uninterested; unconcerned; indifferent; dispassionate\n\n\nこなす: to finish; to complete; to perform\n\n\nゆだねる: to entrust (a matter) to; to yield to; to leave to\n\n\n過言 (kagon): exaggeration; saying too much; misstatement\n\n\n余裕 (yoyuu): surplus; room; time; flexibility\n\n\n高める (takameru): to raise; to lift; to boost; to enhance\n\n\n成績 (seiseki): results; grades; record\n\n\n出席 (shusseki): attendance; presence\n\n\n平常 (heijou): normal; usual\n\n\n出席率 (shussekiritsu): percentage of "
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 2\nQuestion 3: 1\nQuestion 4: 3\nQuestion 5: 2\n\n\nNew words:\n\n\n経営者 (keieisha): manager; proprietor\n\n\nセミナー: seminar\n\n\n淡々 (tantan): uninterested; unconcerned; indifferent; dispassionate\n\n\nこなす: to finish; to complete; to perform\n\n\nゆだねる: to entrust (a matter) to; to yield to; to leave to\n\n\n過言 (kagon): exaggeration; saying too much; misstatement\n\n\n余裕 (yoyuu): surplus; room; time; flexibility\n\n\n高める (takameru): to raise; to lift; to boost; to enhance\n\n\n成績 (seiseki): results; grades; record\n\n\n出席 (shusseki): attendance; presence\n\n\n平常 (heijou): normal; usual\n\n\n出席率 (shussekiritsu): percentage of ",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 2 Question 3: 1 Question 4: 3 Question 5: 2",
+ "level": "N1",
+ "category": "listening"
 }

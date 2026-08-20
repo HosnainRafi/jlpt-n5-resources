@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 Question 2: 2 Question 3: 3 Question 4: 1 Question 5: 2 JLPT N2 Kanji Lesson #4: 則 (soku) Download the video lesson and ",
  "vocabulary": [
   "発想",
   "育児休暇",
@@ -56,5 +55,35 @@
   "蝋燭",
   "つい"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 2\nQuestion 3: 3\nQuestion 4: 1\nQuestion 5: 2\n\n\n\n\nJLPT N2 Kanji Lesson #4: 則 (soku)\n\n\n\n\n\n\n\n\nDownload the video lesson and transcript\n\n\n\n\nNew words:\n\n\n発想 (hassou): expression, idea, conception\n\n\n育児休暇 (ikuji kyuuka): childcare leave, maternity leave\n\n\n利用 (riyou): use, utilization\n\n\n相談 (soudan): consultation, discussion\n\n\n職場 (shokuba): work place, place of work\n\n\n驚く (odoroku): to be surprised, to be astonished\n\n\nだんだん: gradually\n\n\n後輩 (kouhai): junior (at work or school)\n\n\n契約書 (keiyakusho): (written) contract\n\n\nとんでもない: unthinkable, outrageous\n\n\n停電 (teiden): power outage, blackout, failure of electricity su"
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 2\nQuestion 3: 3\nQuestion 4: 1\nQuestion 5: 2\n\n\n\n\nJLPT N2 Kanji Lesson #4: 則 (soku)\n\n\n\n\n\n\n\n\nDownload the video lesson and transcript\n\n\n\n\nNew words:\n\n\n発想 (hassou): expression, idea, conception\n\n\n育児休暇 (ikuji kyuuka): childcare leave, maternity leave\n\n\n利用 (riyou): use, utilization\n\n\n相談 (soudan): consultation, discussion\n\n\n職場 (shokuba): work place, place of work\n\n\n驚く (odoroku): to be surprised, to be astonished\n\n\nだんだん: gradually\n\n\n後輩 (kouhai): junior (at work or school)\n\n\n契約書 (keiyakusho): (written) contract\n\n\nとんでもない: unthinkable, outrageous\n\n\n停電 (teiden): power outage, blackout, failure of electricity su",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 Question 2: 2 Question 3: 3 Question 4: 1 Question 5: 2 JLPT N2 Kanji Lesson #4: 則 (soku) Download the video lesson and",
+ "level": "N2",
+ "category": "listening"
 }

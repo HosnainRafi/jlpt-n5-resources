@@ -41,7 +41,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 Question 2: 1 Question 3: 3 Question 4: 1 Question 5: 3 ",
  "vocabulary": [
   "辞書",
   "忘れる",
@@ -59,5 +58,35 @@
   "予定",
   "お久しぶり"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 1\nQuestion 3: 3\nQuestion 4: 1\nQuestion 5: 3\n\n\nNew words:\n\n\n辞書 (jisho): dictionary\n\n\n忘れる (wasureru): to forget, to leave carelessly\n\n\nクラスメート: classmate\n\n\n貸す (kasu): to lend, to loan, to rent out\n\n\n自分 (jibun): myself, yourself, oneself\n\n\n写真 (shashin): photograph, photo\n\n\n撮る (toru): to take (a photo)\n\n\n近く (chikaku): neighborhood, vicinity\n\n\n頼む (tanomu): to request, to beg, to ask\n\n\nコーヒー: coffee\n\n\n一杯 (ippai): cup of\n\n\n\n\n\n\n\n\nいかが: how about\n\n\n参る (mairu): to go, to come\n\n\n予定 (yotei): plans, arrangement, schedule\n\n\nお久しぶり (ohisashiburi): it’s been a long time, long time no see\n\n\nView transcript\n\n\nClick here\nto downloa"
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 1\nQuestion 3: 3\nQuestion 4: 1\nQuestion 5: 3\n\n\nNew words:\n\n\n辞書 (jisho): dictionary\n\n\n忘れる (wasureru): to forget, to leave carelessly\n\n\nクラスメート: classmate\n\n\n貸す (kasu): to lend, to loan, to rent out\n\n\n自分 (jibun): myself, yourself, oneself\n\n\n写真 (shashin): photograph, photo\n\n\n撮る (toru): to take (a photo)\n\n\n近く (chikaku): neighborhood, vicinity\n\n\n頼む (tanomu): to request, to beg, to ask\n\n\nコーヒー: coffee\n\n\n一杯 (ippai): cup of\n\n\n\n\n\n\n\n\nいかが: how about\n\n\n参る (mairu): to go, to come\n\n\n予定 (yotei): plans, arrangement, schedule\n\n\nお久しぶり (ohisashiburi): it’s been a long time, long time no see\n\n\nView transcript\n\n\nClick here\nto downloa",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 Question 2: 1 Question 3: 3 Question 4: 1 Question 5: 3",
+ "level": "N3",
+ "category": "listening"
 }

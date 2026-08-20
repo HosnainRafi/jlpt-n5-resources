@@ -1,0 +1,257 @@
+{
+ "title": "JLPT N5 – Reading Exercise 03",
+ "questions": [
+  {
+   "question": 1,
+   "text": "[_______] には何を入れますか。 本は２９日、ざっしは２２日です。 本は２２日、ざっしは２９日です。 本もざっしも２９日です。 本もざっしも２２日です。",
+   "options": [
+    "[_______] には何を入れますか。",
+    "本は２９日、ざっしは２２日です。",
+    "本は２２日、ざっしは２９日です。",
+    "本もざっしも２９日です。",
+    "本もざっしも２２日です。"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "この学生は何さつかりましたか。 ３さつ ４さつ ５さつ ６さつ",
+   "options": [
+    "この学生は何さつかりましたか。",
+    "３さつ",
+    "４さつ",
+    "５さつ",
+    "６さつ"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "この学生はとしょかんで何をしましたか。 本に名前を書きました。 かみに本の名前を書きました。 じしょをかりました。 本とざっしをかりました。",
+   "options": [
+    "この学生はとしょかんで何をしましたか。",
+    "本に名前を書きました。",
+    "かみに本の名前を書きました。",
+    "じしょをかりました。",
+    "本とざっしをかりました。"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "このとしょかんで学生ができることは何ですか。 ざっしを２しゅうかんかりること 本を５さつかりること 本やざっしを４さつまでかりること 本とじしょを１しゅうかんかりること",
+   "options": [
+    "リン「むらたさん、ちょっといいですか。」 むらた「はい、なんですか。」 リン「明日病院へ行きますから、じゅぎょうに出ません。明日の夜電話しますから、宿題をおしえてください。」 むらた「はい、わかりました。」"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "ただしいものはどれですか。 むらたさんはきょうしゅくだいをおしえます。 りんさんはきょうじゅぎょうを休みます。 むらたさんはあしたびょういんへ行きます。 りんさんはむらたさんに電話します。 | Japanese | Romaji | English | |---|---|---| | 学生 | gakusei | student | | 図書館 | toshokan | library | | 借りる | kariru | to borrow, to rent, to have a loan | | 学校 | gakkou | school | | では: then, well then | | | | はじめに: to begin with, first of all | | | | 紙 | kami | paper | | 名前 | namae | name | | 住所 | juusho | address | | 電話番号 | denwa bangou | phone number | | 辞書 | jisho | dictionary | | 中 | naka | inside, within | | 冊 | satsu | counter for books | | 貸す | kasu | to lend, to loan, to rent out | | 週間 | shuukan | week, weekly | | 雑誌 | zasshi | magazine | | 返す | kaesu | to return (something), to restore | | 今日 | kyou | today, this day | | 明日 | ashita | tomorrow | | 病院 | byouin | hospital | | 授業 | jugyou | lesson, class work | | 出る | deru | to appear | | 宿題 | shukudai | homework | | 教える | oshieru | to teach, to inform, to instruct | | 休む | yasumu | to be absent, to take a day off | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 – Reading Exercise 04 | | | | JLPT N5 - Reading Exercise 02 | | |",
+   "options": [
+    "ただしいものはどれですか。",
+    "むらたさんはきょうしゅくだいをおしえます。",
+    "りんさんはきょうじゅぎょうを休みます。",
+    "むらたさんはあしたびょういんへ行きます。",
+    "りんさんはむらたさんに電話します。",
+    "Question 1: 1 (1 ([______] には何を入れますか。=>)",
+    "Question 2: 2 (2 (この学生は何さつかりましたか。=>)",
+    "Question 3: 4 (4 (この学生はとしょかんで何をしましたか。=>)",
+    "Question 4: 3 (3 (このとしょかんで学生ができることは何ですか。=>)",
+    "Question 5: 4 (4 (ただしいものはどれですか。=>)"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": "1 ([______] には何を入れますか。=>"
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": "2 (この学生は何さつかりましたか。=>"
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": "4 (この学生はとしょかんで何をしましたか。=>"
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": "3 (このとしょかんで学生ができることは何ですか。=>"
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": "4 (ただしいものはどれですか。=>"
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "学生",
+   "romaji": "gakusei",
+   "en": "student"
+  },
+  {
+   "jp": "図書館",
+   "romaji": "toshokan",
+   "en": "library"
+  },
+  {
+   "jp": "借りる",
+   "romaji": "kariru",
+   "en": "to borrow, to rent, to have a loan"
+  },
+  {
+   "jp": "学校",
+   "romaji": "gakkou",
+   "en": "school"
+  },
+  {
+   "jp": "では: then, well then",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "はじめに: to begin with, first of all",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "紙",
+   "romaji": "kami",
+   "en": "paper"
+  },
+  {
+   "jp": "名前",
+   "romaji": "namae",
+   "en": "name"
+  },
+  {
+   "jp": "住所",
+   "romaji": "juusho",
+   "en": "address"
+  },
+  {
+   "jp": "電話番号",
+   "romaji": "denwa bangou",
+   "en": "phone number"
+  },
+  {
+   "jp": "辞書",
+   "romaji": "jisho",
+   "en": "dictionary"
+  },
+  {
+   "jp": "中",
+   "romaji": "naka",
+   "en": "inside, within"
+  },
+  {
+   "jp": "冊",
+   "romaji": "satsu",
+   "en": "counter for books"
+  },
+  {
+   "jp": "貸す",
+   "romaji": "kasu",
+   "en": "to lend, to loan, to rent out"
+  },
+  {
+   "jp": "週間",
+   "romaji": "shuukan",
+   "en": "week, weekly"
+  },
+  {
+   "jp": "雑誌",
+   "romaji": "zasshi",
+   "en": "magazine"
+  },
+  {
+   "jp": "返す",
+   "romaji": "kaesu",
+   "en": "to return (something), to restore"
+  },
+  {
+   "jp": "今日",
+   "romaji": "kyou",
+   "en": "today, this day"
+  },
+  {
+   "jp": "明日",
+   "romaji": "ashita",
+   "en": "tomorrow"
+  },
+  {
+   "jp": "病院",
+   "romaji": "byouin",
+   "en": "hospital"
+  },
+  {
+   "jp": "授業",
+   "romaji": "jugyou",
+   "en": "lesson, class work"
+  },
+  {
+   "jp": "出る",
+   "romaji": "deru",
+   "en": "to appear"
+  },
+  {
+   "jp": "宿題",
+   "romaji": "shukudai",
+   "en": "homework"
+  },
+  {
+   "jp": "教える",
+   "romaji": "oshieru",
+   "en": "to teach, to inform, to instruct"
+  },
+  {
+   "jp": "休む",
+   "romaji": "yasumu",
+   "en": "to be absent, to take a day off"
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Reading Exercise 04",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Reading Exercise 02",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [
+  "https://japanesetest4you.com/image/jlpt-n5-reading-3-01.gif",
+  "https://japanesetest4you.com/image/jlpt-n5-reading-3-02.gif"
+ ],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-reading-exercise-03/",
+ "level": "N5",
+ "category": "reading"
+}

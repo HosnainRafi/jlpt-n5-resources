@@ -41,7 +41,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 3 Question 3: 1 Question 4: 3 Question 5: 2 ",
  "vocabulary": [
   "貸し出し",
   "学生証",
@@ -81,5 +80,35 @@
   "着替え",
   "はずす"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n図書館の本を返す\n用紙に名前などを書く\nレポートを書く\n家に、学生証を取りに行く\n\n\n\n\n\n2. Question 2\n\n\n\n\n国に帰るから\n試験があるから\n両親があそびに来るから\n友だちと旅行に行くから\n\n\n\n\n\n3. Question 3\n\n\n\n\n日本人形\n食器\n本\nお金\n\n\n\n\n\n4. Question 4\n\n\n\n\n朝早く\n前の日の朝\n前の日の午後\n１週間前の午後\n\n\n\n\n\n5. Question 5\n\n\n\n\n台所\n自分の部屋\nテーブルの上\n洗濯機の上\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 3\nQuestion 3: 1\nQuestion 4: 3\nQuestion 5: 2\n\n\nNew words:\n\n\n貸し出し (kashidashi): lending, loaning\n\n\n学生証 (gakuseishou): student card\n\n\nおかしい: strange, funny\n\n\nレポート: report, paper\n\n\n用紙 (youshi): blank form\n\n\n連絡先 (renrakusaki): contact address\n\n\n記入 (kinyuu): entry, filling in of forms\n\n\n特別 (tokubetsu): special\n\n\n確認 (kakunin): affirmation, confirmation, validation\n\n\nアルバイト: part-time job\n\n\n留学生 (ryuugakusei): overseas student, exchange student\n\n\n店長 (tenchou): shop manager\n\n\n試験 (shiken): test, examination\n\n\n終わり "
+ "page_text_sample": "1. Question 1\n\n\n\n\n図書館の本を返す\n用紙に名前などを書く\nレポートを書く\n家に、学生証を取りに行く\n\n\n\n\n\n2. Question 2\n\n\n\n\n国に帰るから\n試験があるから\n両親があそびに来るから\n友だちと旅行に行くから\n\n\n\n\n\n3. Question 3\n\n\n\n\n日本人形\n食器\n本\nお金\n\n\n\n\n\n4. Question 4\n\n\n\n\n朝早く\n前の日の朝\n前の日の午後\n１週間前の午後\n\n\n\n\n\n5. Question 5\n\n\n\n\n台所\n自分の部屋\nテーブルの上\n洗濯機の上\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 3\nQuestion 3: 1\nQuestion 4: 3\nQuestion 5: 2\n\n\nNew words:\n\n\n貸し出し (kashidashi): lending, loaning\n\n\n学生証 (gakuseishou): student card\n\n\nおかしい: strange, funny\n\n\nレポート: report, paper\n\n\n用紙 (youshi): blank form\n\n\n連絡先 (renrakusaki): contact address\n\n\n記入 (kinyuu): entry, filling in of forms\n\n\n特別 (tokubetsu): special\n\n\n確認 (kakunin): affirmation, confirmation, validation\n\n\nアルバイト: part-time job\n\n\n留学生 (ryuugakusei): overseas student, exchange student\n\n\n店長 (tenchou): shop manager\n\n\n試験 (shiken): test, examination\n\n\n終わり ",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 3 Question 3: 1 Question 4: 3 Question 5: 2",
+ "level": "N3",
+ "category": "listening"
 }

@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 1 Question 3: 3 Question 4: 2 Question 5: 2 JLPT N2 Kanji Lesson #1: 禁 (kin) Download the video lesson and ",
  "vocabulary": [
   "旅行会社",
   "泊",
@@ -72,5 +71,35 @@
   "案内係",
   "恥ずかしい"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 1\nQuestion 3: 3\nQuestion 4: 2\nQuestion 5: 2\n\n\n\n\nJLPT N2 Kanji Lesson #1: 禁 (kin)\n\n\n\n\n\n\n\n\nDownload the video lesson and transcript\n\n\n\n\nNew words:\n\n\n旅行会社 (ryokougaisha): travel agent, travel agency\n\n\n泊 (haku): counter for nights of a stay\n\n\n料金 (ryoukin): fee, charge, fare\n\n\n日程 (nittei): schedule, program\n\n\n平日 (heijitsu): weekday, ordinary days\n\n\n宿泊料金 (shukuhakuryoukin): accommodation charge, lodging charges\n\n\n上旬 (joujun): first ten days of month\n\n\n包装 (housou): packing, wrapping\n\n\n包装紙 (housoushi): wrapping paper\n\n\n花柄 (kahei): (botanical) peduncle\n\n\n有料 (yuuryou): fee, charge, toll\n\n\n無地 (muji): plain, unfi"
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 1\nQuestion 3: 3\nQuestion 4: 2\nQuestion 5: 2\n\n\n\n\nJLPT N2 Kanji Lesson #1: 禁 (kin)\n\n\n\n\n\n\n\n\nDownload the video lesson and transcript\n\n\n\n\nNew words:\n\n\n旅行会社 (ryokougaisha): travel agent, travel agency\n\n\n泊 (haku): counter for nights of a stay\n\n\n料金 (ryoukin): fee, charge, fare\n\n\n日程 (nittei): schedule, program\n\n\n平日 (heijitsu): weekday, ordinary days\n\n\n宿泊料金 (shukuhakuryoukin): accommodation charge, lodging charges\n\n\n上旬 (joujun): first ten days of month\n\n\n包装 (housou): packing, wrapping\n\n\n包装紙 (housoushi): wrapping paper\n\n\n花柄 (kahei): (botanical) peduncle\n\n\n有料 (yuuryou): fee, charge, toll\n\n\n無地 (muji): plain, unfi",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 1 Question 3: 3 Question 4: 2 Question 5: 2 JLPT N2 Kanji Lesson #1: 禁 (kin) Download the video lesson and",
+ "level": "N2",
+ "category": "listening"
 }

@@ -1,0 +1,429 @@
+{
+ "title": "JLPT N5 – Kanji Exercise 17",
+ "questions": [
+  {
+   "question": 1,
+   "text": "スポーツをして頭も 体 もすっきりしました。 からた かだら がらた からだ",
+   "options": [
+    "スポーツをして頭も",
+    "体",
+    "もすっきりしました。",
+    "からた",
+    "かだら",
+    "がらた",
+    "からだ"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "ここはこうつうが 不便 です。 ぶべん ぶへん ふべん ふへん",
+   "options": [
+    "ここはこうつうが",
+    "不便",
+    "です。",
+    "ぶべん",
+    "ぶへん",
+    "ふべん",
+    "ふへん"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "このぶんを えいご にしてください。 芙語 荼語 竺語 英語",
+   "options": [
+    "このぶんを",
+    "えいご",
+    "にしてください。",
+    "芙語",
+    "荼語",
+    "竺語",
+    "英語"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "あに はまいにちだいがくへいきます。 姉 兄 母 父",
+   "options": [
+    "あに",
+    "はまいにちだいがくへいきます。",
+    "姉",
+    "兄",
+    "母",
+    "父"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "世界 の歴史をあまり知らないのでもっと勉強したい。 せか せいか せかい せいかい",
+   "options": [
+    "世界",
+    "の歴史をあまり知らないのでもっと勉強したい。",
+    "せか",
+    "せいか",
+    "せかい",
+    "せいかい"
+   ]
+  },
+  {
+   "question": 6,
+   "text": "シャワーを 浴びます 。 いびます あびます うびます おびます",
+   "options": [
+    "シャワーを",
+    "浴びます",
+    "。",
+    "いびます",
+    "あびます",
+    "うびます",
+    "おびます"
+   ]
+  },
+  {
+   "question": 7,
+   "text": "はやく しゃしんをおくってください。 早く 卓く 旱く 阜く",
+   "options": [
+    "はやく",
+    "しゃしんをおくってください。",
+    "早く",
+    "卓く",
+    "旱く",
+    "阜く"
+   ]
+  },
+  {
+   "question": 8,
+   "text": "たばこを 吸って もいいですか。 あって かって いって すって",
+   "options": [
+    "たばこを",
+    "吸って",
+    "もいいですか。",
+    "あって",
+    "かって",
+    "いって",
+    "すって"
+   ]
+  },
+  {
+   "question": 9,
+   "text": "この道を 百 メートいってください。左にこうばんがあります。 ひゃく びゃく はく ばく",
+   "options": [
+    "この道を",
+    "百",
+    "メートいってください。左にこうばんがあります。",
+    "ひゃく",
+    "びゃく",
+    "はく",
+    "ばく"
+   ]
+  },
+  {
+   "question": 10,
+   "text": "しがつ はさくらがさきます。 四月 七月 一月 八月 | Japanese | Romaji | English | |---|---|---| | スポーツ: sport | | | | 頭 | atama | head, mind, brain | | 体: body, health | | | | すっきり: refreshed, shapely, neatly | | | | こうつう: traffic, communication, transportation | | | | 不便: inconvenience, unhandiness | | | | ぶん: sentence, text | | | | えいご: English (language) | | | | あに: older brother | | | | まいにち: every day | | | | だいがく: university, college | | | | 世界: the world, society | | | | 歴史 | rekishi | history | | 知る | shiru | to know, to understand | | もっと: more, even more | | | | 勉強: study, diligence | | | | シャワー: shower | | | | 浴びる: to bathe, to shower | | | | はやく: soon, quickly | | | | しゃしん: photograph, photo | | | | おくる: to send, to dispatch | | | | たばこ: tobacco, cigarettes | | | | 吸う: to smoke, to breathe in | | | | しがつ: April | | | | さく: to bloom | | | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 – Kanji Exercise 18 | | | | JLPT N5 – Kanji Exercise 16 | | |",
+   "options": [
+    "しがつ",
+    "はさくらがさきます。",
+    "四月",
+    "七月",
+    "一月",
+    "八月",
+    "Question",
+    "1:",
+    "4",
+    "(",
+    "体",
+    "=>",
+    "からだ",
+    ")",
+    "Question",
+    "2:",
+    "3",
+    "(",
+    "不便",
+    "=>",
+    "ふべん",
+    ")",
+    "Question",
+    "3:",
+    "4",
+    "(",
+    "えいご",
+    "=>",
+    "英語",
+    ")",
+    "Question",
+    "4:",
+    "2",
+    "(",
+    "あに",
+    "=>",
+    "兄",
+    ")",
+    "Question",
+    "5:",
+    "3",
+    "(",
+    "世界",
+    "=>",
+    "せかい",
+    ")",
+    "Question",
+    "6:",
+    "2",
+    "(",
+    "浴びます",
+    "=>",
+    "あびます",
+    ")",
+    "Question",
+    "7:",
+    "1",
+    "(",
+    "はやく",
+    "=>",
+    "早く",
+    ")",
+    "Question",
+    "8:",
+    "4",
+    "(",
+    "吸って",
+    "=>",
+    "すって",
+    ")",
+    "Question",
+    "9:",
+    "1",
+    "(",
+    "百",
+    "=>",
+    "ひゃく",
+    ")",
+    "Question",
+    "10:",
+    "1",
+    "(",
+    "しがつ",
+    "=>",
+    "四月",
+    ")"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": " 体 => からだ "
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": " 不便 => ふべん "
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": " えいご => 英語 "
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": " あに => 兄 "
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": " 世界 => せかい "
+  },
+  {
+   "question": 6,
+   "answer": "2",
+   "explanation": " 浴びます => あびます "
+  },
+  {
+   "question": 7,
+   "answer": "1",
+   "explanation": " はやく => 早く "
+  },
+  {
+   "question": 8,
+   "answer": "4",
+   "explanation": " 吸って => すって "
+  },
+  {
+   "question": 9,
+   "answer": "1",
+   "explanation": " 百 => ひゃく "
+  },
+  {
+   "question": 10,
+   "answer": "1",
+   "explanation": " しがつ => 四月 "
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "スポーツ: sport",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "頭",
+   "romaji": "atama",
+   "en": "head, mind, brain"
+  },
+  {
+   "jp": "体: body, health",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "すっきり: refreshed, shapely, neatly",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "こうつう: traffic, communication, transportation",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "不便: inconvenience, unhandiness",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "ぶん: sentence, text",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "えいご: English (language)",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "あに: older brother",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "まいにち: every day",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "だいがく: university, college",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "世界: the world, society",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "歴史",
+   "romaji": "rekishi",
+   "en": "history"
+  },
+  {
+   "jp": "知る",
+   "romaji": "shiru",
+   "en": "to know, to understand"
+  },
+  {
+   "jp": "もっと: more, even more",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "勉強: study, diligence",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "シャワー: shower",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "浴びる: to bathe, to shower",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "はやく: soon, quickly",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "しゃしん: photograph, photo",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "おくる: to send, to dispatch",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "たばこ: tobacco, cigarettes",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "吸う: to smoke, to breathe in",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "しがつ: April",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "さく: to bloom",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Kanji Exercise 18",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Kanji Exercise 16",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-17/",
+ "level": "N5",
+ "category": "kanji"
+}

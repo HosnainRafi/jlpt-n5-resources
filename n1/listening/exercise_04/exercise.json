@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 Question 2: 2 Question 3: 4 Question 4: 4 Question 5: 4 ",
  "vocabulary": [
   "形態",
   "今後",
@@ -80,5 +79,35 @@
   "締め切る",
   "体調不良"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n評価の方法を変えて欲しい\n役に立たないからやめて欲しい\nおもしろいから続けて欲しい\n何もしない人を注意して欲しい\n\n\n\n\n\n2. Question 2\n\n\n\n\n論文の作成が終わらないから\n働く会社が決まっていないから\n試験があるから\nお金がないから\n\n\n\n\n\n3. Question 3\n\n\n\n\n異文化理解は難しいものだと分かること\n外国人とたくさん交流すること\n外国人に日本語を教えること\n自分の国の文化を勉強すること\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 2\nQuestion 3: 4\nQuestion 4: 4\nQuestion 5: 4\n\n\nNew words:\n\n\n形態 (keitai): form, shape, figure\n\n\n今後 (kongo): from now on, hereafter\n\n\n協働 (kyoudou): cooperation\n\n\n学習 (gakushuu): study, learning\n\n\n不公平 (fukouhei): unfairness, injustice\n\n\n貢献 (kouken): contribution, services\n\n\n卒業論文 (sotsugyou ronbun): graduation thesis\n\n\n就職先 (shuushokusaki): place of employment\n\n\n採用 (saiyou): use, adoption, employment\n\n\n通知 (tsuuchi): notice, notification\n\n\n作成 (sakusei): framing, drawin"
+ "page_text_sample": "1. Question 1\n\n\n\n\n評価の方法を変えて欲しい\n役に立たないからやめて欲しい\nおもしろいから続けて欲しい\n何もしない人を注意して欲しい\n\n\n\n\n\n2. Question 2\n\n\n\n\n論文の作成が終わらないから\n働く会社が決まっていないから\n試験があるから\nお金がないから\n\n\n\n\n\n3. Question 3\n\n\n\n\n異文化理解は難しいものだと分かること\n外国人とたくさん交流すること\n外国人に日本語を教えること\n自分の国の文化を勉強すること\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 2\nQuestion 3: 4\nQuestion 4: 4\nQuestion 5: 4\n\n\nNew words:\n\n\n形態 (keitai): form, shape, figure\n\n\n今後 (kongo): from now on, hereafter\n\n\n協働 (kyoudou): cooperation\n\n\n学習 (gakushuu): study, learning\n\n\n不公平 (fukouhei): unfairness, injustice\n\n\n貢献 (kouken): contribution, services\n\n\n卒業論文 (sotsugyou ronbun): graduation thesis\n\n\n就職先 (shuushokusaki): place of employment\n\n\n採用 (saiyou): use, adoption, employment\n\n\n通知 (tsuuchi): notice, notification\n\n\n作成 (sakusei): framing, drawin",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 Question 2: 2 Question 3: 4 Question 4: 4 Question 5: 4",
+ "level": "N1",
+ "category": "listening"
 }

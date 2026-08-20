@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 Question 2: 3 Question 3: 3 Question 4: 3 Question 5: 1 ",
  "vocabulary": [
   "担当",
   "企画",
@@ -76,5 +75,35 @@
   "話題",
   "豊富"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n林電気の社長に会いに行く\n会議でプレゼンテーションをする\nしりょうのじゅんびを手伝う\nどうりょうと打ち合わせをする\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 3\nQuestion 3: 3\nQuestion 4: 3\nQuestion 5: 1\n\n\nNew words:\n\n\n担当 (tantou): in charge (of an area of responsibility)\n\n\n企画 (kikaku): planning, project, plan\n\n\nプレゼン: presentation\n\n\n日程 (nittei): schedule, program\n\n\n変更 (henkou): change, modification, alteration\n\n\n資料 (shiryou): materials, data\n\n\n新人 (shinjin): new face, newcomer\n\n\n件 (ken): matter, case\n\n\n対処 (taisho): deal with, cope\n\n\n打ち合わせ (uchiawase): appointment, business meeting\n\n\n任せる (makaseru): to entrust to another, to leave to\n\n\n商店街 (shoutengai): shopping district, shopping street\n\n\n夏祭り (natsumatsuri): s"
+ "page_text_sample": "1. Question 1\n\n\n\n\n林電気の社長に会いに行く\n会議でプレゼンテーションをする\nしりょうのじゅんびを手伝う\nどうりょうと打ち合わせをする\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 3\nQuestion 3: 3\nQuestion 4: 3\nQuestion 5: 1\n\n\nNew words:\n\n\n担当 (tantou): in charge (of an area of responsibility)\n\n\n企画 (kikaku): planning, project, plan\n\n\nプレゼン: presentation\n\n\n日程 (nittei): schedule, program\n\n\n変更 (henkou): change, modification, alteration\n\n\n資料 (shiryou): materials, data\n\n\n新人 (shinjin): new face, newcomer\n\n\n件 (ken): matter, case\n\n\n対処 (taisho): deal with, cope\n\n\n打ち合わせ (uchiawase): appointment, business meeting\n\n\n任せる (makaseru): to entrust to another, to leave to\n\n\n商店街 (shoutengai): shopping district, shopping street\n\n\n夏祭り (natsumatsuri): s",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 Question 2: 3 Question 3: 3 Question 4: 3 Question 5: 1",
+ "level": "N2",
+ "category": "listening"
 }

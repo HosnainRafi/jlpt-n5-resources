@@ -1,0 +1,249 @@
+{
+ "title": "JLPT N5 – Reading Exercise 01",
+ "questions": [
+  {
+   "question": 1,
+   "text": "きのう買ったかさはどんなかさですか。 高くておもいです。 安いですが、おもいです。 かるくてきれいです。 きれいですが、高いです。",
+   "options": [
+    "わたしたちはまいあさうたのれんしゅうをします。けさのれんしゅうは９時２０分から１時間でした。山川さんと大山さんは来ませんでした。高木さんは３０分おそく来ました。"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "ただしいものはどれですか。 れんしゅうを休んだ人は３人です。 れんしゅうは９時２０分から１時までです。 高木さんは１時間れんしゅうしました。 高木さんは９時５０分にれんしゅうに来ました。",
+   "options": [
+    "パク: すみません、あの上にある本を見たいです。（ ア ）。 店の人: はい、わかりました。（ イ ）。 パク: あれです。あの『にほんご』と書いてある本です。 店の人: これですか。 パク : いいえ、かんじじゃなくてひらがなで『にほんご』と書いてある本です。 店の人: ああ、これですか。 パク: はい、それです。それはいくらですか。 店の人: ３０００円です。 パク: ３０００円ですか。ちょっと高いですね。（ウ）すみません。 店の人: いいえ。またどうぞ。"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "（ア）には何を入れますか。 とりますか とりましょうか とっていますか とってくださいませんか",
+   "options": [
+    "（ア）には何を入れますか。",
+    "とりますか",
+    "とりましょうか",
+    "とっていますか",
+    "とってくださいませんか"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "（イ）には何を入れますか。 どの本ですか どれが本ですか これは本ですか この本はありませんか",
+   "options": [
+    "（イ）には何を入れますか。",
+    "どの本ですか",
+    "どれが本ですか",
+    "これは本ですか",
+    "この本はありませんか"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "（ウ）には何を入れますか。 じゃ、それです じゃ、いいです じゃ、それにします じゃ、そうしましょう | Japanese | Romaji | English | |---|---|---| | 昨日 | kinou | yesterday | | 傘 | kasa | umbrella | | 買う | kau | to buy | | きれい: pretty, lovely, beautiful | | | | 高い | takai | high, tall, expensive | | 去年 | kyonen | last year | | 重い | omoi | heavy | | 軽い | karui | light (not heavy) | | いい: good, fine, nice | | | | 毎朝 | maiasa | every morning | | 歌 | uta | song | | 練習 | renshuu | practice | | 今朝 | kesa | this morning | | 時間 | jikan | time, hours | | 来る | kuru | to come, to arrive | | 遅く | osoku | late | | 正しい | tadashii | just, right, correct | | 上 | ue | above, up, top | | 本 | hon | book | | 見る | miru | to see, to look, to view | | 分かる | wakaru | to be understood, to be comprehended | | 日本語 | nihongo | Japanese (language) | | 書く | kaku | to write | | いくら: how much, how many | | | | ちょっと: a little, somewhat | | | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 - Reading Exercise 02 | | |",
+   "options": [
+    "（ウ）には何を入れますか。",
+    "じゃ、それです",
+    "じゃ、いいです",
+    "じゃ、それにします",
+    "じゃ、そうしましょう",
+    "Question 1: 3 (3 (きのう買ったかさはどんなかさですか。=>)",
+    "Question 2: 4 (4 (ただしいものはどれですか。=>)",
+    "Question 3: 4 (4 (（ア）には何を入れますか。=>)",
+    "Question 4: 1 (1 (（イ）には何を入れますか。=>)",
+    "Question 5: 2 (2 (（ウ）には何を入れますか。 =>)"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": "3 (きのう買ったかさはどんなかさですか。=>"
+  },
+  {
+   "question": 2,
+   "answer": "4",
+   "explanation": "4 (ただしいものはどれですか。=>"
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": "4 (（ア）には何を入れますか。=>"
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": "1 (（イ）には何を入れますか。=>"
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": "2 (（ウ）には何を入れますか。 =>"
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "昨日",
+   "romaji": "kinou",
+   "en": "yesterday"
+  },
+  {
+   "jp": "傘",
+   "romaji": "kasa",
+   "en": "umbrella"
+  },
+  {
+   "jp": "買う",
+   "romaji": "kau",
+   "en": "to buy"
+  },
+  {
+   "jp": "きれい: pretty, lovely, beautiful",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "高い",
+   "romaji": "takai",
+   "en": "high, tall, expensive"
+  },
+  {
+   "jp": "去年",
+   "romaji": "kyonen",
+   "en": "last year"
+  },
+  {
+   "jp": "重い",
+   "romaji": "omoi",
+   "en": "heavy"
+  },
+  {
+   "jp": "軽い",
+   "romaji": "karui",
+   "en": "light (not heavy)"
+  },
+  {
+   "jp": "いい: good, fine, nice",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "毎朝",
+   "romaji": "maiasa",
+   "en": "every morning"
+  },
+  {
+   "jp": "歌",
+   "romaji": "uta",
+   "en": "song"
+  },
+  {
+   "jp": "練習",
+   "romaji": "renshuu",
+   "en": "practice"
+  },
+  {
+   "jp": "今朝",
+   "romaji": "kesa",
+   "en": "this morning"
+  },
+  {
+   "jp": "時間",
+   "romaji": "jikan",
+   "en": "time, hours"
+  },
+  {
+   "jp": "来る",
+   "romaji": "kuru",
+   "en": "to come, to arrive"
+  },
+  {
+   "jp": "遅く",
+   "romaji": "osoku",
+   "en": "late"
+  },
+  {
+   "jp": "正しい",
+   "romaji": "tadashii",
+   "en": "just, right, correct"
+  },
+  {
+   "jp": "上",
+   "romaji": "ue",
+   "en": "above, up, top"
+  },
+  {
+   "jp": "本",
+   "romaji": "hon",
+   "en": "book"
+  },
+  {
+   "jp": "見る",
+   "romaji": "miru",
+   "en": "to see, to look, to view"
+  },
+  {
+   "jp": "分かる",
+   "romaji": "wakaru",
+   "en": "to be understood, to be comprehended"
+  },
+  {
+   "jp": "日本語",
+   "romaji": "nihongo",
+   "en": "Japanese (language)"
+  },
+  {
+   "jp": "書く",
+   "romaji": "kaku",
+   "en": "to write"
+  },
+  {
+   "jp": "いくら: how much, how many",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "ちょっと: a little, somewhat",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Reading Exercise 02",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [
+  "https://japanesetest4you.com/image/jlpt-n5-reading-1-01.gif",
+  "https://japanesetest4you.com/image/jlpt-n5-reading-1-02.gif",
+  "https://japanesetest4you.com/image/jlpt-n5-reading-1-03.gif"
+ ],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-reading-exercise-01/",
+ "level": "N5",
+ "category": "reading"
+}

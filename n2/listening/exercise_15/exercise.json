@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 Question 2: 3 Question 3: 2 Question 4: 3 Question 5: 3 ",
  "vocabulary": [
   "載る",
   "不動産屋",
@@ -84,5 +83,35 @@
   "提出",
   "部数"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\nアパートの情報誌を買いに行く\n不動産屋に行く\nきぼうのじょうけんを書きだす\n住みたいまちを歩く\n\n\n\n\n\n2. Question 2\n\n\n\n\n家具が倒れないようにする\n家族の避難場所を決める\n避難用のセットを買う\n家族に連絡する\n\n\n\n\n\n3. Question 3\n\n\n\n\n０００１ ０１\n０００１ ０２\n０５０３ ０２\n０５０３ ０９\n\n\n\n\n\n4. Question 4\n\n\n\n\n会議の時間が変わりました\n明日の会議に出席してください\nサクラ印刷の山川さんに電話してください\nサクラ印刷の山川さんが再度電話をくださいます\n\n\n\n\n\n5. Question 5\n\n\n\n\n字の間違いを直す\nさんこうぶんけんの書き方を直す\nグラフを直す\nろんぶんのコピーを２部作る\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 4\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 3\nQuestion 5: 3\n\n\nNew words:\n\n\n載る (noru): to be reported; to appear (in print)\n\n\n不動産屋 (fudousanya): real estate agent; realtor\n\n\n家賃 (yachin): rent\n\n\n日当たり (hiatari): exposure to the sun\n\n\n気になる (ki ni naru): to be on one’s mind; to be bothered by; to be curious about\n\n\n条件 (jouken): condition; term; qualification\n\n\n整理 (seiri): sorting; arrangement; putting in "
+ "page_text_sample": "1. Question 1\n\n\n\n\nアパートの情報誌を買いに行く\n不動産屋に行く\nきぼうのじょうけんを書きだす\n住みたいまちを歩く\n\n\n\n\n\n2. Question 2\n\n\n\n\n家具が倒れないようにする\n家族の避難場所を決める\n避難用のセットを買う\n家族に連絡する\n\n\n\n\n\n3. Question 3\n\n\n\n\n０００１ ０１\n０００１ ０２\n０５０３ ０２\n０５０３ ０９\n\n\n\n\n\n4. Question 4\n\n\n\n\n会議の時間が変わりました\n明日の会議に出席してください\nサクラ印刷の山川さんに電話してください\nサクラ印刷の山川さんが再度電話をくださいます\n\n\n\n\n\n5. Question 5\n\n\n\n\n字の間違いを直す\nさんこうぶんけんの書き方を直す\nグラフを直す\nろんぶんのコピーを２部作る\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 4\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 3\nQuestion 5: 3\n\n\nNew words:\n\n\n載る (noru): to be reported; to appear (in print)\n\n\n不動産屋 (fudousanya): real estate agent; realtor\n\n\n家賃 (yachin): rent\n\n\n日当たり (hiatari): exposure to the sun\n\n\n気になる (ki ni naru): to be on one’s mind; to be bothered by; to be curious about\n\n\n条件 (jouken): condition; term; qualification\n\n\n整理 (seiri): sorting; arrangement; putting in ",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 Question 2: 3 Question 3: 2 Question 4: 3 Question 5: 3",
+ "level": "N2",
+ "category": "listening"
 }

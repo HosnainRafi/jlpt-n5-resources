@@ -1,0 +1,273 @@
+{
+ "title": "JLPT N5 – Grammar Exercise 14",
+ "questions": [
+  {
+   "question": 1,
+   "text": "おとうとはいしゃ _______ なりました。 を に で の",
+   "options": [
+    "おとうとはいしゃ _______ なりました。",
+    "を",
+    "に",
+    "で"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "雨がふっている _______ 、きょうは出かけません。 から など では まで",
+   "options": [
+    "雨がふっている _______ 、きょうは出かけません。",
+    "から",
+    "など",
+    "では"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "きょうは、午後ゆうびんきょくへ行きますが、ぎんこう _______ 行きません。 へは へも へと へに",
+   "options": [
+    "きょうは、午後ゆうびんきょくへ行きますが、ぎんこう _______ 行きません。",
+    "へは",
+    "へも",
+    "へと"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "からだが _______ なりました。 じょうぶな じょうぶに じょうぶく じょうぶで",
+   "options": [
+    "からだが _______ なりました。",
+    "じょうぶな",
+    "じょうぶに",
+    "じょうぶく"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "いもうとは17さい _______ 、学生です。 に と で な",
+   "options": [
+    "いもうとは17さい _______ 、学生です。",
+    "に",
+    "と",
+    "で"
+   ]
+  },
+  {
+   "question": 6,
+   "text": "きょうのテストは _______ なかったです。 むずかし むずかしい むずかしくて むずかしく",
+   "options": [
+    "きょうのテストは _______ なかったです。",
+    "むずかし",
+    "むずかしい",
+    "むずかしくて"
+   ]
+  },
+  {
+   "question": 7,
+   "text": "みんながたくさん飲みましたから、 _______ おさけはありません。 もう まだ よく とても",
+   "options": [
+    "みんながたくさん飲みましたから、 _______ おさけはありません。",
+    "もう",
+    "まだ",
+    "よく"
+   ]
+  },
+  {
+   "question": 8,
+   "text": "ドアが _______ 。 しめます しめています しまっています しまってあります",
+   "options": [
+    "ドアが _______ 。",
+    "しめます",
+    "しめています",
+    "しまっています"
+   ]
+  },
+  {
+   "question": 9,
+   "text": "きょうはとてもあついです _______ 。 や は と ね",
+   "options": [
+    "きょうはとてもあついです _______ 。",
+    "や",
+    "は",
+    "と"
+   ]
+  },
+  {
+   "question": 10,
+   "text": "A 「そのへやに入らないでください。」B「 _______ 。」 すみませんが わかりました ごめんください しつれいします | Japanese | Romaji | English | |---|---|---| | 弟 | otouto | younger brother | | 医者 | isha | (medical) doctor, physician | | 出かける | dekakeru | to go out (on an excursion or outing) | | 午後 | gogo | afternoon, p.m. | | 郵便局 | yuubinkyoku | post office | | 銀行 | ginkou | bank | | 体 | karada | body, health | | 丈夫 | joubu | healthy, robust | | 妹 | imouto | younger sister | | 歳 | sai | -years-old | | ドア: door | | | | 暑い | atsui | hot (weather) | | すみません: sorry, excuse me | | | | ごめんください: may I come in? | | | | しつれいします: excuse me | | | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 - Grammar Exercise 15 | | | | JLPT N5 - Grammar Exercise 13 | | |",
+   "options": [
+    "A 「そのへやに入らないでください。」B「 _______ 。」",
+    "すみませんが",
+    "わかりました",
+    "ごめんください"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": "2 (おとうとはいしゃ"
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": "1 (雨がふっている"
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": "1 (きょうは、午後ゆうびんきょくへ行きますが、ぎんこう"
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": "2 (からだが"
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": "3 (いもうとは１７さい"
+  },
+  {
+   "question": 6,
+   "answer": "4",
+   "explanation": "4 (きょうのテストは"
+  },
+  {
+   "question": 7,
+   "answer": "1",
+   "explanation": "1 (みんながたくさん飲みましたから、"
+  },
+  {
+   "question": 8,
+   "answer": "3",
+   "explanation": "3 (ドアが"
+  },
+  {
+   "question": 9,
+   "answer": "4",
+   "explanation": "4 (きょうはとてもあついです"
+  },
+  {
+   "question": 10,
+   "answer": "2",
+   "explanation": "2 (A　「そのへやに入らないでください。」B「"
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "弟",
+   "romaji": "otouto",
+   "en": "younger brother"
+  },
+  {
+   "jp": "医者",
+   "romaji": "isha",
+   "en": "(medical) doctor, physician"
+  },
+  {
+   "jp": "出かける",
+   "romaji": "dekakeru",
+   "en": "to go out (on an excursion or outing)"
+  },
+  {
+   "jp": "午後",
+   "romaji": "gogo",
+   "en": "afternoon, p.m."
+  },
+  {
+   "jp": "郵便局",
+   "romaji": "yuubinkyoku",
+   "en": "post office"
+  },
+  {
+   "jp": "銀行",
+   "romaji": "ginkou",
+   "en": "bank"
+  },
+  {
+   "jp": "体",
+   "romaji": "karada",
+   "en": "body, health"
+  },
+  {
+   "jp": "丈夫",
+   "romaji": "joubu",
+   "en": "healthy, robust"
+  },
+  {
+   "jp": "妹",
+   "romaji": "imouto",
+   "en": "younger sister"
+  },
+  {
+   "jp": "歳",
+   "romaji": "sai",
+   "en": "-years-old"
+  },
+  {
+   "jp": "ドア: door",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "暑い",
+   "romaji": "atsui",
+   "en": "hot (weather)"
+  },
+  {
+   "jp": "すみません: sorry, excuse me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "ごめんください: may I come in?",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "しつれいします: excuse me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Grammar Exercise 15",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Grammar Exercise 13",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-14/",
+ "level": "N5",
+ "category": "grammar"
+}

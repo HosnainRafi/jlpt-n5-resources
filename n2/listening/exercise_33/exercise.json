@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 3 Question 2: 3 Question 3: 2 Question 4: 1 Question 5: 4 JLPT N2 Kanji Lesson #5: 再 (sai) Download the video lesson and ",
  "vocabulary": [
   "経済成長率",
   "示す",
@@ -81,5 +80,35 @@
   "散らかる",
   "整理"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 1\nQuestion 5: 4\n\n\n\n\nJLPT N2 Kanji Lesson #5: 再 (sai)\n\n\n\n\n\n\n\n\nDownload the video lesson and transcript\n\n\n\n\nNew words:\n\n\n経済成長率 (keizai seichouritsu): rate of economic growth\n\n\n示す (shimesu): to show, to indicate\n\n\n税制 (zeisei): tax system\n\n\n長期 (chouki): long time period\n\n\n一般に (ippan ni): in general\n\n\n発表 (happyou): announcement, publication\n\n\n迫る (semaru): to draw near, to press (someone for something)\n\n\n伸び (nobi): growth, development\n\n\nマイナス: minus\n\n\nわずか: only, merely\n\n\nとどまる: to stop, to halt, to remain\n\n\n景気 (keiki): condition, state, business (condition)\n\n\n回復 (kaifuku): recovery"
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 1\nQuestion 5: 4\n\n\n\n\nJLPT N2 Kanji Lesson #5: 再 (sai)\n\n\n\n\n\n\n\n\nDownload the video lesson and transcript\n\n\n\n\nNew words:\n\n\n経済成長率 (keizai seichouritsu): rate of economic growth\n\n\n示す (shimesu): to show, to indicate\n\n\n税制 (zeisei): tax system\n\n\n長期 (chouki): long time period\n\n\n一般に (ippan ni): in general\n\n\n発表 (happyou): announcement, publication\n\n\n迫る (semaru): to draw near, to press (someone for something)\n\n\n伸び (nobi): growth, development\n\n\nマイナス: minus\n\n\nわずか: only, merely\n\n\nとどまる: to stop, to halt, to remain\n\n\n景気 (keiki): condition, state, business (condition)\n\n\n回復 (kaifuku): recovery",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 3 Question 2: 3 Question 3: 2 Question 4: 1 Question 5: 4 JLPT N2 Kanji Lesson #5: 再 (sai) Download the video lesson and",
+ "level": "N2",
+ "category": "listening"
 }

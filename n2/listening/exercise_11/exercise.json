@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 Question 2: 3 Question 3: 1 Question 4: 1 Question 5: 3 ",
  "vocabulary": [
   "健康診断",
   "そう言えば",
@@ -103,5 +102,35 @@
   "アドバイス",
   "対応"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n知らなかったから\nお金がかかるから\n手続きが面倒だから\n健康に不安がないから\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 4\nQuestion 2: 3\nQuestion 3: 1\nQuestion 4: 1\nQuestion 5: 3\n\n\nNew words:\n\n\n健康診断 (kenkou shindan): physical examination\n\n\nそう言えば (sou ieba): which reminds me…; come to think of it…; now that you mention it…\n\n\n主婦 (shufu): housewife; homemaker\n\n\n保健所 (hokensho): health care center\n\n\n成人 (seijin): adult\n\n\n申し込み (moushikomi): application; entry; request\n\n\n通知 (tsuuchi): notice; notification; report\n\n\n手続き (tetsuzuki): procedure; (legal) process\n\n\n面倒 (mendou): trouble; bother; difficulty\n\n\n不安 (fuan): anxiety; uneasiness; insecurity\n\n\n一般的 (ippanteki): popular; typical; general\n\n\n"
+ "page_text_sample": "1. Question 1\n\n\n\n\n知らなかったから\nお金がかかるから\n手続きが面倒だから\n健康に不安がないから\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 4\nQuestion 2: 3\nQuestion 3: 1\nQuestion 4: 1\nQuestion 5: 3\n\n\nNew words:\n\n\n健康診断 (kenkou shindan): physical examination\n\n\nそう言えば (sou ieba): which reminds me…; come to think of it…; now that you mention it…\n\n\n主婦 (shufu): housewife; homemaker\n\n\n保健所 (hokensho): health care center\n\n\n成人 (seijin): adult\n\n\n申し込み (moushikomi): application; entry; request\n\n\n通知 (tsuuchi): notice; notification; report\n\n\n手続き (tetsuzuki): procedure; (legal) process\n\n\n面倒 (mendou): trouble; bother; difficulty\n\n\n不安 (fuan): anxiety; uneasiness; insecurity\n\n\n一般的 (ippanteki): popular; typical; general\n\n\n",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 Question 2: 3 Question 3: 1 Question 4: 1 Question 5: 3",
+ "level": "N2",
+ "category": "listening"
 }

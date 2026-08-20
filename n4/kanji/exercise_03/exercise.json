@@ -49,7 +49,61 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 ( 待合室 => まちあいしつ ) Question 2: 4 ( 下着 => したぎ ) Question 3: 1 ( 十分 => じゅうぶん ) Question 4: 3 ( やさしい => 優しい ) Question 5: 4 ( 行い => おこない ) Question 6: 1 ( 卒業 => そつぎょう ) Question 7: 1 ( もり => 森 ) Question 8: 2 ( つたわる => 伝わる ) Question 9: 2 ( こうちょう => 校長 ) Question 10: 4 ( しんせつ => 親切 ) ",
  "vocabulary": [],
- "page_text_sample": "1. お薬ができるまでその\n待合室\nで待っていてください。\nたいごうしつ\nだいごうしつ\nもちあいしつ\nまちあいしつ\n\n\n2.\n下着\nのうりばは階段を下りたところにあります。\nかちゃく\nかき\nしたき\nしたぎ\n\n\n3.\n十分\nな理由がなければ、会社を休みません。\nじゅうぶん\nじゅっぷん\nじっぷん\nじょうぶん\n\n\n4. 彼は人にとても\nやさしい\n。\n易しい\n簡しい\n優しい\n善しい\n\n\n5. 昨日近くの公園では小さなコンサートを\n行い\nました。\nいい\nつかい\nはい\nおこない\n\n\n6.\n卒業\nしてもせいじのけんきゅうを続けるつもりです。\nそつぎょう\nそつきょう\nそぎょう\nそっきょう\n\n\n7.\nもり\nの緑を守らなければならない。\n森\n林\n樹木\n森林\n\n\n8. うわさが口から口へと\nつたわる\n。\n番わる\n伝わる\n進わる\n推わる\n\n\n9.\nこうちょう\n先生は今日こうぎをしてくれました。\n学長\n校長\n教長\n兄長\n\n\n10. 彼女は\nしんせつ\nで心がやさしいです。\n親熱\n熱心\n親近\n親切\n\n\nAnswer Key:\n\n\nQuestion 1: 4 ( 待合室 => まちあいしつ )\nQuestion 2: 4 ( 下着 => したぎ )\nQuestion 3: 1 ( 十分 => じゅうぶん )\nQuestion 4: 3 ( やさしい => 優しい )\nQuestion 5: 4 ( 行い => おこない )\nQuestion 6: 1 ( 卒業 => そつぎょう )\nQuestion 7: 1 ( もり => 森 )\nQuestion 8: 2 ( つたわる => 伝わる )\nQuestion 9: 2 ( こうちょう => 校長 )\nQuestion 10: 4 ( しんせつ => 親切 )\n\n\nNew words:\n\n\n薬 (kusuri): medicine, (legal) dru"
+ "page_text_sample": "1. お薬ができるまでその\n待合室\nで待っていてください。\nたいごうしつ\nだいごうしつ\nもちあいしつ\nまちあいしつ\n\n\n2.\n下着\nのうりばは階段を下りたところにあります。\nかちゃく\nかき\nしたき\nしたぎ\n\n\n3.\n十分\nな理由がなければ、会社を休みません。\nじゅうぶん\nじゅっぷん\nじっぷん\nじょうぶん\n\n\n4. 彼は人にとても\nやさしい\n。\n易しい\n簡しい\n優しい\n善しい\n\n\n5. 昨日近くの公園では小さなコンサートを\n行い\nました。\nいい\nつかい\nはい\nおこない\n\n\n6.\n卒業\nしてもせいじのけんきゅうを続けるつもりです。\nそつぎょう\nそつきょう\nそぎょう\nそっきょう\n\n\n7.\nもり\nの緑を守らなければならない。\n森\n林\n樹木\n森林\n\n\n8. うわさが口から口へと\nつたわる\n。\n番わる\n伝わる\n進わる\n推わる\n\n\n9.\nこうちょう\n先生は今日こうぎをしてくれました。\n学長\n校長\n教長\n兄長\n\n\n10. 彼女は\nしんせつ\nで心がやさしいです。\n親熱\n熱心\n親近\n親切\n\n\nAnswer Key:\n\n\nQuestion 1: 4 ( 待合室 => まちあいしつ )\nQuestion 2: 4 ( 下着 => したぎ )\nQuestion 3: 1 ( 十分 => じゅうぶん )\nQuestion 4: 3 ( やさしい => 優しい )\nQuestion 5: 4 ( 行い => おこない )\nQuestion 6: 1 ( 卒業 => そつぎょう )\nQuestion 7: 1 ( もり => 森 )\nQuestion 8: 2 ( つたわる => 伝わる )\nQuestion 9: 2 ( こうちょう => 校長 )\nQuestion 10: 4 ( しんせつ => 親切 )\n\n\nNew words:\n\n\n薬 (kusuri): medicine, (legal) dru",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "4",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 ( 待合室 => まちあいしつ ) Question 2: 4 ( 下着 => したぎ ) Question 3: 1 ( 十分 => じゅうぶん ) Question 4: 3 ( やさしい => 優しい ) Question 5: 4 ( 行い => おこない ) Question 6: 1 ( 卒業 => そつぎょう ) Question 7: 1 ( もり => 森 ) Question 8: 2 ( つたわる => 伝わる ) Question 9: 2 ( こうちょう => 校長 ) Question 10: 4 ( しんせつ => 親切 )",
+ "level": "N4",
+ "category": "kanji"
 }

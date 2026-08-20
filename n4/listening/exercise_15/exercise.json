@@ -24,7 +24,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 Question 2: 1 Question 3: 2 Question 4: 1 Question 5: 1 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 盗む (nusumu): to steal 留守の間 (rusu no aida): (in) one’s absence 泥棒 (dorobou): thief; burglar 引き出し (hikidashi): drawer パソコン: personal computer 軽い (karui): light (i.e. not heavy) ノート: notebook 薄い (usui): thin; slim 簡単 (kantan): simple; easy; uncomplicat",
  "vocabulary": [
   "Infographics Part",
   "Click here",
@@ -89,5 +88,35 @@
   "your friends",
   "Listening Exercise"
  ],
- "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 View transcript Answer Key: Question 1: 4 Question 2: 1 Question 3: 2 Question 4: 1 Question 5: 1 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 盗む (nusumu): to steal 留守の間 (rusu no aida): (in) one’s absence 泥棒 (dorobou): thief; burglar 引き出し (hikidashi): drawer パソコン: personal computer 軽い (karui): light (i.e. not heavy) ノート: notebook 薄い (usui): thin; slim 簡単 (kantan): simple; easy; uncomplicated 困る (komaru): to be troubled; to be worried; to be bothered 庭 (niwa): garden; yard 植える (ueru): to plant; to grow 楽しい (tanoshii): enjoyable; fun 池 (ike): pond 見せ"
+ "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 View transcript Answer Key: Question 1: 4 Question 2: 1 Question 3: 2 Question 4: 1 Question 5: 1 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 盗む (nusumu): to steal 留守の間 (rusu no aida): (in) one’s absence 泥棒 (dorobou): thief; burglar 引き出し (hikidashi): drawer パソコン: personal computer 軽い (karui): light (i.e. not heavy) ノート: notebook 薄い (usui): thin; slim 簡単 (kantan): simple; easy; uncomplicated 困る (komaru): to be troubled; to be worried; to be bothered 庭 (niwa): garden; yard 植える (ueru): to plant; to grow 楽しい (tanoshii): enjoyable; fun 池 (ike): pond 見せ",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 Question 2: 1 Question 3: 2 Question 4: 1 Question 5: 1 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 盗む (nusumu): to steal 留守の間 (rusu no aida): (in) one’s absence 泥棒 (dorobou): thief; burglar 引き出し (hikidashi): drawer パソコン: personal computer 軽い (karui): light (i.e. not heavy) ノート: notebook 薄い (usui): thin; slim 簡単 (kantan): simple; easy; uncomplicat",
+ "level": "N4",
+ "category": "listening"
 }

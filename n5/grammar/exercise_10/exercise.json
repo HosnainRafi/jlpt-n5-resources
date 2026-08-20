@@ -1,0 +1,273 @@
+{
+ "title": "JLPT N5 – Grammar Exercise 10",
+ "questions": [
+  {
+   "question": 1,
+   "text": "パンを _______ きります。 うす うすい うすいで うすく",
+   "options": [
+    "パンを _______ きります。",
+    "うす",
+    "うすい",
+    "うすいで"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "A「もうこの本を読みましたか。」B「いいえ、 _______ 。」 まだです まだ読みました もうです もう読みませんでした",
+   "options": [
+    "A「もうこの本を読みましたか。」B「いいえ、 _______ 。」",
+    "まだです",
+    "まだ読みました",
+    "もうです"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "ひるごはんの時間をもっと _______ しませんか。 おそく おそい おそいに おそくて",
+   "options": [
+    "ひるごはんの時間をもっと _______ しませんか。",
+    "おそく",
+    "おそい",
+    "おそいに"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "そのこうさてん _______ 左にまがってください。 が を に と",
+   "options": [
+    "そのこうさてん _______ 左にまがってください。",
+    "が",
+    "を",
+    "に"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "パーティーで、だれ _______ ギターをひきましたか。 を も は が",
+   "options": [
+    "パーティーで、だれ _______ ギターをひきましたか。",
+    "を",
+    "も",
+    "は"
+   ]
+  },
+  {
+   "question": 6,
+   "text": "わたしがきのう _______ カメラはどこにありますか。 買って 買う 買った 買わない",
+   "options": [
+    "わたしがきのう _______ カメラはどこにありますか。",
+    "買って",
+    "買う",
+    "買った"
+   ]
+  },
+  {
+   "question": 7,
+   "text": "あたらしいようふく _______ ほしいです。 に が と の",
+   "options": [
+    "あたらしいようふく _______ ほしいです。",
+    "に",
+    "が",
+    "と"
+   ]
+  },
+  {
+   "question": 8,
+   "text": "時間がありません。 _______ ください。 はやくして はやくなって はやいにして はやいになって",
+   "options": [
+    "時間がありません。 _______ ください。",
+    "はやくして",
+    "はやくなって",
+    "はやいにして"
+   ]
+  },
+  {
+   "question": 9,
+   "text": "駅までいっしょに _______ ましょう。 かえ かえり かえる かえって",
+   "options": [
+    "駅までいっしょに _______ ましょう。",
+    "かえ",
+    "かえり",
+    "かえる"
+   ]
+  },
+  {
+   "question": 10,
+   "text": "このテストは、じしょを _______ ください。 つかうないで つかわないで つかいないで つかないで | Japanese | Romaji | English | |---|---|---| | 薄い | usui | thin, pale | | 切る | kiru | to cut, to sever | | 昼御飯 | hirugohan | lunch, midday meal | | 時間 | jikan | time, hours | | もっと: more, even more | | | | 遅い | osoi | slow, late | | 交差点 | kousaten | crossing, intersection | | 左 | hidari | left, left hand side | | 曲がる | magaru | to turn, to twist | | カメラ: camera | | | | どこ: where, what place | | | | 新しい | atarashii | new | | 洋服 | youfuku | Western-style clothes | | 一緒に | issho ni | together with | | 使う | tsukau | to use, to make use of | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 – Grammar Exercise 11 | | | | JLPT N5 - Grammar Exercise 09 | | |",
+   "options": [
+    "このテストは、じしょを _______ ください。",
+    "つかうないで",
+    "つかわないで",
+    "つかいないで"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": "4 (パンを"
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": "1 (A「もうこの本を読みましたか。」B「いいえ、"
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": "1 (ひるごはんの時間をもっと"
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": "2 (そのこうさてん"
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": "4 (パーティーで、だれ"
+  },
+  {
+   "question": 6,
+   "answer": "3",
+   "explanation": "3 (わたしがきのう"
+  },
+  {
+   "question": 7,
+   "answer": "2",
+   "explanation": "2 (あたらしいようふく"
+  },
+  {
+   "question": 8,
+   "answer": "1",
+   "explanation": "1 (時間がありません。"
+  },
+  {
+   "question": 9,
+   "answer": "2",
+   "explanation": "2 (駅までいっしょに"
+  },
+  {
+   "question": 10,
+   "answer": "2",
+   "explanation": "2 (このテストは、じしょを"
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "薄い",
+   "romaji": "usui",
+   "en": "thin, pale"
+  },
+  {
+   "jp": "切る",
+   "romaji": "kiru",
+   "en": "to cut, to sever"
+  },
+  {
+   "jp": "昼御飯",
+   "romaji": "hirugohan",
+   "en": "lunch, midday meal"
+  },
+  {
+   "jp": "時間",
+   "romaji": "jikan",
+   "en": "time, hours"
+  },
+  {
+   "jp": "もっと: more, even more",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "遅い",
+   "romaji": "osoi",
+   "en": "slow, late"
+  },
+  {
+   "jp": "交差点",
+   "romaji": "kousaten",
+   "en": "crossing, intersection"
+  },
+  {
+   "jp": "左",
+   "romaji": "hidari",
+   "en": "left, left hand side"
+  },
+  {
+   "jp": "曲がる",
+   "romaji": "magaru",
+   "en": "to turn, to twist"
+  },
+  {
+   "jp": "カメラ: camera",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "どこ: where, what place",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "新しい",
+   "romaji": "atarashii",
+   "en": "new"
+  },
+  {
+   "jp": "洋服",
+   "romaji": "youfuku",
+   "en": "Western-style clothes"
+  },
+  {
+   "jp": "一緒に",
+   "romaji": "issho ni",
+   "en": "together with"
+  },
+  {
+   "jp": "使う",
+   "romaji": "tsukau",
+   "en": "to use, to make use of"
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Grammar Exercise 11",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Grammar Exercise 09",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-10/",
+ "level": "N5",
+ "category": "grammar"
+}

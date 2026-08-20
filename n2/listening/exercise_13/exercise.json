@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 Question 2: 2 Question 3: 1 Question 4: 2 Question 5: 3 ",
  "vocabulary": [
   "様子",
   "落ち込む",
@@ -58,5 +57,35 @@
   "まだまだこれから",
   "控える"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 2\nQuestion 3: 1\nQuestion 4: 2\nQuestion 5: 3\n\n\nNew words:\n\n\n様子 (yousu): state; state of affairs; appearance; look\n\n\n落ち込む (ochikomu): to feel down; to feel sad; to be depressed\n\n\nテンション: tension; (highness of) spirits\n\n\nワンパターン: predictable; repetitive\n\n\nマンネリ: becoming stereotyped; getting stuck in a rut\n\n\n素人 (shirouto): amateur; layman; novice\n\n\n炊事 (suiji): cooking; culinary arts\n\n\n任せる (makaseru): to entrust (e.g. a task) to another; to leave to\n\n\nそのうち: before very long; soon; sooner or later\n\n\n差し上げる (sashiageru): to give; to offer\n\n\nご覧の通り (goran no toori): as you see\n\n\n就職先 (shuushoku"
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 2\nQuestion 3: 1\nQuestion 4: 2\nQuestion 5: 3\n\n\nNew words:\n\n\n様子 (yousu): state; state of affairs; appearance; look\n\n\n落ち込む (ochikomu): to feel down; to feel sad; to be depressed\n\n\nテンション: tension; (highness of) spirits\n\n\nワンパターン: predictable; repetitive\n\n\nマンネリ: becoming stereotyped; getting stuck in a rut\n\n\n素人 (shirouto): amateur; layman; novice\n\n\n炊事 (suiji): cooking; culinary arts\n\n\n任せる (makaseru): to entrust (e.g. a task) to another; to leave to\n\n\nそのうち: before very long; soon; sooner or later\n\n\n差し上げる (sashiageru): to give; to offer\n\n\nご覧の通り (goran no toori): as you see\n\n\n就職先 (shuushoku",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 Question 2: 2 Question 3: 1 Question 4: 2 Question 5: 3",
+ "level": "N2",
+ "category": "listening"
 }

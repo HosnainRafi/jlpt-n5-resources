@@ -1,0 +1,1006 @@
+{
+  "category": "listening",
+  "title": "JLPT N5 Listening Tests",
+  "exercise_count": 43,
+  "exercises": [
+    {
+      "number": 1,
+      "title": "JLPT N5 – Listening Exercise 01 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-1/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 65,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.jpg",
+        "question_2.jpg",
+        "question_3.jpg",
+        "question_4.jpg",
+        "question_5.jpg"
+      ],
+      "transcript_pdf": "n5-listening-1.pdf"
+    },
+    {
+      "number": 2,
+      "title": "JLPT N5 – Listening Exercise 02 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-2/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 48,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.jpg",
+        "question_2.jpg",
+        "question_3.jpg",
+        "question_4.jpg",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-2.pdf"
+    },
+    {
+      "number": 3,
+      "title": "JLPT N5 – Listening Exercise 03 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-3/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 38,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-3.pdf"
+    },
+    {
+      "number": 4,
+      "title": "JLPT N5 – Listening Exercise 04 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-4/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 29,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-4.pdf"
+    },
+    {
+      "number": 5,
+      "title": "JLPT N5 – Listening Exercise 05 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-5/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 29,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-5.pdf"
+    },
+    {
+      "number": 6,
+      "title": "JLPT N5 – Listening Exercise 06 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-6/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 32,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-6.pdf"
+    },
+    {
+      "number": 7,
+      "title": "JLPT N5 – Listening Exercise 07 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-7/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 17,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-7.pdf"
+    },
+    {
+      "number": 8,
+      "title": "JLPT N5 – Listening Exercise 08 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-8/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 15,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-8.pdf"
+    },
+    {
+      "number": 9,
+      "title": "JLPT N5 – Listening Exercise 09 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-9/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 19,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-9.pdf"
+    },
+    {
+      "number": 10,
+      "title": "JLPT N5 – Listening Exercise 10 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-10/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 17,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-10.pdf"
+    },
+    {
+      "number": 11,
+      "title": "JLPT N5 – Listening Exercise 11 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-11/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 35,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-11.pdf"
+    },
+    {
+      "number": 12,
+      "title": "JLPT N5 – Listening Exercise 12 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-12/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 31,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-12.pdf"
+    },
+    {
+      "number": 13,
+      "title": "JLPT N5 – Listening Exercise 13 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-13/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 26,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-13.pdf"
+    },
+    {
+      "number": 14,
+      "title": "JLPT N5 – Listening Exercise 14 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-14/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 25,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-14.pdf"
+    },
+    {
+      "number": 15,
+      "title": "JLPT N5 – Listening Exercise 15 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-15/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 13,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-15.pdf"
+    },
+    {
+      "number": 16,
+      "title": "JLPT N5 – Listening Exercise 16 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-16/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 19,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-16.pdf"
+    },
+    {
+      "number": 17,
+      "title": "JLPT N5 – Listening Exercise 17 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-17/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 15,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-17.pdf"
+    },
+    {
+      "number": 18,
+      "title": "JLPT N5 – Listening Exercise 18 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-18/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 19,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-18.pdf"
+    },
+    {
+      "number": 19,
+      "title": "JLPT N5 – Listening Exercise 19 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-19/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 9,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-19.pdf"
+    },
+    {
+      "number": 20,
+      "title": "JLPT N5 – Listening Exercise 20 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-20/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 14,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-20.pdf"
+    },
+    {
+      "number": 21,
+      "title": "JLPT N5 – Listening Exercise 21 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-21/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 36,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-21.pdf"
+    },
+    {
+      "number": 22,
+      "title": "JLPT N5 – Listening Exercise 22 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-22/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 42,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-22.pdf"
+    },
+    {
+      "number": 23,
+      "title": "JLPT N5 – Listening Exercise 23 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-23/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 0,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-23.pdf"
+    },
+    {
+      "number": 24,
+      "title": "JLPT N5 – Listening Exercise 24 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-24/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 28,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-24.pdf"
+    },
+    {
+      "number": 25,
+      "title": "JLPT N5 – Listening Exercise 25 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-25/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 41,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-25.pdf"
+    },
+    {
+      "number": 26,
+      "title": "JLPT N5 – Listening Exercise 26 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-26/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 29,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-26.pdf"
+    },
+    {
+      "number": 27,
+      "title": "JLPT N5 – Listening Exercise 27 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-27/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 35,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-27.pdf"
+    },
+    {
+      "number": 28,
+      "title": "JLPT N5 – Listening Exercise 28 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-28/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 27,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-28.pdf"
+    },
+    {
+      "number": 29,
+      "title": "JLPT N5 – Listening Exercise 29 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-listening-exercise-29/",
+      "question_count": 7,
+      "answer_count": 7,
+      "vocabulary_count": 46,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3",
+        "question_6_audio.mp3",
+        "question_7_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif",
+        "question_6.gif",
+        "question_7.gif"
+      ],
+      "transcript_pdf": "n5-listening-29.pdf"
+    },
+    {
+      "number": 30,
+      "title": "JLPT N5 – Listening Exercise 30 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-30/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 29,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-30.pdf"
+    },
+    {
+      "number": 31,
+      "title": "JLPT N5 – Listening Exercise 31 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-31/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 31,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-31.pdf"
+    },
+    {
+      "number": 32,
+      "title": "JLPT N5 – Listening Exercise 32 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-32/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 30,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-32.pdf"
+    },
+    {
+      "number": 33,
+      "title": "JLPT N5 – Listening Exercise 33 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-33/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 35,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-33.pdf"
+    },
+    {
+      "number": 34,
+      "title": "JLPT N5 – Listening Exercise 34 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-34/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 61,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-34.pdf"
+    },
+    {
+      "number": 35,
+      "title": "JLPT N5 – Listening Exercise 35 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-35/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 14,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-35.pdf"
+    },
+    {
+      "number": 36,
+      "title": "JLPT N5 – Listening Exercise 36 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-36/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 37,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-36.pdf"
+    },
+    {
+      "number": 37,
+      "title": "JLPT N5 – Listening Exercise 37 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-37/",
+      "question_count": 7,
+      "answer_count": 7,
+      "vocabulary_count": 20,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3",
+        "question_6_audio.mp3",
+        "question_7_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif",
+        "question_6.gif",
+        "question_7.gif"
+      ],
+      "transcript_pdf": "n5-listening-37.pdf"
+    },
+    {
+      "number": 38,
+      "title": "JLPT N5 – Listening Exercise 38 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-38/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 22,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-38.pdf"
+    },
+    {
+      "number": 39,
+      "title": "JLPT N5 – Listening Exercise 39 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-39/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 41,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-39.pdf"
+    },
+    {
+      "number": 40,
+      "title": "JLPT N5 – Listening Exercise 40 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-40/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 40,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-40.pdf"
+    },
+    {
+      "number": 41,
+      "title": "JLPT N5 – Listening Exercise 41 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-41/",
+      "question_count": 6,
+      "answer_count": 6,
+      "vocabulary_count": 30,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3",
+        "question_6_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif",
+        "question_6.gif"
+      ],
+      "transcript_pdf": "n5-listening-41.pdf"
+    },
+    {
+      "number": 42,
+      "title": "JLPT N5 – Listening Exercise 42 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-42/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 40,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-42.pdf"
+    },
+    {
+      "number": 43,
+      "title": "JLPT N5 – Listening Exercise 43 &#8211; Japanesetest4you.com",
+      "source_url": "https://japanesetest4you.com/jlpt-n5-listening-test-43/",
+      "question_count": 5,
+      "answer_count": 5,
+      "vocabulary_count": 40,
+      "audio_files": [
+        "question_1_audio.mp3",
+        "question_2_audio.mp3",
+        "question_3_audio.mp3",
+        "question_4_audio.mp3",
+        "question_5_audio.mp3"
+      ],
+      "image_files": [
+        "question_1.gif",
+        "question_2.gif",
+        "question_3.gif",
+        "question_4.gif",
+        "question_5.gif"
+      ],
+      "transcript_pdf": "n5-listening-43.pdf"
+    }
+  ]
+}

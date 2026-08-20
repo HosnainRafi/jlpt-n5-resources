@@ -26,7 +26,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 Question 2: 4 Question 3: 1 Question 4: 4 Question 5: 3 Question 6: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 運転手 (untenshu): driver; chauffeur もう一度 (mou ichido): once more; again 会社 (kaisha): company; corporation; workplace 昼ご飯 (hirugohan): lunch; midday meal お花見 (ohanami): cherry blossom viewing; flower viewing ビール: beer 用意 (youi): preparati",
  "vocabulary": [
   "Infographics Part",
   "Click here",
@@ -106,5 +105,40 @@
   "your friends",
   "Listening Exercise"
  ],
- "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 6. Question 6 1 2 3 4 View transcript Answer Key: Question 1: 4 Question 2: 4 Question 3: 1 Question 4: 4 Question 5: 3 Question 6: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 運転手 (untenshu): driver; chauffeur もう一度 (mou ichido): once more; again 会社 (kaisha): company; corporation; workplace 昼ご飯 (hirugohan): lunch; midday meal お花見 (ohanami): cherry blossom viewing; flower viewing ビール: beer 用意 (youi): preparation; arrangements 止める (yameru): to stop (an activity); to abandon; to give up 要る (iru): to be needed; to be wanted 気持ち (kimochi): feeling; se"
+ "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 6. Question 6 1 2 3 4 View transcript Answer Key: Question 1: 4 Question 2: 4 Question 3: 1 Question 4: 4 Question 5: 3 Question 6: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 運転手 (untenshu): driver; chauffeur もう一度 (mou ichido): once more; again 会社 (kaisha): company; corporation; workplace 昼ご飯 (hirugohan): lunch; midday meal お花見 (ohanami): cherry blossom viewing; flower viewing ビール: beer 用意 (youi): preparation; arrangements 止める (yameru): to stop (an activity); to abandon; to give up 要る (iru): to be needed; to be wanted 気持ち (kimochi): feeling; se",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "4",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 Question 2: 4 Question 3: 1 Question 4: 4 Question 5: 3 Question 6: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 運転手 (untenshu): driver; chauffeur もう一度 (mou ichido): once more; again 会社 (kaisha): company; corporation; workplace 昼ご飯 (hirugohan): lunch; midday meal お花見 (ohanami): cherry blossom viewing; flower viewing ビール: beer 用意 (youi): preparati",
+ "level": "N4",
+ "category": "listening"
 }

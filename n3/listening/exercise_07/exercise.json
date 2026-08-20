@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 Question 2: 2 Question 3: 3 Question 4: 1 Question 5: 3 View ",
  "vocabulary": [
   "花壇",
   "合格",
@@ -48,5 +47,35 @@
   "感謝",
   "努力"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n\n\n1\n2\n3\n\n\n2. Question 2\n\n\n\n\n\n\n1\n2\n3\n\n\n3. Question 3\n\n\n\n\n\n\n1\n2\n3\n\n\n4. Question 4\n\n\n\n\n\n\n1\n2\n3\n\n\n5. Question 5\n\n\n\n\n\n\n1\n2\n3\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 2\nQuestion 3: 3\nQuestion 4: 1\nQuestion 5: 3\n\n\nView transcript\n\n\n\n\nClick here\nto download JLPT N3 Vocabulary Infographics Part 1 (free).\n\n\nClick here\nto download JLPT N3 Vocabulary Infographics Part 2 to part 12 (requires paid membership).\n\n\n\n\nNew words:\n\n\n花壇 (kadan): flower bed\n\n\n合格 (goukaku): success; passing (e.g. exam)\n\n\n心から (kokoro kara): from the bottom of one’s heart\n\n\n感謝 (kansha): thanks; gratitude\n\n\n努力 (doryoku): great effort; exertion; endeavour\n\n\n\n\nClick here\nto download JLPT N3 Grammar Ebook (preview version).\n\n\nClick here\nto download JLPT N3 Grammar Audio Lesson Part 1 (free).\n\n\nClick here\nto downlo"
+ "page_text_sample": "1. Question 1\n\n\n\n\n\n\n1\n2\n3\n\n\n2. Question 2\n\n\n\n\n\n\n1\n2\n3\n\n\n3. Question 3\n\n\n\n\n\n\n1\n2\n3\n\n\n4. Question 4\n\n\n\n\n\n\n1\n2\n3\n\n\n5. Question 5\n\n\n\n\n\n\n1\n2\n3\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 2\nQuestion 3: 3\nQuestion 4: 1\nQuestion 5: 3\n\n\nView transcript\n\n\n\n\nClick here\nto download JLPT N3 Vocabulary Infographics Part 1 (free).\n\n\nClick here\nto download JLPT N3 Vocabulary Infographics Part 2 to part 12 (requires paid membership).\n\n\n\n\nNew words:\n\n\n花壇 (kadan): flower bed\n\n\n合格 (goukaku): success; passing (e.g. exam)\n\n\n心から (kokoro kara): from the bottom of one’s heart\n\n\n感謝 (kansha): thanks; gratitude\n\n\n努力 (doryoku): great effort; exertion; endeavour\n\n\n\n\nClick here\nto download JLPT N3 Grammar Ebook (preview version).\n\n\nClick here\nto download JLPT N3 Grammar Audio Lesson Part 1 (free).\n\n\nClick here\nto downlo",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 Question 2: 2 Question 3: 3 Question 4: 1 Question 5: 3 View",
+ "level": "N3",
+ "category": "listening"
 }

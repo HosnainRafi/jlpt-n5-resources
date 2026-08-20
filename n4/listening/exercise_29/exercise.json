@@ -24,7 +24,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 3 Question 2: 2 Question 3: 4 Question 4: 2 Question 5: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 写真 (shashin): photo 頼む (tanomu): to request, to order 取る (toru): to take, to pick up できる (dekiru): to be ready, to be completed 急ぎ (isogi): haste, hurry 過ぎ (sugi): past, after 出来上がる (dekiagaru): to be completed, to be finished はじめに (hajime ni): firs",
  "vocabulary": [
   "Infographics Part",
   "Click here",
@@ -108,5 +107,35 @@
   "your friends",
   "Listening Exercise"
  ],
- "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 3 Question 2: 2 Question 3: 4 Question 4: 2 Question 5: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 写真 (shashin): photo 頼む (tanomu): to request, to order 取る (toru): to take, to pick up できる (dekiru): to be ready, to be completed 急ぎ (isogi): haste, hurry 過ぎ (sugi): past, after 出来上がる (dekiagaru): to be completed, to be finished はじめに (hajime ni): first 銀行 (ginkou): bank 手紙 (tegami): letter 郵便局 (yuubinkyoku): post office 寄る (yoru): to stop by, to drop by スポーツクラブ (supootsu kurabu): sports club 注意 (chuui): warning, advice 座る (su"
+ "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 3 Question 2: 2 Question 3: 4 Question 4: 2 Question 5: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 写真 (shashin): photo 頼む (tanomu): to request, to order 取る (toru): to take, to pick up できる (dekiru): to be ready, to be completed 急ぎ (isogi): haste, hurry 過ぎ (sugi): past, after 出来上がる (dekiagaru): to be completed, to be finished はじめに (hajime ni): first 銀行 (ginkou): bank 手紙 (tegami): letter 郵便局 (yuubinkyoku): post office 寄る (yoru): to stop by, to drop by スポーツクラブ (supootsu kurabu): sports club 注意 (chuui): warning, advice 座る (su",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 3 Question 2: 2 Question 3: 4 Question 4: 2 Question 5: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 写真 (shashin): photo 頼む (tanomu): to request, to order 取る (toru): to take, to pick up できる (dekiru): to be ready, to be completed 急ぎ (isogi): haste, hurry 過ぎ (sugi): past, after 出来上がる (dekiagaru): to be completed, to be finished はじめに (hajime ni): firs",
+ "level": "N4",
+ "category": "listening"
 }

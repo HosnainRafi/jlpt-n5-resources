@@ -49,7 +49,61 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 3 ( 寂しい => さびしい ) Question 2: 4 ( 冷えた => ひえた ) Question 3: 4 ( 向かって => むかって ) Question 4: 1 ( 大事 => だいじ ) Question 5: 1 ( 戻り => もどり ) Question 6: 1 ( 暇 => ひま ) Question 7: 3 ( しょうせつ => 小説 ) Question 8: 2 ( いけん => 意見 ) Question 9: 2 ( とうちゃく => 到着 ) Question 10: 1 ( さくぶん => 作文 ) ",
  "vocabulary": [],
- "page_text_sample": "1. 学校が休みで\n寂しい\nなんて思ったこと、もしかして生まれて初めてかもしれない。\nかなしい\nうれしい\nさびしい\nすばらしい\n\n\n2.\n冷えた\n体を温めようと思って、ストーブをつけた。\nさえた\nきえた\nふえた\nひえた\n\n\n3. 家でゲームやパソコンの画面に\n向かって\nいるほうが楽だけど学校にはちゃんと通っている。\nたたかって\nいかって\nさかって\nむかって\n\n\n4. 高いものだから、\n大事\nに使ってください。\nだいじ\nたいじ\nおおこと\nおおごと\n\n\n5. おしゃべりする元気があるなら教室に\n戻り\nなさい。\nもどり\nたより\nかえり\nおどり\n\n\n6. きのう\n暇\nがあって、家族といっしょに花見にいきました。\nひま\nとき\nじかん\nま\n\n\n7. 学校側が\nしょうせつ\n書いたくらいで、生徒を退学にするわけないじゃないの。\n小脱\n小鋭\n小説\n小兄\n\n\n8. 一度でもいいから、\nいけん\nをいってください。\n儀建\n意見\n意建\n意現\n\n\n9. 徒歩十分とか、それより少ないかもしれない時間で、マルコさんの家に\nとうちゃく\nした。\n致着\n到着\n致差\n到差\n\n\n10.\nさくぶん\nを書いて出してください。\n作文\n作分\n咋文\n咋分\n\n\nAnswer Key:\n\n\nQuestion 1: 3 ( 寂しい => さびしい )\nQuestion 2: 4 ( 冷えた => ひえた )\nQuestion 3: 4 ( 向かって => むかって )\nQuestion 4: 1 ( 大事 => だいじ )\nQuestion 5: 1 ( 戻り => もどり )\nQuestion 6: 1 ( 暇 => ひま )\nQuestion 7: 3 ( しょうせつ => 小説 )\nQuestion 8: 2 ( いけん => 意見 )\nQuestion 9: 2 ( とうちゃく => 到着 )\nQuestion 10: 1"
+ "page_text_sample": "1. 学校が休みで\n寂しい\nなんて思ったこと、もしかして生まれて初めてかもしれない。\nかなしい\nうれしい\nさびしい\nすばらしい\n\n\n2.\n冷えた\n体を温めようと思って、ストーブをつけた。\nさえた\nきえた\nふえた\nひえた\n\n\n3. 家でゲームやパソコンの画面に\n向かって\nいるほうが楽だけど学校にはちゃんと通っている。\nたたかって\nいかって\nさかって\nむかって\n\n\n4. 高いものだから、\n大事\nに使ってください。\nだいじ\nたいじ\nおおこと\nおおごと\n\n\n5. おしゃべりする元気があるなら教室に\n戻り\nなさい。\nもどり\nたより\nかえり\nおどり\n\n\n6. きのう\n暇\nがあって、家族といっしょに花見にいきました。\nひま\nとき\nじかん\nま\n\n\n7. 学校側が\nしょうせつ\n書いたくらいで、生徒を退学にするわけないじゃないの。\n小脱\n小鋭\n小説\n小兄\n\n\n8. 一度でもいいから、\nいけん\nをいってください。\n儀建\n意見\n意建\n意現\n\n\n9. 徒歩十分とか、それより少ないかもしれない時間で、マルコさんの家に\nとうちゃく\nした。\n致着\n到着\n致差\n到差\n\n\n10.\nさくぶん\nを書いて出してください。\n作文\n作分\n咋文\n咋分\n\n\nAnswer Key:\n\n\nQuestion 1: 3 ( 寂しい => さびしい )\nQuestion 2: 4 ( 冷えた => ひえた )\nQuestion 3: 4 ( 向かって => むかって )\nQuestion 4: 1 ( 大事 => だいじ )\nQuestion 5: 1 ( 戻り => もどり )\nQuestion 6: 1 ( 暇 => ひま )\nQuestion 7: 3 ( しょうせつ => 小説 )\nQuestion 8: 2 ( いけん => 意見 )\nQuestion 9: 2 ( とうちゃく => 到着 )\nQuestion 10: 1",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 3 ( 寂しい => さびしい ) Question 2: 4 ( 冷えた => ひえた ) Question 3: 4 ( 向かって => むかって ) Question 4: 1 ( 大事 => だいじ ) Question 5: 1 ( 戻り => もどり ) Question 6: 1 ( 暇 => ひま ) Question 7: 3 ( しょうせつ => 小説 ) Question 8: 2 ( いけん => 意見 ) Question 9: 2 ( とうちゃく => 到着 ) Question 10: 1 ( さくぶん => 作文 )",
+ "level": "N4",
+ "category": "kanji"
 }

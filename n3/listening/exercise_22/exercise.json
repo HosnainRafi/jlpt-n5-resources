@@ -41,7 +41,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 Question 2: 2 Question 3: 1 Question 4: 3 Question 5: 3 ",
  "vocabulary": [
   "友達",
   "家",
@@ -65,5 +64,35 @@
   "試験",
   "まあまあ"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 2\nQuestion 3: 1\nQuestion 4: 3\nQuestion 5: 3\n\n\nNew words:\n\n\n友達 (tomodachi): friend, companion\n\n\n家 (ie): house\n\n\n遊びに行く (asobi ni iku): to go out to play, to go and visit (a friend)\n\n\n行き方 (ikikata): route, directions\n\n\n駅 (eki): station\n\n\n自分 (jibun): myself, yourself, oneself,\n\n\n席 (seki): seat\n\n\nほか: other\n\n\n座る (suwaru): to sit\n\n\n間違える (machigaeru): to make a mistake, to commit an error\n\n\n\n\n\n\n\n\n美容院 (biyouin): beauty parlor, hairdressing salon\n\n\n写真 (shashin): photograph, photo\n\n\n同じ (onaji): same, identical\n\n\n髪型 (kamigata): hairdo\n\n\n感じ (kanji): feeling, sense, impression\n\n\nこういう: such, like this\n\n\n映画 (eiga): movie, "
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 2\nQuestion 3: 1\nQuestion 4: 3\nQuestion 5: 3\n\n\nNew words:\n\n\n友達 (tomodachi): friend, companion\n\n\n家 (ie): house\n\n\n遊びに行く (asobi ni iku): to go out to play, to go and visit (a friend)\n\n\n行き方 (ikikata): route, directions\n\n\n駅 (eki): station\n\n\n自分 (jibun): myself, yourself, oneself,\n\n\n席 (seki): seat\n\n\nほか: other\n\n\n座る (suwaru): to sit\n\n\n間違える (machigaeru): to make a mistake, to commit an error\n\n\n\n\n\n\n\n\n美容院 (biyouin): beauty parlor, hairdressing salon\n\n\n写真 (shashin): photograph, photo\n\n\n同じ (onaji): same, identical\n\n\n髪型 (kamigata): hairdo\n\n\n感じ (kanji): feeling, sense, impression\n\n\nこういう: such, like this\n\n\n映画 (eiga): movie, ",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 Question 2: 2 Question 3: 1 Question 4: 3 Question 5: 3",
+ "level": "N3",
+ "category": "listening"
 }

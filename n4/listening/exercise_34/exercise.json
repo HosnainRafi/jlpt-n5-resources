@@ -24,7 +24,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 3 Question 3: 4 Question 4: 4 Question 5: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 家族 (kazoku): family 背が高い (se ga takai): tall 誰 (dare): who 低い (hikui): low, short (height) 予定 (yotei): plans, schedule 違う (chigau): to differ, to be different 工場 (koujou): factory, mill 見学 (kengaku): study by observation, field trip 集まる (atsumaru): ",
  "vocabulary": [
   "Infographics Part",
   "Click here",
@@ -111,5 +110,35 @@
   "your friends",
   "Listening Exercise"
  ],
- "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 2 Question 2: 3 Question 3: 4 Question 4: 4 Question 5: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 家族 (kazoku): family 背が高い (se ga takai): tall 誰 (dare): who 低い (hikui): low, short (height) 予定 (yotei): plans, schedule 違う (chigau): to differ, to be different 工場 (koujou): factory, mill 見学 (kengaku): study by observation, field trip 集まる (atsumaru): to gather, to assemble 駅 (eki): station 美術館 (bijutsukan): art gallery, art museum 乗り物 (norimono): vehicle, ride 今度 (kondo): this time, next time スピーチコンテスト (supiichi kontesuto): s"
+ "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 2 Question 2: 3 Question 3: 4 Question 4: 4 Question 5: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 家族 (kazoku): family 背が高い (se ga takai): tall 誰 (dare): who 低い (hikui): low, short (height) 予定 (yotei): plans, schedule 違う (chigau): to differ, to be different 工場 (koujou): factory, mill 見学 (kengaku): study by observation, field trip 集まる (atsumaru): to gather, to assemble 駅 (eki): station 美術館 (bijutsukan): art gallery, art museum 乗り物 (norimono): vehicle, ride 今度 (kondo): this time, next time スピーチコンテスト (supiichi kontesuto): s",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 3 Question 3: 4 Question 4: 4 Question 5: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 家族 (kazoku): family 背が高い (se ga takai): tall 誰 (dare): who 低い (hikui): low, short (height) 予定 (yotei): plans, schedule 違う (chigau): to differ, to be different 工場 (koujou): factory, mill 見学 (kengaku): study by observation, field trip 集まる (atsumaru):",
+ "level": "N4",
+ "category": "listening"
 }

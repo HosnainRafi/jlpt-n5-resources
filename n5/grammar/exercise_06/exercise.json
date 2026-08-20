@@ -1,0 +1,300 @@
+{
+ "title": "JLPT N5 – Grammar Exercise 06",
+ "questions": [
+  {
+   "question": 1,
+   "text": "どれ _______ あなたのかぎですか？ は や を が",
+   "options": [
+    "どれ _______ あなたのかぎですか？",
+    "は",
+    "や",
+    "を"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "なつやすみはなんにち _______ はじまりますか？ だけ では から まで",
+   "options": [
+    "なつやすみはなんにち _______ はじまりますか？",
+    "だけ",
+    "では",
+    "から"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "しんぶんをさがしましたが、どこ _______ ありません。 にも",
+   "options": [
+    "でも",
+    "までも",
+    "へも"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "パーティーはなんじにはじまる _______ しっていますか？ か",
+   "options": [
+    "で",
+    "を",
+    "が"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "おかねは1000円 _______ あります。 ぐらい ごろ しか にも",
+   "options": [
+    "おかねは1000円 _______ あります。",
+    "ぐらい",
+    "ごろ",
+    "しか"
+   ]
+  },
+  {
+   "question": 6,
+   "text": "かさはそこ _______ おいてください。 と が を に",
+   "options": [
+    "かさはそこ _______ おいてください。",
+    "と",
+    "が",
+    "を"
+   ]
+  },
+  {
+   "question": 7,
+   "text": "わたしはあまり _______ ありませんでした。 げんきでは",
+   "options": [
+    "げんきには",
+    "げんきな",
+    "げんきだ"
+   ]
+  },
+  {
+   "question": 8,
+   "text": "わたしのへやは _______ ないです。 ひろいく ひろいでは ひろく ひろい",
+   "options": [
+    "わたしのへやは _______ ないです。",
+    "ひろいく",
+    "ひろいでは",
+    "ひろく"
+   ]
+  },
+  {
+   "question": 9,
+   "text": "あの子はうたを _______ うたいます。 じょうず じょううな じょうずに じょうずで",
+   "options": [
+    "あの子はうたを _______ うたいます。",
+    "じょうず",
+    "じょううな",
+    "じょうずに"
+   ]
+  },
+  {
+   "question": 10,
+   "text": "字をもうすこし _______ かきましょう。 大きい 大きく 大きいに 大きくに | Japanese | Romaji | English | |---|---|---| | どれ: which | | | | 鍵 | kagi | key, lock | | 夏休み | natsuyasumi | summer vacation, summer holiday | | 何日 | nannichi | what day | | 始まる | hajimaru | to begin | | 新聞 | shinbun | newspaper | | 探す | sagasu | to search, to seek | | 何時 | nanji | what time | | 知る | shiru | to know | | お金 | okane | money | | 傘 | kasa | umbrella | | 置く | oku | to put, to place | | 元気 | genki | healthy; well | | 広い | hiroi | spacious, vast | | 子 | ko | child | | 歌 | uta | song | | 上手 | jouzu | skill, skillful | | 歌う | utau | to sing | | 字 | ji | character, hand-writing | | もう少し | mou sukoshi | a bit more | | 大きい | ookii | big, large, great | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 - Grammar Exercise 07 | | | | JLPT N5 - Grammar Exercise 05 | | |",
+   "options": [
+    "字をもうすこし _______ かきましょう。",
+    "大きい",
+    "大きく",
+    "大きいに"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": "4 (どれ"
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": "3 (なつやすみはなんにち"
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": "1 (しんぶんをさがしましたが、どこ"
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": "1 (パーティーはなんじにはじまる"
+  },
+  {
+   "question": 5,
+   "answer": "1",
+   "explanation": "1 (おかねは1000円"
+  },
+  {
+   "question": 6,
+   "answer": "4",
+   "explanation": "4 (かさはそこ"
+  },
+  {
+   "question": 7,
+   "answer": "1",
+   "explanation": "1 (わたしはあまり"
+  },
+  {
+   "question": 8,
+   "answer": "3",
+   "explanation": "3 (わたしのへやは"
+  },
+  {
+   "question": 9,
+   "answer": "3",
+   "explanation": "3 (あの子はうたを"
+  },
+  {
+   "question": 10,
+   "answer": "2",
+   "explanation": "2 (字をもうすこし"
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "どれ: which",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "鍵",
+   "romaji": "kagi",
+   "en": "key, lock"
+  },
+  {
+   "jp": "夏休み",
+   "romaji": "natsuyasumi",
+   "en": "summer vacation, summer holiday"
+  },
+  {
+   "jp": "何日",
+   "romaji": "nannichi",
+   "en": "what day"
+  },
+  {
+   "jp": "始まる",
+   "romaji": "hajimaru",
+   "en": "to begin"
+  },
+  {
+   "jp": "新聞",
+   "romaji": "shinbun",
+   "en": "newspaper"
+  },
+  {
+   "jp": "探す",
+   "romaji": "sagasu",
+   "en": "to search, to seek"
+  },
+  {
+   "jp": "何時",
+   "romaji": "nanji",
+   "en": "what time"
+  },
+  {
+   "jp": "知る",
+   "romaji": "shiru",
+   "en": "to know"
+  },
+  {
+   "jp": "お金",
+   "romaji": "okane",
+   "en": "money"
+  },
+  {
+   "jp": "傘",
+   "romaji": "kasa",
+   "en": "umbrella"
+  },
+  {
+   "jp": "置く",
+   "romaji": "oku",
+   "en": "to put, to place"
+  },
+  {
+   "jp": "元気",
+   "romaji": "genki",
+   "en": "healthy; well"
+  },
+  {
+   "jp": "広い",
+   "romaji": "hiroi",
+   "en": "spacious, vast"
+  },
+  {
+   "jp": "子",
+   "romaji": "ko",
+   "en": "child"
+  },
+  {
+   "jp": "歌",
+   "romaji": "uta",
+   "en": "song"
+  },
+  {
+   "jp": "上手",
+   "romaji": "jouzu",
+   "en": "skill, skillful"
+  },
+  {
+   "jp": "歌う",
+   "romaji": "utau",
+   "en": "to sing"
+  },
+  {
+   "jp": "字",
+   "romaji": "ji",
+   "en": "character, hand-writing"
+  },
+  {
+   "jp": "もう少し",
+   "romaji": "mou sukoshi",
+   "en": "a bit more"
+  },
+  {
+   "jp": "大きい",
+   "romaji": "ookii",
+   "en": "big, large, great"
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Grammar Exercise 07",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Grammar Exercise 05",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-6/",
+ "level": "N5",
+ "category": "grammar"
+}

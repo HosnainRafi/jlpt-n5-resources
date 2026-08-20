@@ -49,7 +49,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 (せいのう => 性能) Question 2: 3 (たえず => 絶えず) Question 3: 4 (いそがしく => 忙しく) Question 4: 3 (ぎゃくに => 逆に) Question 5: 2 (ひにく => 皮肉) Question 6: 1 (地震 => じしん) Question 7: 3 (際 => さい) Question 8: 3 (被害 => ひがい) Question 9: 2 (確かな => たしかな) Question 10: 1 (情報 => じょうほう) ",
  "vocabulary": [
   "機械",
   "せいのう",
@@ -65,5 +64,60 @@
   "得る",
   "大切"
  ],
- "page_text_sample": "機械の\nせいのう\nが高度化してくると、人間はそれらを使いこなすためにたえず勉強を続けなければならず、ますます\nいそがしく\nなっていきます。人間の生活を楽にするために発明されたはずの機械のせいで、\nぎゃくに\nいそがしくなるというのは、実に\nひにく\nな話です。\n\n\n1. せいのう\n性能\n生能\n生熊\n性熊\n\n\n2. たえず\n耐えず\n堪えず\n絶えず\n汰えず\n\n\n3. いそがしく\n芯しく\n\n\n心しく\n亡しく\n忙しく\n\n\n4. ぎゃくに\n却に\n\n\n虐に\n逆に\n尺に\n\n\n5. ひにく\n被肉\n皮肉\n病肉\n彼肉\n\n\n大きい\n地震\nの\n際\nには、まず、\n被害\nに関する\n確かな情報\nを得ることが大切だ。\n\n\n6. 地震\nじしん\nぢしん\nししん\nでしん\n\n\n7. 際\nとき\n\n\nせい\nさい\nあいだ\n\n\n8. 被害\nびがい\nはがい\nひがい\nへがい\n\n\n9. 確かな\nさわやか\nたしかな\nゆたかな\nやわらかな\n\n\n10. 情報\nじょうほう\nじょほ\nじょうほ\nじょほう\n\n\nAnswer Key:\n\n\nQuestion 1: 1 (せいのう => 性能)\nQuestion 2: 3 (たえず => 絶えず)\nQuestion 3: 4 (いそがしく => 忙しく)\nQuestion 4: 3 (ぎゃくに => 逆に)\nQuestion 5: 2 (ひにく => 皮肉)\nQuestion 6: 1 (地震 => じしん)\nQuestion 7: 3 (際 => さい)\nQuestion 8: 3 (被害 => ひがい)\nQuestion 9: 2 (確かな => たしかな)\nQuestion 10: 1 (情報 => じょうほう)\n\n\nNew words:\n\n\n機械 (kikai): machine, mechanism\n\n\nせいのう: ability, performance, efficiency\n\n\n高度"
+ "page_text_sample": "機械の\nせいのう\nが高度化してくると、人間はそれらを使いこなすためにたえず勉強を続けなければならず、ますます\nいそがしく\nなっていきます。人間の生活を楽にするために発明されたはずの機械のせいで、\nぎゃくに\nいそがしくなるというのは、実に\nひにく\nな話です。\n\n\n1. せいのう\n性能\n生能\n生熊\n性熊\n\n\n2. たえず\n耐えず\n堪えず\n絶えず\n汰えず\n\n\n3. いそがしく\n芯しく\n\n\n心しく\n亡しく\n忙しく\n\n\n4. ぎゃくに\n却に\n\n\n虐に\n逆に\n尺に\n\n\n5. ひにく\n被肉\n皮肉\n病肉\n彼肉\n\n\n大きい\n地震\nの\n際\nには、まず、\n被害\nに関する\n確かな情報\nを得ることが大切だ。\n\n\n6. 地震\nじしん\nぢしん\nししん\nでしん\n\n\n7. 際\nとき\n\n\nせい\nさい\nあいだ\n\n\n8. 被害\nびがい\nはがい\nひがい\nへがい\n\n\n9. 確かな\nさわやか\nたしかな\nゆたかな\nやわらかな\n\n\n10. 情報\nじょうほう\nじょほ\nじょうほ\nじょほう\n\n\nAnswer Key:\n\n\nQuestion 1: 1 (せいのう => 性能)\nQuestion 2: 3 (たえず => 絶えず)\nQuestion 3: 4 (いそがしく => 忙しく)\nQuestion 4: 3 (ぎゃくに => 逆に)\nQuestion 5: 2 (ひにく => 皮肉)\nQuestion 6: 1 (地震 => じしん)\nQuestion 7: 3 (際 => さい)\nQuestion 8: 3 (被害 => ひがい)\nQuestion 9: 2 (確かな => たしかな)\nQuestion 10: 1 (情報 => じょうほう)\n\n\nNew words:\n\n\n機械 (kikai): machine, mechanism\n\n\nせいのう: ability, performance, efficiency\n\n\n高度",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 (せいのう => 性能) Question 2: 3 (たえず => 絶えず) Question 3: 4 (いそがしく => 忙しく) Question 4: 3 (ぎゃくに => 逆に) Question 5: 2 (ひにく => 皮肉) Question 6: 1 (地震 => じしん) Question 7: 3 (際 => さい) Question 8: 3 (被害 => ひがい) Question 9: 2 (確かな => たしかな) Question 10: 1 (情報 => じょうほう)",
+ "level": "N2",
+ "category": "kanji"
 }

@@ -24,7 +24,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 Question 2: 1 Question 3: 1 Question 4: 2 Question 5: 2 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 数学 (suugaku): mathematics 形 (katashi): shape 三角形 (sankakukei): triangle 線 (sen): line まっすぐ (massugu): straight 持ってくる (motte kuru): to bring 伝える (tsutaeru): to convey, to tell 辞書 (jisho): dictionary 鉛筆 (enpitsu): pencil 消しゴム (keshigomu): eraser 忘れる (",
  "vocabulary": [
   "Infographics Part",
   "Click here",
@@ -99,5 +98,35 @@
   "your friends",
   "Listening Exercise"
  ],
- "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 4 Question 2: 1 Question 3: 1 Question 4: 2 Question 5: 2 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 数学 (suugaku): mathematics 形 (katashi): shape 三角形 (sankakukei): triangle 線 (sen): line まっすぐ (massugu): straight 持ってくる (motte kuru): to bring 伝える (tsutaeru): to convey, to tell 辞書 (jisho): dictionary 鉛筆 (enpitsu): pencil 消しゴム (keshigomu): eraser 忘れる (wasureru): to forget ズボン (zubon): trousers はく (haku): to wear 髪 (kami): hair 太る (futoru): to become fat, to gain weight 作文 (sakubun): writing (an essay), composition 短い (mijikai)"
+ "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 4 Question 2: 1 Question 3: 1 Question 4: 2 Question 5: 2 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 数学 (suugaku): mathematics 形 (katashi): shape 三角形 (sankakukei): triangle 線 (sen): line まっすぐ (massugu): straight 持ってくる (motte kuru): to bring 伝える (tsutaeru): to convey, to tell 辞書 (jisho): dictionary 鉛筆 (enpitsu): pencil 消しゴム (keshigomu): eraser 忘れる (wasureru): to forget ズボン (zubon): trousers はく (haku): to wear 髪 (kami): hair 太る (futoru): to become fat, to gain weight 作文 (sakubun): writing (an essay), composition 短い (mijikai)",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 Question 2: 1 Question 3: 1 Question 4: 2 Question 5: 2 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 数学 (suugaku): mathematics 形 (katashi): shape 三角形 (sankakukei): triangle 線 (sen): line まっすぐ (massugu): straight 持ってくる (motte kuru): to bring 伝える (tsutaeru): to convey, to tell 辞書 (jisho): dictionary 鉛筆 (enpitsu): pencil 消しゴム (keshigomu): eraser 忘れる (",
+ "level": "N4",
+ "category": "listening"
 }

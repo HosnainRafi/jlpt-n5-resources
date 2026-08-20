@@ -1,0 +1,295 @@
+{
+ "title": "JLPT N5 – Reading Exercise 10",
+ "questions": [
+  {
+   "question": 1,
+   "text": "ただしいものはどれですか。 くすりは３日飲みます。１日３かいごはんの前に飲みます。 くすりは３日飲みます。１日３かいごはんの後で飲みます。 くすりは１日４かい、ごはんの前とよるねる前に飲みます。 くすりは１日４かい、ごはんの後とよるねる前に飲みます。",
+   "options": [
+    "駅から学校まで",
+    "駅の前の道をまっすぐ行って橋を渡ります。そこから５分歩きます。右に病院があります。学校は病院のとなりです。駅から学校まで１０分ぐらいです。"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "ただしいいものはどれですか。 学校は駅から歩いて５分です。 学校は橋から歩いて１０分です。 学校は駅の横の建物です。 学校は病院の横の建物です。",
+   "options": [
+    "しずかさん、お元気ですか。（ア）。この前の同窓会で会ってから（イ）会っていませんね。 （ウ）６月１８日金曜日は、わたしの誕生日なんです。みんなに会いたいので、誕生パーティーをひらくことにしました。わたしの家はアパートだし、せまいので、近くのお店をよやくしました。しょうたいした人は、なおみさんやひろみさんなど、しずかさんが知っている人ばかりです。かいひを２千５百円いただきますから、プレゼントなどのご心配はいりません。場所は地図を入れておいたので、来てください。 つごうがわるいばあいは、おてすうですが、前の日までにわたしのところにお電話をお願いします。それでは、ぜひ来てください。待っています。 明子より"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "（ア）には何を入れますか。 しつれいします ごめんください ごぶさたしています ようこそ",
+   "options": [
+    "（ア）には何を入れますか。",
+    "しつれいします",
+    "ごめんください",
+    "ごぶさたしています",
+    "ようこそ"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "（イ）には何を入れますか。 あまり ほとんど よくは たくさん",
+   "options": [
+    "（イ）には何を入れますか。",
+    "あまり",
+    "ほとんど",
+    "よくは",
+    "たくさん"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "（ウ）には何を入れますか。 ところが ところで じつは これは | Japanese | Romaji | English | |---|---|---| | 風邪 | kaze | cold (illness), common cold | | 薬 | kusuri | medicine | | 出す | dasu | to take out, to put out | | 今日 | kyou | today, this day | | 三日 | mikka | third day of the month, three days | | 朝 | asa | morning | | 昼 | hiru | noon, midday, daytime | | 晩 | ban | evening | | 寝る | neru | to sleep | | ご飯 | gohan | meal | | 病院 | byouin | hospital | | 学校 | gakkou | school | | 隣 | tonari | neighbor, next to | | 建物 | tatemono | building | | 同窓会 | dousoukai | class reunion, alumni meeting | | 誕生日 | tanjoubi | birthday | | 開く | hiraku | to hold, to give (party, conference) | | 狭い | semail | narrow, confined, small | | 予約 | yoyaku | reservation, booking | | 招待 | shoutai | invitation | | 知る | shiru | to know | | 会費 | kaihi | membership fee | | プレゼント: present | | | | 場所 | basho | place, location, spot | | 地図 | chizu | map | | 入れる | ireru | to put in | | 都合が悪い | tsugou ga warui | inconvenient | | 場合 | baai | case, situation | | お手数 | otesuu | trouble, labor | | ぜひ: certainly, without fail | | | | ところが: even so, however, still | | | | ところで: by the way | | | | じつは: as a matter of fact | | | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 – Reading Exercise 11 | | | | JLPT N5 – Reading Exercise 09 | | |",
+   "options": [
+    "（ウ）には何を入れますか。",
+    "ところが",
+    "ところで",
+    "じつは",
+    "これは",
+    "Question 1: 4 (4 (ただしいものはどれですか。=>)",
+    "Question 2: 4 (4 (ただしいいものはどれですか。=>)",
+    "Question 3: 3 (3 (（ア）には何を入れますか。=>)",
+    "Question 4: 2 (2 (（イ）には何を入れますか。=>)",
+    "Question 5: 3 (3 (（ウ）には何を入れますか。=>)"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": "4 (ただしいものはどれですか。=>"
+  },
+  {
+   "question": 2,
+   "answer": "4",
+   "explanation": "4 (ただしいいものはどれですか。=>"
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": "3 (（ア）には何を入れますか。=>"
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": "2 (（イ）には何を入れますか。=>"
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": "3 (（ウ）には何を入れますか。=>"
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "風邪",
+   "romaji": "kaze",
+   "en": "cold (illness), common cold"
+  },
+  {
+   "jp": "薬",
+   "romaji": "kusuri",
+   "en": "medicine"
+  },
+  {
+   "jp": "出す",
+   "romaji": "dasu",
+   "en": "to take out, to put out"
+  },
+  {
+   "jp": "今日",
+   "romaji": "kyou",
+   "en": "today, this day"
+  },
+  {
+   "jp": "三日",
+   "romaji": "mikka",
+   "en": "third day of the month, three days"
+  },
+  {
+   "jp": "朝",
+   "romaji": "asa",
+   "en": "morning"
+  },
+  {
+   "jp": "昼",
+   "romaji": "hiru",
+   "en": "noon, midday, daytime"
+  },
+  {
+   "jp": "晩",
+   "romaji": "ban",
+   "en": "evening"
+  },
+  {
+   "jp": "寝る",
+   "romaji": "neru",
+   "en": "to sleep"
+  },
+  {
+   "jp": "ご飯",
+   "romaji": "gohan",
+   "en": "meal"
+  },
+  {
+   "jp": "病院",
+   "romaji": "byouin",
+   "en": "hospital"
+  },
+  {
+   "jp": "学校",
+   "romaji": "gakkou",
+   "en": "school"
+  },
+  {
+   "jp": "隣",
+   "romaji": "tonari",
+   "en": "neighbor, next to"
+  },
+  {
+   "jp": "建物",
+   "romaji": "tatemono",
+   "en": "building"
+  },
+  {
+   "jp": "同窓会",
+   "romaji": "dousoukai",
+   "en": "class reunion, alumni meeting"
+  },
+  {
+   "jp": "誕生日",
+   "romaji": "tanjoubi",
+   "en": "birthday"
+  },
+  {
+   "jp": "開く",
+   "romaji": "hiraku",
+   "en": "to hold, to give (party, conference)"
+  },
+  {
+   "jp": "狭い",
+   "romaji": "semail",
+   "en": "narrow, confined, small"
+  },
+  {
+   "jp": "予約",
+   "romaji": "yoyaku",
+   "en": "reservation, booking"
+  },
+  {
+   "jp": "招待",
+   "romaji": "shoutai",
+   "en": "invitation"
+  },
+  {
+   "jp": "知る",
+   "romaji": "shiru",
+   "en": "to know"
+  },
+  {
+   "jp": "会費",
+   "romaji": "kaihi",
+   "en": "membership fee"
+  },
+  {
+   "jp": "プレゼント: present",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "場所",
+   "romaji": "basho",
+   "en": "place, location, spot"
+  },
+  {
+   "jp": "地図",
+   "romaji": "chizu",
+   "en": "map"
+  },
+  {
+   "jp": "入れる",
+   "romaji": "ireru",
+   "en": "to put in"
+  },
+  {
+   "jp": "都合が悪い",
+   "romaji": "tsugou ga warui",
+   "en": "inconvenient"
+  },
+  {
+   "jp": "場合",
+   "romaji": "baai",
+   "en": "case, situation"
+  },
+  {
+   "jp": "お手数",
+   "romaji": "otesuu",
+   "en": "trouble, labor"
+  },
+  {
+   "jp": "ぜひ: certainly, without fail",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "ところが: even so, however, still",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "ところで: by the way",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "じつは: as a matter of fact",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Reading Exercise 11",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Reading Exercise 09",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [
+  "https://japanesetest4you.com/image/jlpt-n5-reading-10-01.gif",
+  "https://japanesetest4you.com/image/jlpt-n5-reading-10-02.gif",
+  "https://japanesetest4you.com/image/jlpt-n5-reading-10-03.gif"
+ ],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-reading-exercise-10/",
+ "level": "N5",
+ "category": "reading"
+}

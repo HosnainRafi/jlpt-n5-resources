@@ -1,0 +1,279 @@
+{
+ "title": "JLPT N5 – Reading Exercise 12",
+ "questions": [
+  {
+   "question": 1,
+   "text": "「 しつもん 」ねこは、いまどこにいますか。",
+   "options": [
+    "１",
+    "２",
+    "３",
+    "４"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "「 しつもん 」どのえがいいですか。」",
+   "options": [
+    "１",
+    "２",
+    "３",
+    "４"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "「 しつもん 」どのグラフがいいですか。",
+   "options": [
+    "１",
+    "２",
+    "３",
+    "４"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "「 しつもん 」どのえがいいですか。",
+   "options": [
+    "１",
+    "２",
+    "３",
+    "４"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "「 しつもん 」どのえがいいですか。 | Japanese | Romaji | English | |---|---|---| | 猫 | neko | cat | | 椅子 | isu | chair | | 寝る | neru | to sleep | | 少し | sukoshi | a little | | 前 | mae | before, earlier | | 靴 | kutsu | shoe | | いくら | ikura | how much | | 隣 | tonari | next to | | 黒い | kuroi | black | | 今日 | kyou | today | | 安い | yasui | cheap | | 漢字 | kanji | Kanji, Chinese character | | 試験 | shiken | exam, test | | 点 | ten | point | | グラフ | gurafu | graph | | 道 | michi | road | | 右 | migi | right | | 歩く | aruku | to walk | | もう一度 | mou ichido | again | | 曲がる | magaru | to turn | | 銀行 | ginkou | bank | | 女の人 | onna no hito | woman | | お母さん | okaasan | mother | | 母 | haha | mother | | お父さん | otousan | father | | おじいさん | ojiisan | grandfather | | 後ろ | ushiro | behind | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 – Reading Exercise 13 | | | | JLPT N5 – Reading Exercise 11 | | |",
+   "options": [
+    "１",
+    "２",
+    "３",
+    "４",
+    "Question",
+    "1:",
+    "1",
+    "Question",
+    "2:",
+    "3",
+    "Question",
+    "3:",
+    "4",
+    "Question",
+    "4:",
+    "1",
+    "Question",
+    "5:",
+    "3"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "猫",
+   "romaji": "neko",
+   "en": "cat"
+  },
+  {
+   "jp": "椅子",
+   "romaji": "isu",
+   "en": "chair"
+  },
+  {
+   "jp": "寝る",
+   "romaji": "neru",
+   "en": "to sleep"
+  },
+  {
+   "jp": "少し",
+   "romaji": "sukoshi",
+   "en": "a little"
+  },
+  {
+   "jp": "前",
+   "romaji": "mae",
+   "en": "before, earlier"
+  },
+  {
+   "jp": "靴",
+   "romaji": "kutsu",
+   "en": "shoe"
+  },
+  {
+   "jp": "いくら",
+   "romaji": "ikura",
+   "en": "how much"
+  },
+  {
+   "jp": "隣",
+   "romaji": "tonari",
+   "en": "next to"
+  },
+  {
+   "jp": "黒い",
+   "romaji": "kuroi",
+   "en": "black"
+  },
+  {
+   "jp": "今日",
+   "romaji": "kyou",
+   "en": "today"
+  },
+  {
+   "jp": "安い",
+   "romaji": "yasui",
+   "en": "cheap"
+  },
+  {
+   "jp": "漢字",
+   "romaji": "kanji",
+   "en": "Kanji, Chinese character"
+  },
+  {
+   "jp": "試験",
+   "romaji": "shiken",
+   "en": "exam, test"
+  },
+  {
+   "jp": "点",
+   "romaji": "ten",
+   "en": "point"
+  },
+  {
+   "jp": "グラフ",
+   "romaji": "gurafu",
+   "en": "graph"
+  },
+  {
+   "jp": "道",
+   "romaji": "michi",
+   "en": "road"
+  },
+  {
+   "jp": "右",
+   "romaji": "migi",
+   "en": "right"
+  },
+  {
+   "jp": "歩く",
+   "romaji": "aruku",
+   "en": "to walk"
+  },
+  {
+   "jp": "もう一度",
+   "romaji": "mou ichido",
+   "en": "again"
+  },
+  {
+   "jp": "曲がる",
+   "romaji": "magaru",
+   "en": "to turn"
+  },
+  {
+   "jp": "銀行",
+   "romaji": "ginkou",
+   "en": "bank"
+  },
+  {
+   "jp": "女の人",
+   "romaji": "onna no hito",
+   "en": "woman"
+  },
+  {
+   "jp": "お母さん",
+   "romaji": "okaasan",
+   "en": "mother"
+  },
+  {
+   "jp": "母",
+   "romaji": "haha",
+   "en": "mother"
+  },
+  {
+   "jp": "お父さん",
+   "romaji": "otousan",
+   "en": "father"
+  },
+  {
+   "jp": "おじいさん",
+   "romaji": "ojiisan",
+   "en": "grandfather"
+  },
+  {
+   "jp": "後ろ",
+   "romaji": "ushiro",
+   "en": "behind"
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Reading Exercise 13",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Reading Exercise 11",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [
+  "https://japanesetest4you.com/image/n5-reading-12-01.gif",
+  "https://japanesetest4you.com/image/n5-reading-12-02.gif",
+  "https://japanesetest4you.com/image/n5-reading-12-03.gif",
+  "https://japanesetest4you.com/image/n5-reading-12-05.gif",
+  "https://japanesetest4you.com/image/n5-reading-12-06.gif"
+ ],
+ "source_url": "https://japanesetest4you.com/jlpt-n5-reading-12/",
+ "level": "N5",
+ "category": "reading"
+}

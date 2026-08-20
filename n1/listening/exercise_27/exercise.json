@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 Question 2: 2 Question 3: 1 Question 4: 2 Question 5: 3 ",
  "vocabulary": [
   "社会人",
   "あるまじき",
@@ -58,5 +57,35 @@
   "追求",
   "インテリア"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 2\nQuestion 3: 1\nQuestion 4: 2\nQuestion 5: 3\n\n\nNew words:\n\n\n社会人 (shakaijin): working adult, full-fledged member of society\n\n\nあるまじき: unworthy, unbecoming, improper\n\n\n行為 (koui): act, deed, conduct\n\n\n痛感 (tsuukan): feeling keenly, fully realizing\n\n\n認める (mitomeru): to recognize, to appreciate\n\n\n部長 (buchou): head of a section or department\n\n\n納得 (nattoku): understanding, comprehension, grasp, agreement\n\n\n残業 (zangyou): overtime (work)\n\n\n早めに (hayame ni): ahead of time\n\n\n新年会 (shinnenkai): New Year’s party\n\n\nおそろい: being together, going together\n\n\n二の次 (ni no tsugi): secondary, subordinate\n\n\nひたすら: nothing but, earnest, det"
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 2\nQuestion 3: 1\nQuestion 4: 2\nQuestion 5: 3\n\n\nNew words:\n\n\n社会人 (shakaijin): working adult, full-fledged member of society\n\n\nあるまじき: unworthy, unbecoming, improper\n\n\n行為 (koui): act, deed, conduct\n\n\n痛感 (tsuukan): feeling keenly, fully realizing\n\n\n認める (mitomeru): to recognize, to appreciate\n\n\n部長 (buchou): head of a section or department\n\n\n納得 (nattoku): understanding, comprehension, grasp, agreement\n\n\n残業 (zangyou): overtime (work)\n\n\n早めに (hayame ni): ahead of time\n\n\n新年会 (shinnenkai): New Year’s party\n\n\nおそろい: being together, going together\n\n\n二の次 (ni no tsugi): secondary, subordinate\n\n\nひたすら: nothing but, earnest, det",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 Question 2: 2 Question 3: 1 Question 4: 2 Question 5: 3",
+ "level": "N1",
+ "category": "listening"
 }

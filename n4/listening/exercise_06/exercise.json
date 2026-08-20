@@ -25,7 +25,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 2 Question 3: 1 Question 4: 3 Question 5: 2 Question 6: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 止まる (tomaru): to stop (moving); to come to a stop 事故 (jiko): accident タクシー: taxi やっぱり: as expected しかない: have no choice; there is nothing but 決める (kimeru): to decide; to choose; to determine 何日 (nannichi): what day ゆっくり: slowly; at eas",
  "vocabulary": [
   "Infographics Part",
   "Click here",
@@ -119,5 +118,40 @@
   "your friends",
   "Listening Exercise"
  ],
- "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 6. Question 6 1 2 3 4 View transcript Answer Key: Question 1: 2 Question 2: 2 Question 3: 1 Question 4: 3 Question 5: 2 Question 6: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 止まる (tomaru): to stop (moving); to come to a stop 事故 (jiko): accident タクシー: taxi やっぱり: as expected しかない: have no choice; there is nothing but 決める (kimeru): to decide; to choose; to determine 何日 (nannichi): what day ゆっくり: slowly; at ease; restful 考える (kangaeru): to think about; to think over; to take into consideration 会場 (kaijou): assembly hall; meeting place 大体 (daitai): "
+ "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 6. Question 6 1 2 3 4 View transcript Answer Key: Question 1: 2 Question 2: 2 Question 3: 1 Question 4: 3 Question 5: 2 Question 6: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 止まる (tomaru): to stop (moving); to come to a stop 事故 (jiko): accident タクシー: taxi やっぱり: as expected しかない: have no choice; there is nothing but 決める (kimeru): to decide; to choose; to determine 何日 (nannichi): what day ゆっくり: slowly; at ease; restful 考える (kangaeru): to think about; to think over; to take into consideration 会場 (kaijou): assembly hall; meeting place 大体 (daitai): ",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 2 Question 3: 1 Question 4: 3 Question 5: 2 Question 6: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 止まる (tomaru): to stop (moving); to come to a stop 事故 (jiko): accident タクシー: taxi やっぱり: as expected しかない: have no choice; there is nothing but 決める (kimeru): to decide; to choose; to determine 何日 (nannichi): what day ゆっくり: slowly; at eas",
+ "level": "N4",
+ "category": "listening"
 }

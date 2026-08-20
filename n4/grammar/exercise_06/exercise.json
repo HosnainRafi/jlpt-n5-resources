@@ -49,7 +49,61 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 ( そつぎょうしてから何をする つもり ですか。) Question 2: 2 ( いろいろしらべて、その駅がいちばんべんりだ ということ がわかった。) Question 3: 2 ( たぶん明日も風が 強い だろう。) Question 4: 3 ( 父は声 が 大きい。) Question 5: 1 ( あしたは家でゆっくり 休もう と思う。) Question 6: 2 ( 外は 寒い ようですね。) Question 7: 1 ( たばこの すい すぎはよくないですよ。) Question 8: 4 ( レポートはペン で 書いてください。) Question 9: 1 ( せんぱい が 私におみやげをくださいました。) Question 10: 1 ( 私のへやの 広さ はこのへやとだいたい同じです。) ",
  "vocabulary": [],
- "page_text_sample": "1. そつぎょうしてから何をする _______ ですか。\nこと\nたい\nほしい\nつもり\n\n\n2. いろいろしらべて、その駅がいちばんべんりだ _______ がわかった。\nというもの\nということ\nこと\nもの\n\n\n3. たぶん明日も風が _______ だろう。\n強く\n\n\n強い\n強くて\n強いと\n\n\n4. 父は 声 _______ 大きい。\nに\n\n\nの\nが\nで\n\n\n5. あしたは家でゆっくり _______ と思う。\n休もう\n休みよう\n休むよう\n休むろう\n\n\n6. 外は _______ ようですね。\n寒\n寒い\n寒く\n寒いの\n\n\n7. たばこの _______ すぎは よくないですよ。\nすい\n\n\nすう\nすって\nすった\n\n\n8. レポートはペン _______ 書いてください。\nか\nの\nが\nで\n\n\n9. せんぱい _______ 私におみやげをくださいました。\nが\nを\nで\nに\n\n\n10. 私のへやの _______ はこのへやとだいたい同じです。\n広さ\n広く\n広い\n広くて\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 4 ( そつぎょうしてから何をする\nつもり\nですか。)\nQuestion 2: 2 ( いろいろしらべて、その駅がいちばんべんりだ\nということ\nがわかった。)\nQuestion 3: 2 ( たぶん明日も風が\n強い\nだろう。)\nQuestion 4: 3 ( 父は声\nが\n大きい。)\nQuestion 5: 1 ( あしたは家でゆっくり\n休もう\nと思う。)\nQuestion 6: 2 ( 外は\n寒い\nようですね。)\nQuestion 7: 1 ( たばこの\nすい\nすぎはよくないですよ。)\nQuestion 8: 4 ( レポートはペン\nで\n書いてください。)\nQuestion 9: 1 ( せんぱい\nが\n私におみやげをくださいました。)\nQuestion "
+ "page_text_sample": "1. そつぎょうしてから何をする _______ ですか。\nこと\nたい\nほしい\nつもり\n\n\n2. いろいろしらべて、その駅がいちばんべんりだ _______ がわかった。\nというもの\nということ\nこと\nもの\n\n\n3. たぶん明日も風が _______ だろう。\n強く\n\n\n強い\n強くて\n強いと\n\n\n4. 父は 声 _______ 大きい。\nに\n\n\nの\nが\nで\n\n\n5. あしたは家でゆっくり _______ と思う。\n休もう\n休みよう\n休むよう\n休むろう\n\n\n6. 外は _______ ようですね。\n寒\n寒い\n寒く\n寒いの\n\n\n7. たばこの _______ すぎは よくないですよ。\nすい\n\n\nすう\nすって\nすった\n\n\n8. レポートはペン _______ 書いてください。\nか\nの\nが\nで\n\n\n9. せんぱい _______ 私におみやげをくださいました。\nが\nを\nで\nに\n\n\n10. 私のへやの _______ はこのへやとだいたい同じです。\n広さ\n広く\n広い\n広くて\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 4 ( そつぎょうしてから何をする\nつもり\nですか。)\nQuestion 2: 2 ( いろいろしらべて、その駅がいちばんべんりだ\nということ\nがわかった。)\nQuestion 3: 2 ( たぶん明日も風が\n強い\nだろう。)\nQuestion 4: 3 ( 父は声\nが\n大きい。)\nQuestion 5: 1 ( あしたは家でゆっくり\n休もう\nと思う。)\nQuestion 6: 2 ( 外は\n寒い\nようですね。)\nQuestion 7: 1 ( たばこの\nすい\nすぎはよくないですよ。)\nQuestion 8: 4 ( レポートはペン\nで\n書いてください。)\nQuestion 9: 1 ( せんぱい\nが\n私におみやげをくださいました。)\nQuestion ",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 ( そつぎょうしてから何をする つもり ですか。) Question 2: 2 ( いろいろしらべて、その駅がいちばんべんりだ ということ がわかった。) Question 3: 2 ( たぶん明日も風が 強い だろう。) Question 4: 3 ( 父は声 が 大きい。) Question 5: 1 ( あしたは家でゆっくり 休もう と思う。) Question 6: 2 ( 外は 寒い ようですね。) Question 7: 1 ( たばこの すい すぎはよくないですよ。) Question 8: 4 ( レポートはペン で 書いてください。) Question 9: 1 ( せんぱい が 私におみやげをくださいました。) Question 10: 1 ( 私のへやの 広さ はこのへやとだいたい同じです。)",
+ "level": "N4",
+ "category": "grammar"
 }

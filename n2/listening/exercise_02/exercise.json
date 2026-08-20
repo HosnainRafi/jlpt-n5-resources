@@ -41,7 +41,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 3 Question 2: 2 Question 3: 4 Question 4: 1 Question 5: 4 ",
  "vocabulary": [
   "事務室",
   "係り",
@@ -94,5 +93,35 @@
   "世界各国",
   "加える"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n申し込み用紙\n参加費\nりょうしゅう書\nじこしょうかいの文\n\n\n\n\n\n2. Question 2\n\n\n\n\nりれき書を完成させる\nしぼうりゆう書を書き直す\nけんこうしんだん書を用意する\nせいせきしょうめい書をもらう\n\n\n\n\n\n3. Question 3\n\n\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n学生カードを受け取る\n図書館カードを作る\n教科書を買う\nとうろくシートを出す\n\n\n\n\n\n5. Question 5\n\n\n\n\nグラフを見やすくする\n最新のデータを使う\nひかくする国を増やす\nタイトルを変える\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 2\nQuestion 3: 4\nQuestion 4: 1\nQuestion 5: 4\n\n\nNew words:\n\n\n事務室 (jimushitsu): office\n\n\n係り (kakari): person in charge\n\n\n交流会 (kouryuukai): (cultural) exchange meeting, gathering\n\n\n当日 (toujitsu): appointed day, very day\n\n\n開催 (kaisai): holding a meeting, open an exhibition\n\n\n申し込み (moushikomi): application, request\n\n\n用紙 (youshi): blank form\n\n\n記入 (kinyuu): entry, filling in of forms\n\n\n参加費 (sankahi): entrance fee, participation cost\n\n\n申込書 (moushikomisho): application form, wri"
+ "page_text_sample": "1. Question 1\n\n\n\n\n申し込み用紙\n参加費\nりょうしゅう書\nじこしょうかいの文\n\n\n\n\n\n2. Question 2\n\n\n\n\nりれき書を完成させる\nしぼうりゆう書を書き直す\nけんこうしんだん書を用意する\nせいせきしょうめい書をもらう\n\n\n\n\n\n3. Question 3\n\n\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n学生カードを受け取る\n図書館カードを作る\n教科書を買う\nとうろくシートを出す\n\n\n\n\n\n5. Question 5\n\n\n\n\nグラフを見やすくする\n最新のデータを使う\nひかくする国を増やす\nタイトルを変える\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 2\nQuestion 3: 4\nQuestion 4: 1\nQuestion 5: 4\n\n\nNew words:\n\n\n事務室 (jimushitsu): office\n\n\n係り (kakari): person in charge\n\n\n交流会 (kouryuukai): (cultural) exchange meeting, gathering\n\n\n当日 (toujitsu): appointed day, very day\n\n\n開催 (kaisai): holding a meeting, open an exhibition\n\n\n申し込み (moushikomi): application, request\n\n\n用紙 (youshi): blank form\n\n\n記入 (kinyuu): entry, filling in of forms\n\n\n参加費 (sankahi): entrance fee, participation cost\n\n\n申込書 (moushikomisho): application form, wri",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 3 Question 2: 2 Question 3: 4 Question 4: 1 Question 5: 4",
+ "level": "N2",
+ "category": "listening"
 }

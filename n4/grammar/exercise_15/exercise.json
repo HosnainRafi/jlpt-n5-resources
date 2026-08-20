@@ -49,7 +49,61 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 1 Question 3: 2 Question 4: 4 Question 5: 4 Question 6: 1 Question 7: 1 Question 8: 3 Question 9: 3 Question 10: 1 Click here to download JLPT N4 ",
  "vocabulary": [],
- "page_text_sample": "1. きょうはきのうほど風が _______ 。\n強いだろう\n強くない\n強かった\n強い\n\n\n2. 日本で _______ ために日本語を勉強している。\n働く\n働き\n働いて\n働こう\n\n\n3. きゃく 「すみません、このぼうし、かぶって _______ いいですか。」\n店員 「はい、どうぞ。」\nしても\nみても\nくれても\nあっても\n\n\n4. 夜は暗くて歩いている人が _______ にくいので、注意してうんてんします。\n見える\n\n\n見えた\n見えて\n見え\n\n\n5. 急に大きな音がしたので、その子どもは _______ ないてしまった。\nこわかったがって\nこわいがって\nこわくがって\nこわがって\n\n\n6. コピーの字が _______ すぎて、読めません。\nうす\nうすく\nうすい\nうすくて\n\n\n7. 先生、わたしがそのにもつを _______ 。\nお持ちします\nお持ちになります\nお持ちいただきます\nお持ちくださいます\n\n\n8. このじしょで漢字の読みかたが _______ ます。\nしらべ\nしらばれ\nしらべられ\nしらばられ\n\n\n9. _______ ので、そのきかいにさわってはいけません。\nきけん\nきけんに\nきけんな\nきけんだ\n\n\n10. A「ごはんを食べてから、おふろに入りますか。」\nB「いいえ、わたしは _______ 。」\nごはんのまえに入ります\nいつも一入で食べます\n食べたあとで入ります\nごはんをたくさん食べません\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 1\nQuestion 3: 2\nQuestion 4: 4\nQuestion 5: 4\nQuestion 6: 1\nQuestion 7: 1\nQuestion 8: 3\nQuestion 9: 3\nQuestion 10: 1\n\n\n\n\nClick here\nto download JL"
+ "page_text_sample": "1. きょうはきのうほど風が _______ 。\n強いだろう\n強くない\n強かった\n強い\n\n\n2. 日本で _______ ために日本語を勉強している。\n働く\n働き\n働いて\n働こう\n\n\n3. きゃく 「すみません、このぼうし、かぶって _______ いいですか。」\n店員 「はい、どうぞ。」\nしても\nみても\nくれても\nあっても\n\n\n4. 夜は暗くて歩いている人が _______ にくいので、注意してうんてんします。\n見える\n\n\n見えた\n見えて\n見え\n\n\n5. 急に大きな音がしたので、その子どもは _______ ないてしまった。\nこわかったがって\nこわいがって\nこわくがって\nこわがって\n\n\n6. コピーの字が _______ すぎて、読めません。\nうす\nうすく\nうすい\nうすくて\n\n\n7. 先生、わたしがそのにもつを _______ 。\nお持ちします\nお持ちになります\nお持ちいただきます\nお持ちくださいます\n\n\n8. このじしょで漢字の読みかたが _______ ます。\nしらべ\nしらばれ\nしらべられ\nしらばられ\n\n\n9. _______ ので、そのきかいにさわってはいけません。\nきけん\nきけんに\nきけんな\nきけんだ\n\n\n10. A「ごはんを食べてから、おふろに入りますか。」\nB「いいえ、わたしは _______ 。」\nごはんのまえに入ります\nいつも一入で食べます\n食べたあとで入ります\nごはんをたくさん食べません\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 1\nQuestion 3: 2\nQuestion 4: 4\nQuestion 5: 4\nQuestion 6: 1\nQuestion 7: 1\nQuestion 8: 3\nQuestion 9: 3\nQuestion 10: 1\n\n\n\n\nClick here\nto download JL",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 1 Question 3: 2 Question 4: 4 Question 5: 4 Question 6: 1 Question 7: 1 Question 8: 3 Question 9: 3 Question 10: 1 Click here to download JLPT N4",
+ "level": "N4",
+ "category": "grammar"
 }

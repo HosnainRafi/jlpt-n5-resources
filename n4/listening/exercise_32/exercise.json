@@ -24,7 +24,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 3 Question 2: 2 Question 3: 4 Question 4: 3 Question 5: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 留学生 (ryuugakusei): overseas student, exchange student 持っていく (motte iku): to bring 友達 (tomodachi): friend 怪我 (kega): injury, hurt 入院 (nyuuin): hospitalization お見舞い (omimai): calling on someone who is ill 近く (chikaku): near, vicinity 角 (kado): corner ",
  "vocabulary": [
   "Infographics Part",
   "Click here",
@@ -93,5 +92,35 @@
   "your friends",
   "Listening Exercise"
  ],
- "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 3 Question 2: 2 Question 3: 4 Question 4: 3 Question 5: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 留学生 (ryuugakusei): overseas student, exchange student 持っていく (motte iku): to bring 友達 (tomodachi): friend 怪我 (kega): injury, hurt 入院 (nyuuin): hospitalization お見舞い (omimai): calling on someone who is ill 近く (chikaku): near, vicinity 角 (kado): corner (e.g. desk, pavement) 薄い (usui): thin 形 (katachi): shape 人形 (ningyou): doll 右手 (migite): right hand 左手 (hidarite): left hand 仕事 (shigoto): job 三ヶ月 (sankagetsu): three months 一度 ("
+ "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 3 Question 2: 2 Question 3: 4 Question 4: 3 Question 5: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 留学生 (ryuugakusei): overseas student, exchange student 持っていく (motte iku): to bring 友達 (tomodachi): friend 怪我 (kega): injury, hurt 入院 (nyuuin): hospitalization お見舞い (omimai): calling on someone who is ill 近く (chikaku): near, vicinity 角 (kado): corner (e.g. desk, pavement) 薄い (usui): thin 形 (katachi): shape 人形 (ningyou): doll 右手 (migite): right hand 左手 (hidarite): left hand 仕事 (shigoto): job 三ヶ月 (sankagetsu): three months 一度 (",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 3 Question 2: 2 Question 3: 4 Question 4: 3 Question 5: 4 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 留学生 (ryuugakusei): overseas student, exchange student 持っていく (motte iku): to bring 友達 (tomodachi): friend 怪我 (kega): injury, hurt 入院 (nyuuin): hospitalization お見舞い (omimai): calling on someone who is ill 近く (chikaku): near, vicinity 角 (kado): corner",
+ "level": "N4",
+ "category": "listening"
 }

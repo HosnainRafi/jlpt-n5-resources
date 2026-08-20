@@ -52,7 +52,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 Question 2: 3 Question 3: 2 Question 4: 2 Question 5: 1 Question 6: 3 Question 7: 2 ",
  "vocabulary": [
   "出発",
   "遅れる",
@@ -70,5 +69,45 @@
   "クラス",
   "配る"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n6. Question 6\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n7. Question 7\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nView transcript\n\n\n\n\nClick here\nto download JLPT N3 Vocabulary Infographics Part 1 (free).\n\n\nClick here\nto download JLPT N3 Vocabulary Infographics Part 2 to part 12 (requires paid membership).\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 2\nQuestion 5: 1\nQuestion 6: 3\nQuestion 7: 2\n\n\nNew words:\n\n\n出発 (shuppatsu): departure\n\n\n遅れる (okureru): to be late; to fall behind schedule\n\n\n気をつける (ki o tsukeru): to be careful; to pay attention\n\n\n気が付く (ki ga tsuku): to notice; to become aware; to realize\n\n\n濡れる (nureru): to get wet\n\n\n急に (kyuu ni): rapidly; suddenly; ab"
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n6. Question 6\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n7. Question 7\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nView transcript\n\n\n\n\nClick here\nto download JLPT N3 Vocabulary Infographics Part 1 (free).\n\n\nClick here\nto download JLPT N3 Vocabulary Infographics Part 2 to part 12 (requires paid membership).\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 1\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 2\nQuestion 5: 1\nQuestion 6: 3\nQuestion 7: 2\n\n\nNew words:\n\n\n出発 (shuppatsu): departure\n\n\n遅れる (okureru): to be late; to fall behind schedule\n\n\n気をつける (ki o tsukeru): to be careful; to pay attention\n\n\n気が付く (ki ga tsuku): to notice; to become aware; to realize\n\n\n濡れる (nureru): to get wet\n\n\n急に (kyuu ni): rapidly; suddenly; ab",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 Question 2: 3 Question 3: 2 Question 4: 2 Question 5: 1 Question 6: 3 Question 7: 2",
+ "level": "N3",
+ "category": "listening"
 }

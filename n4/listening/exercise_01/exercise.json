@@ -25,7 +25,36 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 3 Question 3: 1 Question 4: 3 Question 5: 4 JLPT N4 Kanji Lesson #1: 文 (bun) Download the video lesson and transcript New words: 漢字 (kanji): Chinese characters 先週 (senshuu): last week 間違う (machigau): to make a mistake, to be incorrect 点 (ten): dot, mark 横 (yoko): horizontal 線 (sen): line 付ける (tsukeru): to add, to attach 夕飯 (yuuhan): evening meal 先に (saki ni): ahead, before 散歩 (sanpo): walk, stroll 外国 (gaikoku): foreign country 今週 (konshuu): this week 手帳 (techou): notebo",
  "vocabulary": [],
- "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 2 Question 2: 3 Question 3: 1 Question 4: 3 Question 5: 4 JLPT N4 Kanji Lesson #1: 文 (bun) Download the video lesson and transcript New words: 漢字 (kanji): Chinese characters 先週 (senshuu): last week 間違う (machigau): to make a mistake, to be incorrect 点 (ten): dot, mark 横 (yoko): horizontal 線 (sen): line 付ける (tsukeru): to add, to attach 夕飯 (yuuhan): evening meal 先に (saki ni): ahead, before 散歩 (sanpo): walk, stroll 外国 (gaikoku): foreign country 今週 (konshuu): this week 手帳 (techou): notebook, memo pad 楽しみにする (tanoshimi ni suru): to look forward to something 鞄 (kaban): bag 外側 (sotogawa): exterior, outside ポケット: pocket 便利 (benri): convenient, handy 見つける (mitsukeru):"
+ "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 2 Question 2: 3 Question 3: 1 Question 4: 3 Question 5: 4 JLPT N4 Kanji Lesson #1: 文 (bun) Download the video lesson and transcript New words: 漢字 (kanji): Chinese characters 先週 (senshuu): last week 間違う (machigau): to make a mistake, to be incorrect 点 (ten): dot, mark 横 (yoko): horizontal 線 (sen): line 付ける (tsukeru): to add, to attach 夕飯 (yuuhan): evening meal 先に (saki ni): ahead, before 散歩 (sanpo): walk, stroll 外国 (gaikoku): foreign country 今週 (konshuu): this week 手帳 (techou): notebook, memo pad 楽しみにする (tanoshimi ni suru): to look forward to something 鞄 (kaban): bag 外側 (sotogawa): exterior, outside ポケット: pocket 便利 (benri): convenient, handy 見つける (mitsukeru):",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 3 Question 3: 1 Question 4: 3 Question 5: 4 JLPT N4 Kanji Lesson #1: 文 (bun) Download the video lesson and transcript New words: 漢字 (kanji): Chinese characters 先週 (senshuu): last week 間違う (machigau): to make a mistake, to be incorrect 点 (ten): dot, mark 横 (yoko): horizontal 線 (sen): line 付ける (tsukeru): to add, to attach 夕飯 (yuuhan): evening meal 先に (saki ni): ahead, before 散歩 (sanpo): walk, stroll 外国 (gaikoku): foreign country 今週 (konshuu): this week 手帳 (techou): notebo",
+ "level": "N4",
+ "category": "listening"
 }

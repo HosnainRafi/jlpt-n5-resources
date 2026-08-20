@@ -41,7 +41,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 2 Question 3: 1 Question 4: 2 Question 5: 2 ",
  "vocabulary": [
   "風",
   "治る",
@@ -60,5 +59,35 @@
   "会議",
   "すぐに"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 2\nQuestion 3: 1\nQuestion 4: 2\nQuestion 5: 2\n\n\nNew words:\n\n\n風 (kaze): wind, breeze\n\n\n治る (naoru): to be cured, to get well, to be healed\n\n\nお大事 (odaiji): take care of yourself\n\n\n調子 (choushi): condition, state of health\n\n\n悪い (warui): bad, poor, inferior\n\n\nどうしても: by all means, at any cost\n\n\n受ける (ukeru): to receive, to get, to take\n\n\n必ず (kanarazu): certainly, without fail\n\n\nぜひ: certainly, without fail\n\n\n頑張る (ganbaru): to try one’s best\n\n\n\n\n\n\n\n\n引き受ける (hikiukeru): to undertake, to take over, to be responsible for\n\n\n部長 (buchou): head of a section or manager\n\n\n書類 (shorui): documents, official papers\n\n\nご覧になる (goran ni n"
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 2\nQuestion 3: 1\nQuestion 4: 2\nQuestion 5: 2\n\n\nNew words:\n\n\n風 (kaze): wind, breeze\n\n\n治る (naoru): to be cured, to get well, to be healed\n\n\nお大事 (odaiji): take care of yourself\n\n\n調子 (choushi): condition, state of health\n\n\n悪い (warui): bad, poor, inferior\n\n\nどうしても: by all means, at any cost\n\n\n受ける (ukeru): to receive, to get, to take\n\n\n必ず (kanarazu): certainly, without fail\n\n\nぜひ: certainly, without fail\n\n\n頑張る (ganbaru): to try one’s best\n\n\n\n\n\n\n\n\n引き受ける (hikiukeru): to undertake, to take over, to be responsible for\n\n\n部長 (buchou): head of a section or manager\n\n\n書類 (shorui): documents, official papers\n\n\nご覧になる (goran ni n",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 2 Question 3: 1 Question 4: 2 Question 5: 2",
+ "level": "N3",
+ "category": "listening"
 }

@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 3 Question 2: 2 Question 3: 2 Question 4: 2 Question 5: 2 ",
  "vocabulary": [
   "転ぶ",
   "お見舞い",
@@ -65,5 +64,35 @@
   "勉強会",
   "断る"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n友達とつりに行く\n病院に友達のおみまいに行く\n友達のアパートに行く\n店に自転車を取りに行く\n\n\n\n\n\n2. Question 2\n\n\n\n\nせんぱいにしょうかいしてもらったから\n大学での専門が役に立ちそうだから\n給料が高いから\n今住んでいるところから通えるから\n\n\n\n\n\n3. Question 3\n\n\n\n\n電車が事故で遅れたから\nドアの近くの人が動かなかったから\nドアが開かなかったから\n電車が止まらなかったから\n\n\n\n\n\n4. Question 4\n\n\n\n\n医者に吸うなと言われたから\n身近な人にめいわくがかかるから\n吸えない場所が増えているから\nたばこが値上がりしているから\n\n\n\n\n\n5. Question 5\n\n\n\n\nかぜをひいたから\nバイトを交代するから\n旅行に行くことになったから\n本をまだ読んでいないから\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 2\nQuestion 3: 2\nQuestion 4: 2\nQuestion 5: 2\n\n\nNew words:\n\n\n転ぶ (korobu): to fall down; to fall over\n\n\nお見舞い (omimai): calling on someone who is ill\n\n\n修理 (shuuri): repairing; mending\n\n\n一人暮らし (hitorigurashi): living alone\n\n\n配達 (haitatsu): delivery; distribution\n\n\n受け取る (uketoru): to receive; to accept; to get\n\n\nご苦労様 (gokurousama): I appreciate your efforts; thank"
+ "page_text_sample": "1. Question 1\n\n\n\n\n友達とつりに行く\n病院に友達のおみまいに行く\n友達のアパートに行く\n店に自転車を取りに行く\n\n\n\n\n\n2. Question 2\n\n\n\n\nせんぱいにしょうかいしてもらったから\n大学での専門が役に立ちそうだから\n給料が高いから\n今住んでいるところから通えるから\n\n\n\n\n\n3. Question 3\n\n\n\n\n電車が事故で遅れたから\nドアの近くの人が動かなかったから\nドアが開かなかったから\n電車が止まらなかったから\n\n\n\n\n\n4. Question 4\n\n\n\n\n医者に吸うなと言われたから\n身近な人にめいわくがかかるから\n吸えない場所が増えているから\nたばこが値上がりしているから\n\n\n\n\n\n5. Question 5\n\n\n\n\nかぜをひいたから\nバイトを交代するから\n旅行に行くことになったから\n本をまだ読んでいないから\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 2\nQuestion 3: 2\nQuestion 4: 2\nQuestion 5: 2\n\n\nNew words:\n\n\n転ぶ (korobu): to fall down; to fall over\n\n\nお見舞い (omimai): calling on someone who is ill\n\n\n修理 (shuuri): repairing; mending\n\n\n一人暮らし (hitorigurashi): living alone\n\n\n配達 (haitatsu): delivery; distribution\n\n\n受け取る (uketoru): to receive; to accept; to get\n\n\nご苦労様 (gokurousama): I appreciate your efforts; thank",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 3 Question 2: 2 Question 3: 2 Question 4: 2 Question 5: 2",
+ "level": "N2",
+ "category": "listening"
 }

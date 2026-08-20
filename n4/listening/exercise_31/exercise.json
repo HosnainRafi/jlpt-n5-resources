@@ -24,7 +24,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 Question 2: 2 Question 3: 3 Question 4: 4 Question 5: 2 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 写真 (shashin): photo 両親 (ryoushin): parents 送る (okuru): to send 顔 (kao): face だめ (dame): no good 部屋 (heya): room 止める (yameru): to stop 大学 (daigaku): university 撮る (toru): to take (photo) 洗濯機 (sentakuki): washing machine 手前 (temae): before, this side ",
  "vocabulary": [
   "Infographics Part",
   "Click here",
@@ -105,5 +104,35 @@
   "your friends",
   "Listening Exercise"
  ],
- "page_text_sample": "1. Question 1 ア イ ア エ イ ウ イ エ 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 4 Question 2: 2 Question 3: 3 Question 4: 4 Question 5: 2 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 写真 (shashin): photo 両親 (ryoushin): parents 送る (okuru): to send 顔 (kao): face だめ (dame): no good 部屋 (heya): room 止める (yameru): to stop 大学 (daigaku): university 撮る (toru): to take (photo) 洗濯機 (sentakuki): washing machine 手前 (temae): before, this side 向こう (mukou): opposite side, over there 故障 (koshou): breakdown, out of order 若い (wakai): young 痩せる (yaseru): to become thin, to lose weight 目 (me): eye メガネ (megane): glass"
+ "page_text_sample": "1. Question 1 ア イ ア エ イ ウ イ エ 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 4 Question 2: 2 Question 3: 3 Question 4: 4 Question 5: 2 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 写真 (shashin): photo 両親 (ryoushin): parents 送る (okuru): to send 顔 (kao): face だめ (dame): no good 部屋 (heya): room 止める (yameru): to stop 大学 (daigaku): university 撮る (toru): to take (photo) 洗濯機 (sentakuki): washing machine 手前 (temae): before, this side 向こう (mukou): opposite side, over there 故障 (koshou): breakdown, out of order 若い (wakai): young 痩せる (yaseru): to become thin, to lose weight 目 (me): eye メガネ (megane): glass",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 Question 2: 2 Question 3: 3 Question 4: 4 Question 5: 2 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 写真 (shashin): photo 両親 (ryoushin): parents 送る (okuru): to send 顔 (kao): face だめ (dame): no good 部屋 (heya): room 止める (yameru): to stop 大学 (daigaku): university 撮る (toru): to take (photo) 洗濯機 (sentakuki): washing machine 手前 (temae): before, this side",
+ "level": "N4",
+ "category": "listening"
 }

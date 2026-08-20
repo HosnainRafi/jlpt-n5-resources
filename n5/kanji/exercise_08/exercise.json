@@ -1,0 +1,324 @@
+{
+ "title": "JLPT N5 – Kanji Exercise 08",
+ "questions": [
+  {
+   "question": 1,
+   "text": "駅 えき あき うま ゆき",
+   "options": [
+    "駅",
+    "えき",
+    "あき",
+    "うま",
+    "ゆき"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "南 ひがし きた にし みなみ",
+   "options": [
+    "南",
+    "ひがし",
+    "きた",
+    "にし",
+    "みなみ"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "川 がわ",
+   "options": [
+    "かわ",
+    "せん",
+    "くに",
+    "らいねん の なつ は がいこく へ いきたい です。"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "らいねん 昨年",
+   "options": [
+    "来年",
+    "去年",
+    "行年"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "なつ 夏 冬 春 秋",
+   "options": [
+    "なつ",
+    "夏",
+    "冬",
+    "春",
+    "秋"
+   ]
+  },
+  {
+   "question": 6,
+   "text": "がいこく 外玉 例国 例玉 外国",
+   "options": [
+    "がいこく",
+    "外玉",
+    "例国",
+    "例玉",
+    "外国"
+   ]
+  },
+  {
+   "question": 7,
+   "text": "いきたい 来たい",
+   "options": [
+    "住たい",
+    "行きたい",
+    "主たい",
+    "天気 がいいから、じゅぎょうの 後で 、 外 でテニスをしましょう。"
+   ]
+  },
+  {
+   "question": 8,
+   "text": "天気 てんけ ていき てんき ていけ",
+   "options": [
+    "天気",
+    "てんけ",
+    "ていき",
+    "てんき",
+    "ていけ"
+   ]
+  },
+  {
+   "question": 9,
+   "text": "後で うしろで ごで あとで こうで",
+   "options": [
+    "後で",
+    "うしろで",
+    "ごで",
+    "あとで",
+    "こうで"
+   ]
+  },
+  {
+   "question": 10,
+   "text": "外 がい そこ かい そと | Japanese | Romaji | English | |---|---|---| | 駅: station | | | | 南: south | | | | おおきい: big, large, great | | | | 川: river, stream | | | | らいねん: next year | | | | なつ: summer | | | | がいこく: foreign country | | | | いく: to go | | | | 天気: weather | | | | いい: good, excellent, fine, nice | | | | じゅぎょう: lesson, class work | | | | 後で: afterwards | | | | 外: outside, exterior, open air | | | | テニス: tennis | | | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 – Kanji Exercise 09 | | | | JLPT N5 – Kanji Exercise 07 | | |",
+   "options": [
+    "外",
+    "がい",
+    "そこ",
+    "かい",
+    "そと",
+    "Question",
+    "1:",
+    "1",
+    "(駅:",
+    "えき)",
+    "Question",
+    "2:",
+    "4",
+    "(南:",
+    "みなみ)",
+    "Question",
+    "3:",
+    "2",
+    "(川:",
+    "かわ)",
+    "Question",
+    "4:",
+    "2",
+    "(らいねん:",
+    "来年)",
+    "Question",
+    "5:",
+    "1",
+    "(なつ:",
+    "夏)",
+    "Question",
+    "6:",
+    "4",
+    "(がいこく:",
+    "外国)",
+    "Question",
+    "7:",
+    "3",
+    "(いきたい:",
+    "行きたい)",
+    "Question",
+    "8:",
+    "3",
+    "(天気:",
+    "てんき)",
+    "Question",
+    "9:",
+    "3",
+    "(後で:",
+    "あとで)",
+    "Question",
+    "10:",
+    "4",
+    "(外:",
+    "そと)"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": "駅: えき"
+  },
+  {
+   "question": 2,
+   "answer": "4",
+   "explanation": "南: みなみ"
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": "川: かわ"
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": "らいねん: 来年"
+  },
+  {
+   "question": 5,
+   "answer": "1",
+   "explanation": "なつ: 夏"
+  },
+  {
+   "question": 6,
+   "answer": "4",
+   "explanation": "がいこく: 外国"
+  },
+  {
+   "question": 7,
+   "answer": "3",
+   "explanation": "いきたい: 行きたい"
+  },
+  {
+   "question": 8,
+   "answer": "3",
+   "explanation": "天気: てんき"
+  },
+  {
+   "question": 9,
+   "answer": "3",
+   "explanation": "後で: あとで"
+  },
+  {
+   "question": 10,
+   "answer": "4",
+   "explanation": "外: そと"
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "駅: station",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "南: south",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "おおきい: big, large, great",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "川: river, stream",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "らいねん: next year",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "なつ: summer",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "がいこく: foreign country",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "いく: to go",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "天気: weather",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "いい: good, excellent, fine, nice",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "じゅぎょう: lesson, class work",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "後で: afterwards",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "外: outside, exterior, open air",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "テニス: tennis",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Kanji Exercise 09",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Kanji Exercise 07",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-8/",
+ "level": "N5",
+ "category": "kanji"
+}

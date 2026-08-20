@@ -1,0 +1,503 @@
+{
+ "title": "JLPT N5 – Vocabulary Exercise 14",
+ "questions": [
+  {
+   "question": 1,
+   "text": "次の文のうち、ただしいものはどれですか。",
+   "options": [
+    "あさこうえんをさんぽしました。",
+    "あさこうえんをとびました。",
+    "あさこうえんをまがりました。",
+    "あさこうえんをはしりました。"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "次の文のうち、ただしいものはどれですか。",
+   "options": [
+    "きむらさんのおばさんはあのひとです。",
+    "きむらさんのおかあさんのおかあさんはあのひとです。",
+    "きむらさんのおかあさんのおとうさんはあのひとです。",
+    "きむらさんのおかあさんのいもうとさんはあのひとです。"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "次の文のうち、ただしいものはどれですか。",
+   "options": [
+    "あねはおんがくがすきです。",
+    "あねはよくうたったりピアノをひいたりします。",
+    "あねはよくえいがをみたりほんをよんだりします。",
+    "あねはよくはしったりおよいだりします。"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "次の文のうち、ただしいものはどれですか。",
+   "options": [
+    "きょうはてんきがいいです。",
+    "きょうはくもっています。",
+    "きょうはあめがふっています。",
+    "きょうはゆきがふっています。"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "次の文のうち、ただしいものはどれですか。",
+   "options": [
+    "わたしのあねはやまださんとけっこんします。",
+    "あねはやまださんのいもうとになります。",
+    "あねはやまださんのおくさんになります。",
+    "あねはやまださんのおばさんになります。"
+   ]
+  },
+  {
+   "question": 6,
+   "text": "次の文のうち、ただしいものはどれですか。",
+   "options": [
+    "ゆうべやましたさんにでんわをしました。",
+    "おとといのあさやましたさんにでんわをしました。",
+    "おとといのよるやましたさんにでんわをしました。",
+    "きのうのあさやましたさんにでんわをしました。"
+   ]
+  },
+  {
+   "question": 7,
+   "text": "次の文のうち、ただしいものはどれですか。",
+   "options": [
+    "あそこはゆうびんきょくです。",
+    "あそこではうわぎやズポンをうっています。",
+    "あそこでははがきやきってをうっています。",
+    "あそこではいすやほんだなをうっています。"
+   ]
+  },
+  {
+   "question": 8,
+   "text": "次の文のうち、ただしいものはどれですか。",
+   "options": [
+    "これはコップです。",
+    "これでみずをいれることができます。",
+    "これでさくぶんをかくことができます。",
+    "これできってをはることができます。"
+   ]
+  },
+  {
+   "question": 9,
+   "text": "次の文のうち、ただしいものはどれですか。",
+   "options": [
+    "へやがくらいですね。あかるくしてください。",
+    "でんきをけしてください。",
+    "でんきをつけてください。",
+    "でんきをけさないでください。"
+   ]
+  },
+  {
+   "question": 10,
+   "text": "次の文のうち、ただしいものはどれですか。",
+   "options": [
+    "にちようびのこうえんはにぎやかです。",
+    "にちようびのこうえんはきれいです。",
+    "にちようびのこうえんはしずかです。",
+    "にちようびのこうえんはひとがすくないです。"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": "4 (あさこうえんをさんぽしました。=>"
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": "3 (きむらさんのおばさんはあのひとです。=>"
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": "1 (あねはおんがくがすきです。=>"
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": "4 (きょうはてんきがいいです。=>"
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": "2 (わたしのあねはやまださんとけっこんします。=>"
+  },
+  {
+   "question": 6,
+   "answer": "4",
+   "explanation": "4 (ゆうべやましたさんにでんわをしました。=>"
+  },
+  {
+   "question": 7,
+   "answer": "2",
+   "explanation": "2 (あそこはゆうびんきょくです。=>"
+  },
+  {
+   "question": 8,
+   "answer": "1",
+   "explanation": "1 (これはコップです。=>"
+  },
+  {
+   "question": 9,
+   "answer": "2",
+   "explanation": "2 (へやがくらいですね。あかるくしてください。=>"
+  },
+  {
+   "question": 10,
+   "answer": "4",
+   "explanation": "4 (にちようびのこうえんはにぎやかです。=>"
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "朝",
+   "romaji": "asa",
+   "en": "morning"
+  },
+  {
+   "jp": "公園",
+   "romaji": "kouen",
+   "en": "(public) park"
+  },
+  {
+   "jp": "散歩",
+   "romaji": "sanpo",
+   "en": "walk, stroll"
+  },
+  {
+   "jp": "飛ぶ",
+   "romaji": "tobu",
+   "en": "to fly"
+  },
+  {
+   "jp": "曲がる",
+   "romaji": "magaru",
+   "en": "to turn, to bend"
+  },
+  {
+   "jp": "走る",
+   "romaji": "hashiru",
+   "en": "to run"
+  },
+  {
+   "jp": "歩く",
+   "romaji": "aruku",
+   "en": "to walk"
+  },
+  {
+   "jp": "おばさん: aunt",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "おかあさん: mother",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "おとうさん: father",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "いもうとさん: younger sister",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "おとうとさん: younger brother",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "姉",
+   "romaji": "ane",
+   "en": "older sister"
+  },
+  {
+   "jp": "音楽",
+   "romaji": "ongaku",
+   "en": "music"
+  },
+  {
+   "jp": "好き",
+   "romaji": "suki",
+   "en": "liking, love"
+  },
+  {
+   "jp": "歌う",
+   "romaji": "utau",
+   "en": "to sing"
+  },
+  {
+   "jp": "ピアノ: piano",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "弾く",
+   "romaji": "hiku",
+   "en": "to play (piano, guitar)"
+  },
+  {
+   "jp": "映画",
+   "romaji": "eiga",
+   "en": "movie, film"
+  },
+  {
+   "jp": "掃除",
+   "romaji": "souji",
+   "en": "cleaning, sweeping"
+  },
+  {
+   "jp": "洗濯",
+   "romaji": "sentaku",
+   "en": "washing, laundry"
+  },
+  {
+   "jp": "曇る",
+   "romaji": "kumoru",
+   "en": "to become cloudy"
+  },
+  {
+   "jp": "雨",
+   "romaji": "ame",
+   "en": "rain"
+  },
+  {
+   "jp": "雪",
+   "romaji": "yuki",
+   "en": "snow"
+  },
+  {
+   "jp": "晴れる",
+   "romaji": "hareru",
+   "en": "to be sunny"
+  },
+  {
+   "jp": "結婚",
+   "romaji": "kekkon",
+   "en": "marriage"
+  },
+  {
+   "jp": "奥さん",
+   "romaji": "okusan",
+   "en": "wife, your wife, his wife"
+  },
+  {
+   "jp": "ご主人",
+   "romaji": "goshujin",
+   "en": "your husband, her husband"
+  },
+  {
+   "jp": "電話",
+   "romaji": "denwa",
+   "en": "telephone"
+  },
+  {
+   "jp": "一昨日",
+   "romaji": "ototoi",
+   "en": "day before yesterday"
+  },
+  {
+   "jp": "昨日",
+   "romaji": "kinou",
+   "en": "yesterday"
+  },
+  {
+   "jp": "朝",
+   "romaji": "asa",
+   "en": "morning"
+  },
+  {
+   "jp": "夜",
+   "romaji": "yoru",
+   "en": "evening, night"
+  },
+  {
+   "jp": "郵便局",
+   "romaji": "yuubinkyoku",
+   "en": "post office"
+  },
+  {
+   "jp": "上着",
+   "romaji": "uwagi",
+   "en": "coat, jacket"
+  },
+  {
+   "jp": "ズボン: trousers",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "売る",
+   "romaji": "uru",
+   "en": "to sell"
+  },
+  {
+   "jp": "椅子",
+   "romaji": "isu",
+   "en": "chair"
+  },
+  {
+   "jp": "本棚",
+   "romaji": "hondana",
+   "en": "bookshelf, bookcase"
+  },
+  {
+   "jp": "お茶",
+   "romaji": "ocha",
+   "en": "tea"
+  },
+  {
+   "jp": "お菓子",
+   "romaji": "okashi",
+   "en": "sweets, candy"
+  },
+  {
+   "jp": "コップ: glass (drinking vessel)",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "水",
+   "romaji": "mizu",
+   "en": "water"
+  },
+  {
+   "jp": "入れる",
+   "romaji": "ireru",
+   "en": "to put in"
+  },
+  {
+   "jp": "作文",
+   "romaji": "sakubun",
+   "en": "composition, writing"
+  },
+  {
+   "jp": "書く",
+   "romaji": "kaku",
+   "en": "to write"
+  },
+  {
+   "jp": "切手",
+   "romaji": "kitte",
+   "en": "stamp (postage)"
+  },
+  {
+   "jp": "貼る",
+   "romaji": "haru",
+   "en": "to stick, to paste"
+  },
+  {
+   "jp": "パン: bread",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "切る",
+   "romaji": "kiru",
+   "en": "to cut, to sever"
+  },
+  {
+   "jp": "部屋",
+   "romaji": "heya",
+   "en": "room"
+  },
+  {
+   "jp": "暗い",
+   "romaji": "kurai",
+   "en": "dark, gloomy"
+  },
+  {
+   "jp": "明るい",
+   "romaji": "akarui",
+   "en": "bright"
+  },
+  {
+   "jp": "電気",
+   "romaji": "denki",
+   "en": "electricity, (electric) light"
+  },
+  {
+   "jp": "消す",
+   "romaji": "kesu",
+   "en": "to turn off power"
+  },
+  {
+   "jp": "つける: to turn on, to switch on",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "賑やか",
+   "romaji": "nigiyaka",
+   "en": "bustling, busy"
+  },
+  {
+   "jp": "きれい: beautiful, clean",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "静か",
+   "romaji": "shizuka",
+   "en": "quiet, peaceful"
+  },
+  {
+   "jp": "少ない",
+   "romaji": "sukunai",
+   "en": "few, a little"
+  },
+  {
+   "jp": "大勢",
+   "romaji": "oozei",
+   "en": "many, great number of people"
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Vocabulary Exercise 15",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Vocabulary Exercise 13",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-vocabulary-exercise-14/",
+ "level": "N5",
+ "category": "vocabulary"
+}

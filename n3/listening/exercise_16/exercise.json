@@ -41,7 +41,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 Question 2: 2 Question 3: 4 Question 4: 2 Question 5: 3 JLPT N3 Kanji Lesson #3: 良 (ryou) Download the video lesson and ",
  "vocabulary": [
   "実は",
   "知り合い",
@@ -70,5 +69,35 @@
   "お疲れ様",
   "お先に失礼します"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 4\nQuestion 2: 2\nQuestion 3: 4\nQuestion 4: 2\nQuestion 5: 3\n\n\n\n\nJLPT N3 Kanji Lesson #3: 良 (ryou)\n\n\n\n\n\n\n\n\nDownload the video lesson and transcript\n\n\n\n\nNew words:\n\n\n実は (jitsu wa): as a matter of fact, to tell you the truth\n\n\n知り合い (shiriai): acquaintance\n\n\n結婚式 (kekkonshiki): marriage ceremony, wedding\n\n\n演奏 (ensou): musical performance\n\n\nアナウンサー: announcer\n\n\nスーパー: supermarket\n\n\nリポート: report\n\n\n売り場 (uriba): place where things are sold\n\n\n珍しい (mezurashii): unusual, rare\n\n\n形 (katachi): form, shape, figure\n\n\nキュウリ: cucumber\n\n\n技術 (gijutsu): art, craft, technique\n\n\n原因 (gen’in): cause, origin, source\n\n\n疑問 (gimon): question, problem,"
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 4\nQuestion 2: 2\nQuestion 3: 4\nQuestion 4: 2\nQuestion 5: 3\n\n\n\n\nJLPT N3 Kanji Lesson #3: 良 (ryou)\n\n\n\n\n\n\n\n\nDownload the video lesson and transcript\n\n\n\n\nNew words:\n\n\n実は (jitsu wa): as a matter of fact, to tell you the truth\n\n\n知り合い (shiriai): acquaintance\n\n\n結婚式 (kekkonshiki): marriage ceremony, wedding\n\n\n演奏 (ensou): musical performance\n\n\nアナウンサー: announcer\n\n\nスーパー: supermarket\n\n\nリポート: report\n\n\n売り場 (uriba): place where things are sold\n\n\n珍しい (mezurashii): unusual, rare\n\n\n形 (katachi): form, shape, figure\n\n\nキュウリ: cucumber\n\n\n技術 (gijutsu): art, craft, technique\n\n\n原因 (gen’in): cause, origin, source\n\n\n疑問 (gimon): question, problem,",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 Question 2: 2 Question 3: 4 Question 4: 2 Question 5: 3 JLPT N3 Kanji Lesson #3: 良 (ryou) Download the video lesson and",
+ "level": "N3",
+ "category": "listening"
 }

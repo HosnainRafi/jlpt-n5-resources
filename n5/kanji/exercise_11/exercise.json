@@ -1,0 +1,446 @@
+{
+ "title": "JLPT N5 – Kanji Exercise 11",
+ "questions": [
+  {
+   "question": 1,
+   "text": "このほんを よんで ください。 諸んで 続んで 読んで 緒んで",
+   "options": [
+    "このほんを",
+    "よんで",
+    "ください。",
+    "諸んで",
+    "続んで",
+    "読んで",
+    "緒んで"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "日本語の 授業 をうけます。 しゅきょう しゅうきょう じゅぎょう じゅうぎょう",
+   "options": [
+    "日本語の",
+    "授業",
+    "をうけます。",
+    "しゅきょう",
+    "しゅうきょう",
+    "じゅぎょう",
+    "じゅうぎょう"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "あの古いいえには 電話 がありません。 でんき でんわ てんわ てんき",
+   "options": [
+    "あの古いいえには",
+    "電話",
+    "がありません。",
+    "でんき",
+    "でんわ",
+    "てんわ",
+    "てんき"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "かようび にとしょかんへいきました。 土ようび 火ようび 水ようび 木ようび",
+   "options": [
+    "かようび",
+    "にとしょかんへいきました。",
+    "土ようび",
+    "火ようび",
+    "水ようび",
+    "木ようび"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "かわいい女の子が 生まれました 。 ほまれました ふまれました おまれました うまれました",
+   "options": [
+    "かわいい女の子が",
+    "生まれました",
+    "。",
+    "ほまれました",
+    "ふまれました",
+    "おまれました",
+    "うまれました"
+   ]
+  },
+  {
+   "question": 6,
+   "text": "みなさん、みぎのドアから でて ください。 缶て 申て 出て 由て",
+   "options": [
+    "みなさん、みぎのドアから",
+    "でて",
+    "ください。",
+    "缶て",
+    "申て",
+    "出て",
+    "由て"
+   ]
+  },
+  {
+   "question": 7,
+   "text": "きのうはじめて 魚 をたべました。 さくら さらく さなか さかな",
+   "options": [
+    "きのうはじめて",
+    "魚",
+    "をたべました。",
+    "さくら",
+    "さらく",
+    "さなか",
+    "さかな"
+   ]
+  },
+  {
+   "question": 8,
+   "text": "この白い魚は 高い です。 ほそい ひくい ふとい たかい",
+   "options": [
+    "この白い魚は",
+    "高い",
+    "です。",
+    "ほそい",
+    "ひくい",
+    "ふとい",
+    "たかい"
+   ]
+  },
+  {
+   "question": 9,
+   "text": "せんせいの はなし をよくきいてください。 話 語 詰 読",
+   "options": [
+    "せんせいの",
+    "はなし",
+    "をよくきいてください。",
+    "話",
+    "語",
+    "詰",
+    "読"
+   ]
+  },
+  {
+   "question": 10,
+   "text": "さとうさんはきょう がっこう をやすんだ。 学校 字校 字枚 学枚 | Japanese | Romaji | English | |---|---|---| | ほん: book | | | | よむ: to read | | | | 日本語 | nihongo | Japanese (language) | | 授業: lesson, class work | | | | うける: to receive, to accept, to get | | | | 古い | furui | old, aged, ancient | | いえ: house, residence | | | | 電話: telephone | | | | かようび: Tuesday | | | | としょかん: library | | | | かわいい: cute, adorable | | | | 女の子 | onna no ko | girl | | 生まれる: to be born | | | | みなさん: everyone, everybody | | | | みぎ: right, right hand side | | | | ドア: door | | | | でる: to go out, to exit, to leave | | | | きのう: yesterday | | | | はじめて: for the first time | | | | 魚: fish | | | | たべる: to eat | | | | 白い | shiroi | white | | 高い: high, tall, expensive | | | | せんせい: teacher, master, doctor | | | | よく: properly | | | | きく: to hear, to listen | | | | きょう: today, this day | | | | がっこう: school | | | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 – Kanji Exercise 12 | | | | JLPT N5 – Kanji Exercise 10 | | |",
+   "options": [
+    "さとうさんはきょう",
+    "がっこう",
+    "をやすんだ。",
+    "学校",
+    "字校",
+    "字枚",
+    "学枚",
+    "Question",
+    "1:",
+    "3",
+    "(",
+    "よんで",
+    "=>",
+    "読んで",
+    ")",
+    "Question",
+    "2:",
+    "3",
+    "(",
+    "授業",
+    "=>",
+    "じゅぎょう)",
+    "Question",
+    "3:",
+    "2",
+    "(",
+    "電話",
+    "=>",
+    "でんわ",
+    ")",
+    "Question",
+    "4:",
+    "2",
+    "(",
+    "かようび",
+    "=>",
+    "火ようび",
+    ")",
+    "Question",
+    "5:",
+    "4",
+    "(",
+    "生まれました",
+    "=>",
+    "うまれました",
+    ")",
+    "Question",
+    "6:",
+    "3",
+    "(",
+    "でて",
+    "=>",
+    "出て",
+    ")",
+    "Question",
+    "7:",
+    "4",
+    "(",
+    "魚",
+    "=>",
+    "さかな",
+    ")",
+    "Question",
+    "8:",
+    "4",
+    "(",
+    "高い",
+    "=>",
+    "たかい",
+    ")",
+    "Question",
+    "9:",
+    "1",
+    "(",
+    "はなし",
+    "=>",
+    "話",
+    ")",
+    "Question",
+    "10:",
+    "1",
+    "(",
+    "がっこう",
+    "=>",
+    "学校",
+    ")"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": " よんで => 読んで "
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": " 授業 => じゅぎょう"
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": " 電話 => でんわ "
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": " かようび => 火ようび "
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": " 生まれました => うまれました "
+  },
+  {
+   "question": 6,
+   "answer": "3",
+   "explanation": " でて => 出て "
+  },
+  {
+   "question": 7,
+   "answer": "4",
+   "explanation": " 魚 => さかな "
+  },
+  {
+   "question": 8,
+   "answer": "4",
+   "explanation": " 高い => たかい "
+  },
+  {
+   "question": 9,
+   "answer": "1",
+   "explanation": " はなし => 話 "
+  },
+  {
+   "question": 10,
+   "answer": "1",
+   "explanation": " がっこう => 学校 "
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "ほん: book",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "よむ: to read",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "日本語",
+   "romaji": "nihongo",
+   "en": "Japanese (language)"
+  },
+  {
+   "jp": "授業: lesson, class work",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "うける: to receive, to accept, to get",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "古い",
+   "romaji": "furui",
+   "en": "old, aged, ancient"
+  },
+  {
+   "jp": "いえ: house, residence",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "電話: telephone",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "かようび: Tuesday",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "としょかん: library",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "かわいい: cute, adorable",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "女の子",
+   "romaji": "onna no ko",
+   "en": "girl"
+  },
+  {
+   "jp": "生まれる: to be born",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "みなさん: everyone, everybody",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "みぎ: right, right hand side",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "ドア: door",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "でる: to go out, to exit, to leave",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "きのう: yesterday",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "はじめて: for the first time",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "魚: fish",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "たべる: to eat",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "白い",
+   "romaji": "shiroi",
+   "en": "white"
+  },
+  {
+   "jp": "高い: high, tall, expensive",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "せんせい: teacher, master, doctor",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "よく: properly",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "きく: to hear, to listen",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "きょう: today, this day",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "がっこう: school",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Kanji Exercise 12",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Kanji Exercise 10",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-kanji-exercise-11/",
+ "level": "N5",
+ "category": "kanji"
+}

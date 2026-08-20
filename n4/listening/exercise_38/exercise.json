@@ -24,7 +24,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 2 Question 3: 1 Question 4: 2 Question 5: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: デパート (depaato): department store エレベーター (erebeetaa): elevator 参る (mairu): to go, to come 止まる (tomaru): to stop ネクタイ (nekutai): necktie 売り場 (uriba): selling area, sales floor 利用 (riyou): use, utilization エスカレーター (esukareetaa): escalator 準備 (junbi): p",
  "vocabulary": [
   "Infographics Part",
   "Click here",
@@ -123,5 +122,35 @@
   "your friends",
   "Listening Exercise"
  ],
- "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 2 Question 2: 2 Question 3: 1 Question 4: 2 Question 5: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: デパート (depaato): department store エレベーター (erebeetaa): elevator 参る (mairu): to go, to come 止まる (tomaru): to stop ネクタイ (nekutai): necktie 売り場 (uriba): selling area, sales floor 利用 (riyou): use, utilization エスカレーター (esukareetaa): escalator 準備 (junbi): preparation, setup 手伝う (tetsudau): to help 皿洗い (saraarai): dish-washing 掃除 (souji): cleaning 薬屋 (kusuriya): pharmacy, drugstore 黄色い (kiiroi): yellow 喉 (nodo): throat 鼻水 (hanamizu)"
+ "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 2 Question 2: 2 Question 3: 1 Question 4: 2 Question 5: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: デパート (depaato): department store エレベーター (erebeetaa): elevator 参る (mairu): to go, to come 止まる (tomaru): to stop ネクタイ (nekutai): necktie 売り場 (uriba): selling area, sales floor 利用 (riyou): use, utilization エスカレーター (esukareetaa): escalator 準備 (junbi): preparation, setup 手伝う (tetsudau): to help 皿洗い (saraarai): dish-washing 掃除 (souji): cleaning 薬屋 (kusuriya): pharmacy, drugstore 黄色い (kiiroi): yellow 喉 (nodo): throat 鼻水 (hanamizu)",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 2 Question 3: 1 Question 4: 2 Question 5: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: デパート (depaato): department store エレベーター (erebeetaa): elevator 参る (mairu): to go, to come 止まる (tomaru): to stop ネクタイ (nekutai): necktie 売り場 (uriba): selling area, sales floor 利用 (riyou): use, utilization エスカレーター (esukareetaa): escalator 準備 (junbi): p",
+ "level": "N4",
+ "category": "listening"
 }

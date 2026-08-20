@@ -25,7 +25,36 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 3 Question 2: 4 Question 3: 2 Question 4: 2 Question 5: 1 New words: 旅行 (ryokou): travel, trip お帰り (okaeri): welcome home すごく: awfully, immensely 夜遅く (yoru osoku): late at night アナウンサー: announcer 大学 (daigaku): university, college 卒業 (sotsugyou): graduation, completion (of a course) 仕事 (shigoto): work, job 駄目 (dame): useless, no good 声 (koe): voice 発音 (hatsuon): pronunciation はっきり: clearly, distinctly 可愛い (kawaii): cute, adorable 暗い (kurai): dark, gloomy 一日中 (ichinichijuu): throughout",
  "vocabulary": [],
- "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 3 Question 2: 4 Question 3: 2 Question 4: 2 Question 5: 1 New words: 旅行 (ryokou): travel, trip お帰り (okaeri): welcome home すごく: awfully, immensely 夜遅く (yoru osoku): late at night アナウンサー: announcer 大学 (daigaku): university, college 卒業 (sotsugyou): graduation, completion (of a course) 仕事 (shigoto): work, job 駄目 (dame): useless, no good 声 (koe): voice 発音 (hatsuon): pronunciation はっきり: clearly, distinctly 可愛い (kawaii): cute, adorable 暗い (kurai): dark, gloomy 一日中 (ichinichijuu): throughout the day 晴れる (hareru): to be sunny, to clear up 帰り (kaeri): return, coming back 雪 (yuki): snow 曇る (kumoru): to become cloudy お寺 (otera): temple 去年 (kyonen): last year ストーブ: heate"
+ "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 3 Question 2: 4 Question 3: 2 Question 4: 2 Question 5: 1 New words: 旅行 (ryokou): travel, trip お帰り (okaeri): welcome home すごく: awfully, immensely 夜遅く (yoru osoku): late at night アナウンサー: announcer 大学 (daigaku): university, college 卒業 (sotsugyou): graduation, completion (of a course) 仕事 (shigoto): work, job 駄目 (dame): useless, no good 声 (koe): voice 発音 (hatsuon): pronunciation はっきり: clearly, distinctly 可愛い (kawaii): cute, adorable 暗い (kurai): dark, gloomy 一日中 (ichinichijuu): throughout the day 晴れる (hareru): to be sunny, to clear up 帰り (kaeri): return, coming back 雪 (yuki): snow 曇る (kumoru): to become cloudy お寺 (otera): temple 去年 (kyonen): last year ストーブ: heate",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 3 Question 2: 4 Question 3: 2 Question 4: 2 Question 5: 1 New words: 旅行 (ryokou): travel, trip お帰り (okaeri): welcome home すごく: awfully, immensely 夜遅く (yoru osoku): late at night アナウンサー: announcer 大学 (daigaku): university, college 卒業 (sotsugyou): graduation, completion (of a course) 仕事 (shigoto): work, job 駄目 (dame): useless, no good 声 (koe): voice 発音 (hatsuon): pronunciation はっきり: clearly, distinctly 可愛い (kawaii): cute, adorable 暗い (kurai): dark, gloomy 一日中 (ichinichijuu): throughout",
+ "level": "N4",
+ "category": "listening"
 }

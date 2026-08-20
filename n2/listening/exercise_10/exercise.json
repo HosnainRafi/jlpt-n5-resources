@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 Question 2: 3 Question 3: 2 Question 4: 2 Question 5: 3 ",
  "vocabulary": [
   "がっかり",
   "つまらない",
@@ -95,5 +94,35 @@
   "生かす",
   "専門"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n買った本が面白くなかったから\n本を書いた小説家がひどい人だったから\n待っていたのにサインがもらえなかったから\n本の内容がわかってしまったから\n\n\n\n\n\n2. Question 2\n\n\n\n\n日本語でたくさん話すこと\n意見を言う時の表現を練習すること\n冷静に意見を言う方法を学ぶこと\n意見文の書き方を練習すること\n\n\n\n\n\n3. Question 3\n\n\n\n\n今日、台風の情報を見て決める\nあした、台風の情報を見て決める\nあさって、警報がでているかどうかで決める\n当日、雨の降り方をみて決める\n\n\n\n\n\n4. Question 4\n\n\n\n\n会議があることを忘れていたから\nお客さんとの打ち合わせがあるから\n電車が止まって会社に戻れないから\n商品をもらっていないから\n\n\n\n\n\n5. Question 5\n\n\n\n\n娘のためにとっておく\n他の人に使ってもらう\n自分でほかのものに作り変える\n専門の店で作り直してもらう\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 4\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 2\nQuestion 5: 3\n\n\nNew words:\n\n\nがっかり: feel disappointed; dejected; lose heart; feel let down\n\n\nつまらない: dull; uninteresting; boring\n\n\nサイン: autograph; signature\n\n\n結末 (ketsumatsu): end; conclusion\n\n\n小説家 (shousetsuka): novelist; fiction writer\n\n\n活動 (katsudou): action; activity\n\n\n目的 (mokuteki)"
+ "page_text_sample": "1. Question 1\n\n\n\n\n買った本が面白くなかったから\n本を書いた小説家がひどい人だったから\n待っていたのにサインがもらえなかったから\n本の内容がわかってしまったから\n\n\n\n\n\n2. Question 2\n\n\n\n\n日本語でたくさん話すこと\n意見を言う時の表現を練習すること\n冷静に意見を言う方法を学ぶこと\n意見文の書き方を練習すること\n\n\n\n\n\n3. Question 3\n\n\n\n\n今日、台風の情報を見て決める\nあした、台風の情報を見て決める\nあさって、警報がでているかどうかで決める\n当日、雨の降り方をみて決める\n\n\n\n\n\n4. Question 4\n\n\n\n\n会議があることを忘れていたから\nお客さんとの打ち合わせがあるから\n電車が止まって会社に戻れないから\n商品をもらっていないから\n\n\n\n\n\n5. Question 5\n\n\n\n\n娘のためにとっておく\n他の人に使ってもらう\n自分でほかのものに作り変える\n専門の店で作り直してもらう\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 4\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 2\nQuestion 5: 3\n\n\nNew words:\n\n\nがっかり: feel disappointed; dejected; lose heart; feel let down\n\n\nつまらない: dull; uninteresting; boring\n\n\nサイン: autograph; signature\n\n\n結末 (ketsumatsu): end; conclusion\n\n\n小説家 (shousetsuka): novelist; fiction writer\n\n\n活動 (katsudou): action; activity\n\n\n目的 (mokuteki)",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 Question 2: 3 Question 3: 2 Question 4: 2 Question 5: 3",
+ "level": "N2",
+ "category": "listening"
 }

@@ -50,7 +50,61 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 (おもい => 重い) Question 2: 2 (にもつ => 荷物) Question 3: 1 (もって => 持って) Question 4: 3 (えき => 駅) Question 5: 2 (あるき => 歩き) Question 6: 4 (地下鉄 => ちかてつ) Question 7: 1 (病院 => びょういん) Question 8: 3 (ふるい => 古い) Question 9: 2 (えいが => 映画) Question 10: 1 (おんがく => 音楽) ",
  "vocabulary": [],
- "page_text_sample": "おもい\nにもつ\nを\nもって\n、\nえき\nまで\nあるき\nました。\n\n\n1. おもい\n高い\n甘い\n薄い\n重い\n\n\n2. にもつ\n貨物\n荷物\n好物\n植物\n\n\n3. もって\n持って\n時って\n寺って\n辞って\n\n\n4. えき\n馬\n訳\n駅\n鳥\n\n\n5. あるき\n小き\n歩き\n少き\n止き\n\n\n地下鉄\nで行くと、その\n病院\nまでどのくらいかかりますか。\n\n\n6. 地下鉄\nじかてつ\nじかてっぷ\nちかてっぷ\nちかてつ\n\n\n7. 病院\nびょういん\nびょいん\nびょうえん\nびょえん\n\n\nあの\nふるいえいが\nは\nおんがく\nがすばらしいです。\n\n\n8. ふるい\n軽い\n重い\n古い\n若い\n\n\n9. えいが\n英画\n映画\n低が\n花が\n\n\n10. おんがく\n音楽\n楽茶\n暗楽\n音茶\n\n\nAnswer Key:\n\n\nQuestion 1: 4 (おもい => 重い)\nQuestion 2: 2 (にもつ => 荷物)\nQuestion 3: 1 (もって => 持って)\nQuestion 4: 3 (えき => 駅)\nQuestion 5: 2 (あるき => 歩き)\nQuestion 6: 4 (地下鉄 => ちかてつ)\nQuestion 7: 1 (病院 => びょういん)\nQuestion 8: 3 (ふるい => 古い)\nQuestion 9: 2 (えいが => 映画)\nQuestion 10: 1 (おんがく => 音楽)\n\n\nNew words:\n\n\nおもい: heavy\n\n\nにもつ: luggage, baggage\n\n\nもつ: to hold, to carry, to possess\n\n\n\n\n\n\n\n\nえき: station\n\n\nあるく: to walk\n\n\n地下鉄: underground train, subway\n\n\n行く: to go, to proceed\n\n\n病院: hospital\n\n\nどの"
+ "page_text_sample": "おもい\nにもつ\nを\nもって\n、\nえき\nまで\nあるき\nました。\n\n\n1. おもい\n高い\n甘い\n薄い\n重い\n\n\n2. にもつ\n貨物\n荷物\n好物\n植物\n\n\n3. もって\n持って\n時って\n寺って\n辞って\n\n\n4. えき\n馬\n訳\n駅\n鳥\n\n\n5. あるき\n小き\n歩き\n少き\n止き\n\n\n地下鉄\nで行くと、その\n病院\nまでどのくらいかかりますか。\n\n\n6. 地下鉄\nじかてつ\nじかてっぷ\nちかてっぷ\nちかてつ\n\n\n7. 病院\nびょういん\nびょいん\nびょうえん\nびょえん\n\n\nあの\nふるいえいが\nは\nおんがく\nがすばらしいです。\n\n\n8. ふるい\n軽い\n重い\n古い\n若い\n\n\n9. えいが\n英画\n映画\n低が\n花が\n\n\n10. おんがく\n音楽\n楽茶\n暗楽\n音茶\n\n\nAnswer Key:\n\n\nQuestion 1: 4 (おもい => 重い)\nQuestion 2: 2 (にもつ => 荷物)\nQuestion 3: 1 (もって => 持って)\nQuestion 4: 3 (えき => 駅)\nQuestion 5: 2 (あるき => 歩き)\nQuestion 6: 4 (地下鉄 => ちかてつ)\nQuestion 7: 1 (病院 => びょういん)\nQuestion 8: 3 (ふるい => 古い)\nQuestion 9: 2 (えいが => 映画)\nQuestion 10: 1 (おんがく => 音楽)\n\n\nNew words:\n\n\nおもい: heavy\n\n\nにもつ: luggage, baggage\n\n\nもつ: to hold, to carry, to possess\n\n\n\n\n\n\n\n\nえき: station\n\n\nあるく: to walk\n\n\n地下鉄: underground train, subway\n\n\n行く: to go, to proceed\n\n\n病院: hospital\n\n\nどの",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 (おもい => 重い) Question 2: 2 (にもつ => 荷物) Question 3: 1 (もって => 持って) Question 4: 3 (えき => 駅) Question 5: 2 (あるき => 歩き) Question 6: 4 (地下鉄 => ちかてつ) Question 7: 1 (病院 => びょういん) Question 8: 3 (ふるい => 古い) Question 9: 2 (えいが => 映画) Question 10: 1 (おんがく => 音楽)",
+ "level": "N4",
+ "category": "kanji"
 }

@@ -1,0 +1,253 @@
+{
+ "title": "JLPT N5 – Grammar Exercise 17",
+ "questions": [
+  {
+   "question": 1,
+   "text": "きのうは、6時間 _______ ねました。 まで ごろ じゅう ぐらい",
+   "options": [
+    "きのうは、6時間 _______ ねました。",
+    "まで",
+    "ごろ",
+    "じゅう"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "お金が _______ 、こまっています。 なくて ないで ないて なって",
+   "options": [
+    "お金が _______ 、こまっています。",
+    "なくて",
+    "ないで",
+    "ないて"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "日よう日にそうじ _______ せんたくをします。 を や も で",
+   "options": [
+    "日よう日にそうじ _______ せんたくをします。",
+    "を",
+    "や",
+    "も"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "あにの新しいカメラは _______ かるい。 小さいくて 小さいで 小さいと 小さくて",
+   "options": [
+    "あにの新しいカメラは _______ かるい。",
+    "小さいくて",
+    "小さいで",
+    "小さいと"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "来週 _______ 人は だれですか。 休み 休む 休んで 休んだ",
+   "options": [
+    "来週 _______ 人は だれですか。",
+    "休み",
+    "休む",
+    "休んで"
+   ]
+  },
+  {
+   "question": 6,
+   "text": "わたしはかぞく _______ てがみをもらいました。 を が や から",
+   "options": [
+    "わたしはかぞく _______ てがみをもらいました。",
+    "を",
+    "が",
+    "や"
+   ]
+  },
+  {
+   "question": 7,
+   "text": "おかしはあまりすき _______ 。 ではありません です でした くありません",
+   "options": [
+    "おかしはあまりすき _______ 。",
+    "ではありません",
+    "です",
+    "でした"
+   ]
+  },
+  {
+   "question": 8,
+   "text": "じしょを _______ からかんじを書きます。 見る 見て 見に 見ない",
+   "options": [
+    "じしょを _______ からかんじを書きます。",
+    "見る",
+    "見て",
+    "見に"
+   ]
+  },
+  {
+   "question": 9,
+   "text": "まだゆうびんきょくは _______ 。早く行きましょう。 あきません あきました あいています あきます",
+   "options": [
+    "まだゆうびんきょくは _______ 。早く行きましょう。",
+    "あきません",
+    "あきました",
+    "あいています"
+   ]
+  },
+  {
+   "question": 10,
+   "text": "このりょうりはあまり _______ よ。 からくないです からいです からかったです からいではあまりませんでした | Japanese | Romaji | English | |---|---|---| | 時間 | jikan | time, hours | | 困る | komaru | to be troubled, to be worried | | 日曜日 | nichiyoubi | Sunday | | 掃除 | souji | cleaning, sweeping | | 洗濯 | sentaku | washing, laundry | | 小さい | chiisai | small, little, tiny | | 軽い | karui | light (not heavy) | | 家族 | kazoku | family, members of a family | | 開く | aku | to open (business) | | 早く | hayaku | quickly, rapidly, fast | | 辛い | karai | spicy, hot | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 - Grammar Exercise 18 | | | | JLPT N5 - Grammar Exercise 16 | | |",
+   "options": [
+    "このりょうりはあまり _______ よ。",
+    "からくないです",
+    "からいです",
+    "からかったです"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": "4 (きのうは、6時間"
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": "1 (お金が"
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": "2 (日よう日にそうじ"
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": "4 (あにの新しいカメラは"
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": "2 (来週"
+  },
+  {
+   "question": 6,
+   "answer": "4",
+   "explanation": "4 (わたしはかぞく"
+  },
+  {
+   "question": 7,
+   "answer": "1",
+   "explanation": "1 (おかしはあまりすき"
+  },
+  {
+   "question": 8,
+   "answer": "2",
+   "explanation": "2 (じしょを"
+  },
+  {
+   "question": 9,
+   "answer": "3",
+   "explanation": "3 (まだゆうびんきょくは"
+  },
+  {
+   "question": 10,
+   "answer": "1",
+   "explanation": "1 (このりょうりはあまり"
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "時間",
+   "romaji": "jikan",
+   "en": "time, hours"
+  },
+  {
+   "jp": "困る",
+   "romaji": "komaru",
+   "en": "to be troubled, to be worried"
+  },
+  {
+   "jp": "日曜日",
+   "romaji": "nichiyoubi",
+   "en": "Sunday"
+  },
+  {
+   "jp": "掃除",
+   "romaji": "souji",
+   "en": "cleaning, sweeping"
+  },
+  {
+   "jp": "洗濯",
+   "romaji": "sentaku",
+   "en": "washing, laundry"
+  },
+  {
+   "jp": "小さい",
+   "romaji": "chiisai",
+   "en": "small, little, tiny"
+  },
+  {
+   "jp": "軽い",
+   "romaji": "karui",
+   "en": "light (not heavy)"
+  },
+  {
+   "jp": "家族",
+   "romaji": "kazoku",
+   "en": "family, members of a family"
+  },
+  {
+   "jp": "開く",
+   "romaji": "aku",
+   "en": "to open (business)"
+  },
+  {
+   "jp": "早く",
+   "romaji": "hayaku",
+   "en": "quickly, rapidly, fast"
+  },
+  {
+   "jp": "辛い",
+   "romaji": "karai",
+   "en": "spicy, hot"
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Grammar Exercise 18",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Grammar Exercise 16",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-17/",
+ "level": "N5",
+ "category": "grammar"
+}

@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 3 Question 2: 2 Question 3: 2 Question 4: 1 Question 5: 3 ",
  "vocabulary": [
   "就職",
   "説明会",
@@ -84,5 +83,35 @@
   "訪問",
   "問い合わせる"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\nア イ ウ エ\nア ウ エ カ\nイ ウ エ\nイ ウ オ\n\n\n\n\n\n2. Question 2\n\n\n\n\n場所が変わること\n駐車場がないこと\n始まる時間と駐車場がないこと\n終わる時間と場所が変わること\n\n\n\n\n\n3. Question 3\n\n\n\n\nア イ\nア イ オ\nア ウ\nイ オ\n\n\n\n\n\n4. Question 4\n\n\n\n\n駅で荷物を預けてバスに乗る\nホテルに荷物を預けてバスに乗る\n駅で荷物を預けて１人で店を見る\nホテルに荷物を預けて１人で店を見る\n\n\n\n\n\n5. Question 5\n\n\n\n\n興味のある会社を訪問する\n先輩に会って話を聞く\n会社訪問できるかを問い合わせる\nしたいことを整理する\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 2\nQuestion 3: 2\nQuestion 4: 1\nQuestion 5: 3\n\n\nNew words:\n\n\n就職 (shuushoku): finding employment; getting a job\n\n\n説明会 (setsumeikai): information session; briefing; explanatory meeting\n\n\nダンボール: cardboard\n\n\n配布資料 (haifushiryou): handout (i.e. document distributed to a group)\n\n\nアンケート用紙 (ankeeto youshi): questionnaire (form)\n\n\n受付 (uketsuke): reception (desk); information desk\n\n\n名札 (nafuda): name plate; name tag\n\n\n記念品 (kinen"
+ "page_text_sample": "1. Question 1\n\n\n\n\nア イ ウ エ\nア ウ エ カ\nイ ウ エ\nイ ウ オ\n\n\n\n\n\n2. Question 2\n\n\n\n\n場所が変わること\n駐車場がないこと\n始まる時間と駐車場がないこと\n終わる時間と場所が変わること\n\n\n\n\n\n3. Question 3\n\n\n\n\nア イ\nア イ オ\nア ウ\nイ オ\n\n\n\n\n\n4. Question 4\n\n\n\n\n駅で荷物を預けてバスに乗る\nホテルに荷物を預けてバスに乗る\n駅で荷物を預けて１人で店を見る\nホテルに荷物を預けて１人で店を見る\n\n\n\n\n\n5. Question 5\n\n\n\n\n興味のある会社を訪問する\n先輩に会って話を聞く\n会社訪問できるかを問い合わせる\nしたいことを整理する\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 2\nQuestion 3: 2\nQuestion 4: 1\nQuestion 5: 3\n\n\nNew words:\n\n\n就職 (shuushoku): finding employment; getting a job\n\n\n説明会 (setsumeikai): information session; briefing; explanatory meeting\n\n\nダンボール: cardboard\n\n\n配布資料 (haifushiryou): handout (i.e. document distributed to a group)\n\n\nアンケート用紙 (ankeeto youshi): questionnaire (form)\n\n\n受付 (uketsuke): reception (desk); information desk\n\n\n名札 (nafuda): name plate; name tag\n\n\n記念品 (kinen",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 3 Question 2: 2 Question 3: 2 Question 4: 1 Question 5: 3",
+ "level": "N2",
+ "category": "listening"
 }

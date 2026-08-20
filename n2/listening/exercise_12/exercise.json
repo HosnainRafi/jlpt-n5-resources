@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 3 Question 3: 2 Question 4: 1 Question 5: 1 ",
  "vocabulary": [
   "新型インフルエンザ",
   "筋肉痛",
@@ -64,5 +63,35 @@
   "目上",
   "言葉遣い"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 1\nQuestion 5: 1\n\n\nNew words:\n\n\n新型インフルエンザ (shingata infuruenza): new strains of (pandemic) influenza\n\n\n筋肉痛 (kinnikutsuu): muscular pain\n\n\n疲労 (hirou): fatigue; weariness\n\n\n寝込む (nekomu): to stay in bed; to be laid up for a long time; to sleep\n\n\n痛み (itami): pain; ache; soreness\n\n\n喉 (nodo): throat\n\n\nせき: couch; couching\n\n\n頭痛 (zutsuu): headache\n\n\n訴える (uttaeru): to complain; to appeal to (reason, emotions, etc.)\n\n\n患者 (kanja): patient\n\n\n熱 (netsu): heat; fever; temperature\n\n\n取り返しのつかない (torikaeshi no tsukanai): cannot be undone; can’t be recovered from\n\n\n感染力 (kanse"
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 1\nQuestion 5: 1\n\n\nNew words:\n\n\n新型インフルエンザ (shingata infuruenza): new strains of (pandemic) influenza\n\n\n筋肉痛 (kinnikutsuu): muscular pain\n\n\n疲労 (hirou): fatigue; weariness\n\n\n寝込む (nekomu): to stay in bed; to be laid up for a long time; to sleep\n\n\n痛み (itami): pain; ache; soreness\n\n\n喉 (nodo): throat\n\n\nせき: couch; couching\n\n\n頭痛 (zutsuu): headache\n\n\n訴える (uttaeru): to complain; to appeal to (reason, emotions, etc.)\n\n\n患者 (kanja): patient\n\n\n熱 (netsu): heat; fever; temperature\n\n\n取り返しのつかない (torikaeshi no tsukanai): cannot be undone; can’t be recovered from\n\n\n感染力 (kanse",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 3 Question 3: 2 Question 4: 1 Question 5: 1",
+ "level": "N2",
+ "category": "listening"
 }

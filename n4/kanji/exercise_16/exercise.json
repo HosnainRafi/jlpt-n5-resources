@@ -49,7 +49,61 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 ( 親 => おや ) Question 2: 3 ( 案内 => あんない ) Question 3: 1 ( 数える => かぞえる ) Question 4: 2 ( 高校生 => こうこうせい ) Question 5: 3 ( 違った => ちがった ) Question 6: 1 ( やくそく => 約束 ) Question 7: 1 ( きんじょ => 近所 ) Question 8: 4 ( おあいて => お相手 ) Question 9: 3 ( かじ => 火事 ) Question 10: 1 ( いきて => 生きて ) ",
  "vocabulary": [],
- "page_text_sample": "1.\n親\nにおこづかいもらってもすぐなくなっちゃうもんね。\nしん\nとも\nとら\nおや\n\n\n2. 外国にいくとき、りょこう\n案内\nや安全じょうほうをよくみてください。\nえんない\nえんね\nあんない\nあんねい\n\n\n3. お金を\n数える\n仕事って？銀行員だろう。\nかぞえる\nあたえる\nきかえる\nつたえる\n\n\n4. 世の中にわたしほど人生に失望している\n高校生\nなんていないと思う。\nここせい\nこうこうせい\nここうせい\nこうこせい\n\n\n5.\n違った\nボタンを押したので、ほしいのみものがでてきませんでした。\nおわった\nいわった\nちがった\nまちがった\n\n\n6. 校門の前には、\nやくそく\n通り由中尾さんが待っていた。\n約束\n約刺\n約東\n約凍\n\n\n7.\nきんじょ\nのおじいさんは昔警官でした。\n近所\n斧所\n金所\n斤所\n\n\n8. 今日はちょっとバタバタしていて、ゆっくり\nおあいて\nできないので、日を改めて来てもらえないかな。\nお箱手\nお相毛\nお箱毛\nお相手\n\n\n9.\nかじ\nのために電車が遅れて、かいぎに間に合いませんでした。\n家事\n災事\n火事\n炎事\n\n\n10. ここまでちゃんと\nいきて\nきたから、神様がプレゼントをくださったのかもしれないわね。\n生きて\n先きて\n王きて\n住きて\n\n\nAnswer Key:\n\n\nQuestion 1: 4 ( 親 => おや )\nQuestion 2: 3 ( 案内 => あんない )\nQuestion 3: 1 ( 数える => かぞえる )\nQuestion 4: 2 ( 高校生 => こうこうせい )\nQuestion 5: 3 ( 違った => ちがった )\nQuestion 6: 1 ( やくそく => 約束 )\nQuestion 7: 1 ( きんじょ => 近所 )\nQuestion 8: 4 ( おあいて => お相手 )\nQuestion 9: 3 ( "
+ "page_text_sample": "1.\n親\nにおこづかいもらってもすぐなくなっちゃうもんね。\nしん\nとも\nとら\nおや\n\n\n2. 外国にいくとき、りょこう\n案内\nや安全じょうほうをよくみてください。\nえんない\nえんね\nあんない\nあんねい\n\n\n3. お金を\n数える\n仕事って？銀行員だろう。\nかぞえる\nあたえる\nきかえる\nつたえる\n\n\n4. 世の中にわたしほど人生に失望している\n高校生\nなんていないと思う。\nここせい\nこうこうせい\nここうせい\nこうこせい\n\n\n5.\n違った\nボタンを押したので、ほしいのみものがでてきませんでした。\nおわった\nいわった\nちがった\nまちがった\n\n\n6. 校門の前には、\nやくそく\n通り由中尾さんが待っていた。\n約束\n約刺\n約東\n約凍\n\n\n7.\nきんじょ\nのおじいさんは昔警官でした。\n近所\n斧所\n金所\n斤所\n\n\n8. 今日はちょっとバタバタしていて、ゆっくり\nおあいて\nできないので、日を改めて来てもらえないかな。\nお箱手\nお相毛\nお箱毛\nお相手\n\n\n9.\nかじ\nのために電車が遅れて、かいぎに間に合いませんでした。\n家事\n災事\n火事\n炎事\n\n\n10. ここまでちゃんと\nいきて\nきたから、神様がプレゼントをくださったのかもしれないわね。\n生きて\n先きて\n王きて\n住きて\n\n\nAnswer Key:\n\n\nQuestion 1: 4 ( 親 => おや )\nQuestion 2: 3 ( 案内 => あんない )\nQuestion 3: 1 ( 数える => かぞえる )\nQuestion 4: 2 ( 高校生 => こうこうせい )\nQuestion 5: 3 ( 違った => ちがった )\nQuestion 6: 1 ( やくそく => 約束 )\nQuestion 7: 1 ( きんじょ => 近所 )\nQuestion 8: 4 ( おあいて => お相手 )\nQuestion 9: 3 ( ",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 ( 親 => おや ) Question 2: 3 ( 案内 => あんない ) Question 3: 1 ( 数える => かぞえる ) Question 4: 2 ( 高校生 => こうこうせい ) Question 5: 3 ( 違った => ちがった ) Question 6: 1 ( やくそく => 約束 ) Question 7: 1 ( きんじょ => 近所 ) Question 8: 4 ( おあいて => お相手 ) Question 9: 3 ( かじ => 火事 ) Question 10: 1 ( いきて => 生きて )",
+ "level": "N4",
+ "category": "kanji"
 }

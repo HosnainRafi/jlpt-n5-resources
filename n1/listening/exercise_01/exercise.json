@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 3 Question 2: 4 Question 3: 4 Question 4: 3 Question 5: 3 ",
  "vocabulary": [
   "健康診断",
   "検査",
@@ -77,5 +76,35 @@
   "出欠",
   "記念品"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n身長と体重\n視力\n聴覚\n血液\n\n\n\n\n\n2. Question 2\n\n\n\n\n５０００円の返金をする\n２５０００円の入金をする\n女の人を招待する\n割引優待券を送る\n\n\n\n\n\n3. Question 3\n\n\n\n\nこの駅で電車を待つ\nバスに乗って駅に行く\nタクシーに乗って駅に行く\n歩いて駅に行く\n\n\n\n\n\n4. Question 4\n\n\n\n\n上司に欠陥商品の報告をする\n上司に画像をメールで転送する\n管理部に在庫の確認をする\nお客様にお詫びの連絡をする\n\n\n\n\n\n5. Question 5\n\n\n\n\n部長を迎えに行く\nお店に人数を連絡する\n花を買って持っていく\n記念品を買いに行く\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 4\nQuestion 3: 4\nQuestion 4: 3\nQuestion 5: 3\n\n\nNew words:\n\n\n健康診断 (kenkou shindan): physical examination\n\n\n検査 (kensa): inspection, examination\n\n\n測定 (sokutei): measurement\n\n\n視力検査 (shiryoku kensa): eye test, eyesight test\n\n\n聴覚 (choukaku): the sense of hearing\n\n\n血液検査 (ketsueki kensa): blood test\n\n\n血液 (ketsueki): blood\n\n\n受診 (jushin): having a medical exam, seeing a doctor\n\n\n矢印 (yajirushi): arrow (mark or symbol)\n\n\nサービスセンター: service center\n\n\n記載 (kisai)"
+ "page_text_sample": "1. Question 1\n\n\n\n\n身長と体重\n視力\n聴覚\n血液\n\n\n\n\n\n2. Question 2\n\n\n\n\n５０００円の返金をする\n２５０００円の入金をする\n女の人を招待する\n割引優待券を送る\n\n\n\n\n\n3. Question 3\n\n\n\n\nこの駅で電車を待つ\nバスに乗って駅に行く\nタクシーに乗って駅に行く\n歩いて駅に行く\n\n\n\n\n\n4. Question 4\n\n\n\n\n上司に欠陥商品の報告をする\n上司に画像をメールで転送する\n管理部に在庫の確認をする\nお客様にお詫びの連絡をする\n\n\n\n\n\n5. Question 5\n\n\n\n\n部長を迎えに行く\nお店に人数を連絡する\n花を買って持っていく\n記念品を買いに行く\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 4\nQuestion 3: 4\nQuestion 4: 3\nQuestion 5: 3\n\n\nNew words:\n\n\n健康診断 (kenkou shindan): physical examination\n\n\n検査 (kensa): inspection, examination\n\n\n測定 (sokutei): measurement\n\n\n視力検査 (shiryoku kensa): eye test, eyesight test\n\n\n聴覚 (choukaku): the sense of hearing\n\n\n血液検査 (ketsueki kensa): blood test\n\n\n血液 (ketsueki): blood\n\n\n受診 (jushin): having a medical exam, seeing a doctor\n\n\n矢印 (yajirushi): arrow (mark or symbol)\n\n\nサービスセンター: service center\n\n\n記載 (kisai)",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 3 Question 2: 4 Question 3: 4 Question 4: 3 Question 5: 3",
+ "level": "N1",
+ "category": "listening"
 }

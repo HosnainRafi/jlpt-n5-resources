@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 3 Question 3: 2 Question 4: 4 Question 5: 3 ",
  "vocabulary": [
   "在学証明書",
   "学籍",
@@ -97,5 +96,35 @@
   "広げる",
   "景気回復"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n申し込み用紙に記入する\n会計課で３００円支払う\nここで３００円支払う\n領収書と申し込み用紙をもらう\n\n\n\n\n\n2. Question 2\n\n\n\n\nマスクをする\nうがいをする\nマフラーをする\n洋服をはたく\n\n\n\n\n\n3. Question 3\n\n\n\n\n国内の消費力を強化する\n日本の技術力を輸出する\n車や電気製品を輸出する\n英語ができる人材を雇う\n\n\n\n\n\n4. Question 4\n\n\n\n\n大学から遠くて不便だから\n狭くて家賃が高いから\nセキュリティーが心配だから\n不要な物を捨てたいから\n\n\n\n\n\n5. Question 5\n\n\n\n\n仕事か出産かをはっきりさせる\n勤務時間をフレキシブルにする\n会社の中に託児所を設ける\n保育士に雇用の機会を与える\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 4\nQuestion 5: 3\n\n\nNew words:\n\n\n在学証明書 (zaigaku shoumeisho): certificate of student status\n\n\n学籍 (gakuseki): school register\n\n\n学部 (gakubu): department of a university, undergraduate\n\n\n書き込む (kakikomu): to fill in, to fill out\n\n\n発行 (hakkou): issue, publishing\n\n\n会計課 (kaikeika): accounts (accounting) section\n\n\n窓口 (madoguchi): ticket window, counter\n\n\n領収書 (ryoushuusho): (formal) receipt\n\n\n"
+ "page_text_sample": "1. Question 1\n\n\n\n\n申し込み用紙に記入する\n会計課で３００円支払う\nここで３００円支払う\n領収書と申し込み用紙をもらう\n\n\n\n\n\n2. Question 2\n\n\n\n\nマスクをする\nうがいをする\nマフラーをする\n洋服をはたく\n\n\n\n\n\n3. Question 3\n\n\n\n\n国内の消費力を強化する\n日本の技術力を輸出する\n車や電気製品を輸出する\n英語ができる人材を雇う\n\n\n\n\n\n4. Question 4\n\n\n\n\n大学から遠くて不便だから\n狭くて家賃が高いから\nセキュリティーが心配だから\n不要な物を捨てたいから\n\n\n\n\n\n5. Question 5\n\n\n\n\n仕事か出産かをはっきりさせる\n勤務時間をフレキシブルにする\n会社の中に託児所を設ける\n保育士に雇用の機会を与える\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 4\nQuestion 5: 3\n\n\nNew words:\n\n\n在学証明書 (zaigaku shoumeisho): certificate of student status\n\n\n学籍 (gakuseki): school register\n\n\n学部 (gakubu): department of a university, undergraduate\n\n\n書き込む (kakikomu): to fill in, to fill out\n\n\n発行 (hakkou): issue, publishing\n\n\n会計課 (kaikeika): accounts (accounting) section\n\n\n窓口 (madoguchi): ticket window, counter\n\n\n領収書 (ryoushuusho): (formal) receipt\n\n\n",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 3 Question 3: 2 Question 4: 4 Question 5: 3",
+ "level": "N1",
+ "category": "listening"
 }

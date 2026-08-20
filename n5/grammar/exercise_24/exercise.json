@@ -1,0 +1,298 @@
+{
+ "title": "JLPT N5 – Grammar Exercise 24",
+ "questions": [
+  {
+   "question": 1,
+   "text": "なつやすみに一人 _______ 祖母のいえに行きます。 と で は が",
+   "options": [
+    "なつやすみに一人 _______ 祖母のいえに行きます。",
+    "と",
+    "で",
+    "は"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "テーブルの上にナイフとフォークが _______ 。 おいてあります おいています おきます おきました",
+   "options": [
+    "テーブルの上にナイフとフォークが _______ 。",
+    "おいてあります",
+    "おいています",
+    "おきます"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "もう少し _______ 食べてください。 はやい はやくて はやく はやかった",
+   "options": [
+    "もう少し _______ 食べてください。",
+    "はやい",
+    "はやくて",
+    "はやく"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "いつも母 _______ いっしょにしょくじをします。 へ と の で",
+   "options": [
+    "いつも母 _______ いっしょにしょくじをします。",
+    "へ",
+    "と",
+    "の"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "しゅくだいを _______ あとで、テレビを見ます。 して した する しに",
+   "options": [
+    "しゅくだいを _______ あとで、テレビを見ます。",
+    "して",
+    "した",
+    "する"
+   ]
+  },
+  {
+   "question": 6,
+   "text": "今日は _______ ねましょう。 はやい はやくて はやく はやかった",
+   "options": [
+    "今日は _______ ねましょう。",
+    "はやい",
+    "はやくて",
+    "はやく"
+   ]
+  },
+  {
+   "question": 7,
+   "text": "わたしはよくラジオ _______ おんがくを聞きます。 で に は を",
+   "options": [
+    "わたしはよくラジオ _______ おんがくを聞きます。",
+    "で",
+    "に",
+    "は"
+   ]
+  },
+  {
+   "question": 8,
+   "text": "ばんごはんを _______ あとで、さんぽします。 たべる たべた たべて たべ",
+   "options": [
+    "ばんごはんを _______ あとで、さんぽします。",
+    "たべる",
+    "たべた",
+    "たべて"
+   ]
+  },
+  {
+   "question": 9,
+   "text": "わたしはさくぶんを _______ とき、いつもじしょをつかいます。 かいた かいて かきに かく",
+   "options": [
+    "わたしはさくぶんを _______ とき、いつもじしょをつかいます。",
+    "かいた",
+    "かいて",
+    "かきに"
+   ]
+  },
+  {
+   "question": 10,
+   "text": "わたしはたなかさんを３時間 _______ まっていました。 も を が で | Japanese | Romaji | English | |---|---|---| | 夏休み | natsuyasumi | summer vacation, summer holiday | | 祖母 | sobo | grandmother | | テーブル: table | | | | ナイフ: knife | | | | フォーク: fork | | | | もう少し | mou sukoshi | a bit more, a bit longer | | 食事 | shokuji | meal | | 見る | miru | to see, to look, to watch | | ラジオ: radio | | | | 聞く | kiku | to hear, to listen | | 晩御飯 | bangohan | dinner, evening meal | | 作文 | sakubun | composition, writing | | Click here | | | | to download JLPT N5 Grammar Audio Lesson Part 1 (free). | | | | Click here | | | | to download JLPT N5 Grammar Audio Lesson Part 2 to Part 6 (requires paid membership). | | | | Click here | | | | to download JLPT N5 Vocabulary Audio Lesson Part 1 (free). | | | | Click here | | | | to download JLPT N5 Vocabulary Audio Lesson Part 2 to Part 21 (requires paid membership). | | | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 – Grammar Exercise 25 | | | | JLPT N5 – Grammar Exercise 23 | | |",
+   "options": [
+    "わたしはたなかさんを３時間 _______ まっていました。",
+    "も",
+    "を",
+    "が"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "夏休み",
+   "romaji": "natsuyasumi",
+   "en": "summer vacation, summer holiday"
+  },
+  {
+   "jp": "祖母",
+   "romaji": "sobo",
+   "en": "grandmother"
+  },
+  {
+   "jp": "テーブル: table",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "ナイフ: knife",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "フォーク: fork",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "もう少し",
+   "romaji": "mou sukoshi",
+   "en": "a bit more, a bit longer"
+  },
+  {
+   "jp": "食事",
+   "romaji": "shokuji",
+   "en": "meal"
+  },
+  {
+   "jp": "見る",
+   "romaji": "miru",
+   "en": "to see, to look, to watch"
+  },
+  {
+   "jp": "ラジオ: radio",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "聞く",
+   "romaji": "kiku",
+   "en": "to hear, to listen"
+  },
+  {
+   "jp": "晩御飯",
+   "romaji": "bangohan",
+   "en": "dinner, evening meal"
+  },
+  {
+   "jp": "作文",
+   "romaji": "sakubun",
+   "en": "composition, writing"
+  },
+  {
+   "jp": "Click here",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "to download JLPT N5 Grammar Audio Lesson Part 1 (free).",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "Click here",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "to download JLPT N5 Grammar Audio Lesson Part 2 to Part 6 (requires paid membership).",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "Click here",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "to download JLPT N5 Vocabulary Audio Lesson Part 1 (free).",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "Click here",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "to download JLPT N5 Vocabulary Audio Lesson Part 2 to Part 21 (requires paid membership).",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Grammar Exercise 25",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Grammar Exercise 23",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-24/",
+ "level": "N5",
+ "category": "grammar"
+}

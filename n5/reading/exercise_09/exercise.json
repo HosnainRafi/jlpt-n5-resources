@@ -1,0 +1,228 @@
+{
+ "title": "JLPT N5 – Reading Exercise 09",
+ "questions": [
+  {
+   "question": 1,
+   "text": "ただしいものはどれですか。 わたしはりょうりをつくりました。 友だちはりょうりがじょうずです。 りょうりはおいしくありませんでした。 友だちはあまり食べませんでした。",
+   "options": [
+    "田中さんへ おとといはどうもありがとう。雨がたくさん降りましたから、田中さんに傘を借りてよかったです。借りた傘はドアのところに置きます。それから昨日作ったお菓子も置きます。どうぞ食べてください。 ９月１０日 午後７時 鈴木より"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "鈴木さんは９月１０日に何をしましたか。 お菓子を買いました。 傘を借りました。 傘を返しました。 お菓子を作りました。",
+   "options": [
+    "このたてものの中ではしずかにえを見てください。しゃしんをとらないでください。たばこもこまります。たばこは外ですってください。えを見ながら食べたり飲んだりしないでください。"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "あなたはこのたてものの中で何をしますか。 えを見ます。 たばこをすいます。 ごはんを食べます。 しゃしんをとります。",
+   "options": [
+    "けさ、山川さんは７時におきました。あさごはんを食べる前にシャワーをあびました。あさごはんを食べながらテレビを見ました。あさごはんを食べたあとで、新聞を読みました。それから会社へ行きました。"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "ただしいものはどれですか。 あさごはんのあとでテレビを見ました。 あさごはんをたべながら新聞を読みました。 テレビを見る前にあさごはんを食べました。 シャワーをあびたあとであさごはんを食べました。",
+   "options": [
+    "リンさんへ 今日は先に帰ります。リンさんに借りたノートは明日持ってきます。 それから私の本は、まだ使いませんから、どうぞゆっくり読んでください。 さくらより"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "さくらさんは明日何をすると書いてありますか。 本を読みます。 ノートを借ります。 ノートを返します。 本とノートを使います。 | Japanese | Romaji | English | |---|---|---| | 一昨日 | ototoi | day before yesterday | | 雨 | ame | rain | | 降る | furu | to fall (rain) | | 傘 | kasa | umbrella | | 借りる | kariru | to borrow, to rent, to hire | | ドア: door | | | | ところ: place, spot | | | | 置く | oku | to put, to place | | お菓子 | okashi | sweets, candy | | 返す | kaesu | to return (something), to restore | | 建物 | tatemono | building | | 静か | shizuka | quiet, peaceful | | 写真 | shashin | photograph, photo | | 撮る | toru | to take (a photo) | | 煙草 | tabako | tobacco, cigarettes | | 吸う | suu | to smoke, to breathe in, to inhale | | 今朝 | kesa | this morning | | 朝ご飯 | asagohan | breakfast | | 新聞 | shinbun | newspaper | | 先に | saki ni | ahead, before, earlier than | | ゆっくり: slowly | | | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 – Reading Exercise 10 | | | | JLPT N5 – Reading Exercise 08 | | |",
+   "options": [
+    "さくらさんは明日何をすると書いてありますか。",
+    "本を読みます。",
+    "ノートを借ります。",
+    "ノートを返します。",
+    "本とノートを使います。",
+    "Question 1: 2 (2 (ただしいものはどれですか。=>)",
+    "Question 2: 3 (3 (鈴木さんは９月１０日に何をしましたか。=>)",
+    "Question 3: 1 (1 (あなたはこのたてものの中で何をしますか。=>)",
+    "Question 4: 4 (4 (ただしいものはどれですか。=>)",
+    "Question 5: 3 (3 (さくらさんは明日何をすると書いてありますか。=>)"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": "2 (ただしいものはどれですか。=>"
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": "3 (鈴木さんは９月１０日に何をしましたか。=>"
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": "1 (あなたはこのたてものの中で何をしますか。=>"
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": "4 (ただしいものはどれですか。=>"
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": "3 (さくらさんは明日何をすると書いてありますか。=>"
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "一昨日",
+   "romaji": "ototoi",
+   "en": "day before yesterday"
+  },
+  {
+   "jp": "雨",
+   "romaji": "ame",
+   "en": "rain"
+  },
+  {
+   "jp": "降る",
+   "romaji": "furu",
+   "en": "to fall (rain)"
+  },
+  {
+   "jp": "傘",
+   "romaji": "kasa",
+   "en": "umbrella"
+  },
+  {
+   "jp": "借りる",
+   "romaji": "kariru",
+   "en": "to borrow, to rent, to hire"
+  },
+  {
+   "jp": "ドア: door",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "ところ: place, spot",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "置く",
+   "romaji": "oku",
+   "en": "to put, to place"
+  },
+  {
+   "jp": "お菓子",
+   "romaji": "okashi",
+   "en": "sweets, candy"
+  },
+  {
+   "jp": "返す",
+   "romaji": "kaesu",
+   "en": "to return (something), to restore"
+  },
+  {
+   "jp": "建物",
+   "romaji": "tatemono",
+   "en": "building"
+  },
+  {
+   "jp": "静か",
+   "romaji": "shizuka",
+   "en": "quiet, peaceful"
+  },
+  {
+   "jp": "写真",
+   "romaji": "shashin",
+   "en": "photograph, photo"
+  },
+  {
+   "jp": "撮る",
+   "romaji": "toru",
+   "en": "to take (a photo)"
+  },
+  {
+   "jp": "煙草",
+   "romaji": "tabako",
+   "en": "tobacco, cigarettes"
+  },
+  {
+   "jp": "吸う",
+   "romaji": "suu",
+   "en": "to smoke, to breathe in, to inhale"
+  },
+  {
+   "jp": "今朝",
+   "romaji": "kesa",
+   "en": "this morning"
+  },
+  {
+   "jp": "朝ご飯",
+   "romaji": "asagohan",
+   "en": "breakfast"
+  },
+  {
+   "jp": "新聞",
+   "romaji": "shinbun",
+   "en": "newspaper"
+  },
+  {
+   "jp": "先に",
+   "romaji": "saki ni",
+   "en": "ahead, before, earlier than"
+  },
+  {
+   "jp": "ゆっくり: slowly",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Reading Exercise 10",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Reading Exercise 08",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [
+  "https://japanesetest4you.com/image/jlpt-n5-reading-9-01.gif",
+  "https://japanesetest4you.com/image/jlpt-n5-reading-9-02.gif",
+  "https://japanesetest4you.com/image/jlpt-n5-reading-9-03.gif",
+  "https://japanesetest4you.com/image/jlpt-n5-reading-9-04.gif",
+  "https://japanesetest4you.com/image/jlpt-n5-reading-9-05.gif"
+ ],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-reading-exercise-09/",
+ "level": "N5",
+ "category": "reading"
+}

@@ -49,7 +49,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 (放送局 => ほうそうきょく) Question 2: 1 (正面 => しょうめん) Question 3: 2 (停車 => ていしゃ) Question 4: 3 (禁止 => きんし) Question 5: 3 (平等 => びょうどう) Question 6: 2 (各国 => かっこく) Question 7: 1 (出席 => しゅっせき) Question 8: 4 (家庭 => かてい) Question 9: 4 (代表 => だいひょう) Question 10: 1 (職場 => しょくば) ",
  "vocabulary": [
   "放送局",
   "正面",
@@ -66,5 +65,60 @@
   "家庭",
   "職場"
  ],
- "page_text_sample": "この\n放送局\nの\n正面\nは、駐車だけでなく\n停車\nも\n禁止\nされている。\n\n\n1. 放送局\nほそうきょく\nほうそうきょく\nほうそきょく\nほうそうきょっく\n\n\n2. 正面\nしょうめん\nせいめん\nしょうがん\nせいがん\n\n\n3. 停車\nとしゃ\nていしゃ\nていぐるま\nとぐるま\n\n\n4. 禁止\nかんし\nけんし\nきんし\nこし\n\n\n男女\n平等\nをテーマにした会議が開かれ、\n各国\nの\n代表\nが\n出席\nして、\n家庭\nや\n職場\nで起こっている問題を話し合った。\n\n\n5. 平等\nひょうどう\nへいどう\nびょうどう\nへいとう\n\n\n6. 各国\nかくくに\nかっこく\nかこく\nかっくに\n\n\n7. 出席\nしゅっせき\n\n\nしゅつせき\nしゅっさき\nしゅつさき\n\n\n8. 家庭\nやてい\nかにわ\nやにわ\nかてい\n\n\n9. 代表\nかいひょう\nかいびょう\nだいびょう\nだいひょう\n\n\n10. 職場\nしょくば\nしきば\nしょくじょう\nしきしょう\n\n\nAnswer Key:\n\n\nQuestion 1: 2 (放送局 => ほうそうきょく)\nQuestion 2: 1 (正面 => しょうめん)\nQuestion 3: 2 (停車 => ていしゃ)\nQuestion 4: 3 (禁止 => きんし)\nQuestion 5: 3 (平等 => びょうどう)\nQuestion 6: 2 (各国 => かっこく)\nQuestion 7: 1 (出席 => しゅっせき)\nQuestion 8: 4 (家庭 => かてい)\nQuestion 9: 4 (代表 => だいひょう)\nQuestion 10: 1 (職場 => しょくば)\n\n\nNew words:\n\n\n放送局: broadcasting office\n\n\n正面: front, frontage, facade\n\n\n駐車 (chuusha): parking (e.g. car)\n\n"
+ "page_text_sample": "この\n放送局\nの\n正面\nは、駐車だけでなく\n停車\nも\n禁止\nされている。\n\n\n1. 放送局\nほそうきょく\nほうそうきょく\nほうそきょく\nほうそうきょっく\n\n\n2. 正面\nしょうめん\nせいめん\nしょうがん\nせいがん\n\n\n3. 停車\nとしゃ\nていしゃ\nていぐるま\nとぐるま\n\n\n4. 禁止\nかんし\nけんし\nきんし\nこし\n\n\n男女\n平等\nをテーマにした会議が開かれ、\n各国\nの\n代表\nが\n出席\nして、\n家庭\nや\n職場\nで起こっている問題を話し合った。\n\n\n5. 平等\nひょうどう\nへいどう\nびょうどう\nへいとう\n\n\n6. 各国\nかくくに\nかっこく\nかこく\nかっくに\n\n\n7. 出席\nしゅっせき\n\n\nしゅつせき\nしゅっさき\nしゅつさき\n\n\n8. 家庭\nやてい\nかにわ\nやにわ\nかてい\n\n\n9. 代表\nかいひょう\nかいびょう\nだいびょう\nだいひょう\n\n\n10. 職場\nしょくば\nしきば\nしょくじょう\nしきしょう\n\n\nAnswer Key:\n\n\nQuestion 1: 2 (放送局 => ほうそうきょく)\nQuestion 2: 1 (正面 => しょうめん)\nQuestion 3: 2 (停車 => ていしゃ)\nQuestion 4: 3 (禁止 => きんし)\nQuestion 5: 3 (平等 => びょうどう)\nQuestion 6: 2 (各国 => かっこく)\nQuestion 7: 1 (出席 => しゅっせき)\nQuestion 8: 4 (家庭 => かてい)\nQuestion 9: 4 (代表 => だいひょう)\nQuestion 10: 1 (職場 => しょくば)\n\n\nNew words:\n\n\n放送局: broadcasting office\n\n\n正面: front, frontage, facade\n\n\n駐車 (chuusha): parking (e.g. car)\n\n",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 (放送局 => ほうそうきょく) Question 2: 1 (正面 => しょうめん) Question 3: 2 (停車 => ていしゃ) Question 4: 3 (禁止 => きんし) Question 5: 3 (平等 => びょうどう) Question 6: 2 (各国 => かっこく) Question 7: 1 (出席 => しゅっせき) Question 8: 4 (家庭 => かてい) Question 9: 4 (代表 => だいひょう) Question 10: 1 (職場 => しょくば)",
+ "level": "N2",
+ "category": "kanji"
 }

@@ -49,7 +49,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 (印刷 => いんさつ) Question 2: 4 (技術 => ぎじゅつ) Question 3: 1 (比べて => くらべて) Question 4: 3 (進歩 => しんぽ) Question 5: 3 (さい => 歳) Question 6: 3 (そふ => 祖父) Question 7: 4 (こうえん => 公園) Question 8: 1 (光 => ひかり) Question 9: 2 (奥 => おく) Question 10: 1 (届く => とどく) ",
  "vocabulary": [
   "印刷",
   "技術",
@@ -62,5 +61,60 @@
   "奥",
   "届く"
  ],
- "page_text_sample": "印刷技術\nは昔に\n比べて\nかなり\n進歩\nしてきた。\n\n\n1. 印刷\nいんさつ\nいんしゃつ\nあんさつ\nあんしゃつ\n\n\n2. 技術\nきじゅつ\nきげい\nぎげい\nぎじゅつ\n\n\n3. 比べて\nくらべて\n\n\nのらべて\nしらべて\nおさべて\n\n\n4. 進歩\nさんぽ\n\n\nさんぼ\nしんぽ\nしんぼ\n\n\n八十\nさい\nの\nそふ\nは、毎朝近くの\nこうえん\nを散歩する。\n\n\n5. さい\n栽\n裁\n歳\n蔵\n\n\n6. そふ\n租父\n粗父\n祖父\n組父\n\n\n7. こうえん\n郊遠\n郊園\n公遠\n公園\n\n\nこの住宅は、\n光\nが部屋の\n奥\nまで\n届く\nようにつくられている。\n\n\n8. 光\nひかり\nいかり\nこめ\nきはり\n\n\n9. 奥\nうち\nおく\nなか\nちゅう\n\n\n10. 届く\nとどく\n\n\nひらく\nきく\nおどろく\n\n\nAnswer Key:\n\n\nQuestion 1: 1 (印刷 => いんさつ)\nQuestion 2: 4 (技術 => ぎじゅつ)\nQuestion 3: 1 (比べて => くらべて)\nQuestion 4: 3 (進歩 => しんぽ)\nQuestion 5: 3 (さい => 歳)\nQuestion 6: 3 (そふ => 祖父)\nQuestion 7: 4 (こうえん => 公園)\nQuestion 8: 1 (光 => ひかり)\nQuestion 9: 2 (奥 => おく)\nQuestion 10: 1 (届く => とどく)\n\n\nNew words:\n\n\n印刷: printing\n\n\n技術: art, craft, technique\n\n\n比べる: to compare, to make a comparison\n\n\n進歩: progress, development\n\n\nさい: -years-old\n\n\nそふ: grandfather\n\n\n住宅 (juutaku): residence, hou"
+ "page_text_sample": "印刷技術\nは昔に\n比べて\nかなり\n進歩\nしてきた。\n\n\n1. 印刷\nいんさつ\nいんしゃつ\nあんさつ\nあんしゃつ\n\n\n2. 技術\nきじゅつ\nきげい\nぎげい\nぎじゅつ\n\n\n3. 比べて\nくらべて\n\n\nのらべて\nしらべて\nおさべて\n\n\n4. 進歩\nさんぽ\n\n\nさんぼ\nしんぽ\nしんぼ\n\n\n八十\nさい\nの\nそふ\nは、毎朝近くの\nこうえん\nを散歩する。\n\n\n5. さい\n栽\n裁\n歳\n蔵\n\n\n6. そふ\n租父\n粗父\n祖父\n組父\n\n\n7. こうえん\n郊遠\n郊園\n公遠\n公園\n\n\nこの住宅は、\n光\nが部屋の\n奥\nまで\n届く\nようにつくられている。\n\n\n8. 光\nひかり\nいかり\nこめ\nきはり\n\n\n9. 奥\nうち\nおく\nなか\nちゅう\n\n\n10. 届く\nとどく\n\n\nひらく\nきく\nおどろく\n\n\nAnswer Key:\n\n\nQuestion 1: 1 (印刷 => いんさつ)\nQuestion 2: 4 (技術 => ぎじゅつ)\nQuestion 3: 1 (比べて => くらべて)\nQuestion 4: 3 (進歩 => しんぽ)\nQuestion 5: 3 (さい => 歳)\nQuestion 6: 3 (そふ => 祖父)\nQuestion 7: 4 (こうえん => 公園)\nQuestion 8: 1 (光 => ひかり)\nQuestion 9: 2 (奥 => おく)\nQuestion 10: 1 (届く => とどく)\n\n\nNew words:\n\n\n印刷: printing\n\n\n技術: art, craft, technique\n\n\n比べる: to compare, to make a comparison\n\n\n進歩: progress, development\n\n\nさい: -years-old\n\n\nそふ: grandfather\n\n\n住宅 (juutaku): residence, hou",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 (印刷 => いんさつ) Question 2: 4 (技術 => ぎじゅつ) Question 3: 1 (比べて => くらべて) Question 4: 3 (進歩 => しんぽ) Question 5: 3 (さい => 歳) Question 6: 3 (そふ => 祖父) Question 7: 4 (こうえん => 公園) Question 8: 1 (光 => ひかり) Question 9: 2 (奥 => おく) Question 10: 1 (届く => とどく)",
+ "level": "N2",
+ "category": "kanji"
 }

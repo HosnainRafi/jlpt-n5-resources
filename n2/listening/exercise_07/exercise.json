@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 3 Question 2: 3 Question 3: 3 Question 4: 1 Question 5: 2 ",
  "vocabulary": [
   "ゲーム",
   "いい加減にする",
@@ -55,5 +54,35 @@
   "何とか",
   "諦める"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 3\nQuestion 3: 3\nQuestion 4: 1\nQuestion 5: 2\n\n\nNew words:\n\n\nゲーム: game\n\n\nいい加減にする (ii kagen ni suru): to put an end to something, to quit something one has been engaged in too long or to an excessive degree\n\n\n以後 (igo): after this, from now on\n\n\n注意 (chuui): caution, being careful\n\n\n限る (kagiru): to restrict, to limit, to confine\n\n\n招く (maneku): to invite\n\n\nまあまあ: so-so\n\n\n希望 (kibou): hope, wish, aspiration\n\n\n就職 (shuushoku): finding employment, inauguration\n\n\n不安 (fuan): anxiety, uneasiness, insecurity\n\n\n何とか (nantoka): somehow, anyhow, one way or another\n\n\n諦める (akirameru): to give up, to abandon\n\n\nView transcri"
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 3\nQuestion 3: 3\nQuestion 4: 1\nQuestion 5: 2\n\n\nNew words:\n\n\nゲーム: game\n\n\nいい加減にする (ii kagen ni suru): to put an end to something, to quit something one has been engaged in too long or to an excessive degree\n\n\n以後 (igo): after this, from now on\n\n\n注意 (chuui): caution, being careful\n\n\n限る (kagiru): to restrict, to limit, to confine\n\n\n招く (maneku): to invite\n\n\nまあまあ: so-so\n\n\n希望 (kibou): hope, wish, aspiration\n\n\n就職 (shuushoku): finding employment, inauguration\n\n\n不安 (fuan): anxiety, uneasiness, insecurity\n\n\n何とか (nantoka): somehow, anyhow, one way or another\n\n\n諦める (akirameru): to give up, to abandon\n\n\nView transcri",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 3 Question 2: 3 Question 3: 3 Question 4: 1 Question 5: 2",
+ "level": "N2",
+ "category": "listening"
 }

@@ -37,7 +37,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 4 Question 3: 2 Question 4: 3 Question 5: 4 ",
  "vocabulary": [
   "失恋",
   "気に入る",
@@ -85,5 +84,35 @@
   "習慣",
   "ストレス"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n好きな人と別れたから\n自由に写真をとりたいから\n友達といてもつまらないから\n本をゆっくり読みたいから\n\n\n\n\n\n2. Question 2\n\n\n\n\n体の調子が良くないからです\nゆっくり女の人と話したいからです\nお金がないからです\n休みたいからです\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 4\nQuestion 3: 2\nQuestion 4: 3\nQuestion 5: 4\n\n\nNew words:\n\n\n失恋 (shitsuren): disappointed love, broken heart\n\n\n気に入る (ki ni iru): to be pleased with, to suit\n\n\nずっと: throughout, the whole time\n\n\n気を使う (ki o tsukau): to fuss about, to take into consideration\n\n\n疲れる (tsukareru): to get tired, to tire\n\n\n別れる (wakareru): to separate\n\n\n自由に (jiyuu ni): freely\n\n\n同僚 (douryou): coworker, colleague\n\n\n連休 (renkyuu): consecutive holidays\n\n\nボーナス: bonus\n\n\nたまに: occasionally, once in a while\n\n\n心境 (shinkyou): mental state\n\n\n変化 (henka): change, transition\n\n\n"
+ "page_text_sample": "1. Question 1\n\n\n\n\n好きな人と別れたから\n自由に写真をとりたいから\n友達といてもつまらないから\n本をゆっくり読みたいから\n\n\n\n\n\n2. Question 2\n\n\n\n\n体の調子が良くないからです\nゆっくり女の人と話したいからです\nお金がないからです\n休みたいからです\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 4\nQuestion 3: 2\nQuestion 4: 3\nQuestion 5: 4\n\n\nNew words:\n\n\n失恋 (shitsuren): disappointed love, broken heart\n\n\n気に入る (ki ni iru): to be pleased with, to suit\n\n\nずっと: throughout, the whole time\n\n\n気を使う (ki o tsukau): to fuss about, to take into consideration\n\n\n疲れる (tsukareru): to get tired, to tire\n\n\n別れる (wakareru): to separate\n\n\n自由に (jiyuu ni): freely\n\n\n同僚 (douryou): coworker, colleague\n\n\n連休 (renkyuu): consecutive holidays\n\n\nボーナス: bonus\n\n\nたまに: occasionally, once in a while\n\n\n心境 (shinkyou): mental state\n\n\n変化 (henka): change, transition\n\n\n",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 4 Question 3: 2 Question 4: 3 Question 5: 4",
+ "level": "N3",
+ "category": "listening"
 }

@@ -24,7 +24,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 Question 2: 1 Question 3: 4 Question 4: 3 Question 5: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 誕生日 (tanjoubi): birthday プレゼント (purezento): present 決める (kimeru): to decide 困る (komaru): to be troubled, to be worried カップ (kappu): cup タオル (taoru): towel スポーツ (supootsu): sport 箱 (hako): box 横 (yoko): horizontal, side-to-side プール (puuru): swimming ",
  "vocabulary": [
   "Infographics Part",
   "Click here",
@@ -106,5 +105,35 @@
   "your friends",
   "Listening Exercise"
  ],
- "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 4 Question 2: 1 Question 3: 4 Question 4: 3 Question 5: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 誕生日 (tanjoubi): birthday プレゼント (purezento): present 決める (kimeru): to decide 困る (komaru): to be troubled, to be worried カップ (kappu): cup タオル (taoru): towel スポーツ (supootsu): sport 箱 (hako): box 横 (yoko): horizontal, side-to-side プール (puuru): swimming pool 順番 (junban): turn (in line), order of things 切符 (kippu): ticket 帽子 (boushi): cap, hat 水泳 (suiei): swimming 用 (you): for the use of…, used for… ノート (nooto): notebook, note 名前"
+ "page_text_sample": "1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 4 Question 2: 1 Question 3: 4 Question 4: 3 Question 5: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 誕生日 (tanjoubi): birthday プレゼント (purezento): present 決める (kimeru): to decide 困る (komaru): to be troubled, to be worried カップ (kappu): cup タオル (taoru): towel スポーツ (supootsu): sport 箱 (hako): box 横 (yoko): horizontal, side-to-side プール (puuru): swimming pool 順番 (junban): turn (in line), order of things 切符 (kippu): ticket 帽子 (boushi): cap, hat 水泳 (suiei): swimming 用 (you): for the use of…, used for… ノート (nooto): notebook, note 名前",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 Question 2: 1 Question 3: 4 Question 4: 3 Question 5: 3 Click here to download JLPT N4 Vocabulary Infographics Part 1 (free). Click here to download JLPT N4 Vocabulary Infographics Part 2 to Part 4 (requires paid membership). New words: 誕生日 (tanjoubi): birthday プレゼント (purezento): present 決める (kimeru): to decide 困る (komaru): to be troubled, to be worried カップ (kappu): cup タオル (taoru): towel スポーツ (supootsu): sport 箱 (hako): box 横 (yoko): horizontal, side-to-side プール (puuru): swimming",
+ "level": "N4",
+ "category": "listening"
 }

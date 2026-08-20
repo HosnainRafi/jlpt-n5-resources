@@ -1,0 +1,278 @@
+{
+ "title": "JLPT N5 – Grammar Exercise 22",
+ "questions": [
+  {
+   "question": 1,
+   "text": "明日としょかんへ本を _______ に行きます。 かりる かりて かり かりた",
+   "options": [
+    "明日としょかんへ本を _______ に行きます。",
+    "かりる",
+    "かりて",
+    "かり"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "子どもはかみ _______ ふねをつくっています。 で か に は",
+   "options": [
+    "子どもはかみ _______ ふねをつくっています。",
+    "で",
+    "か",
+    "に"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "あなたは今じしょを _______ か。 もってあります もっています もってです もってします",
+   "options": [
+    "あなたは今じしょを _______ か。",
+    "もってあります",
+    "もっています",
+    "もってです"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "きのうはあまり _______ です。 さむかった さむい さむくなかった さむくない",
+   "options": [
+    "きのうはあまり _______ です。",
+    "さむかった",
+    "さむい",
+    "さむくなかった"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "長江はちゅうごく _______ ながれています。 を で に へ",
+   "options": [
+    "長江はちゅうごく _______ ながれています。",
+    "を",
+    "で",
+    "に"
+   ]
+  },
+  {
+   "question": 6,
+   "text": "まいあさ８時ごろいえを _______ かいしゃへ行きます。 でた でる でたり でて",
+   "options": [
+    "まいあさ８時ごろいえを _______ かいしゃへ行きます。",
+    "でた",
+    "でる",
+    "でたり"
+   ]
+  },
+  {
+   "question": 7,
+   "text": "日本りょうりはあまりすき _______ 。 です でした ではありません くありません",
+   "options": [
+    "日本りょうりはあまりすき _______ 。",
+    "です",
+    "でした",
+    "ではありません"
+   ]
+  },
+  {
+   "question": 8,
+   "text": "きのう母 _______ マフラーをあげました。 から を は に",
+   "options": [
+    "きのう母 _______ マフラーをあげました。",
+    "から",
+    "を",
+    "は"
+   ]
+  },
+  {
+   "question": 9,
+   "text": "日本語のべんきょうは何時 _______ ですか。 だけ から には では",
+   "options": [
+    "日本語のべんきょうは何時 _______ ですか。",
+    "だけ",
+    "から",
+    "には"
+   ]
+  },
+  {
+   "question": 10,
+   "text": "そのちいさいとけい _______ ください。 が を に へ | Japanese | Romaji | English | |---|---|---| | 紙 | kami | paper | | 船 | fune | ship, bobat | | 中国 | chuugoku | China | | 流れる | nagareru | to stream, to flow | | 出る | deru | to go out, to leave | | マフラー: muffler, scarf | | | | あげる: to give | | | | 時計 | tokei | watch, clock | | Click here | | | | to download JLPT N5 Grammar Audio Lesson Part 1 (free). | | | | Click here | | | | to download JLPT N5 Grammar Audio Lesson Part 2 to Part 6 (requires paid membership). | | | | Click here | | | | to download JLPT N5 Vocabulary Audio Lesson Part 1 (free). | | | | Click here | | | | to download JLPT N5 Vocabulary Audio Lesson Part 2 to Part 21 (requires paid membership). | | | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 – Grammar Exercise 23 | | | | JLPT N5 – Grammar Exercise 21 | | |",
+   "options": [
+    "そのちいさいとけい _______ ください。",
+    "が",
+    "を",
+    "に"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "紙",
+   "romaji": "kami",
+   "en": "paper"
+  },
+  {
+   "jp": "船",
+   "romaji": "fune",
+   "en": "ship, bobat"
+  },
+  {
+   "jp": "中国",
+   "romaji": "chuugoku",
+   "en": "China"
+  },
+  {
+   "jp": "流れる",
+   "romaji": "nagareru",
+   "en": "to stream, to flow"
+  },
+  {
+   "jp": "出る",
+   "romaji": "deru",
+   "en": "to go out, to leave"
+  },
+  {
+   "jp": "マフラー: muffler, scarf",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "あげる: to give",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "時計",
+   "romaji": "tokei",
+   "en": "watch, clock"
+  },
+  {
+   "jp": "Click here",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "to download JLPT N5 Grammar Audio Lesson Part 1 (free).",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "Click here",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "to download JLPT N5 Grammar Audio Lesson Part 2 to Part 6 (requires paid membership).",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "Click here",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "to download JLPT N5 Vocabulary Audio Lesson Part 1 (free).",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "Click here",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "to download JLPT N5 Vocabulary Audio Lesson Part 2 to Part 21 (requires paid membership).",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Grammar Exercise 23",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 – Grammar Exercise 21",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-22/",
+ "level": "N5",
+ "category": "grammar"
+}

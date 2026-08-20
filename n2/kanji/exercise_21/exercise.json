@@ -49,7 +49,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 (ほぞん => 保存) Question 2: 1 (しゅだん => 手段) Question 3: 2 (かんづめ => 缶詰) Question 4: 4 (かんそう => 乾燥) Question 5: 2 (強盗 => ごうとう) Question 6: 3 (鋭い => するどい) Question 7: 1 (腕 => うで) Question 8: 2 (刺された => さされた) Question 9: 4 (はへん => 破片) Question 10: 1 (けが => 怪我) ",
  "vocabulary": [
   "食料",
   "ほぞん",
@@ -69,5 +68,60 @@
   "包帯",
   "巻く"
  ],
- "page_text_sample": "食料を\nほぞん\nする\nしゅだん\nとしては、塩につけたり、\nかんづめ\nにしたり、かんそうさせたりする方法があります。\n\n\n1. ほぞん\n保守\n保在\n保蔵\n保存\n\n\n2. しゅだん\n手段\n取担\n取段\n手担\n\n\n3. かんづめ\n瓶詰\n缶詰\n瓶結\n缶結\n\n\n4. かんそう\n干操\n乾操\n干燥\n乾燥\n\n\n強盗\nに\n鋭い\nナイフで\n腕\nを\n刺された\n。\n\n\n5. 強盗\nきょとう\nごうとう\nごと\nきょうとう\n\n\n6. 鋭い\nにぶい\nしつこい\nするどい\nぬくい\n\n\n7. 腕\nうで\n\n\nので\nこし\nはら\n\n\n8. 刺された\nとされた\nさされた\nしされた\nおされた\n\n\nガラスの\nはへん\nでゆびに\nけが\nをして、ほうたいをまいてもらった。\n\n\n9. はへん\n皮片\n彼片\n石片\n破片\n\n\n10. けが\n怪我\n毛我\n怪蛾\n毛蛾\n\n\nAnswer Key:\n\n\nQuestion 1: 4 (ほぞん => 保存)\nQuestion 2: 1 (しゅだん => 手段)\nQuestion 3: 2 (かんづめ => 缶詰)\nQuestion 4: 4 (かんそう => 乾燥)\nQuestion 5: 2 (強盗 => ごうとう)\nQuestion 6: 3 (鋭い => するどい)\nQuestion 7: 1 (腕 => うで)\nQuestion 8: 2 (刺された => さされた)\nQuestion 9: 4 (はへん => 破片)\nQuestion 10: 1 (けが => 怪我)\n\n\nNew words:\n\n\n食料 (shokuryou): food\n\n\nほぞん: preservation, conservation, storage\n\n\nしゅだん: means, way, measure\n\n\n塩 (shio): salt\n\n\nかんづめ: packing (in cans), tin can\n\n\nかんそ"
+ "page_text_sample": "食料を\nほぞん\nする\nしゅだん\nとしては、塩につけたり、\nかんづめ\nにしたり、かんそうさせたりする方法があります。\n\n\n1. ほぞん\n保守\n保在\n保蔵\n保存\n\n\n2. しゅだん\n手段\n取担\n取段\n手担\n\n\n3. かんづめ\n瓶詰\n缶詰\n瓶結\n缶結\n\n\n4. かんそう\n干操\n乾操\n干燥\n乾燥\n\n\n強盗\nに\n鋭い\nナイフで\n腕\nを\n刺された\n。\n\n\n5. 強盗\nきょとう\nごうとう\nごと\nきょうとう\n\n\n6. 鋭い\nにぶい\nしつこい\nするどい\nぬくい\n\n\n7. 腕\nうで\n\n\nので\nこし\nはら\n\n\n8. 刺された\nとされた\nさされた\nしされた\nおされた\n\n\nガラスの\nはへん\nでゆびに\nけが\nをして、ほうたいをまいてもらった。\n\n\n9. はへん\n皮片\n彼片\n石片\n破片\n\n\n10. けが\n怪我\n毛我\n怪蛾\n毛蛾\n\n\nAnswer Key:\n\n\nQuestion 1: 4 (ほぞん => 保存)\nQuestion 2: 1 (しゅだん => 手段)\nQuestion 3: 2 (かんづめ => 缶詰)\nQuestion 4: 4 (かんそう => 乾燥)\nQuestion 5: 2 (強盗 => ごうとう)\nQuestion 6: 3 (鋭い => するどい)\nQuestion 7: 1 (腕 => うで)\nQuestion 8: 2 (刺された => さされた)\nQuestion 9: 4 (はへん => 破片)\nQuestion 10: 1 (けが => 怪我)\n\n\nNew words:\n\n\n食料 (shokuryou): food\n\n\nほぞん: preservation, conservation, storage\n\n\nしゅだん: means, way, measure\n\n\n塩 (shio): salt\n\n\nかんづめ: packing (in cans), tin can\n\n\nかんそ",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "1",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 (ほぞん => 保存) Question 2: 1 (しゅだん => 手段) Question 3: 2 (かんづめ => 缶詰) Question 4: 4 (かんそう => 乾燥) Question 5: 2 (強盗 => ごうとう) Question 6: 3 (鋭い => するどい) Question 7: 1 (腕 => うで) Question 8: 2 (刺された => さされた) Question 9: 4 (はへん => 破片) Question 10: 1 (けが => 怪我)",
+ "level": "N2",
+ "category": "kanji"
 }

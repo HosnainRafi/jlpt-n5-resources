@@ -1,0 +1,316 @@
+{
+ "title": "JLPT N5 – Grammar Exercise 09",
+ "questions": [
+  {
+   "question": 1,
+   "text": "パ－ティーはいつ _______ いいですか。 が に を と",
+   "options": [
+    "パ－ティーはいつ _______ いいですか。",
+    "が",
+    "に",
+    "を"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "目の中にゴミ _______ 入って、いたいです。 を が に で",
+   "options": [
+    "目の中にゴミ _______ 入って、いたいです。",
+    "を",
+    "が",
+    "に"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "あの店は何 _______ いう名前ですか。 が",
+   "options": [
+    "に",
+    "の",
+    "と"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "30分 _______ まちましたが、バスは来ませんでした。 ごろ",
+   "options": [
+    "など",
+    "しか",
+    "ぐらい"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "1日 _______ 3かいくすりをのみます。 が に へ を",
+   "options": [
+    "1日 _______ 3かいくすりをのみます。",
+    "が",
+    "に",
+    "へ"
+   ]
+  },
+  {
+   "question": 6,
+   "text": "大学 _______ 電車で30分かかります。 を が では まで",
+   "options": [
+    "大学 _______ 電車で30分かかります。",
+    "を",
+    "が",
+    "では"
+   ]
+  },
+  {
+   "question": 7,
+   "text": "このしんぶんは _______ からもういりません。 おとといの おとといのだ おとといので おとといだった",
+   "options": [
+    "このしんぶんは _______ からもういりません。",
+    "おとといの",
+    "おとといのだ",
+    "おとといので"
+   ]
+  },
+  {
+   "question": 8,
+   "text": "このことばを _______ ください。 おぼえて おぼりて おぼって おぼえって",
+   "options": [
+    "このことばを _______ ください。",
+    "おぼえて",
+    "おぼりて",
+    "おぼって"
+   ]
+  },
+  {
+   "question": 9,
+   "text": "公園の花はとても _______ 。 きれいだった きれかった きれくなかった きれくないだった",
+   "options": [
+    "公園の花はとても _______ 。",
+    "きれいだった",
+    "きれかった",
+    "きれくなかった"
+   ]
+  },
+  {
+   "question": 10,
+   "text": "まいあさうちでせんたくを _______ から、学校に行きます。 する して します した | Japanese | Romaji | English | |---|---|---| | いつ: when, how soon | | | | 目 | me | eye, eyeball | | 中 | naka | inside, within | | ゴミ: rubbish, trash | | | | 入る | hairu | to contain, to hold | | 痛い | itai | painful, sore | | 店 | mise | store, shop | | 名前 | namae | name | | 三十分 | sanjuppun | thirty minutes | | 待つ | matsu | to wait, to look forward to | | 三回 | sankai | three times | | 薬 | kusuri | medicine | | 大学 | daigaku | university, college | | 電車 | densha | (electric) train | | 一昨日 | ototoi | day before yesterday | | 要る | iru | to need | | 言葉 | kotoba | word, phrase, term | | 覚える | oboeru | to remember, to memorize | | 花 | hana | flower, blossom | | とても: very, awfully | | | | 毎朝 | maiasa | every morning | | 洗濯 | sentaku | washing, laundry | | 学校 | gakkou | school | | 行く | iku | to go | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 - Grammar Exercise 10 | | | | JLPT N5 - Grammar Exercise 08 | | |",
+   "options": [
+    "まいあさうちでせんたくを _______ から、学校に行きます。",
+    "する",
+    "して",
+    "します"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": "1 (パ－ティーはいつ"
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": "2 (目の中にゴミ"
+  },
+  {
+   "question": 3,
+   "answer": "4",
+   "explanation": "4 (あの店は何"
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": "4 (30分"
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": "2 (1日"
+  },
+  {
+   "question": 6,
+   "answer": "4",
+   "explanation": "4 (大学"
+  },
+  {
+   "question": 7,
+   "answer": "2",
+   "explanation": "2 (このしんぶんは"
+  },
+  {
+   "question": 8,
+   "answer": "1",
+   "explanation": "1 (このことばを"
+  },
+  {
+   "question": 9,
+   "answer": "1",
+   "explanation": "1 (公園の花はとても"
+  },
+  {
+   "question": 10,
+   "answer": "2",
+   "explanation": "2 (まいあさうちでせんたくを"
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "いつ: when, how soon",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "目",
+   "romaji": "me",
+   "en": "eye, eyeball"
+  },
+  {
+   "jp": "中",
+   "romaji": "naka",
+   "en": "inside, within"
+  },
+  {
+   "jp": "ゴミ: rubbish, trash",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "入る",
+   "romaji": "hairu",
+   "en": "to contain, to hold"
+  },
+  {
+   "jp": "痛い",
+   "romaji": "itai",
+   "en": "painful, sore"
+  },
+  {
+   "jp": "店",
+   "romaji": "mise",
+   "en": "store, shop"
+  },
+  {
+   "jp": "名前",
+   "romaji": "namae",
+   "en": "name"
+  },
+  {
+   "jp": "三十分",
+   "romaji": "sanjuppun",
+   "en": "thirty minutes"
+  },
+  {
+   "jp": "待つ",
+   "romaji": "matsu",
+   "en": "to wait, to look forward to"
+  },
+  {
+   "jp": "三回",
+   "romaji": "sankai",
+   "en": "three times"
+  },
+  {
+   "jp": "薬",
+   "romaji": "kusuri",
+   "en": "medicine"
+  },
+  {
+   "jp": "大学",
+   "romaji": "daigaku",
+   "en": "university, college"
+  },
+  {
+   "jp": "電車",
+   "romaji": "densha",
+   "en": "(electric) train"
+  },
+  {
+   "jp": "一昨日",
+   "romaji": "ototoi",
+   "en": "day before yesterday"
+  },
+  {
+   "jp": "要る",
+   "romaji": "iru",
+   "en": "to need"
+  },
+  {
+   "jp": "言葉",
+   "romaji": "kotoba",
+   "en": "word, phrase, term"
+  },
+  {
+   "jp": "覚える",
+   "romaji": "oboeru",
+   "en": "to remember, to memorize"
+  },
+  {
+   "jp": "花",
+   "romaji": "hana",
+   "en": "flower, blossom"
+  },
+  {
+   "jp": "とても: very, awfully",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "毎朝",
+   "romaji": "maiasa",
+   "en": "every morning"
+  },
+  {
+   "jp": "洗濯",
+   "romaji": "sentaku",
+   "en": "washing, laundry"
+  },
+  {
+   "jp": "学校",
+   "romaji": "gakkou",
+   "en": "school"
+  },
+  {
+   "jp": "行く",
+   "romaji": "iku",
+   "en": "to go"
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Grammar Exercise 10",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Grammar Exercise 08",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-9/",
+ "level": "N5",
+ "category": "grammar"
+}

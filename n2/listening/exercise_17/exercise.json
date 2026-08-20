@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 Question 2: 1 Question 3: 1 Question 4: 3 Question 5: 2 ",
  "vocabulary": [
   "流行る",
   "流行り",
@@ -74,5 +73,35 @@
   "次回",
   "反省"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\nやはりにのれたこと\n体力がついたこと\nよく眠れるようになったこと\nせいしんてきに強くなったこと\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n5. Question 5\n\n\n\n1\n2\n3\n4\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 4\nQuestion 2: 1\nQuestion 3: 1\nQuestion 4: 3\nQuestion 5: 2\n\n\nNew words:\n\n\n流行る (hayaru): to be popular; to come into fashion; to spread widely (e.g. disease)\n\n\n流行り (hayari): fashion; fad; craze\n\n\n体力 (tairyoku): stamina; endurance; physical strength\n\n\n農家 (nouka): farmer; farming family; farmhouse\n\n\n講演会 (kouenkai): lecture meeting\n\n\n鼠 (nezumi): mouse; rat\n\n\n被害 (higai): (suffering) damage; injury; harm\n\n\n対策 (taisaku): measure; provision; countermeasure\n\n\n講演 (kouen): lecture; address; speech\n\n\n種類 (shurui): variety; kind; type\n\n\n問い合わせ (toiawase): enquiry; inquiry\n\n"
+ "page_text_sample": "1. Question 1\n\n\n\n\nやはりにのれたこと\n体力がついたこと\nよく眠れるようになったこと\nせいしんてきに強くなったこと\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n5. Question 5\n\n\n\n1\n2\n3\n4\n\n\n\n\nView transcript\n\n\nAnswer Key:\n\n\nQuestion 1: 4\nQuestion 2: 1\nQuestion 3: 1\nQuestion 4: 3\nQuestion 5: 2\n\n\nNew words:\n\n\n流行る (hayaru): to be popular; to come into fashion; to spread widely (e.g. disease)\n\n\n流行り (hayari): fashion; fad; craze\n\n\n体力 (tairyoku): stamina; endurance; physical strength\n\n\n農家 (nouka): farmer; farming family; farmhouse\n\n\n講演会 (kouenkai): lecture meeting\n\n\n鼠 (nezumi): mouse; rat\n\n\n被害 (higai): (suffering) damage; injury; harm\n\n\n対策 (taisaku): measure; provision; countermeasure\n\n\n講演 (kouen): lecture; address; speech\n\n\n種類 (shurui): variety; kind; type\n\n\n問い合わせ (toiawase): enquiry; inquiry\n\n",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 Question 2: 1 Question 3: 1 Question 4: 3 Question 5: 2",
+ "level": "N2",
+ "category": "listening"
 }

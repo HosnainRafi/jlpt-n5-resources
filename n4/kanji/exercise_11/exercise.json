@@ -50,7 +50,61 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 4 (あおい => 青い) Question 2: 2 (いろ => 色) Question 3: 3 (おくって => 送って) Question 4: 3 (大使 => たいし) Question 5: 1 (自転車 => じてんしゃ) Question 6: 4 (何度 => なんど) Question 7: 2 (有名 => ゆうめい) Question 8: 1 (写真家 => しゃしんか) Question 9: 3 (夕方 => ゆうがた) Question 10: 4 (食事 => しょくじ) ",
  "vocabulary": [],
- "page_text_sample": "あおい\nいろ\nのシャツを\nおくって\nください。\n\n\n1. あおい\n素い\n肯い\n赤い\n青い\n\n\n2. いろ\n亀\n色\n円\n旗\n\n\n3. おくって\n達って\n遅って\n送って\n迭って\n\n\n大使\nの\n自転車\nは\n何度\nもこわれたそうです。\n\n\n4. 大使\nだいし\nだいじ\nたいし\nたいじ\n\n\n5. 自転車\nじてんしゃ\nじでんしゃ\nじとうしゃ\nじどうしゃ\n\n\n6. 何度\nなにど\nなにご\nなんご\nなんど\n\n\n土曜日は、\n有名\nな\n写真家\nのてんらんかいを見てから、\n夕方\n友だちと\n食事\nをしました。\n\n\n7. 有名\nゆめ\nゆうめい\nゆうめ\nゆめい\n\n\n8. 写真家\nしゃしんか\nさしんか\nしゃしんや\nしゃしんや\n\n\n9. 夕方\nゆうかた\nようがた\nゆうがた\nよかた\n\n\n10. 食事\nしょうじ\nそくじ\nそうじ\nしょくじ\n\n\nAnswer Key:\n\n\nQuestion 1: 4 (あおい => 青い)\nQuestion 2: 2 (いろ => 色)\nQuestion 3: 3 (おくって => 送って)\nQuestion 4: 3 (大使 => たいし)\nQuestion 5: 1 (自転車 => じてんしゃ)\nQuestion 6: 4 (何度 => なんど)\nQuestion 7: 2 (有名 => ゆうめい)\nQuestion 8: 1 (写真家 => しゃしんか)\nQuestion 9: 3 (夕方 => ゆうがた)\nQuestion 10: 4 (食事 => しょくじ)\n\n\nNew words:\n\n\nあおい: blue\n\n\nいろ: color\n\n\nシャツ: shirt\n\n\nおくる: to send (a thing), to dispatch\n\n\n大使: ambassador\n\n\n自転車: bicycle\n\n\n\n\n\n\n\n\n何度も: many times over, often\n\n\nこわ"
+ "page_text_sample": "あおい\nいろ\nのシャツを\nおくって\nください。\n\n\n1. あおい\n素い\n肯い\n赤い\n青い\n\n\n2. いろ\n亀\n色\n円\n旗\n\n\n3. おくって\n達って\n遅って\n送って\n迭って\n\n\n大使\nの\n自転車\nは\n何度\nもこわれたそうです。\n\n\n4. 大使\nだいし\nだいじ\nたいし\nたいじ\n\n\n5. 自転車\nじてんしゃ\nじでんしゃ\nじとうしゃ\nじどうしゃ\n\n\n6. 何度\nなにど\nなにご\nなんご\nなんど\n\n\n土曜日は、\n有名\nな\n写真家\nのてんらんかいを見てから、\n夕方\n友だちと\n食事\nをしました。\n\n\n7. 有名\nゆめ\nゆうめい\nゆうめ\nゆめい\n\n\n8. 写真家\nしゃしんか\nさしんか\nしゃしんや\nしゃしんや\n\n\n9. 夕方\nゆうかた\nようがた\nゆうがた\nよかた\n\n\n10. 食事\nしょうじ\nそくじ\nそうじ\nしょくじ\n\n\nAnswer Key:\n\n\nQuestion 1: 4 (あおい => 青い)\nQuestion 2: 2 (いろ => 色)\nQuestion 3: 3 (おくって => 送って)\nQuestion 4: 3 (大使 => たいし)\nQuestion 5: 1 (自転車 => じてんしゃ)\nQuestion 6: 4 (何度 => なんど)\nQuestion 7: 2 (有名 => ゆうめい)\nQuestion 8: 1 (写真家 => しゃしんか)\nQuestion 9: 3 (夕方 => ゆうがた)\nQuestion 10: 4 (食事 => しょくじ)\n\n\nNew words:\n\n\nあおい: blue\n\n\nいろ: color\n\n\nシャツ: shirt\n\n\nおくる: to send (a thing), to dispatch\n\n\n大使: ambassador\n\n\n自転車: bicycle\n\n\n\n\n\n\n\n\n何度も: many times over, often\n\n\nこわ",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "4",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 4 (あおい => 青い) Question 2: 2 (いろ => 色) Question 3: 3 (おくって => 送って) Question 4: 3 (大使 => たいし) Question 5: 1 (自転車 => じてんしゃ) Question 6: 4 (何度 => なんど) Question 7: 2 (有名 => ゆうめい) Question 8: 1 (写真家 => しゃしんか) Question 9: 3 (夕方 => ゆうがた) Question 10: 4 (食事 => しょくじ)",
+ "level": "N4",
+ "category": "kanji"
 }

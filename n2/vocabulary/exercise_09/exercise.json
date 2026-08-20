@@ -49,7 +49,61 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 1 ( そろいました => 集まりました ) Question 2: 3 ( 差し支え => 問題 ) Question 3: 1 ( クーラー => 冷房 ) Question 4: 3 ( ほぼ => だいたい ) Question 5: 4 ( みょうごにち => あさって ) Question 6: 2 ( 済ます => 終える ) Question 7: 1 ( 向き => 方向 ) Question 8: 4 ( 次第に => だんだん ) Question 9: 2 ( 料理 => 食事 ) Question 10: 3 ( 見解 => 考え方 ) Download JTest4You’s N2 grammar ebook (1,617 pages) If you find any error in this post please don't hesitate to contact me . If you have any questions please check the F.A.Q section. If you find this post useful, please share it with your friends! JLPT N2 – ",
  "vocabulary": [],
- "page_text_sample": "「_______ 」 の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。\n\n\n1. もう全員「\nそろいました\n」か。\n集まりました\n訪ねました\n出発しました\n案内しました\n\n\n2. 「\n差し支え\n」がなければ電話番号を教えてください。\n仕方\n変便\n問題\n不平\n\n\n3. 熱いなら「\nクーラー\n」をつけましょう。\n冷房\n\n\n暖房\n窓\nテレビ\n\n\n4. 宿題のレポートは「\nほぼ\n」終わった。\nすべて\n\n\nすぐに\nだいたい\nやっと\n\n\n5. 検査の結果は「\nみょうごにち\n」に分かりますので、また来てください。\nあす\nそのうち\nらいしゅう\nあさって\n\n\n6. できるだけ早く仕事を「\n済ます\n」ようにします。\n覚える\n終える\n始める\n教える\n\n\n7. 玄関でくつを脱いだら、「\n向き\n」をそろえましょう。\n方向\n\n\n長さ\n左右\n順番\n\n\n8. 景気が「\n次第に\n」回復に向かっている。\nやっと\n以外に\nすっかり\nだんだん\n\n\n9. 当店では注文を受けてから全ての「\n料理\n」をお作りしております。\n献立\n食事\n味\n材料\n\n\n10. 同じ分野の専門家でも、立場によって「\n見解\n」が異なる。\n教え方\n調べ方\n考え方\n決め方\n\n\nAnswer Key:\n\n\nQuestion 1: 1 ( そろいました => 集まりました )\nQuestion 2: 3 ( 差し支え => 問題 )\nQuestion 3: 1 ( クーラー => 冷房 )\nQuestion 4: 3 ( ほぼ => だいたい )\nQuestion 5: 4 ( みょうごにち => あさって )\nQuestion 6: 2 ( 済ます => 終える )\nQuestion 7: 1 ( 向き => 方向 )\nQuestion 8: 4 ( 次第に => だんだん )\nQuestion 9: 2 ( 料理 => 食事 )\n"
+ "page_text_sample": "「_______ 」 の言葉に意味が最も近いものを、１・２・３・４から一つ選びなさい。\n\n\n1. もう全員「\nそろいました\n」か。\n集まりました\n訪ねました\n出発しました\n案内しました\n\n\n2. 「\n差し支え\n」がなければ電話番号を教えてください。\n仕方\n変便\n問題\n不平\n\n\n3. 熱いなら「\nクーラー\n」をつけましょう。\n冷房\n\n\n暖房\n窓\nテレビ\n\n\n4. 宿題のレポートは「\nほぼ\n」終わった。\nすべて\n\n\nすぐに\nだいたい\nやっと\n\n\n5. 検査の結果は「\nみょうごにち\n」に分かりますので、また来てください。\nあす\nそのうち\nらいしゅう\nあさって\n\n\n6. できるだけ早く仕事を「\n済ます\n」ようにします。\n覚える\n終える\n始める\n教える\n\n\n7. 玄関でくつを脱いだら、「\n向き\n」をそろえましょう。\n方向\n\n\n長さ\n左右\n順番\n\n\n8. 景気が「\n次第に\n」回復に向かっている。\nやっと\n以外に\nすっかり\nだんだん\n\n\n9. 当店では注文を受けてから全ての「\n料理\n」をお作りしております。\n献立\n食事\n味\n材料\n\n\n10. 同じ分野の専門家でも、立場によって「\n見解\n」が異なる。\n教え方\n調べ方\n考え方\n決め方\n\n\nAnswer Key:\n\n\nQuestion 1: 1 ( そろいました => 集まりました )\nQuestion 2: 3 ( 差し支え => 問題 )\nQuestion 3: 1 ( クーラー => 冷房 )\nQuestion 4: 3 ( ほぼ => だいたい )\nQuestion 5: 4 ( みょうごにち => あさって )\nQuestion 6: 2 ( 済ます => 終える )\nQuestion 7: 1 ( 向き => 方向 )\nQuestion 8: 4 ( 次第に => だんだん )\nQuestion 9: 2 ( 料理 => 食事 )\n",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 6,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 7,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 8,
+   "answer": "4",
+   "explanation": ""
+  },
+  {
+   "question": 9,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 10,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 1 ( そろいました => 集まりました ) Question 2: 3 ( 差し支え => 問題 ) Question 3: 1 ( クーラー => 冷房 ) Question 4: 3 ( ほぼ => だいたい ) Question 5: 4 ( みょうごにち => あさって ) Question 6: 2 ( 済ます => 終える ) Question 7: 1 ( 向き => 方向 ) Question 8: 4 ( 次第に => だんだん ) Question 9: 2 ( 料理 => 食事 ) Question 10: 3 ( 見解 => 考え方 ) Download JTest4You’s N2 grammar ebook (1,617 pages) If you find any error in this post please don't hesitate to contact me . If you have any questions please check the F.A.Q section. If you find this post useful, please share it with your friends! JLPT N2 –",
+ "level": "N2",
+ "category": "vocabulary"
 }

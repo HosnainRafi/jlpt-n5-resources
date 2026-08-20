@@ -1,0 +1,293 @@
+{
+ "title": "JLPT N5 – Grammar Exercise 07",
+ "questions": [
+  {
+   "question": 1,
+   "text": "わたしはもっと _______ たいです。 はなし はなす はなした はなします",
+   "options": [
+    "わたしはもっと _______ たいです。",
+    "はなし",
+    "はなす",
+    "はなした"
+   ]
+  },
+  {
+   "question": 2,
+   "text": "ここで _______ ください。 あそばない あそばなく あそばなくて あそばないで",
+   "options": [
+    "ここで _______ ください。",
+    "あそばない",
+    "あそばなく",
+    "あそばなくて"
+   ]
+  },
+  {
+   "question": 3,
+   "text": "わたしはきのう _______ まえに、てがみをかきました。 ねる ねた ねるの ねたの",
+   "options": [
+    "わたしはきのう _______ まえに、てがみをかきました。",
+    "ねる",
+    "ねた",
+    "ねるの"
+   ]
+  },
+  {
+   "question": 4,
+   "text": "きのう本を _______ に行きました。 かって かう かわ かい",
+   "options": [
+    "きのう本を _______ に行きました。",
+    "かって",
+    "かう",
+    "かわ"
+   ]
+  },
+  {
+   "question": 5,
+   "text": "わたしはおんがくを _______ ながらべんきょうします。 きく きき きいた きいて",
+   "options": [
+    "わたしはおんがくを _______ ながらべんきょうします。",
+    "きく",
+    "きき",
+    "きいた"
+   ]
+  },
+  {
+   "question": 6,
+   "text": "あした山田さんが _______ 人はだれですか？ あって あいます あった あう",
+   "options": [
+    "あした山田さんが _______ 人はだれですか？",
+    "あって",
+    "あいます",
+    "あった"
+   ]
+  },
+  {
+   "question": 7,
+   "text": "いますぐビールをのみますか？いいえ、おふろに _______ からのみます。 はいる はいり はいります はいって",
+   "options": [
+    "いますぐビールをのみますか？いいえ、おふろに _______ からのみます。",
+    "はいる",
+    "はいり",
+    "はいります"
+   ]
+  },
+  {
+   "question": 8,
+   "text": "かべにポスターがはって _______ 。 います なります あります します",
+   "options": [
+    "かべにポスターがはって _______ 。",
+    "います",
+    "なります",
+    "あります"
+   ]
+  },
+  {
+   "question": 9,
+   "text": "このえはわたしがきのうこうえんで _______ えです。 かく かかない かいた かいて",
+   "options": [
+    "このえはわたしがきのうこうえんで _______ えです。",
+    "かく",
+    "かかない",
+    "かいた"
+   ]
+  },
+  {
+   "question": 10,
+   "text": "こどもはゆうべばんごはんを _______ ねました。 たべなくた たべないで たべない たべなく | Japanese | Romaji | English | |---|---|---| | もっと: more, even more | | | | 昨日 | kinou | yesterday | | 手紙 | tegami | letter | | 買う | kau | to buy | | 誰 | dare | who | | 今すぐ | ima sugu | at once, immediately, right now | | お風呂 | ofuro | bath | | いいえ: no | | | | 壁 | kabe | wall | | ポスター: poster | | | | 貼る | haru | to stick, to paste | | 絵 | e | picture, drawing, painting | | 公園 | kouen | (public) park | | 描く | kaku | to draw, to paint | | 子供 | kodomo | child, children | | 夕べ | yuube | last night | | 晩御飯 | bangohan | dinner, evening meal | | 食べる | taberu | to eat | | 寝る | neru | to sleep, to go to bed | | If you find any error in this post please don't hesitate to | | | | contact me | | | | . | | | | If you have any questions please check the F.A.Q section. | | | | If you find this post useful, please share it with your friends! | | | | JLPT N5 - Grammar Exercise 08 | | | | JLPT N5 - Grammar Exercise 06 | | |",
+   "options": [
+    "こどもはゆうべばんごはんを _______ ねました。",
+    "たべなくた",
+    "たべないで",
+    "たべない"
+   ]
+  }
+ ],
+ "answers": [
+  {
+   "question": 1,
+   "answer": "1",
+   "explanation": "1 (わたしはもっと"
+  },
+  {
+   "question": 2,
+   "answer": "4",
+   "explanation": "4 (ここで"
+  },
+  {
+   "question": 3,
+   "answer": "1",
+   "explanation": "1 (わたしはきのう"
+  },
+  {
+   "question": 4,
+   "answer": "4",
+   "explanation": "4 (きのう本を"
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": "2 (わたしはおんがくを"
+  },
+  {
+   "question": 6,
+   "answer": "4",
+   "explanation": "4 (あした山田さんが"
+  },
+  {
+   "question": 7,
+   "answer": "4",
+   "explanation": "4 (「いますぐビールをのみますか？」「いいえ、おふろに"
+  },
+  {
+   "question": 8,
+   "answer": "3",
+   "explanation": "3 (かべにポスターがはって"
+  },
+  {
+   "question": 9,
+   "answer": "3",
+   "explanation": "3 (このえはわたしがきのうこうえんで"
+  },
+  {
+   "question": 10,
+   "answer": "2",
+   "explanation": "2 (こどもはゆうべばんごはんを"
+  }
+ ],
+ "vocabulary": [
+  {
+   "jp": "もっと: more, even more",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "昨日",
+   "romaji": "kinou",
+   "en": "yesterday"
+  },
+  {
+   "jp": "手紙",
+   "romaji": "tegami",
+   "en": "letter"
+  },
+  {
+   "jp": "買う",
+   "romaji": "kau",
+   "en": "to buy"
+  },
+  {
+   "jp": "誰",
+   "romaji": "dare",
+   "en": "who"
+  },
+  {
+   "jp": "今すぐ",
+   "romaji": "ima sugu",
+   "en": "at once, immediately, right now"
+  },
+  {
+   "jp": "お風呂",
+   "romaji": "ofuro",
+   "en": "bath"
+  },
+  {
+   "jp": "いいえ: no",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "壁",
+   "romaji": "kabe",
+   "en": "wall"
+  },
+  {
+   "jp": "ポスター: poster",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "貼る",
+   "romaji": "haru",
+   "en": "to stick, to paste"
+  },
+  {
+   "jp": "絵",
+   "romaji": "e",
+   "en": "picture, drawing, painting"
+  },
+  {
+   "jp": "公園",
+   "romaji": "kouen",
+   "en": "(public) park"
+  },
+  {
+   "jp": "描く",
+   "romaji": "kaku",
+   "en": "to draw, to paint"
+  },
+  {
+   "jp": "子供",
+   "romaji": "kodomo",
+   "en": "child, children"
+  },
+  {
+   "jp": "夕べ",
+   "romaji": "yuube",
+   "en": "last night"
+  },
+  {
+   "jp": "晩御飯",
+   "romaji": "bangohan",
+   "en": "dinner, evening meal"
+  },
+  {
+   "jp": "食べる",
+   "romaji": "taberu",
+   "en": "to eat"
+  },
+  {
+   "jp": "寝る",
+   "romaji": "neru",
+   "en": "to sleep, to go to bed"
+  },
+  {
+   "jp": "If you find any error in this post please don't hesitate to",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "contact me",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": ".",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you have any questions please check the F.A.Q section.",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "If you find this post useful, please share it with your friends!",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Grammar Exercise 08",
+   "romaji": "",
+   "en": ""
+  },
+  {
+   "jp": "JLPT N5 - Grammar Exercise 06",
+   "romaji": "",
+   "en": ""
+  }
+ ],
+ "images": [],
+ "source_url": "https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-7/",
+ "level": "N5",
+ "category": "grammar"
+}

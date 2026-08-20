@@ -39,7 +39,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 3 Question 2: 3 Question 3: 2 Question 4: 3 Question 5: 2 ",
  "vocabulary": [
   "予算案",
   "提出",
@@ -73,5 +72,35 @@
   "全館",
   "見逃す"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\nロボット館\n未来館\n化石館\n歴史館\n\n\n5. Question 5\n\n\n\n\nロボット館\n未来館\n化石館\n歴史館\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 3\nQuestion 5: 2\n\n\nNew words:\n\n\n予算案 (yosan’an): draft budget, draught budget\n\n\n提出 (teishutsu): to present, to submit, to hand in\n\n\n締切 (shimekiri): closing, cut-off, end\n\n\n延ばす (nobasu): to grow long, to lengthen, to extend\n\n\n繰り上げる (kuriageru): to move up, to advance\n\n\n割安 (wariyasu): economical, comparatively cheap\n\n\n大型 (oogata): large, large scale\n\n\n鉄道 (tetsudou): railroad\n\n\n鉄道便 (tetsudoubin): rail transport\n\n\n若干 (jakkan): some, few, number of\n\n\n荒い (arai): rough, rude, wild\n\n\n輸送 (yusou): transport, transportation\n\n\n方面 (houmen): direction, area, district\n\n\n時点 "
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\nロボット館\n未来館\n化石館\n歴史館\n\n\n5. Question 5\n\n\n\n\nロボット館\n未来館\n化石館\n歴史館\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 3\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 3\nQuestion 5: 2\n\n\nNew words:\n\n\n予算案 (yosan’an): draft budget, draught budget\n\n\n提出 (teishutsu): to present, to submit, to hand in\n\n\n締切 (shimekiri): closing, cut-off, end\n\n\n延ばす (nobasu): to grow long, to lengthen, to extend\n\n\n繰り上げる (kuriageru): to move up, to advance\n\n\n割安 (wariyasu): economical, comparatively cheap\n\n\n大型 (oogata): large, large scale\n\n\n鉄道 (tetsudou): railroad\n\n\n鉄道便 (tetsudoubin): rail transport\n\n\n若干 (jakkan): some, few, number of\n\n\n荒い (arai): rough, rude, wild\n\n\n輸送 (yusou): transport, transportation\n\n\n方面 (houmen): direction, area, district\n\n\n時点 ",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "2",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 3 Question 2: 3 Question 3: 2 Question 4: 3 Question 5: 2",
+ "level": "N1",
+ "category": "listening"
 }

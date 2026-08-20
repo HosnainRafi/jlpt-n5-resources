@@ -40,7 +40,6 @@
    "options": []
   }
  ],
- "answer_key": "Question 1: 2 Question 2: 3 Question 3: 2 Question 4: 1 Question 5: 3 View ",
  "vocabulary": [
   "先輩",
   "試験",
@@ -50,5 +49,35 @@
   "アルバイト",
   "都合"
  ],
- "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 1\nQuestion 5: 3\n\n\nView transcript\n\n\n\n\nClick here\nto download JLPT N3 Vocabulary Infographics Part 1 (free).\n\n\nClick here\nto download JLPT N3 Vocabulary Infographics Part 2 to part 12 (requires paid membership).\n\n\n\n\nNew words:\n\n\n先輩 (senpai): senior (at work or school); superior; elder\n\n\n試験 (shiken): examination; exam; test\n\n\n合格 (goukaku): success; passing (e.g. exam)\n\n\n醤油 (shouyu): soy sauce; shoyu\n\n\n案内 (annai): guidance; leading (the way)\n\n\nアルバイト: part-time job; side job\n\n\n都合 (tsugou): circumstances; condition; convenience\n\n\n\n\nClick here\nto download JLPT N3 Grammar Ebook "
+ "page_text_sample": "1. Question 1\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n2. Question 2\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n3. Question 3\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n4. Question 4\n\n\n\n\n1\n2\n3\n4\n\n\n\n\n\n5. Question 5\n\n\n\n\n1\n2\n3\n4\n\n\n\n\nAnswer Key:\n\n\nQuestion 1: 2\nQuestion 2: 3\nQuestion 3: 2\nQuestion 4: 1\nQuestion 5: 3\n\n\nView transcript\n\n\n\n\nClick here\nto download JLPT N3 Vocabulary Infographics Part 1 (free).\n\n\nClick here\nto download JLPT N3 Vocabulary Infographics Part 2 to part 12 (requires paid membership).\n\n\n\n\nNew words:\n\n\n先輩 (senpai): senior (at work or school); superior; elder\n\n\n試験 (shiken): examination; exam; test\n\n\n合格 (goukaku): success; passing (e.g. exam)\n\n\n醤油 (shouyu): soy sauce; shoyu\n\n\n案内 (annai): guidance; leading (the way)\n\n\nアルバイト: part-time job; side job\n\n\n都合 (tsugou): circumstances; condition; convenience\n\n\n\n\nClick here\nto download JLPT N3 Grammar Ebook ",
+ "answers": [
+  {
+   "question": 1,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 2,
+   "answer": "3",
+   "explanation": ""
+  },
+  {
+   "question": 3,
+   "answer": "2",
+   "explanation": ""
+  },
+  {
+   "question": 4,
+   "answer": "1",
+   "explanation": ""
+  },
+  {
+   "question": 5,
+   "answer": "3",
+   "explanation": ""
+  }
+ ],
+ "answer_key_raw": "Question 1: 2 Question 2: 3 Question 3: 2 Question 4: 1 Question 5: 3 View",
+ "level": "N3",
+ "category": "listening"
 }
