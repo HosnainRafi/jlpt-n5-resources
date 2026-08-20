@@ -1,0 +1,596 @@
+{
+ "level": "N4",
+ "kind": "grammar",
+ "count": 98,
+ "source_url": "https://japanesetest4you.com/jlpt-n4-grammar-list/",
+ "items": [
+  {
+   "pattern": "あまり～ない",
+   "romaji": "amari~nai",
+   "meaning": "not very, not much",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%82%e3%81%be%e3%82%8a%ef%bd%9e%e3%81%aa%e3%81%84-amarinai/"
+  },
+  {
+   "pattern": "あとで",
+   "romaji": "ato de",
+   "meaning": "after, later",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%82%e3%81%a8%e3%81%a7-ato-de/"
+  },
+  {
+   "pattern": "ば",
+   "romaji": "ba",
+   "meaning": "if… then",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%b0-ba/"
+  },
+  {
+   "pattern": "場合は",
+   "romaji": "baai wa",
+   "meaning": "in the event of",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%b0%e3%81%82%e3%81%84%e3%81%af-baai-wa/"
+  },
+  {
+   "pattern": "ばかり",
+   "romaji": "bakari",
+   "meaning": "only, nothing but",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n3-grammar-%e3%81%b0%e3%81%8b%e3%82%8a-bakari/"
+  },
+  {
+   "pattern": "だけで",
+   "romaji": "dake de",
+   "meaning": "just by",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a0%e3%81%91%e3%81%a7-dake-de/"
+  },
+  {
+   "pattern": "だす",
+   "romaji": "dasu",
+   "meaning": "to suddenly begin, to suddenly appear",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a0%e3%81%99-dasu/"
+  },
+  {
+   "pattern": "でも",
+   "romaji": "demo",
+   "meaning": "or something",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a7%e3%82%82-demo/"
+  },
+  {
+   "pattern": "でございます",
+   "romaji": "de gozaimasu",
+   "meaning": "to be (honorific)",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a7%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99-de-gozaimasu/"
+  },
+  {
+   "pattern": "がる",
+   "romaji": "garu",
+   "meaning": "to show signs of, to feel, to think",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%8c%e3%82%8b-garu/"
+  },
+  {
+   "pattern": "がする",
+   "romaji": "ga suru",
+   "meaning": "smell, hear, taste",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%8c%e3%81%99%e3%82%8b-ga-suru/"
+  },
+  {
+   "pattern": "ごろ",
+   "romaji": "goro",
+   "meaning": "around, about",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%94%e3%82%8d-goro/"
+  },
+  {
+   "pattern": "ございます",
+   "romaji": "gozaimasu",
+   "meaning": "to be, to exist (honorific)",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99-gozaimasu/"
+  },
+  {
+   "pattern": "はじめる",
+   "romaji": "hajimeru",
+   "meaning": "to start, to begin to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%af%e3%81%98%e3%82%81%e3%82%8b-hajimeru/"
+  },
+  {
+   "pattern": "はずだ",
+   "romaji": "hazu da",
+   "meaning": "it must be, it should be",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-46/"
+  },
+  {
+   "pattern": "はずがない",
+   "romaji": "hazu ga nai",
+   "meaning": "cannot be",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-49/"
+  },
+  {
+   "pattern": "ひつよう",
+   "romaji": "hitsuyou",
+   "meaning": "need, necessary",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%b2%e3%81%a4%e3%82%88%e3%81%86-hitsuyou/"
+  },
+  {
+   "pattern": "ひつようがある",
+   "romaji": "hitsuyou ga aru",
+   "meaning": "it is necessary to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%b2%e3%81%a4%e3%82%88%e3%81%86%e3%81%8c%e3%81%82%e3%82%8b-hitsuyou-ga-aru/"
+  },
+  {
+   "pattern": "ほしい",
+   "romaji": "hoshii",
+   "meaning": "to want something, to be in need of",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%bb%e3%81%97%e3%81%84-hoshii/"
+  },
+  {
+   "pattern": "いらっしゃる",
+   "romaji": "irassharu",
+   "meaning": "to be, to come, to go",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%84%e3%82%89%e3%81%a3%e3%81%97%e3%82%83%e3%82%8b-irassharu/"
+  },
+  {
+   "pattern": "いたす",
+   "romaji": "itasu",
+   "meaning": "to do (honorific)",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%84%e3%81%9f%e3%81%99-itasu/"
+  },
+  {
+   "pattern": "じゃないか",
+   "romaji": "janai ka",
+   "meaning": "isn’t it",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%81%8b-janai-ka/"
+  },
+  {
+   "pattern": "かどうか",
+   "romaji": "ka dou ka",
+   "meaning": "whether or not",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%8b%e3%81%a9%e3%81%86%e3%81%8b-ka-dou-ka/"
+  },
+  {
+   "pattern": "かい",
+   "romaji": "kai",
+   "meaning": "(turns a sentence into a yes/no question)",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%8b%e3%81%84-kai/"
+  },
+  {
+   "pattern": "かもしれない",
+   "romaji": "kamoshirenai",
+   "meaning": "might, maybe",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-36/"
+  },
+  {
+   "pattern": "かな",
+   "romaji": "kana",
+   "meaning": "I wonder",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%8b%e3%81%aa-kana/"
+  },
+  {
+   "pattern": "かた",
+   "romaji": "kata",
+   "meaning": "how to",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-45/"
+  },
+  {
+   "pattern": "かしら",
+   "romaji": "kashira",
+   "meaning": "I wonder",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%8b%e3%81%97%e3%82%89-kashira/"
+  },
+  {
+   "pattern": "こと",
+   "romaji": "koto",
+   "meaning": "Verb nominalizer",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%93%e3%81%a8-koto-1/"
+  },
+  {
+   "pattern": "ことができる",
+   "romaji": "koto ga dekiru",
+   "meaning": "can, be able to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%82%8b-koto-ga-dekiru/"
+  },
+  {
+   "pattern": "ことになる",
+   "romaji": "koto ni naru",
+   "meaning": "it has been decided that",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n3-grammar-%e3%81%93%e3%81%a8%e3%81%ab%e3%81%aa%e3%82%8b-koto-ni-naru/"
+  },
+  {
+   "pattern": "ことにする",
+   "romaji": "koto ni suru",
+   "meaning": "to decide on",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n3-grammar-%e3%81%93%e3%81%a8%e3%81%ab%e3%81%99%e3%82%8b-koto-ni-suru/"
+  },
+  {
+   "pattern": "までに",
+   "romaji": "made ni",
+   "meaning": "by, by the time",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%be%e3%81%a7%e3%81%ab/"
+  },
+  {
+   "pattern": "みたい",
+   "romaji": "mitai",
+   "meaning": "like, similar to, resembling",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%bf%e3%81%9f%e3%81%84-mitai/"
+  },
+  {
+   "pattern": "みたいに/みたいな",
+   "romaji": "mitai ni/mitai na",
+   "meaning": "like, similar to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%bf%e3%81%9f%e3%81%84%e3%81%ab-%e3%81%bf%e3%81%9f%e3%81%84%e3%81%aa-mitai-ni-mitai-na/"
+  },
+  {
+   "pattern": "など",
+   "romaji": "nado",
+   "meaning": "such as, things like",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%aa%e3%81%a9-nado/"
+  },
+  {
+   "pattern": "ながら",
+   "romaji": "nagara",
+   "meaning": "while, during, as",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%aa%e3%81%8c%e3%82%89-nagara/"
+  },
+  {
+   "pattern": "ないで",
+   "romaji": "naide",
+   "meaning": "without doing, don’t",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%aa%e3%81%84%e3%81%a7-naide/"
+  },
+  {
+   "pattern": "なければいけない/なければならない",
+   "romaji": "nakereba ikenai/nakereba naranai",
+   "meaning": "must do, have to do",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-50/"
+  },
+  {
+   "pattern": "なくてはいけない/なくてはならない",
+   "romaji": "nakutewa ikenai/nakutewa naranai",
+   "meaning": "must do, have to do",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%aa%e3%81%8f%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%aa%e3%81%84%e3%81%aa%e3%81%8f%e3%81%a6%e3%81%af%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84-nakutewa-ikenai-nakutewa-nar/"
+  },
+  {
+   "pattern": "なくてもいい",
+   "romaji": "nakute mo ii",
+   "meaning": "don’t have to",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-38/"
+  },
+  {
+   "pattern": "なら",
+   "romaji": "nara",
+   "meaning": "if, in case, as for",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%aa%e3%82%89-nara/"
+  },
+  {
+   "pattern": "なさい",
+   "romaji": "nasai",
+   "meaning": "command (order somebody to do something)",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%aa%e3%81%95%e3%81%84-nasai/"
+  },
+  {
+   "pattern": "なさる",
+   "romaji": "nasaru",
+   "meaning": "to do (honorific)",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%aa%e3%81%95%e3%82%8b-nasaru/"
+  },
+  {
+   "pattern": "にくい",
+   "romaji": "nikui",
+   "meaning": "difficult to, hard to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%ab%e3%81%8f%e3%81%84-nikui/"
+  },
+  {
+   "pattern": "のなかで",
+   "romaji": "no naka de",
+   "meaning": "in, among",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%ae%e4%b8%ad%e3%81%a7-no-naka-de/"
+  },
+  {
+   "pattern": "のように / のような",
+   "romaji": "no you ni/no you na",
+   "meaning": "like, similar to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa-no-you-nano-you-ni/"
+  },
+  {
+   "pattern": "お～ください",
+   "romaji": "o~kudasai",
+   "meaning": "please do (honorific)",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%8a%ef%bd%9e%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-okudasai/"
+  },
+  {
+   "pattern": "お～になる",
+   "romaji": "o~ni naru",
+   "meaning": "to do (honorific)",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%8a%ef%bd%9e%e3%81%ab%e3%81%aa%e3%82%8b-oni-naru/"
+  },
+  {
+   "pattern": "おきに",
+   "romaji": "oki ni",
+   "meaning": "repeated at intervals, every",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%8a%e3%81%8d%e3%81%ab-oki-ni/"
+  },
+  {
+   "pattern": "おわる",
+   "romaji": "owaru",
+   "meaning": "to finish, to end",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%8a%e3%82%8f%e3%82%8b-owaru/"
+  },
+  {
+   "pattern": "らしい",
+   "romaji": "rashii",
+   "meaning": "seems like",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-47/"
+  },
+  {
+   "pattern": "さ",
+   "romaji": "sa",
+   "meaning": "(nominalizer for adjectives)",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%95-sa/"
+  },
+  {
+   "pattern": "させる",
+   "romaji": "saseru",
+   "meaning": "to make/let somebody do something",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%95%e3%81%9b%e3%82%8b-saseru/"
+  },
+  {
+   "pattern": "させられる",
+   "romaji": "saserareru",
+   "meaning": "to be made to do something",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%95%e3%81%9b%e3%82%89%e3%82%8c%e3%82%8b-saserareru/"
+  },
+  {
+   "pattern": "し",
+   "romaji": "shi",
+   "meaning": "and",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-33/"
+  },
+  {
+   "pattern": "しか～ない",
+   "romaji": "shika~nai",
+   "meaning": "only, nothing but",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-39/"
+  },
+  {
+   "pattern": "そんなに",
+   "romaji": "sonna ni",
+   "meaning": "so, so much, like that",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%9d%e3%82%93%e3%81%aa%e3%81%ab-sonna-ni/"
+  },
+  {
+   "pattern": "それでも",
+   "romaji": "sore demo",
+   "meaning": "but still, and yet",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%9d%e3%82%8c%e3%81%a7%e3%82%82-sore-demo/"
+  },
+  {
+   "pattern": "そうに/そうな",
+   "romaji": "sou ni/sou na",
+   "meaning": "seem, look like",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%9d%e3%81%86%e3%81%ab-%e3%81%9d%e3%81%86%e3%81%aa-sou-ni-sou-na/"
+  },
+  {
+   "pattern": "すぎる",
+   "romaji": "sugiru",
+   "meaning": "too much",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-3/"
+  },
+  {
+   "pattern": "たばかり",
+   "romaji": "ta bakari",
+   "meaning": "just did, something just happened",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%9f%e3%81%b0%e3%81%8b%e3%82%8a-ta-bakari/"
+  },
+  {
+   "pattern": "たがる",
+   "romaji": "tagaru",
+   "meaning": "to want to",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-35/"
+  },
+  {
+   "pattern": "たら",
+   "romaji": "tara",
+   "meaning": "if, after, when",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%9f%e3%82%89-tara/"
+  },
+  {
+   "pattern": "たらどう",
+   "romaji": "tara dou",
+   "meaning": "why don’t you",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-37/"
+  },
+  {
+   "pattern": "たり～たり",
+   "romaji": "tari~tari",
+   "meaning": "do such things like",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%9f%e3%82%8a%ef%bd%9e%e3%81%9f%e3%82%8a-taritari/"
+  },
+  {
+   "pattern": "たところ",
+   "romaji": "ta tokoro",
+   "meaning": "just finished doing, was just doing",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%9f%e3%81%a8%e3%81%93%e3%82%8d-ta-tokoro/"
+  },
+  {
+   "pattern": "てあげる",
+   "romaji": "te ageru",
+   "meaning": "to do something for someone",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a6%e3%81%82%e3%81%92%e3%82%8b-te-ageru/"
+  },
+  {
+   "pattern": "てある",
+   "romaji": "te aru",
+   "meaning": "something is/has been done",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a6%e3%81%82%e3%82%8b-te-aru/"
+  },
+  {
+   "pattern": "てほしい",
+   "romaji": "te hoshii",
+   "meaning": "I need you to",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-41/"
+  },
+  {
+   "pattern": "ていく",
+   "romaji": "te iku",
+   "meaning": "to go on, to start",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a6%e3%81%84%e3%81%8f-te-iku/"
+  },
+  {
+   "pattern": "ているところ",
+   "romaji": "teiru tokoro",
+   "meaning": "in the process of doing",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a6%e3%81%84%e3%82%8b%e3%81%a8%e3%81%93%e3%82%8d-teiru-tokoro/"
+  },
+  {
+   "pattern": "ていただけませんか",
+   "romaji": "te itadakemasen ka",
+   "meaning": "could you please",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a6%e3%81%84%e3%81%9f%e3%81%a0%e3%81%91%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b-te-itadakemasen-ka/"
+  },
+  {
+   "pattern": "てくれる",
+   "romaji": "te kureru",
+   "meaning": "to do something for someone",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a6%e3%81%8f%e3%82%8c%e3%82%8b-te-kureru/"
+  },
+  {
+   "pattern": "てくる",
+   "romaji": "te kuru",
+   "meaning": "to come to, to become, to continue",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a6%e3%81%8f%e3%82%8b-te-kuru/"
+  },
+  {
+   "pattern": "てみる",
+   "romaji": "te miru",
+   "meaning": "to try to",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-34/"
+  },
+  {
+   "pattern": "ても",
+   "romaji": "temo",
+   "meaning": "even if, even though",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a6%e3%82%82-temo/"
+  },
+  {
+   "pattern": "てもらう",
+   "romaji": "te morau",
+   "meaning": "to get somebody to do something",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a6%e3%82%82%e3%82%89%e3%81%86-te-morau/"
+  },
+  {
+   "pattern": "ておく",
+   "romaji": "te oku",
+   "meaning": "to do something in advance",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-42/"
+  },
+  {
+   "pattern": "てしまう",
+   "romaji": "te shimau",
+   "meaning": "to do something by accident, to finish completely",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a6%e3%81%97%e3%81%be%e3%81%86-te-shimau/"
+  },
+  {
+   "pattern": "てすみません",
+   "romaji": "te sumimasen",
+   "meaning": "I’m sorry for",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-40/"
+  },
+  {
+   "pattern": "てよかった",
+   "romaji": "te yokatta",
+   "meaning": "I’m glad that",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a6%e3%82%88%e3%81%8b%e3%81%a3%e3%81%9f-te-yokatta/"
+  },
+  {
+   "pattern": "と",
+   "romaji": "to",
+   "meaning": "if, when, and",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a8-to-2/"
+  },
+  {
+   "pattern": "ということ",
+   "romaji": "to iu koto",
+   "meaning": "(changes a sentence or phrase into a Noun)",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a8%e3%81%84%e3%81%86%e3%81%93%e3%81%a8-to-iu-koto/"
+  },
+  {
+   "pattern": "とか～とか",
+   "romaji": "toka ~ toka",
+   "meaning": "among other things, such as",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a8%e3%81%8b%ef%bd%9e%e3%81%a8%e3%81%8b-tokatoka/"
+  },
+  {
+   "pattern": "とき",
+   "romaji": "toki",
+   "meaning": "when, at the time",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a8%e3%81%8d-toki/"
+  },
+  {
+   "pattern": "ところ",
+   "romaji": "tokoro",
+   "meaning": "about to, on the verge of",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a8%e3%81%93%e3%82%8d-tokoro/"
+  },
+  {
+   "pattern": "とおもう",
+   "romaji": "to omou",
+   "meaning": "I think, you think",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a8%e3%81%8a%e3%82%82%e3%81%86-to-omou/"
+  },
+  {
+   "pattern": "つづける",
+   "romaji": "tsuzukeru",
+   "meaning": "to continue",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%a4%e3%81%a5%e3%81%91%e3%82%8b-tsuzukeru/"
+  },
+  {
+   "pattern": "やすい",
+   "romaji": "yasui",
+   "meaning": "easy to, likely to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%82%84%e3%81%99%e3%81%84-yasui/"
+  },
+  {
+   "pattern": "より",
+   "romaji": "yori",
+   "meaning": "than",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%82%88%e3%82%8a-yori/"
+  },
+  {
+   "pattern": "よていだ",
+   "romaji": "yotei da",
+   "meaning": "plan to, intend to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%82%88%e3%81%a6%e3%81%84%e3%81%a0-yotei-da/"
+  },
+  {
+   "pattern": "ようだ",
+   "romaji": "you da",
+   "meaning": "it seems that, it appears that, it looks like",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n3-grammar-%e3%82%88%e3%81%86%e3%81%a0-you-da/"
+  },
+  {
+   "pattern": "ように/ような",
+   "romaji": "you ni/you na",
+   "meaning": "as, like, just like",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%82%88%e3%81%86%e3%81%ab%e3%82%88%e3%81%86%e3%81%aa/"
+  },
+  {
+   "pattern": "ようになる",
+   "romaji": "you ni naru",
+   "meaning": "to reach the point that",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%82%8b-you-ni-naru/"
+  },
+  {
+   "pattern": "ようにする",
+   "romaji": "you ni suru",
+   "meaning": "to try to, to make sure that",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n3-grammar-%e3%82%88%e3%81%86%e3%81%ab%e3%81%99%e3%82%8b-you-ni-suru/"
+  },
+  {
+   "pattern": "ようとおもう",
+   "romaji": "you to omou",
+   "meaning": "I think I will",
+   "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-44/"
+  },
+  {
+   "pattern": "ぜんぜん",
+   "romaji": "zenzen",
+   "meaning": "(not) at all",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%81%9c%e3%82%93%e3%81%9c%e3%82%93-zenzen/"
+  }
+ ]
+}

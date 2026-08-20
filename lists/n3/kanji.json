@@ -1,0 +1,2228 @@
+{
+ "level": "N3",
+ "kind": "kanji",
+ "count": 370,
+ "source_url": "https://japanesetest4you.com/jlpt-n3-kanji-list/",
+ "items": [
+  {
+   "jp": "愛",
+   "romaji": "ai",
+   "meaning": "love, affection",
+   "url": ""
+  },
+  {
+   "jp": "暗",
+   "romaji": "an",
+   "meaning": "darkness, shade",
+   "url": ""
+  },
+  {
+   "jp": "馬",
+   "romaji": "ba",
+   "meaning": "horse",
+   "url": ""
+  },
+  {
+   "jp": "番",
+   "romaji": "ban",
+   "meaning": "turn, number in a series",
+   "url": ""
+  },
+  {
+   "jp": "晩",
+   "romaji": "ban",
+   "meaning": "nightfall, night",
+   "url": ""
+  },
+  {
+   "jp": "抜",
+   "romaji": "batsu",
+   "meaning": "slip out, extract",
+   "url": ""
+  },
+  {
+   "jp": "米",
+   "romaji": "bei",
+   "meaning": "rice, metre",
+   "url": ""
+  },
+  {
+   "jp": "便",
+   "romaji": "ben",
+   "meaning": "convenience, excrement",
+   "url": ""
+  },
+  {
+   "jp": "備",
+   "romaji": "bi",
+   "meaning": "equip, preparation",
+   "url": ""
+  },
+  {
+   "jp": "美",
+   "romaji": "bi",
+   "meaning": "beauty, beautiful",
+   "url": ""
+  },
+  {
+   "jp": "暮",
+   "romaji": "bo",
+   "meaning": "evening, livelihood",
+   "url": ""
+  },
+  {
+   "jp": "望",
+   "romaji": "bou",
+   "meaning": "ambition, hope, desire",
+   "url": ""
+  },
+  {
+   "jp": "亡",
+   "romaji": "bou",
+   "meaning": "deceased, dying",
+   "url": ""
+  },
+  {
+   "jp": "忘",
+   "romaji": "bou",
+   "meaning": "forget",
+   "url": ""
+  },
+  {
+   "jp": "忙",
+   "romaji": "bou",
+   "meaning": "busy, occupied",
+   "url": ""
+  },
+  {
+   "jp": "部",
+   "romaji": "bu",
+   "meaning": "section, portion",
+   "url": ""
+  },
+  {
+   "jp": "舞",
+   "romaji": "bu",
+   "meaning": "dance, flit, circle",
+   "url": ""
+  },
+  {
+   "jp": "猫",
+   "romaji": "byou",
+   "meaning": "cat",
+   "url": ""
+  },
+  {
+   "jp": "置",
+   "romaji": "chi",
+   "meaning": "placement, put, set",
+   "url": ""
+  },
+  {
+   "jp": "値",
+   "romaji": "chi",
+   "meaning": "price, cost, value",
+   "url": ""
+  },
+  {
+   "jp": "遅",
+   "romaji": "chi",
+   "meaning": "slow, late, back",
+   "url": ""
+  },
+  {
+   "jp": "恥",
+   "romaji": "chi",
+   "meaning": "shame, dishonor",
+   "url": ""
+  },
+  {
+   "jp": "直",
+   "romaji": "choku",
+   "meaning": "straightaway, repair",
+   "url": ""
+  },
+  {
+   "jp": "調",
+   "romaji": "chou",
+   "meaning": "tune, investigate",
+   "url": ""
+  },
+  {
+   "jp": "頂",
+   "romaji": "chou",
+   "meaning": "top, summit, peak",
+   "url": ""
+  },
+  {
+   "jp": "打",
+   "romaji": "da",
+   "meaning": "strike, hit, knock",
+   "url": ""
+  },
+  {
+   "jp": "談",
+   "romaji": "dan",
+   "meaning": "discuss, talk",
+   "url": ""
+  },
+  {
+   "jp": "断",
+   "romaji": "dan",
+   "meaning": "severance, refuse",
+   "url": ""
+  },
+  {
+   "jp": "段",
+   "romaji": "dan",
+   "meaning": "grade, steps, stairs",
+   "url": ""
+  },
+  {
+   "jp": "伝",
+   "romaji": "den",
+   "meaning": "transmit, report",
+   "url": ""
+  },
+  {
+   "jp": "努",
+   "romaji": "do",
+   "meaning": "toil, digilent",
+   "url": ""
+  },
+  {
+   "jp": "怒",
+   "romaji": "do",
+   "meaning": "angry, be offended",
+   "url": ""
+  },
+  {
+   "jp": "働",
+   "romaji": "dou",
+   "meaning": "work",
+   "url": ""
+  },
+  {
+   "jp": "泳",
+   "romaji": "ei",
+   "meaning": "swim",
+   "url": ""
+  },
+  {
+   "jp": "易",
+   "romaji": "eki",
+   "meaning": "easy, simple",
+   "url": ""
+  },
+  {
+   "jp": "演",
+   "romaji": "en",
+   "meaning": "performance, act, stage",
+   "url": ""
+  },
+  {
+   "jp": "園",
+   "romaji": "en",
+   "meaning": "park, garden, yard",
+   "url": ""
+  },
+  {
+   "jp": "俺",
+   "romaji": "en",
+   "meaning": "I, myself",
+   "url": ""
+  },
+  {
+   "jp": "遠",
+   "romaji": "en",
+   "meaning": "distant, far",
+   "url": ""
+  },
+  {
+   "jp": "煙",
+   "romaji": "en",
+   "meaning": "smoke",
+   "url": ""
+  },
+  {
+   "jp": "越",
+   "romaji": "etsu",
+   "meaning": "surpass, cross over",
+   "url": ""
+  },
+  {
+   "jp": "付",
+   "romaji": "fu",
+   "meaning": "adhere, attach, append",
+   "url": ""
+  },
+  {
+   "jp": "夫",
+   "romaji": "fu",
+   "meaning": "husband, man",
+   "url": ""
+  },
+  {
+   "jp": "負",
+   "romaji": "fu",
+   "meaning": "defeat, negative",
+   "url": ""
+  },
+  {
+   "jp": "富",
+   "romaji": "fu",
+   "meaning": "wealth, enrich, abundant",
+   "url": ""
+  },
+  {
+   "jp": "婦",
+   "romaji": "fu",
+   "meaning": "lady, woman, wife",
+   "url": ""
+  },
+  {
+   "jp": "浮",
+   "romaji": "fu",
+   "meaning": "floating, float",
+   "url": ""
+  },
+  {
+   "jp": "怖",
+   "romaji": "fu",
+   "meaning": "dreadful, fearful",
+   "url": ""
+  },
+  {
+   "jp": "福",
+   "romaji": "fuku",
+   "meaning": "blessing, fortune",
+   "url": ""
+  },
+  {
+   "jp": "腹",
+   "romaji": "fuku",
+   "meaning": "abdomen, belly",
+   "url": ""
+  },
+  {
+   "jp": "払",
+   "romaji": "futsu",
+   "meaning": "pay, clear out, banish",
+   "url": ""
+  },
+  {
+   "jp": "害",
+   "romaji": "gai",
+   "meaning": "harm, injury",
+   "url": ""
+  },
+  {
+   "jp": "顔",
+   "romaji": "gan",
+   "meaning": "face, expression",
+   "url": ""
+  },
+  {
+   "jp": "願",
+   "romaji": "gan",
+   "meaning": "petition, request, vow",
+   "url": ""
+  },
+  {
+   "jp": "迎",
+   "romaji": "gei",
+   "meaning": "welcome, meeet, greet",
+   "url": ""
+  },
+  {
+   "jp": "現",
+   "romaji": "gen",
+   "meaning": "present, existing",
+   "url": ""
+  },
+  {
+   "jp": "原",
+   "romaji": "gen",
+   "meaning": "meadow, primitive",
+   "url": ""
+  },
+  {
+   "jp": "限",
+   "romaji": "gen",
+   "meaning": "limit, restrict",
+   "url": ""
+  },
+  {
+   "jp": "議",
+   "romaji": "gi",
+   "meaning": "deliberation, debate",
+   "url": ""
+  },
+  {
+   "jp": "疑",
+   "romaji": "gi",
+   "meaning": "doubt, distrust",
+   "url": ""
+  },
+  {
+   "jp": "互",
+   "romaji": "go",
+   "meaning": "mutually, together",
+   "url": ""
+  },
+  {
+   "jp": "誤",
+   "romaji": "go",
+   "meaning": "mistake, err, mislead",
+   "url": ""
+  },
+  {
+   "jp": "合",
+   "romaji": "gou",
+   "meaning": "fit, suit",
+   "url": ""
+  },
+  {
+   "jp": "号",
+   "romaji": "gou",
+   "meaning": "number, nickname",
+   "url": ""
+  },
+  {
+   "jp": "具",
+   "romaji": "gu",
+   "meaning": "tool, utensil, means",
+   "url": ""
+  },
+  {
+   "jp": "偶",
+   "romaji": "guu",
+   "meaning": "accidentally",
+   "url": ""
+  },
+  {
+   "jp": "御",
+   "romaji": "gyo",
+   "meaning": "honorable, manipulate",
+   "url": ""
+  },
+  {
+   "jp": "破",
+   "romaji": "ha",
+   "meaning": "rip, tear, destroy",
+   "url": ""
+  },
+  {
+   "jp": "配",
+   "romaji": "hai",
+   "meaning": "distribute, rationing",
+   "url": ""
+  },
+  {
+   "jp": "敗",
+   "romaji": "hai",
+   "meaning": "failure, defeat",
+   "url": ""
+  },
+  {
+   "jp": "背",
+   "romaji": "hai",
+   "meaning": "stature, height",
+   "url": ""
+  },
+  {
+   "jp": "杯",
+   "romaji": "hai",
+   "meaning": "glass, toast",
+   "url": ""
+  },
+  {
+   "jp": "反",
+   "romaji": "han",
+   "meaning": "anti-",
+   "url": ""
+  },
+  {
+   "jp": "判",
+   "romaji": "han",
+   "meaning": "judgement, seal",
+   "url": ""
+  },
+  {
+   "jp": "犯",
+   "romaji": "han",
+   "meaning": "crime, sin, offense",
+   "url": ""
+  },
+  {
+   "jp": "平",
+   "romaji": "hei",
+   "meaning": "even, flat, peace",
+   "url": ""
+  },
+  {
+   "jp": "閉",
+   "romaji": "hei",
+   "meaning": "closed, shut",
+   "url": ""
+  },
+  {
+   "jp": "変",
+   "romaji": "hen",
+   "meaning": "change, strange",
+   "url": ""
+  },
+  {
+   "jp": "返",
+   "romaji": "hen",
+   "meaning": "return, answer, repay",
+   "url": ""
+  },
+  {
+   "jp": "費",
+   "romaji": "hi",
+   "meaning": "expense, cost, spend",
+   "url": ""
+  },
+  {
+   "jp": "非",
+   "romaji": "hi",
+   "meaning": "un-, non-, negative",
+   "url": ""
+  },
+  {
+   "jp": "否",
+   "romaji": "hi",
+   "meaning": "negate, no, decline",
+   "url": ""
+  },
+  {
+   "jp": "飛",
+   "romaji": "hi",
+   "meaning": "fly, skip, scatter",
+   "url": ""
+  },
+  {
+   "jp": "彼",
+   "romaji": "hi",
+   "meaning": "he, that, the",
+   "url": ""
+  },
+  {
+   "jp": "悲",
+   "romaji": "hi",
+   "meaning": "grieve, sad, regret",
+   "url": ""
+  },
+  {
+   "jp": "疲",
+   "romaji": "hi",
+   "meaning": "exhausted, tire, weary",
+   "url": ""
+  },
+  {
+   "jp": "貧",
+   "romaji": "hin",
+   "meaning": "poverty, poor",
+   "url": ""
+  },
+  {
+   "jp": "必",
+   "romaji": "hitsu",
+   "meaning": "inevitable, certain",
+   "url": ""
+  },
+  {
+   "jp": "捕",
+   "romaji": "ho",
+   "meaning": "catch, capture",
+   "url": ""
+  },
+  {
+   "jp": "法",
+   "romaji": "hou",
+   "meaning": "method, law, rule",
+   "url": ""
+  },
+  {
+   "jp": "報",
+   "romaji": "hou",
+   "meaning": "report, news, reward",
+   "url": ""
+  },
+  {
+   "jp": "放",
+   "romaji": "hou",
+   "meaning": "set free, release",
+   "url": ""
+  },
+  {
+   "jp": "訪",
+   "romaji": "hou",
+   "meaning": "call on, visit, look up",
+   "url": ""
+  },
+  {
+   "jp": "抱",
+   "romaji": "hou",
+   "meaning": "embrace, hug",
+   "url": ""
+  },
+  {
+   "jp": "表",
+   "romaji": "hyou",
+   "meaning": "surface, chart",
+   "url": ""
+  },
+  {
+   "jp": "位",
+   "romaji": "i",
+   "meaning": "rank, grade, throne",
+   "url": ""
+  },
+  {
+   "jp": "違",
+   "romaji": "i",
+   "meaning": "difference, differ",
+   "url": ""
+  },
+  {
+   "jp": "偉",
+   "romaji": "i",
+   "meaning": "admirable, greatness",
+   "url": ""
+  },
+  {
+   "jp": "育",
+   "romaji": "iku",
+   "meaning": "bring up, grow up",
+   "url": ""
+  },
+  {
+   "jp": "引",
+   "romaji": "in",
+   "meaning": "pull, admit, quote",
+   "url": ""
+  },
+  {
+   "jp": "因",
+   "romaji": "in",
+   "meaning": "cause, factor, depend on",
+   "url": ""
+  },
+  {
+   "jp": "若",
+   "romaji": "jaku",
+   "meaning": "young, immature",
+   "url": ""
+  },
+  {
+   "jp": "治",
+   "romaji": "ji",
+   "meaning": "reign, cure, heal",
+   "url": ""
+  },
+  {
+   "jp": "次",
+   "romaji": "ji",
+   "meaning": "next, sequence",
+   "url": ""
+  },
+  {
+   "jp": "示",
+   "romaji": "ji",
+   "meaning": "show, indicate, display",
+   "url": ""
+  },
+  {
+   "jp": "辞",
+   "romaji": "ji",
+   "meaning": "resign, expression",
+   "url": ""
+  },
+  {
+   "jp": "似",
+   "romaji": "ji",
+   "meaning": "resemble, imitate",
+   "url": ""
+  },
+  {
+   "jp": "耳",
+   "romaji": "ji",
+   "meaning": "ear",
+   "url": ""
+  },
+  {
+   "jp": "実",
+   "romaji": "jitsu",
+   "meaning": "reality, truth",
+   "url": ""
+  },
+  {
+   "jp": "助",
+   "romaji": "jo",
+   "meaning": "help, assist, rescue",
+   "url": ""
+  },
+  {
+   "jp": "除",
+   "romaji": "jo",
+   "meaning": "exclude, remove, cancel",
+   "url": ""
+  },
+  {
+   "jp": "情",
+   "romaji": "jou",
+   "meaning": "feelings, emotion",
+   "url": ""
+  },
+  {
+   "jp": "常",
+   "romaji": "jou",
+   "meaning": "usual, ordinary, normal",
+   "url": ""
+  },
+  {
+   "jp": "状",
+   "romaji": "jou",
+   "meaning": "status quo, conditions",
+   "url": ""
+  },
+  {
+   "jp": "乗",
+   "romaji": "jou",
+   "meaning": "ride, board",
+   "url": ""
+  },
+  {
+   "jp": "娘",
+   "romaji": "jou",
+   "meaning": "daughter, girl",
+   "url": ""
+  },
+  {
+   "jp": "受",
+   "romaji": "ju",
+   "meaning": "accept, take, get",
+   "url": ""
+  },
+  {
+   "jp": "術",
+   "romaji": "jutsu",
+   "meaning": "art, technique, skill",
+   "url": ""
+  },
+  {
+   "jp": "化",
+   "romaji": "ka",
+   "meaning": "change, -ization",
+   "url": ""
+  },
+  {
+   "jp": "加",
+   "romaji": "ka",
+   "meaning": "add, addition",
+   "url": ""
+  },
+  {
+   "jp": "過",
+   "romaji": "ka",
+   "meaning": "overdo, exceed, error",
+   "url": ""
+  },
+  {
+   "jp": "果",
+   "romaji": "ka",
+   "meaning": "fruit, achieve, finish",
+   "url": ""
+  },
+  {
+   "jp": "科",
+   "romaji": "ka",
+   "meaning": "department, course",
+   "url": ""
+  },
+  {
+   "jp": "靴",
+   "romaji": "ka",
+   "meaning": "shoes",
+   "url": ""
+  },
+  {
+   "jp": "回",
+   "romaji": "kai",
+   "meaning": "-times, round",
+   "url": ""
+  },
+  {
+   "jp": "絵",
+   "romaji": "kai",
+   "meaning": "picture, drawing",
+   "url": ""
+  },
+  {
+   "jp": "解",
+   "romaji": "kai",
+   "meaning": "explanation, solve",
+   "url": ""
+  },
+  {
+   "jp": "掛",
+   "romaji": "kai",
+   "meaning": "hang, suspend",
+   "url": ""
+  },
+  {
+   "jp": "皆",
+   "romaji": "kai",
+   "meaning": "all, everything",
+   "url": ""
+  },
+  {
+   "jp": "確",
+   "romaji": "kaku",
+   "meaning": "assurance, firm, clear",
+   "url": ""
+  },
+  {
+   "jp": "格",
+   "romaji": "kaku",
+   "meaning": "status, character",
+   "url": ""
+  },
+  {
+   "jp": "覚",
+   "romaji": "kaku",
+   "meaning": "memorize, remember",
+   "url": ""
+  },
+  {
+   "jp": "関",
+   "romaji": "kan",
+   "meaning": "connection, involve",
+   "url": ""
+  },
+  {
+   "jp": "官",
+   "romaji": "kan",
+   "meaning": "bureaucrat, organ",
+   "url": ""
+  },
+  {
+   "jp": "感",
+   "romaji": "kan",
+   "meaning": "emotion, feeling",
+   "url": ""
+  },
+  {
+   "jp": "観",
+   "romaji": "kan",
+   "meaning": "outlook, appearance",
+   "url": ""
+  },
+  {
+   "jp": "完",
+   "romaji": "kan",
+   "meaning": "perfect, completion",
+   "url": ""
+  },
+  {
+   "jp": "慣",
+   "romaji": "kan",
+   "meaning": "accustomed, get used to",
+   "url": ""
+  },
+  {
+   "jp": "寒",
+   "romaji": "kan",
+   "meaning": "cold",
+   "url": ""
+  },
+  {
+   "jp": "活",
+   "romaji": "katsu",
+   "meaning": "lively, living",
+   "url": ""
+  },
+  {
+   "jp": "割",
+   "romaji": "katsu",
+   "meaning": "proportion, divide",
+   "url": ""
+  },
+  {
+   "jp": "髪",
+   "romaji": "katsu",
+   "meaning": "hair of the head",
+   "url": ""
+  },
+  {
+   "jp": "経",
+   "romaji": "kei",
+   "meaning": "pass thru, longtitude",
+   "url": ""
+  },
+  {
+   "jp": "係",
+   "romaji": "kei",
+   "meaning": "person in charge, connection",
+   "url": ""
+  },
+  {
+   "jp": "警",
+   "romaji": "kei",
+   "meaning": "admonish, commandment",
+   "url": ""
+  },
+  {
+   "jp": "形",
+   "romaji": "kei",
+   "meaning": "shape, form, style",
+   "url": ""
+  },
+  {
+   "jp": "景",
+   "romaji": "kei",
+   "meaning": "scenery, view",
+   "url": ""
+  },
+  {
+   "jp": "権",
+   "romaji": "ken",
+   "meaning": "authority, power",
+   "url": ""
+  },
+  {
+   "jp": "件",
+   "romaji": "ken",
+   "meaning": "affair, case, matter",
+   "url": ""
+  },
+  {
+   "jp": "険",
+   "romaji": "ken",
+   "meaning": "precipitous",
+   "url": ""
+  },
+  {
+   "jp": "決",
+   "romaji": "ketsu",
+   "meaning": "decide, agree upon",
+   "url": ""
+  },
+  {
+   "jp": "欠",
+   "romaji": "ketsu",
+   "meaning": "lack, gap, fail",
+   "url": ""
+  },
+  {
+   "jp": "期",
+   "romaji": "ki",
+   "meaning": "period, time, term",
+   "url": ""
+  },
+  {
+   "jp": "機",
+   "romaji": "ki",
+   "meaning": "mechanism, machine",
+   "url": ""
+  },
+  {
+   "jp": "記",
+   "romaji": "ki",
+   "meaning": "scribe, narrative",
+   "url": ""
+  },
+  {
+   "jp": "規",
+   "romaji": "ki",
+   "meaning": "standard, measure",
+   "url": ""
+  },
+  {
+   "jp": "危",
+   "romaji": "ki",
+   "meaning": "dangerous, fear, uneasy",
+   "url": ""
+  },
+  {
+   "jp": "寄",
+   "romaji": "ki",
+   "meaning": "draw near, gather",
+   "url": ""
+  },
+  {
+   "jp": "喜",
+   "romaji": "ki",
+   "meaning": "rejoice, take pleasure in",
+   "url": ""
+  },
+  {
+   "jp": "幾",
+   "romaji": "ki",
+   "meaning": "how many, how much",
+   "url": ""
+  },
+  {
+   "jp": "勤",
+   "romaji": "kin",
+   "meaning": "diligence, serve",
+   "url": ""
+  },
+  {
+   "jp": "呼",
+   "romaji": "ko",
+   "meaning": "call, call out to",
+   "url": ""
+  },
+  {
+   "jp": "告",
+   "romaji": "koku",
+   "meaning": "revelation, tell",
+   "url": ""
+  },
+  {
+   "jp": "刻",
+   "romaji": "koku",
+   "meaning": "engrave, carving",
+   "url": ""
+  },
+  {
+   "jp": "込",
+   "romaji": "komi",
+   "meaning": "crowded, mixture",
+   "url": ""
+  },
+  {
+   "jp": "婚",
+   "romaji": "kon",
+   "meaning": "marriage",
+   "url": ""
+  },
+  {
+   "jp": "困",
+   "romaji": "kon",
+   "meaning": "become distressed",
+   "url": ""
+  },
+  {
+   "jp": "交",
+   "romaji": "kou",
+   "meaning": "mingle, mixing",
+   "url": ""
+  },
+  {
+   "jp": "向",
+   "romaji": "kou",
+   "meaning": "yonder, facing",
+   "url": ""
+  },
+  {
+   "jp": "構",
+   "romaji": "kou",
+   "meaning": "posture, build",
+   "url": ""
+  },
+  {
+   "jp": "好",
+   "romaji": "kou",
+   "meaning": "fond, pleasing",
+   "url": ""
+  },
+  {
+   "jp": "港",
+   "romaji": "kou",
+   "meaning": "harbor",
+   "url": ""
+  },
+  {
+   "jp": "候",
+   "romaji": "kou",
+   "meaning": "climate, season",
+   "url": ""
+  },
+  {
+   "jp": "光",
+   "romaji": "kou",
+   "meaning": "ray, light",
+   "url": ""
+  },
+  {
+   "jp": "降",
+   "romaji": "kou",
+   "meaning": "descend, fall",
+   "url": ""
+  },
+  {
+   "jp": "幸",
+   "romaji": "kou",
+   "meaning": "happiness, blessing",
+   "url": ""
+  },
+  {
+   "jp": "更",
+   "romaji": "kou",
+   "meaning": "grow late, renew",
+   "url": ""
+  },
+  {
+   "jp": "苦",
+   "romaji": "ku",
+   "meaning": "suffering, trial, worry",
+   "url": ""
+  },
+  {
+   "jp": "君",
+   "romaji": "kun",
+   "meaning": "mister, you, ruler",
+   "url": ""
+  },
+  {
+   "jp": "客",
+   "romaji": "kyaku",
+   "meaning": "guest, visitor",
+   "url": ""
+  },
+  {
+   "jp": "許",
+   "romaji": "kyo",
+   "meaning": "permit, approve",
+   "url": ""
+  },
+  {
+   "jp": "居",
+   "romaji": "kyo",
+   "meaning": "reside, to be, exist",
+   "url": ""
+  },
+  {
+   "jp": "局",
+   "romaji": "kyoku",
+   "meaning": "bureau, office",
+   "url": ""
+  },
+  {
+   "jp": "曲",
+   "romaji": "kyoku",
+   "meaning": "bend, music, melody",
+   "url": ""
+  },
+  {
+   "jp": "共",
+   "romaji": "kyou",
+   "meaning": "together, both",
+   "url": ""
+  },
+  {
+   "jp": "供",
+   "romaji": "kyou",
+   "meaning": "submit, offer",
+   "url": ""
+  },
+  {
+   "jp": "恐",
+   "romaji": "kyou",
+   "meaning": "fear, dread, awe",
+   "url": ""
+  },
+  {
+   "jp": "求",
+   "romaji": "kyuu",
+   "meaning": "request, demand",
+   "url": ""
+  },
+  {
+   "jp": "球",
+   "romaji": "kyuu",
+   "meaning": "ball, sphere",
+   "url": ""
+  },
+  {
+   "jp": "給",
+   "romaji": "kyuu",
+   "meaning": "salary, wage, grant",
+   "url": ""
+  },
+  {
+   "jp": "吸",
+   "romaji": "kyuu",
+   "meaning": "suck, inhale, sip",
+   "url": ""
+  },
+  {
+   "jp": "満",
+   "romaji": "man",
+   "meaning": "full, enough, satisfy",
+   "url": ""
+  },
+  {
+   "jp": "末",
+   "romaji": "matsu",
+   "meaning": "end, close, tip",
+   "url": ""
+  },
+  {
+   "jp": "命",
+   "romaji": "mei",
+   "meaning": "fate, destiny, life",
+   "url": ""
+  },
+  {
+   "jp": "迷",
+   "romaji": "mei",
+   "meaning": "astray, in doubt, lost",
+   "url": ""
+  },
+  {
+   "jp": "鳴",
+   "romaji": "mei",
+   "meaning": "chirp, cry, bark, echo",
+   "url": ""
+  },
+  {
+   "jp": "面",
+   "romaji": "men",
+   "meaning": "mask, face, features",
+   "url": ""
+  },
+  {
+   "jp": "未",
+   "romaji": "mi",
+   "meaning": "un-, not yet, still",
+   "url": ""
+  },
+  {
+   "jp": "民",
+   "romaji": "min",
+   "meaning": "people, nation",
+   "url": ""
+  },
+  {
+   "jp": "眠",
+   "romaji": "min",
+   "meaning": "sleep, die, sleepy",
+   "url": ""
+  },
+  {
+   "jp": "務",
+   "romaji": "mu",
+   "meaning": "task, duties",
+   "url": ""
+  },
+  {
+   "jp": "夢",
+   "romaji": "mu",
+   "meaning": "dream, vision, illusion",
+   "url": ""
+  },
+  {
+   "jp": "内",
+   "romaji": "nai",
+   "meaning": "inside, within",
+   "url": ""
+  },
+  {
+   "jp": "難",
+   "romaji": "nan",
+   "meaning": "difficult, trouble",
+   "url": ""
+  },
+  {
+   "jp": "念",
+   "romaji": "nen",
+   "meaning": "wish, sense, thought",
+   "url": ""
+  },
+  {
+   "jp": "熱",
+   "romaji": "netsu",
+   "meaning": "heat, temperature",
+   "url": ""
+  },
+  {
+   "jp": "認",
+   "romaji": "nin",
+   "meaning": "acknowledge, discern",
+   "url": ""
+  },
+  {
+   "jp": "任",
+   "romaji": "nin",
+   "meaning": "responsibility, duty",
+   "url": ""
+  },
+  {
+   "jp": "能",
+   "romaji": "nou",
+   "meaning": "ability, talent, skill",
+   "url": ""
+  },
+  {
+   "jp": "横",
+   "romaji": "ou",
+   "meaning": "sideways, horizontal",
+   "url": ""
+  },
+  {
+   "jp": "王",
+   "romaji": "ou",
+   "meaning": "king, rule, magnate",
+   "url": ""
+  },
+  {
+   "jp": "押",
+   "romaji": "ou",
+   "meaning": "push, stop, seize",
+   "url": ""
+  },
+  {
+   "jp": "頼",
+   "romaji": "rai",
+   "meaning": "trust, request",
+   "url": ""
+  },
+  {
+   "jp": "落",
+   "romaji": "raku",
+   "meaning": "fall, drop, come down",
+   "url": ""
+  },
+  {
+   "jp": "例",
+   "romaji": "rei",
+   "meaning": "example, precedent",
+   "url": ""
+  },
+  {
+   "jp": "冷",
+   "romaji": "rei",
+   "meaning": "cool, cold, chill",
+   "url": ""
+  },
+  {
+   "jp": "戻",
+   "romaji": "rei",
+   "meaning": "re-, return, resume",
+   "url": ""
+  },
+  {
+   "jp": "礼",
+   "romaji": "rei",
+   "meaning": "salute, bow, ceremony",
+   "url": ""
+  },
+  {
+   "jp": "連",
+   "romaji": "ren",
+   "meaning": "take along, join",
+   "url": ""
+  },
+  {
+   "jp": "列",
+   "romaji": "retsu",
+   "meaning": "file, row, column",
+   "url": ""
+  },
+  {
+   "jp": "利",
+   "romaji": "ri",
+   "meaning": "profit, advantage",
+   "url": ""
+  },
+  {
+   "jp": "路",
+   "romaji": "ro",
+   "meaning": "path, route, road",
+   "url": ""
+  },
+  {
+   "jp": "論",
+   "romaji": "ron",
+   "meaning": "argument, discourse",
+   "url": ""
+  },
+  {
+   "jp": "労",
+   "romaji": "rou",
+   "meaning": "labor, toil, trouble",
+   "url": ""
+  },
+  {
+   "jp": "老",
+   "romaji": "rou",
+   "meaning": "old man, old age",
+   "url": ""
+  },
+  {
+   "jp": "類",
+   "romaji": "rui",
+   "meaning": "sort, variety, kind",
+   "url": ""
+  },
+  {
+   "jp": "両",
+   "romaji": "ryou",
+   "meaning": "both, two",
+   "url": ""
+  },
+  {
+   "jp": "良",
+   "romaji": "ryou",
+   "meaning": "good, pleasing",
+   "url": ""
+  },
+  {
+   "jp": "流",
+   "romaji": "ryuu",
+   "meaning": "current, flow",
+   "url": ""
+  },
+  {
+   "jp": "留",
+   "romaji": "ryuu",
+   "meaning": "detain, fasten, stop",
+   "url": ""
+  },
+  {
+   "jp": "差",
+   "romaji": "sa",
+   "meaning": "distinction, difference",
+   "url": ""
+  },
+  {
+   "jp": "最",
+   "romaji": "sai",
+   "meaning": "utmost, extreme",
+   "url": ""
+  },
+  {
+   "jp": "済",
+   "romaji": "sai",
+   "meaning": "settle, finish",
+   "url": ""
+  },
+  {
+   "jp": "歳",
+   "romaji": "sai",
+   "meaning": "age, occasion",
+   "url": ""
+  },
+  {
+   "jp": "際",
+   "romaji": "sai",
+   "meaning": "occasion, when, side",
+   "url": ""
+  },
+  {
+   "jp": "妻",
+   "romaji": "sai",
+   "meaning": "wife, spouse",
+   "url": ""
+  },
+  {
+   "jp": "才",
+   "romaji": "sai",
+   "meaning": "genius, years old",
+   "url": ""
+  },
+  {
+   "jp": "昨",
+   "romaji": "saku",
+   "meaning": "yesterday, previous",
+   "url": ""
+  },
+  {
+   "jp": "産",
+   "romaji": "san",
+   "meaning": "products, give birth",
+   "url": ""
+  },
+  {
+   "jp": "参",
+   "romaji": "san",
+   "meaning": "participate, visiting",
+   "url": ""
+  },
+  {
+   "jp": "散",
+   "romaji": "san",
+   "meaning": "scatter, disperse",
+   "url": ""
+  },
+  {
+   "jp": "賛",
+   "romaji": "san",
+   "meaning": "praise, agree with",
+   "url": ""
+  },
+  {
+   "jp": "察",
+   "romaji": "satsu",
+   "meaning": "guess, presume",
+   "url": ""
+  },
+  {
+   "jp": "殺",
+   "romaji": "satsu",
+   "meaning": "kill, murder, butcher",
+   "url": ""
+  },
+  {
+   "jp": "政",
+   "romaji": "sei",
+   "meaning": "politics, government",
+   "url": ""
+  },
+  {
+   "jp": "性",
+   "romaji": "sei",
+   "meaning": "sex, gender, nature",
+   "url": ""
+  },
+  {
+   "jp": "制",
+   "romaji": "sei",
+   "meaning": "system, law, rule",
+   "url": ""
+  },
+  {
+   "jp": "成",
+   "romaji": "sei",
+   "meaning": "turn into, grow",
+   "url": ""
+  },
+  {
+   "jp": "声",
+   "romaji": "sei",
+   "meaning": "voice",
+   "url": ""
+  },
+  {
+   "jp": "精",
+   "romaji": "sei",
+   "meaning": "refined, energy, skill",
+   "url": ""
+  },
+  {
+   "jp": "静",
+   "romaji": "sei",
+   "meaning": "quiet",
+   "url": ""
+  },
+  {
+   "jp": "晴",
+   "romaji": "sei",
+   "meaning": "clear up",
+   "url": ""
+  },
+  {
+   "jp": "石",
+   "romaji": "seki",
+   "meaning": "stone",
+   "url": ""
+  },
+  {
+   "jp": "席",
+   "romaji": "seki",
+   "meaning": "seat, place",
+   "url": ""
+  },
+  {
+   "jp": "積",
+   "romaji": "seki",
+   "meaning": "volume, pile up, load",
+   "url": ""
+  },
+  {
+   "jp": "責",
+   "romaji": "seki",
+   "meaning": "balem, condemn",
+   "url": ""
+  },
+  {
+   "jp": "雪",
+   "romaji": "seki",
+   "meaning": "snow",
+   "url": ""
+  },
+  {
+   "jp": "昔",
+   "romaji": "seki",
+   "meaning": "once upon a time",
+   "url": ""
+  },
+  {
+   "jp": "選",
+   "romaji": "sen",
+   "meaning": "select, choose",
+   "url": ""
+  },
+  {
+   "jp": "戦",
+   "romaji": "sen",
+   "meaning": "war, battle",
+   "url": ""
+  },
+  {
+   "jp": "船",
+   "romaji": "sen",
+   "meaning": "ship, boat",
+   "url": ""
+  },
+  {
+   "jp": "洗",
+   "romaji": "sen",
+   "meaning": "wash, inquire into",
+   "url": ""
+  },
+  {
+   "jp": "説",
+   "romaji": "setsu",
+   "meaning": "opinion, theory",
+   "url": ""
+  },
+  {
+   "jp": "折",
+   "romaji": "setsu",
+   "meaning": "fold, break, bend",
+   "url": ""
+  },
+  {
+   "jp": "市",
+   "romaji": "shi",
+   "meaning": "market, city, town",
+   "url": ""
+  },
+  {
+   "jp": "指",
+   "romaji": "shi",
+   "meaning": "finger, point to",
+   "url": ""
+  },
+  {
+   "jp": "支",
+   "romaji": "shi",
+   "meaning": "branch, support",
+   "url": ""
+  },
+  {
+   "jp": "資",
+   "romaji": "shi",
+   "meaning": "assets, resources",
+   "url": ""
+  },
+  {
+   "jp": "師",
+   "romaji": "shi",
+   "meaning": "expert, master, teacher",
+   "url": ""
+  },
+  {
+   "jp": "歯",
+   "romaji": "shi",
+   "meaning": "tooth, cog",
+   "url": ""
+  },
+  {
+   "jp": "式",
+   "romaji": "shiki",
+   "meaning": "style, ceremony, rite",
+   "url": ""
+  },
+  {
+   "jp": "識",
+   "romaji": "shiki",
+   "meaning": "discriminating, know",
+   "url": ""
+  },
+  {
+   "jp": "進",
+   "romaji": "shin",
+   "meaning": "advance, progress",
+   "url": ""
+  },
+  {
+   "jp": "神",
+   "romaji": "shin",
+   "meaning": "gods, mind, soul",
+   "url": ""
+  },
+  {
+   "jp": "信",
+   "romaji": "shin",
+   "meaning": "faith, fidelity, trust",
+   "url": ""
+  },
+  {
+   "jp": "深",
+   "romaji": "shin",
+   "meaning": "deep, strengthen",
+   "url": ""
+  },
+  {
+   "jp": "申",
+   "romaji": "shin",
+   "meaning": "have the honor to",
+   "url": ""
+  },
+  {
+   "jp": "身",
+   "romaji": "shin",
+   "meaning": "somebody, person",
+   "url": ""
+  },
+  {
+   "jp": "寝",
+   "romaji": "shin",
+   "meaning": "lie down, sleep, rest",
+   "url": ""
+  },
+  {
+   "jp": "失",
+   "romaji": "shitsu",
+   "meaning": "lose, error, fault",
+   "url": ""
+  },
+  {
+   "jp": "初",
+   "romaji": "sho",
+   "meaning": "first time, beginning",
+   "url": ""
+  },
+  {
+   "jp": "所",
+   "romaji": "sho",
+   "meaning": "place, extent",
+   "url": ""
+  },
+  {
+   "jp": "処",
+   "romaji": "sho",
+   "meaning": "dispose, deal with",
+   "url": ""
+  },
+  {
+   "jp": "緒",
+   "romaji": "sho",
+   "meaning": "thong, inception, cord",
+   "url": ""
+  },
+  {
+   "jp": "職",
+   "romaji": "shoku",
+   "meaning": "post, employment",
+   "url": ""
+  },
+  {
+   "jp": "勝",
+   "romaji": "shou",
+   "meaning": "victory, win, prevail",
+   "url": ""
+  },
+  {
+   "jp": "消",
+   "romaji": "shou",
+   "meaning": "extinguish, blow out",
+   "url": ""
+  },
+  {
+   "jp": "商",
+   "romaji": "shou",
+   "meaning": "make a deal, selling",
+   "url": ""
+  },
+  {
+   "jp": "招",
+   "romaji": "shou",
+   "meaning": "beckon, invite",
+   "url": ""
+  },
+  {
+   "jp": "笑",
+   "romaji": "shou",
+   "meaning": "laugh",
+   "url": ""
+  },
+  {
+   "jp": "首",
+   "romaji": "shu",
+   "meaning": "neck",
+   "url": ""
+  },
+  {
+   "jp": "取",
+   "romaji": "shu",
+   "meaning": "take, fetch",
+   "url": ""
+  },
+  {
+   "jp": "守",
+   "romaji": "shu",
+   "meaning": "guard, protect, obey",
+   "url": ""
+  },
+  {
+   "jp": "種",
+   "romaji": "shu",
+   "meaning": "species, kind, variety",
+   "url": ""
+  },
+  {
+   "jp": "酒",
+   "romaji": "shu",
+   "meaning": "sake, alcohol",
+   "url": ""
+  },
+  {
+   "jp": "宿",
+   "romaji": "shuku",
+   "meaning": "inn, lodging, dwell",
+   "url": ""
+  },
+  {
+   "jp": "収",
+   "romaji": "shuu",
+   "meaning": "income, obtain, pay",
+   "url": ""
+  },
+  {
+   "jp": "組",
+   "romaji": "so",
+   "meaning": "association, unite",
+   "url": ""
+  },
+  {
+   "jp": "祖",
+   "romaji": "so",
+   "meaning": "ancestor, founder",
+   "url": ""
+  },
+  {
+   "jp": "側",
+   "romaji": "soku",
+   "meaning": "side, lean, oppose",
+   "url": ""
+  },
+  {
+   "jp": "速",
+   "romaji": "soku",
+   "meaning": "quick, fast",
+   "url": ""
+  },
+  {
+   "jp": "息",
+   "romaji": "soku",
+   "meaning": "breath, respiration",
+   "url": ""
+  },
+  {
+   "jp": "束",
+   "romaji": "soku",
+   "meaning": "bundle, control",
+   "url": ""
+  },
+  {
+   "jp": "存",
+   "romaji": "son",
+   "meaning": "exist, be aware of",
+   "url": ""
+  },
+  {
+   "jp": "相",
+   "romaji": "sou",
+   "meaning": "inter-, mutual",
+   "url": ""
+  },
+  {
+   "jp": "争",
+   "romaji": "sou",
+   "meaning": "dispute, argue",
+   "url": ""
+  },
+  {
+   "jp": "想",
+   "romaji": "sou",
+   "meaning": "concept, think, idea",
+   "url": ""
+  },
+  {
+   "jp": "草",
+   "romaji": "sou",
+   "meaning": "grass, weeds, herbs",
+   "url": ""
+  },
+  {
+   "jp": "窓",
+   "romaji": "sou",
+   "meaning": "window, pane",
+   "url": ""
+  },
+  {
+   "jp": "箱",
+   "romaji": "sou",
+   "meaning": "box, chest, case",
+   "url": ""
+  },
+  {
+   "jp": "吹",
+   "romaji": "sui",
+   "meaning": "blow, breathe, smoke",
+   "url": ""
+  },
+  {
+   "jp": "誰",
+   "romaji": "sui",
+   "meaning": "who, someone",
+   "url": ""
+  },
+  {
+   "jp": "数",
+   "romaji": "suu",
+   "meaning": "number, figures",
+   "url": ""
+  },
+  {
+   "jp": "他",
+   "romaji": "ta",
+   "meaning": "other, another",
+   "url": ""
+  },
+  {
+   "jp": "対",
+   "romaji": "tai",
+   "meaning": "opposite, compare",
+   "url": ""
+  },
+  {
+   "jp": "太",
+   "romaji": "tai",
+   "meaning": "plump, thick",
+   "url": ""
+  },
+  {
+   "jp": "退",
+   "romaji": "tai",
+   "meaning": "retreat, withdraw, retire",
+   "url": ""
+  },
+  {
+   "jp": "宅",
+   "romaji": "taku",
+   "meaning": "home, house, residence",
+   "url": ""
+  },
+  {
+   "jp": "単",
+   "romaji": "tan",
+   "meaning": "simple, one, merely",
+   "url": ""
+  },
+  {
+   "jp": "探",
+   "romaji": "tan",
+   "meaning": "grope, search, look for",
+   "url": ""
+  },
+  {
+   "jp": "達",
+   "romaji": "tatsu",
+   "meaning": "accomplished, arrive",
+   "url": ""
+  },
+  {
+   "jp": "定",
+   "romaji": "tei",
+   "meaning": "determine, decide",
+   "url": ""
+  },
+  {
+   "jp": "程",
+   "romaji": "tei",
+   "meaning": "extent, degree, limits",
+   "url": ""
+  },
+  {
+   "jp": "庭",
+   "romaji": "tei",
+   "meaning": "courtyard, garden",
+   "url": ""
+  },
+  {
+   "jp": "適",
+   "romaji": "teki",
+   "meaning": "suitable, qualified",
+   "url": ""
+  },
+  {
+   "jp": "点",
+   "romaji": "ten",
+   "meaning": "spot, point, mark",
+   "url": ""
+  },
+  {
+   "jp": "都",
+   "romaji": "to",
+   "meaning": "metropolis, capital",
+   "url": ""
+  },
+  {
+   "jp": "渡",
+   "romaji": "to",
+   "meaning": "transit, ford, cross",
+   "url": ""
+  },
+  {
+   "jp": "途",
+   "romaji": "to",
+   "meaning": "route, way, road",
+   "url": ""
+  },
+  {
+   "jp": "徒",
+   "romaji": "to",
+   "meaning": "junior, on foot",
+   "url": ""
+  },
+  {
+   "jp": "得",
+   "romaji": "toku",
+   "meaning": "gain, get, earn",
+   "url": ""
+  },
+  {
+   "jp": "突",
+   "romaji": "totsu",
+   "meaning": "thrust, pierce, prick",
+   "url": ""
+  },
+  {
+   "jp": "当",
+   "romaji": "tou",
+   "meaning": "hit, right, appropriate",
+   "url": ""
+  },
+  {
+   "jp": "頭",
+   "romaji": "tou",
+   "meaning": "head, counter for large animals",
+   "url": ""
+  },
+  {
+   "jp": "登",
+   "romaji": "tou",
+   "meaning": "ascend, climb up",
+   "url": ""
+  },
+  {
+   "jp": "投",
+   "romaji": "tou",
+   "meaning": "throw, abandon, discard",
+   "url": ""
+  },
+  {
+   "jp": "倒",
+   "romaji": "tou",
+   "meaning": "overthrow, fall, collapse",
+   "url": ""
+  },
+  {
+   "jp": "等",
+   "romaji": "tou",
+   "meaning": "etc., equal, similar",
+   "url": ""
+  },
+  {
+   "jp": "逃",
+   "romaji": "tou",
+   "meaning": "escape, flee, evade",
+   "url": ""
+  },
+  {
+   "jp": "到",
+   "romaji": "tou",
+   "meaning": "arrival, proceed, reach",
+   "url": ""
+  },
+  {
+   "jp": "盗",
+   "romaji": "tou",
+   "meaning": "steal, rob",
+   "url": ""
+  },
+  {
+   "jp": "追",
+   "romaji": "tsui",
+   "meaning": "chase, pursue, follow",
+   "url": ""
+  },
+  {
+   "jp": "痛",
+   "romaji": "tsuu",
+   "meaning": "pain, hurt, damage",
+   "url": ""
+  },
+  {
+   "jp": "和",
+   "romaji": "wa",
+   "meaning": "harmony, peace",
+   "url": ""
+  },
+  {
+   "jp": "約",
+   "romaji": "yaku",
+   "meaning": "promise, approximately",
+   "url": ""
+  },
+  {
+   "jp": "役",
+   "romaji": "yaku",
+   "meaning": "duty, service, role",
+   "url": ""
+  },
+  {
+   "jp": "薬",
+   "romaji": "yaku",
+   "meaning": "medicine, chemical",
+   "url": ""
+  },
+  {
+   "jp": "予",
+   "romaji": "yo",
+   "meaning": "beforehand, previous",
+   "url": ""
+  },
+  {
+   "jp": "与",
+   "romaji": "yo",
+   "meaning": "bestow, give, award",
+   "url": ""
+  },
+  {
+   "jp": "余",
+   "romaji": "yo",
+   "meaning": "too much, surplus",
+   "url": ""
+  },
+  {
+   "jp": "欲",
+   "romaji": "yoku",
+   "meaning": "longing, greed, passion",
+   "url": ""
+  },
+  {
+   "jp": "要",
+   "romaji": "you",
+   "meaning": "need, main point",
+   "url": ""
+  },
+  {
+   "jp": "容",
+   "romaji": "you",
+   "meaning": "contain, form, looks",
+   "url": ""
+  },
+  {
+   "jp": "葉",
+   "romaji": "you",
+   "meaning": "leaf, blade",
+   "url": ""
+  },
+  {
+   "jp": "様",
+   "romaji": "you",
+   "meaning": "manner, situation",
+   "url": ""
+  },
+  {
+   "jp": "陽",
+   "romaji": "you",
+   "meaning": "sunshine, daytime",
+   "url": ""
+  },
+  {
+   "jp": "由",
+   "romaji": "yu",
+   "meaning": "wherefore, a reason",
+   "url": ""
+  },
+  {
+   "jp": "優",
+   "romaji": "yuu",
+   "meaning": "tenderness, excel, actor",
+   "url": ""
+  },
+  {
+   "jp": "遊",
+   "romaji": "yuu",
+   "meaning": "play",
+   "url": ""
+  },
+  {
+   "jp": "座",
+   "romaji": "za",
+   "meaning": "seat, squat, sit",
+   "url": ""
+  },
+  {
+   "jp": "在",
+   "romaji": "zai",
+   "meaning": "exist, located in",
+   "url": ""
+  },
+  {
+   "jp": "財",
+   "romaji": "zai",
+   "meaning": "property, wealth, assets",
+   "url": ""
+  },
+  {
+   "jp": "罪",
+   "romaji": "zai",
+   "meaning": "guilt, sin, crime",
+   "url": ""
+  },
+  {
+   "jp": "残",
+   "romaji": "zan",
+   "meaning": "remainder, leftover",
+   "url": ""
+  },
+  {
+   "jp": "雑",
+   "romaji": "zatsu",
+   "meaning": "miscellaneous",
+   "url": ""
+  },
+  {
+   "jp": "全",
+   "romaji": "zen",
+   "meaning": "whole, entire, all",
+   "url": ""
+  },
+  {
+   "jp": "然",
+   "romaji": "zen",
+   "meaning": "so, sort of thing",
+   "url": ""
+  },
+  {
+   "jp": "絶",
+   "romaji": "zetsu",
+   "meaning": "discontinue, sever",
+   "url": ""
+  },
+  {
+   "jp": "続",
+   "romaji": "zoku",
+   "meaning": "continue, series",
+   "url": ""
+  },
+  {
+   "jp": "増",
+   "romaji": "zou",
+   "meaning": "increase, gain",
+   "url": ""
+  }
+ ]
+}

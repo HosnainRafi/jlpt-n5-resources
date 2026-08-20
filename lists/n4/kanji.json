@@ -1,0 +1,1010 @@
+{
+ "level": "N4",
+ "kind": "kanji",
+ "count": 167,
+ "source_url": "https://japanesetest4you.com/jlpt-n4-kanji-list/",
+ "items": [
+  {
+   "jp": "悪",
+   "romaji": "aku",
+   "meaning": "bad, evil",
+   "url": ""
+  },
+  {
+   "jp": "安",
+   "romaji": "an",
+   "meaning": "relax, cheap",
+   "url": ""
+  },
+  {
+   "jp": "場",
+   "romaji": "ba",
+   "meaning": "location, place",
+   "url": ""
+  },
+  {
+   "jp": "売",
+   "romaji": "bai",
+   "meaning": "sell",
+   "url": ""
+  },
+  {
+   "jp": "買",
+   "romaji": "bai",
+   "meaning": "buy",
+   "url": ""
+  },
+  {
+   "jp": "勉",
+   "romaji": "ben",
+   "meaning": "strive, make effort",
+   "url": ""
+  },
+  {
+   "jp": "別",
+   "romaji": "betsu",
+   "meaning": "separate",
+   "url": ""
+  },
+  {
+   "jp": "文",
+   "romaji": "bun",
+   "meaning": "sentence, literature",
+   "url": ""
+  },
+  {
+   "jp": "物",
+   "romaji": "butsu",
+   "meaning": "thing, object",
+   "url": ""
+  },
+  {
+   "jp": "病",
+   "romaji": "byou",
+   "meaning": "ill, sick",
+   "url": ""
+  },
+  {
+   "jp": "茶",
+   "romaji": "cha",
+   "meaning": "tea",
+   "url": ""
+  },
+  {
+   "jp": "着",
+   "romaji": "chaku",
+   "meaning": "arrive, wear",
+   "url": ""
+  },
+  {
+   "jp": "地",
+   "romaji": "chi",
+   "meaning": "ground, earth",
+   "url": ""
+  },
+  {
+   "jp": "知",
+   "romaji": "chi",
+   "meaning": "know, wisdom",
+   "url": ""
+  },
+  {
+   "jp": "朝",
+   "romaji": "chou",
+   "meaning": "morning, dynasty",
+   "url": ""
+  },
+  {
+   "jp": "町",
+   "romaji": "chou",
+   "meaning": "town, village",
+   "url": ""
+  },
+  {
+   "jp": "鳥",
+   "romaji": "chou",
+   "meaning": "bird, chicken",
+   "url": ""
+  },
+  {
+   "jp": "注",
+   "romaji": "chuu",
+   "meaning": "pour, concentrate on",
+   "url": ""
+  },
+  {
+   "jp": "昼",
+   "romaji": "chuu",
+   "meaning": "daytime, noon",
+   "url": ""
+  },
+  {
+   "jp": "代",
+   "romaji": "dai",
+   "meaning": "substitute, change",
+   "url": ""
+  },
+  {
+   "jp": "題",
+   "romaji": "dai",
+   "meaning": "topic, subject",
+   "url": ""
+  },
+  {
+   "jp": "台",
+   "romaji": "dai",
+   "meaning": "pedestal, a stand",
+   "url": ""
+  },
+  {
+   "jp": "田",
+   "romaji": "den",
+   "meaning": "rice field",
+   "url": ""
+  },
+  {
+   "jp": "度",
+   "romaji": "do",
+   "meaning": "degrees",
+   "url": ""
+  },
+  {
+   "jp": "同",
+   "romaji": "dou",
+   "meaning": "same, equal",
+   "url": ""
+  },
+  {
+   "jp": "動",
+   "romaji": "dou",
+   "meaning": "move, motion",
+   "url": ""
+  },
+  {
+   "jp": "道",
+   "romaji": "dou",
+   "meaning": "road-way, course",
+   "url": ""
+  },
+  {
+   "jp": "堂",
+   "romaji": "dou",
+   "meaning": "public chamber, hall",
+   "url": ""
+  },
+  {
+   "jp": "映",
+   "romaji": "ei",
+   "meaning": "reflection",
+   "url": ""
+  },
+  {
+   "jp": "英",
+   "romaji": "ei",
+   "meaning": "England, hero",
+   "url": ""
+  },
+  {
+   "jp": "駅",
+   "romaji": "eki",
+   "meaning": "station",
+   "url": ""
+  },
+  {
+   "jp": "不",
+   "romaji": "fu",
+   "meaning": "negative, non-",
+   "url": ""
+  },
+  {
+   "jp": "服",
+   "romaji": "fuku",
+   "meaning": "clothing, obey",
+   "url": ""
+  },
+  {
+   "jp": "風",
+   "romaji": "fuu",
+   "meaning": "wind, style",
+   "url": ""
+  },
+  {
+   "jp": "言",
+   "romaji": "gen",
+   "meaning": "say, word",
+   "url": ""
+  },
+  {
+   "jp": "元",
+   "romaji": "gen",
+   "meaning": "beginning, origin",
+   "url": ""
+  },
+  {
+   "jp": "銀",
+   "romaji": "gin",
+   "meaning": "silver",
+   "url": ""
+  },
+  {
+   "jp": "魚",
+   "romaji": "gyo",
+   "meaning": "fish",
+   "url": ""
+  },
+  {
+   "jp": "業",
+   "romaji": "gyou",
+   "meaning": "business",
+   "url": ""
+  },
+  {
+   "jp": "牛",
+   "romaji": "gyuu",
+   "meaning": "cow",
+   "url": ""
+  },
+  {
+   "jp": "飯",
+   "romaji": "han",
+   "meaning": "meal, boiled rice",
+   "url": ""
+  },
+  {
+   "jp": "発",
+   "romaji": "hatsu",
+   "meaning": "departure, discharge",
+   "url": ""
+  },
+  {
+   "jp": "品",
+   "romaji": "hin",
+   "meaning": "goods, article",
+   "url": ""
+  },
+  {
+   "jp": "歩",
+   "romaji": "ho",
+   "meaning": "walk",
+   "url": ""
+  },
+  {
+   "jp": "方",
+   "romaji": "hou",
+   "meaning": "direction",
+   "url": ""
+  },
+  {
+   "jp": "意",
+   "romaji": "i",
+   "meaning": "idea, mind",
+   "url": ""
+  },
+  {
+   "jp": "以",
+   "romaji": "i",
+   "meaning": "by means of",
+   "url": ""
+  },
+  {
+   "jp": "医",
+   "romaji": "i",
+   "meaning": "doctor, medicine",
+   "url": ""
+  },
+  {
+   "jp": "員",
+   "romaji": "in",
+   "meaning": "employee, member",
+   "url": ""
+  },
+  {
+   "jp": "院",
+   "romaji": "in",
+   "meaning": "institution",
+   "url": ""
+  },
+  {
+   "jp": "飲",
+   "romaji": "in",
+   "meaning": "drink",
+   "url": ""
+  },
+  {
+   "jp": "事",
+   "romaji": "ji",
+   "meaning": "matter, thing",
+   "url": ""
+  },
+  {
+   "jp": "自",
+   "romaji": "ji",
+   "meaning": "oneself",
+   "url": ""
+  },
+  {
+   "jp": "持",
+   "romaji": "ji",
+   "meaning": "hold, have",
+   "url": ""
+  },
+  {
+   "jp": "字",
+   "romaji": "ji",
+   "meaning": "character, letter",
+   "url": ""
+  },
+  {
+   "jp": "重",
+   "romaji": "juu",
+   "meaning": "heavy, important",
+   "url": ""
+  },
+  {
+   "jp": "住",
+   "romaji": "juu",
+   "meaning": "dwell, reside",
+   "url": ""
+  },
+  {
+   "jp": "家",
+   "romaji": "ka",
+   "meaning": "home, family",
+   "url": ""
+  },
+  {
+   "jp": "歌",
+   "romaji": "ka",
+   "meaning": "song, sing",
+   "url": ""
+  },
+  {
+   "jp": "花",
+   "romaji": "ka",
+   "meaning": "flower",
+   "url": ""
+  },
+  {
+   "jp": "夏",
+   "romaji": "ka",
+   "meaning": "summer",
+   "url": ""
+  },
+  {
+   "jp": "会",
+   "romaji": "kai",
+   "meaning": "meeting",
+   "url": ""
+  },
+  {
+   "jp": "開",
+   "romaji": "kai",
+   "meaning": "open, unfold",
+   "url": ""
+  },
+  {
+   "jp": "界",
+   "romaji": "kai",
+   "meaning": "world, boundary",
+   "url": ""
+  },
+  {
+   "jp": "海",
+   "romaji": "kai",
+   "meaning": "sea, ocean",
+   "url": ""
+  },
+  {
+   "jp": "画",
+   "romaji": "kaku",
+   "meaning": "picture",
+   "url": ""
+  },
+  {
+   "jp": "館",
+   "romaji": "kan",
+   "meaning": "building",
+   "url": ""
+  },
+  {
+   "jp": "漢",
+   "romaji": "kan",
+   "meaning": "Sino-, China",
+   "url": ""
+  },
+  {
+   "jp": "計",
+   "romaji": "kei",
+   "meaning": "plot, plan",
+   "url": ""
+  },
+  {
+   "jp": "兄",
+   "romaji": "kei",
+   "meaning": "elder brother",
+   "url": ""
+  },
+  {
+   "jp": "建",
+   "romaji": "ken",
+   "meaning": "build",
+   "url": ""
+  },
+  {
+   "jp": "犬",
+   "romaji": "ken",
+   "meaning": "dog",
+   "url": ""
+  },
+  {
+   "jp": "研",
+   "romaji": "ken",
+   "meaning": "polish, study of",
+   "url": ""
+  },
+  {
+   "jp": "験",
+   "romaji": "ken",
+   "meaning": "verification, effect",
+   "url": ""
+  },
+  {
+   "jp": "起",
+   "romaji": "ki",
+   "meaning": "rouse, wake up",
+   "url": ""
+  },
+  {
+   "jp": "帰",
+   "romaji": "ki",
+   "meaning": "homecoming, arrive at",
+   "url": ""
+  },
+  {
+   "jp": "近",
+   "romaji": "kin",
+   "meaning": "near, early",
+   "url": ""
+  },
+  {
+   "jp": "古",
+   "romaji": "ko",
+   "meaning": "old",
+   "url": ""
+  },
+  {
+   "jp": "黒",
+   "romaji": "koku",
+   "meaning": "black",
+   "url": ""
+  },
+  {
+   "jp": "公",
+   "romaji": "kou",
+   "meaning": "public, official",
+   "url": ""
+  },
+  {
+   "jp": "考",
+   "romaji": "kou",
+   "meaning": "consider, think over",
+   "url": ""
+  },
+  {
+   "jp": "口",
+   "romaji": "kou",
+   "meaning": "mouth",
+   "url": ""
+  },
+  {
+   "jp": "広",
+   "romaji": "kou",
+   "meaning": "wide, broad",
+   "url": ""
+  },
+  {
+   "jp": "工",
+   "romaji": "kou",
+   "meaning": "craft, construction",
+   "url": ""
+  },
+  {
+   "jp": "空",
+   "romaji": "kuu",
+   "meaning": "empty, sky",
+   "url": ""
+  },
+  {
+   "jp": "去",
+   "romaji": "kyo",
+   "meaning": "gone, past",
+   "url": ""
+  },
+  {
+   "jp": "京",
+   "romaji": "kyou",
+   "meaning": "capital",
+   "url": ""
+  },
+  {
+   "jp": "強",
+   "romaji": "kyou",
+   "meaning": "strong",
+   "url": ""
+  },
+  {
+   "jp": "教",
+   "romaji": "kyou",
+   "meaning": "teach, faith",
+   "url": ""
+  },
+  {
+   "jp": "急",
+   "romaji": "kyuu",
+   "meaning": "hurry, sudden",
+   "url": ""
+  },
+  {
+   "jp": "究",
+   "romaji": "kyuu",
+   "meaning": "research, study",
+   "url": ""
+  },
+  {
+   "jp": "妹",
+   "romaji": "mai",
+   "meaning": "younger sister",
+   "url": ""
+  },
+  {
+   "jp": "味",
+   "romaji": "mi",
+   "meaning": "flavor, taste",
+   "url": ""
+  },
+  {
+   "jp": "明",
+   "romaji": "mei",
+   "meaning": "bright, light",
+   "url": ""
+  },
+  {
+   "jp": "目",
+   "romaji": "moku",
+   "meaning": "eye, look",
+   "url": ""
+  },
+  {
+   "jp": "問",
+   "romaji": "mon",
+   "meaning": "question, ask",
+   "url": ""
+  },
+  {
+   "jp": "無",
+   "romaji": "mu",
+   "meaning": "nothingness, none",
+   "url": ""
+  },
+  {
+   "jp": "肉",
+   "romaji": "niku",
+   "meaning": "meat",
+   "url": ""
+  },
+  {
+   "jp": "屋",
+   "romaji": "oku",
+   "meaning": "roof, house",
+   "url": ""
+  },
+  {
+   "jp": "音",
+   "romaji": "on",
+   "meaning": "sound, noise",
+   "url": ""
+  },
+  {
+   "jp": "楽",
+   "romaji": "raku",
+   "meaning": "music, comfort",
+   "url": ""
+  },
+  {
+   "jp": "理",
+   "romaji": "ri",
+   "meaning": "logic, reason",
+   "url": ""
+  },
+  {
+   "jp": "立",
+   "romaji": "ritsu",
+   "meaning": "stand up",
+   "url": ""
+  },
+  {
+   "jp": "旅",
+   "romaji": "ryo",
+   "meaning": "trip, travel",
+   "url": ""
+  },
+  {
+   "jp": "料",
+   "romaji": "ryou",
+   "meaning": "fee, materials",
+   "url": ""
+  },
+  {
+   "jp": "力",
+   "romaji": "ryoku",
+   "meaning": "power, strength",
+   "url": ""
+  },
+  {
+   "jp": "作",
+   "romaji": "saku",
+   "meaning": "make, build",
+   "url": ""
+  },
+  {
+   "jp": "世",
+   "romaji": "se",
+   "meaning": "generation, world",
+   "url": ""
+  },
+  {
+   "jp": "正",
+   "romaji": "sei",
+   "meaning": "correct, justice",
+   "url": ""
+  },
+  {
+   "jp": "青",
+   "romaji": "sei",
+   "meaning": "blue, green",
+   "url": ""
+  },
+  {
+   "jp": "赤",
+   "romaji": "seki",
+   "meaning": "red",
+   "url": ""
+  },
+  {
+   "jp": "夕",
+   "romaji": "seki",
+   "meaning": "evening",
+   "url": ""
+  },
+  {
+   "jp": "切",
+   "romaji": "setsu",
+   "meaning": "cut, cutoff",
+   "url": ""
+  },
+  {
+   "jp": "社",
+   "romaji": "sha",
+   "meaning": "company, firm",
+   "url": ""
+  },
+  {
+   "jp": "者",
+   "romaji": "sha",
+   "meaning": "person, someone",
+   "url": ""
+  },
+  {
+   "jp": "写",
+   "romaji": "sha",
+   "meaning": "copy, be photographed",
+   "url": ""
+  },
+  {
+   "jp": "借",
+   "romaji": "shaku",
+   "meaning": "borrow, rent",
+   "url": ""
+  },
+  {
+   "jp": "思",
+   "romaji": "shi",
+   "meaning": "think",
+   "url": ""
+  },
+  {
+   "jp": "使",
+   "romaji": "shi",
+   "meaning": "use, envoy",
+   "url": ""
+  },
+  {
+   "jp": "紙",
+   "romaji": "shi",
+   "meaning": "paper",
+   "url": ""
+  },
+  {
+   "jp": "死",
+   "romaji": "shi",
+   "meaning": "death, die",
+   "url": ""
+  },
+  {
+   "jp": "私",
+   "romaji": "shi",
+   "meaning": "private, me",
+   "url": ""
+  },
+  {
+   "jp": "始",
+   "romaji": "shi",
+   "meaning": "begin, commence",
+   "url": ""
+  },
+  {
+   "jp": "止",
+   "romaji": "shi",
+   "meaning": "stop, halt",
+   "url": ""
+  },
+  {
+   "jp": "試",
+   "romaji": "shi",
+   "meaning": "test, try",
+   "url": ""
+  },
+  {
+   "jp": "仕",
+   "romaji": "shi",
+   "meaning": "attend, doing",
+   "url": ""
+  },
+  {
+   "jp": "姉",
+   "romaji": "shi",
+   "meaning": "elder sister",
+   "url": ""
+  },
+  {
+   "jp": "新",
+   "romaji": "shin",
+   "meaning": "new",
+   "url": ""
+  },
+  {
+   "jp": "心",
+   "romaji": "shin",
+   "meaning": "heart, mind",
+   "url": ""
+  },
+  {
+   "jp": "真",
+   "romaji": "shin",
+   "meaning": "true, reality",
+   "url": ""
+  },
+  {
+   "jp": "親",
+   "romaji": "shin",
+   "meaning": "parent, intimacy",
+   "url": ""
+  },
+  {
+   "jp": "質",
+   "romaji": "shitsu",
+   "meaning": "substance, quality",
+   "url": ""
+  },
+  {
+   "jp": "室",
+   "romaji": "shitsu",
+   "meaning": "room, chamber",
+   "url": ""
+  },
+  {
+   "jp": "色",
+   "romaji": "shoku",
+   "meaning": "color",
+   "url": ""
+  },
+  {
+   "jp": "少",
+   "romaji": "shou",
+   "meaning": "few, little",
+   "url": ""
+  },
+  {
+   "jp": "手",
+   "romaji": "shu",
+   "meaning": "hand",
+   "url": ""
+  },
+  {
+   "jp": "主",
+   "romaji": "shu",
+   "meaning": "lord, chief",
+   "url": ""
+  },
+  {
+   "jp": "春",
+   "romaji": "shun",
+   "meaning": "springtime, spring",
+   "url": ""
+  },
+  {
+   "jp": "集",
+   "romaji": "shuu",
+   "meaning": "gather, meet",
+   "url": ""
+  },
+  {
+   "jp": "終",
+   "romaji": "shuu",
+   "meaning": "end, finish",
+   "url": ""
+  },
+  {
+   "jp": "週",
+   "romaji": "shuu",
+   "meaning": "week",
+   "url": ""
+  },
+  {
+   "jp": "秋",
+   "romaji": "shuu",
+   "meaning": "autumn",
+   "url": ""
+  },
+  {
+   "jp": "習",
+   "romaji": "shuu",
+   "meaning": "learn",
+   "url": ""
+  },
+  {
+   "jp": "足",
+   "romaji": "soku",
+   "meaning": "leg, be sufficient",
+   "url": ""
+  },
+  {
+   "jp": "送",
+   "romaji": "sou",
+   "meaning": "escort, send",
+   "url": ""
+  },
+  {
+   "jp": "早",
+   "romaji": "sou",
+   "meaning": "early, fast",
+   "url": ""
+  },
+  {
+   "jp": "走",
+   "romaji": "sou",
+   "meaning": "run",
+   "url": ""
+  },
+  {
+   "jp": "多",
+   "romaji": "ta",
+   "meaning": "many, much",
+   "url": ""
+  },
+  {
+   "jp": "体",
+   "romaji": "tai",
+   "meaning": "body, object",
+   "url": ""
+  },
+  {
+   "jp": "待",
+   "romaji": "tai",
+   "meaning": "wait, depend on",
+   "url": ""
+  },
+  {
+   "jp": "貸",
+   "romaji": "tai",
+   "meaning": "lend",
+   "url": ""
+  },
+  {
+   "jp": "弟",
+   "romaji": "tei",
+   "meaning": "younger brother",
+   "url": ""
+  },
+  {
+   "jp": "転",
+   "romaji": "ten",
+   "meaning": "revolve, turn around",
+   "url": ""
+  },
+  {
+   "jp": "店",
+   "romaji": "ten",
+   "meaning": "store, shop",
+   "url": ""
+  },
+  {
+   "jp": "特",
+   "romaji": "toku",
+   "meaning": "special",
+   "url": ""
+  },
+  {
+   "jp": "答",
+   "romaji": "tou",
+   "meaning": "solution, answer",
+   "url": ""
+  },
+  {
+   "jp": "冬",
+   "romaji": "tou",
+   "meaning": "winter",
+   "url": ""
+  },
+  {
+   "jp": "通",
+   "romaji": "tsuu",
+   "meaning": "pass through",
+   "url": ""
+  },
+  {
+   "jp": "運",
+   "romaji": "un",
+   "meaning": "carry, luck",
+   "url": ""
+  },
+  {
+   "jp": "野",
+   "romaji": "ya",
+   "meaning": "plains, field",
+   "url": ""
+  },
+  {
+   "jp": "夜",
+   "romaji": "ya",
+   "meaning": "night, evening",
+   "url": ""
+  },
+  {
+   "jp": "用",
+   "romaji": "you",
+   "meaning": "utilize, use",
+   "url": ""
+  },
+  {
+   "jp": "洋",
+   "romaji": "you",
+   "meaning": "sea, Western style",
+   "url": ""
+  },
+  {
+   "jp": "曜",
+   "romaji": "you",
+   "meaning": "weekday",
+   "url": ""
+  },
+  {
+   "jp": "有",
+   "romaji": "yuu",
+   "meaning": "possess, have",
+   "url": ""
+  },
+  {
+   "jp": "族",
+   "romaji": "zoku",
+   "meaning": "tribe, family",
+   "url": ""
+  },
+  {
+   "jp": "図",
+   "romaji": "zu",
+   "meaning": "map, drawing",
+   "url": ""
+  }
+ ]
+}

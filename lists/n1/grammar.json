@@ -1,0 +1,1292 @@
+{
+ "level": "N1",
+ "kind": "grammar",
+ "count": 214,
+ "source_url": "https://japanesetest4you.com/jlpt-n1-grammar-list/",
+ "items": [
+  {
+   "pattern": "あえて",
+   "romaji": "aete",
+   "meaning": "dare to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%82%e3%81%88%e3%81%a6-aete/"
+  },
+  {
+   "pattern": "あくまでも",
+   "romaji": "akumade mo",
+   "meaning": "to the end, to the utmost degree",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%82%e3%81%8f%e3%81%be%e3%81%a7%e3%82%82-akumade-mo/"
+  },
+  {
+   "pattern": "案の定",
+   "romaji": "an no jou",
+   "meaning": "just as one thought",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%82%e3%82%93%e3%81%ae%e3%81%98%e3%82%87%e3%81%86-an-no-jou/"
+  },
+  {
+   "pattern": "あらかじめ",
+   "romaji": "arakajime",
+   "meaning": "beforehand, in advance",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%82%e3%82%89%e3%81%8b%e3%81%98%e3%82%81-arakajime/"
+  },
+  {
+   "pattern": "あっての",
+   "romaji": "atte no",
+   "meaning": "to owe everything to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%82%e3%81%a3%e3%81%a6%e3%81%ae-atte-no/"
+  },
+  {
+   "pattern": "場合によっては",
+   "romaji": "baai ni yotte wa",
+   "meaning": "depending on the situation",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%b0%e3%81%82%e3%81%84%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6%e3%81%af-baai-ni-yotte-wa/"
+  },
+  {
+   "pattern": "ばこそ",
+   "romaji": "ba koso",
+   "meaning": "only because",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%b0%e3%81%93%e3%81%9d-bakoso/"
+  },
+  {
+   "pattern": "ばそれまでだ",
+   "romaji": "ba sore made da",
+   "meaning": "if… then it’s over",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%b0%e3%81%9d%e3%82%8c%e3%81%be%e3%81%a7%e3%81%a0-ba-sore-made-da/"
+  },
+  {
+   "pattern": "べからず",
+   "romaji": "bekarazu",
+   "meaning": "must not, should not",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%b9%e3%81%8b%e3%82%89%e3%81%9a-bekarazu/"
+  },
+  {
+   "pattern": "べく",
+   "romaji": "beku",
+   "meaning": "in order to, should",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%b9%e3%81%8f-beku/"
+  },
+  {
+   "pattern": "べくもない",
+   "romaji": "beku mo nai",
+   "meaning": "can’t",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%b9%e3%81%8f%e3%82%82%e3%81%aa%e3%81%84-beku-mo-nai/"
+  },
+  {
+   "pattern": "びる",
+   "romaji": "biru",
+   "meaning": "seeming to be",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%b3%e3%82%8b-biru/"
+  },
+  {
+   "pattern": "ぶり",
+   "romaji": "buri",
+   "meaning": "style, manner",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%b6%e3%82%8a-buri/"
+  },
+  {
+   "pattern": "ぶる",
+   "romaji": "buru",
+   "meaning": "behaving like",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%b6%e3%82%8b-buru/"
+  },
+  {
+   "pattern": "だに",
+   "romaji": "dani",
+   "meaning": "even",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a0%e3%81%ab-dani/"
+  },
+  {
+   "pattern": "だの～だの",
+   "romaji": "dano~dano",
+   "meaning": "and, and so forth",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a0%e3%81%ae%ef%bd%9e%e3%81%a0%e3%81%ae-danodano/"
+  },
+  {
+   "pattern": "であれ～であれ",
+   "romaji": "de are~de are",
+   "meaning": "whether A or B",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a7%e3%81%82%e3%82%8c%ef%bd%9e%e3%81%a7%e3%81%82%e3%82%8c-de-arede-are/"
+  },
+  {
+   "pattern": "であれ/であろうと",
+   "romaji": "de are/de arou to",
+   "meaning": "whoever/whatever/however",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a7%e3%81%82%e3%82%8c%e3%81%a7%e3%81%82%e3%82%8d%e3%81%86%e3%81%a8-de-arude-arou-to/"
+  },
+  {
+   "pattern": "でも何でもない",
+   "romaji": "demo nan demo nai",
+   "meaning": "not in the least",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a7%e3%82%82%e4%bd%95%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84-demo-nan-demo-nai/"
+  },
+  {
+   "pattern": "でなくてなんだろう",
+   "romaji": "denakute nan darou",
+   "meaning": "must be, is definitely",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a7%e3%81%aa%e3%81%8f%e3%81%a6%e3%81%aa%e3%82%93%e3%81%a0%e3%82%8d%e3%81%86-denakute-nan-darou/"
+  },
+  {
+   "pattern": "ではあるまいか",
+   "romaji": "dewa aru mai ka",
+   "meaning": "I wonder if it’s not",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a7%e3%81%af%e3%81%82%e3%82%8b%e3%81%be%e3%81%84%e3%81%8b-dewa-aru-mai-ka/"
+  },
+  {
+   "pattern": "ではあるまいし",
+   "romaji": "dewa aru mai shi",
+   "meaning": "it’s not like, it isn’t as if",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a7%e3%81%af%e3%81%82%e3%82%8b%e3%81%be%e3%81%84%e3%81%97-dewa-aru-mai-shi/"
+  },
+  {
+   "pattern": "ではすまない",
+   "romaji": "dewa sumanai",
+   "meaning": "it doesn’t end with just",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a7%e3%81%af%e3%81%99%e3%81%be%e3%81%aa%e3%81%84-dewa-sumanai/"
+  },
+  {
+   "pattern": "どうにも～ない",
+   "romaji": "dou nimo~nai",
+   "meaning": "not … by any means",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a9%e3%81%86%e3%81%ab%e3%82%82%ef%bd%9e%e3%81%aa%e3%81%84-dou-nimonai/"
+  },
+  {
+   "pattern": "がてら",
+   "romaji": "gatera",
+   "meaning": "on the same occasion",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8c%e3%81%a6%e3%82%89-gatera/"
+  },
+  {
+   "pattern": "が早いか",
+   "romaji": "ga hayai ka",
+   "meaning": "as soon as",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8c%e3%81%af%e3%82%84%e3%81%84%e3%81%8b-ga-hayai-ka/"
+  },
+  {
+   "pattern": "が最後",
+   "romaji": "ga saigo",
+   "meaning": "once something occurs, something else happens",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8c%e3%81%95%e3%81%84%e3%81%94-ga-saigo/"
+  },
+  {
+   "pattern": "ごとき/ごとく",
+   "romaji": "gotoki/gotoku",
+   "meaning": "like, as if",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%94%e3%81%a8%e3%81%8d%e3%81%94%e3%81%a8%e3%81%8f-gotokigotoku/"
+  },
+  {
+   "pattern": "ぐるみ",
+   "romaji": "gurumi",
+   "meaning": "together with",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%90%e3%82%8b%e3%81%bf-gurumi/"
+  },
+  {
+   "pattern": "羽目になる",
+   "romaji": "hame ni naru",
+   "meaning": "to end up with (something unpleasant)",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%af%e3%82%81%e3%81%ab%e3%81%aa%e3%82%8b-hame-ni-naru/"
+  },
+  {
+   "pattern": "ひとつ",
+   "romaji": "hitotsu",
+   "meaning": "to give something a try",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%b2%e3%81%a8%e3%81%a4-hitotsu/"
+  },
+  {
+   "pattern": "ほどのことはない",
+   "romaji": "hodo no koto wa nai",
+   "meaning": "not worth, no need to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%bb%e3%81%a9%e3%81%ae%e3%81%93%e3%81%a8%e3%81%af%e3%81%aa%e3%81%84-hodo-no-koto-wa-nai/"
+  },
+  {
+   "pattern": "ほかに～ない",
+   "romaji": "hoka ni~nai",
+   "meaning": "no other",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%bb%e3%81%8b%e3%81%ab%ef%bd%9e%e3%81%aa%e3%81%84-hoka-ninai/"
+  },
+  {
+   "pattern": "ほうがましだ",
+   "romaji": "hou ga mashi da",
+   "meaning": "I would rather",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%bb%e3%81%86%e3%81%8c%e3%81%be%e3%81%97%e3%81%a0-hou-ga-mashi-da/"
+  },
+  {
+   "pattern": "いかなる",
+   "romaji": "ikanaru",
+   "meaning": "any kind of",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%84%e3%81%8b%e3%81%aa%e3%82%8b-ikanaru/"
+  },
+  {
+   "pattern": "いかんでは/いかんによっては",
+   "romaji": "ikan dewa/ikan ni yotte wa",
+   "meaning": "depending on",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%84%e3%81%8b%e3%82%93%e3%81%a7%e3%81%af-ikan-dewa/"
+  },
+  {
+   "pattern": "いかんによらず",
+   "romaji": "ikan ni yorazu",
+   "meaning": "regardless of",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%84%e3%81%8b%e3%82%93%e3%81%ab%e3%82%88%e3%82%89%e3%81%9a-ikan-ni-yorazu/"
+  },
+  {
+   "pattern": "いかに",
+   "romaji": "ikani",
+   "meaning": "how",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%84%e3%81%8b%e3%81%ab-ikani/"
+  },
+  {
+   "pattern": "いかにも",
+   "romaji": "ikanimo",
+   "meaning": "indeed, really",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%84%e3%81%8b%e3%81%ab%e3%82%82-ikanimo/"
+  },
+  {
+   "pattern": "いまだに",
+   "romaji": "ima da ni",
+   "meaning": "still, even now",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%84%e3%81%be%e3%81%a0%e3%81%ab-ima-da-ni/"
+  },
+  {
+   "pattern": "いずれにせよ",
+   "romaji": "izure nise yo",
+   "meaning": "at any rate, in any case",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%84%e3%81%9a%e3%82%8c%e3%81%ab%e3%81%9b%e3%82%88-izure-nise-yo/"
+  },
+  {
+   "pattern": "じみた",
+   "romaji": "jimita",
+   "meaning": "to look like",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%98%e3%81%bf%e3%81%9f-jimita/"
+  },
+  {
+   "pattern": "限りだ",
+   "romaji": "kagiri da",
+   "meaning": "I feel so",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8b%e3%81%8e%e3%82%8a%e3%81%a0-kagiri-da/"
+  },
+  {
+   "pattern": "かいもなく",
+   "romaji": "kai mo naku",
+   "meaning": "even though",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8b%e3%81%84%e3%82%82%e3%81%aa%e3%81%8f-kai-mo-naku/"
+  },
+  {
+   "pattern": "か否か",
+   "romaji": "ka ina ka",
+   "meaning": "whether or not",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8b%e3%81%84%e3%81%aa%e3%81%8b-ka-ina-ka/"
+  },
+  {
+   "pattern": "可能性がある",
+   "romaji": "kanousei ga aru",
+   "meaning": "there’s a possibility",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8b%e3%81%ae%e3%81%86%e3%81%9b%e3%81%84%e3%81%8c%e3%81%82%e3%82%8b-kanousei-ga-aru/"
+  },
+  {
+   "pattern": "からある",
+   "romaji": "kara aru",
+   "meaning": "as much as, as many as",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8b%e3%82%89%e3%81%82%e3%82%8b-kara-aru/"
+  },
+  {
+   "pattern": "かれ～かれ",
+   "romaji": "kare~kare",
+   "meaning": "or",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8b%e3%82%8c%ef%bd%9e%e3%81%8b%e3%82%8c-karekare/"
+  },
+  {
+   "pattern": "かたがた",
+   "romaji": "katagata",
+   "meaning": "while, for the purpose of",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8b%e3%81%9f%e3%81%8c%e3%81%9f-katagata/"
+  },
+  {
+   "pattern": "かたわら",
+   "romaji": "katawara",
+   "meaning": "while, at the same time",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8b%e3%81%9f%e3%82%8f%e3%82%89-katawara/"
+  },
+  {
+   "pattern": "かつて",
+   "romaji": "katsute",
+   "meaning": "once, before",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8b%e3%81%a4%e3%81%a6-katsute/"
+  },
+  {
+   "pattern": "嫌いがある",
+   "romaji": "kirai ga aru",
+   "meaning": "to have a tendency to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8d%e3%82%89%e3%81%84%e3%81%8c%e3%81%82%e3%82%8b-kirai-ga-aru/"
+  },
+  {
+   "pattern": "きっての",
+   "romaji": "kitte no",
+   "meaning": "the most … of all",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8d%e3%81%a3%e3%81%a6%e3%81%ae-kitte-no/"
+  },
+  {
+   "pattern": "きりがない",
+   "romaji": "kiri ga nai",
+   "meaning": "there’s no end to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8d%e3%82%8a%e3%81%8c%e3%81%aa%e3%81%84-kiri-ga-nai/"
+  },
+  {
+   "pattern": "極まる/極まりない",
+   "romaji": "kiwamaru/kiwamarinai",
+   "meaning": "extremely",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8d%e3%82%8f%e3%81%be%e3%82%8b%e3%81%8d%e3%82%8f%e3%81%be%e3%82%8a%e3%81%aa%e3%81%84-kiwamarukiwamarinai/"
+  },
+  {
+   "pattern": "極めて",
+   "romaji": "kiwamete",
+   "meaning": "extremely, exceedingly",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8d%e3%82%8f%e3%82%81%e3%81%a6-kiwamete/"
+  },
+  {
+   "pattern": "ことだし",
+   "romaji": "koto dashi",
+   "meaning": "because, since",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%93%e3%81%a8%e3%81%a0%e3%81%97-koto-dashi/"
+  },
+  {
+   "pattern": "ことごとく",
+   "romaji": "koto gotoku",
+   "meaning": "altogether, entirely",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%93%e3%81%a8%e3%81%94%e3%81%a8%e3%81%8f-koto-gotoku/"
+  },
+  {
+   "pattern": "ことなしに",
+   "romaji": "koto nashi ni",
+   "meaning": "without doing something",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%93%e3%81%a8%e3%81%aa%e3%81%97%e3%81%ab-koto-nashi-ni/"
+  },
+  {
+   "pattern": "ことのないよう",
+   "romaji": "koto no nai you",
+   "meaning": "so as not to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%93%e3%81%a8%e3%81%ae%e3%81%aa%e3%81%84%e3%82%88%e3%81%86-koto-no-nai-you/"
+  },
+  {
+   "pattern": "こととて",
+   "romaji": "kototote",
+   "meaning": "because, since",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%93%e3%81%a8%e3%81%a8%e3%81%a6-kototote/"
+  },
+  {
+   "pattern": "くらいなら",
+   "romaji": "kurai nara",
+   "meaning": "rather than",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8f%e3%82%89%e3%81%84%e3%81%aa%e3%82%89-kurai-nara/"
+  },
+  {
+   "pattern": "くらいのものだ",
+   "romaji": "kurai no mono da",
+   "meaning": "only",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8f%e3%82%89%e3%81%84%e3%81%ae%e3%82%82%e3%81%ae%e3%81%a0-kurai-no-mono-da/"
+  },
+  {
+   "pattern": "までだ",
+   "romaji": "made da",
+   "meaning": "only",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%be%e3%81%a7%e3%81%a0-made-da/"
+  },
+  {
+   "pattern": "までもない",
+   "romaji": "made mo nai",
+   "meaning": "it’s not necessary to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%be%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84-made-mo-nai/"
+  },
+  {
+   "pattern": "まじき",
+   "romaji": "majiki",
+   "meaning": "should not, must not",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%be%e3%81%98%e3%81%8d-majiki/"
+  },
+  {
+   "pattern": "ままに",
+   "romaji": "mama ni",
+   "meaning": "to do as",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%be%e3%81%be%e3%81%ab-mama-ni/"
+  },
+  {
+   "pattern": "まみれ",
+   "romaji": "mamire",
+   "meaning": "to be covered in",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%be%e3%81%bf%e3%82%8c-mamire/"
+  },
+  {
+   "pattern": "まるっきり",
+   "romaji": "marukkiri",
+   "meaning": "totally, completely",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%be%e3%82%8b%e3%81%a3%e3%81%8d%e3%82%8a-marukkiri/"
+  },
+  {
+   "pattern": "めく",
+   "romaji": "meku",
+   "meaning": "to show signs of",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%81%e3%81%8f-meku/"
+  },
+  {
+   "pattern": "もはや",
+   "romaji": "mohaya",
+   "meaning": "already, no longer",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%82%e3%81%af%e3%82%84-mohaya/"
+  },
+  {
+   "pattern": "も顧みず/を顧みず",
+   "romaji": "mo kaerimizu/o kaerimizu",
+   "meaning": "regardless of, despite",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%92%e3%81%8b%e3%81%88%e3%82%8a%e3%81%bf%e3%81%9a-o-kaerimizu/"
+  },
+  {
+   "pattern": "もしないで",
+   "romaji": "mo shinaide",
+   "meaning": "without even doing",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%82%e3%81%97%e3%81%aa%e3%81%84%e3%81%a7-mo-shinaide/"
+  },
+  {
+   "pattern": "もので",
+   "romaji": "mono de",
+   "meaning": "because, for that reason",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%82%e3%81%ae%e3%81%a7-mono-de/"
+  },
+  {
+   "pattern": "ものを",
+   "romaji": "mono o",
+   "meaning": "I wish, if only",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%82%e3%81%ae%e3%82%92-mono-o/"
+  },
+  {
+   "pattern": "ものと思われる",
+   "romaji": "mono to omowareru",
+   "meaning": "to think, to suppose",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%82%e3%81%ae%e3%81%a8%e3%81%8a%e3%82%82%e3%82%8f%e3%82%8c%e3%82%8b-mono-to-omowareru/"
+  },
+  {
+   "pattern": "ものとして",
+   "romaji": "mono toshite",
+   "meaning": "to assume, to suppose",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%82%e3%81%ae%e3%81%a8%e3%81%97%e3%81%a6-mono-to-shite/"
+  },
+  {
+   "pattern": "もさることながら",
+   "romaji": "mo saru koto nagara",
+   "meaning": "not only… but also",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%82%e3%81%95%e3%82%8b%e3%81%93%e3%81%a8%e3%81%aa%e3%81%8c%e3%82%89-mo-saru-koto-nagara/"
+  },
+  {
+   "pattern": "もしくは",
+   "romaji": "moshikuwa",
+   "meaning": "or, otherwise",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%82%e3%81%97%e3%81%8f%e3%81%af-moshikuwa/"
+  },
+  {
+   "pattern": "ながらに/ながらの",
+   "romaji": "nagara ni/nagara no",
+   "meaning": "while, during",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%81%8c%e3%82%89%e3%81%ab%e3%81%aa%e3%81%8c%e3%82%89%e3%81%ae-nagara-ninagara-no/"
+  },
+  {
+   "pattern": "ないではおかない/ずにはおかない",
+   "romaji": "nai dewa okanai/zu niwa okanai",
+   "meaning": "will definitely, cannot not",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%81%84%e3%81%a7%e3%81%af%e3%81%8a%e3%81%8b%e3%81%aa%e3%81%84%e3%81%9a%e3%81%ab%e3%81%af%e3%81%8a%e3%81%8b%e3%81%aa%e3%81%84-nai-dewa-okanaizu-niwa-okanai/"
+  },
+  {
+   "pattern": "ないではすまない/ずにはすまない",
+   "romaji": "nai dewa sumanai/zu niwa sumanai",
+   "meaning": "must",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%81%84%e3%81%a7%e3%81%af%e3%81%99%e3%81%be%e3%81%aa%e3%81%84-nai-dewa-sumanai/"
+  },
+  {
+   "pattern": "ないまでも",
+   "romaji": "nai made mo",
+   "meaning": "even if something isn’t done",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%81%84%e3%81%be%e3%81%a7%e3%82%82-nai-made-mo/"
+  },
+  {
+   "pattern": "ないものか",
+   "romaji": "nai mono ka",
+   "meaning": "can’t we…?, can’t I…?",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%81%84%e3%82%82%e3%81%ae%e3%81%8b-nai-mono-ka/"
+  },
+  {
+   "pattern": "ないものでもない",
+   "romaji": "nai mono demo nai",
+   "meaning": "(something) is not entirely impossible",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%81%84%e3%82%82%e3%81%ae%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84-nai-mono-demo-nai/"
+  },
+  {
+   "pattern": "ないとも限らない",
+   "romaji": "nai tomo kagiranai",
+   "meaning": "might",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%81%84%e3%81%a8%e3%82%82%e3%81%8b%e3%81%8e%e3%82%89%e3%81%aa%e3%81%84-nai-tomo-kagiranai/"
+  },
+  {
+   "pattern": "なくして",
+   "romaji": "nakushite",
+   "meaning": "without",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%81%8f%e3%81%97%e3%81%a6-nakushite/"
+  },
+  {
+   "pattern": "何しろ",
+   "romaji": "nani shiro",
+   "meaning": "in any case, as you know",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%81%ab%e3%81%97%e3%82%8d-nani-shiro/"
+  },
+  {
+   "pattern": "なしに",
+   "romaji": "nashi ni",
+   "meaning": "without",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%81%97%e3%81%ab-nashi-ni/"
+  },
+  {
+   "pattern": "ならでは",
+   "romaji": "nara dewa",
+   "meaning": "uniquely applying to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%82%89%e3%81%a7%e3%81%af-nara-dewa/"
+  },
+  {
+   "pattern": "ならいざしらず",
+   "romaji": "nara iza shirazu",
+   "meaning": "I don’t know about A, but B",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%82%89%e3%81%84%e3%81%96%e3%81%97%e3%82%89%e3%81%9a-nara-iza-shirazu/"
+  },
+  {
+   "pattern": "なり",
+   "romaji": "nari",
+   "meaning": "as soon as",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%82%8a-nari/"
+  },
+  {
+   "pattern": "なり～なり",
+   "romaji": "nari~nari",
+   "meaning": "or",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%82%8a%ef%bd%9e%e3%81%aa%e3%82%8a-narinari/"
+  },
+  {
+   "pattern": "なりに/なりの",
+   "romaji": "nari ni/nari no",
+   "meaning": "in one’s own way or style",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%82%8a%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%ae-nari-ninari-no/"
+  },
+  {
+   "pattern": "なりとも",
+   "romaji": "naritomo",
+   "meaning": "even a little, at least",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%aa%e3%82%8a%e3%81%a8%e3%82%82-naritomo/"
+  },
+  {
+   "pattern": "に値する",
+   "romaji": "ni atai suru",
+   "meaning": "to be worth, to deserve",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%82%e3%81%9f%e3%81%84%e3%81%99%e3%82%8b-ni-atai-suru/"
+  },
+  {
+   "pattern": "にあたらない",
+   "romaji": "ni ataranai",
+   "meaning": "it’s not worth, there’s no need to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%82%e3%81%9f%e3%82%89%e3%81%aa%e3%81%84-ni-ataranai/"
+  },
+  {
+   "pattern": "にあって",
+   "romaji": "ni atte",
+   "meaning": "at, during, in the condition of",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%82%e3%81%a3%e3%81%a6-ni-atte/"
+  },
+  {
+   "pattern": "にひきかえ",
+   "romaji": "ni hikikae",
+   "meaning": "in contrast to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%b2%e3%81%8d%e3%81%8b%e3%81%88-ni-hikikae/"
+  },
+  {
+   "pattern": "に至るまで",
+   "romaji": "ni itaru made",
+   "meaning": "until, as far as",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%84%e3%81%9f%e3%82%8b%e3%81%be%e3%81%a7-ni-itaru-made/"
+  },
+  {
+   "pattern": "に至っては",
+   "romaji": "ni itatte wa",
+   "meaning": "as for, when it comes to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%84%e3%81%9f%e3%81%a3%e3%81%a6%e3%81%af-ni-itatte-wa/"
+  },
+  {
+   "pattern": "に言わせれば",
+   "romaji": "ni iwasereba",
+   "meaning": "if you ask, if one may say",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%84%e3%82%8f%e3%81%9b%e3%82%8c%e3%81%b0-ni-iwasereba/"
+  },
+  {
+   "pattern": "にかかっている",
+   "romaji": "ni kakatte iru",
+   "meaning": "to depend on",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%8b%e3%81%8b%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b-ni-kakatte-iru/"
+  },
+  {
+   "pattern": "にかたくない",
+   "romaji": "ni katakunai",
+   "meaning": "it’s not hard to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%8b%e3%81%9f%e3%81%8f%e3%81%aa%e3%81%84-ni-katakunai/"
+  },
+  {
+   "pattern": "にまつわる",
+   "romaji": "ni matsuwaru",
+   "meaning": "to be related to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%be%e3%81%a4%e3%82%8f%e3%82%8b-ni-matsuwaru/"
+  },
+  {
+   "pattern": "にもほどがある",
+   "romaji": "nimo hodo ga aru",
+   "meaning": "to have a limit, to go too far",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%82%82%e3%81%bb%e3%81%a9%e3%81%8c%e3%81%82%e3%82%8b-nimo-hodo-ga-aru/"
+  },
+  {
+   "pattern": "にもまして",
+   "romaji": "ni momashite",
+   "meaning": "more than, above",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%82%82%e3%81%be%e3%81%97%e3%81%a6-ni-momashite/"
+  },
+  {
+   "pattern": "に則って",
+   "romaji": "ni nottotte",
+   "meaning": "in accordance with",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%ae%e3%81%a3%e3%81%a8%e3%81%a3%e3%81%a6-ni-nottotte/"
+  },
+  {
+   "pattern": "に先駆けて",
+   "romaji": "ni saki gakete",
+   "meaning": "to be the first",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%95%e3%81%8d%e3%81%8c%e3%81%91%e3%81%a6-ni-saki-gakete/"
+  },
+  {
+   "pattern": "にしたって",
+   "romaji": "ni shitatte",
+   "meaning": "even, even if",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%97%e3%81%9f%e3%81%a3%e3%81%a6-ni-shitatte/"
+  },
+  {
+   "pattern": "にして",
+   "romaji": "ni shite",
+   "meaning": "only, in (time span)",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%97%e3%81%a6-ni-shite/"
+  },
+  {
+   "pattern": "に即して",
+   "romaji": "ni sokushite",
+   "meaning": "in keeping with",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%9d%e3%81%8f%e3%81%97%e3%81%a6-ni-sokushite/"
+  },
+  {
+   "pattern": "にたえる/にたえない",
+   "romaji": "ni taeru/ni taenai",
+   "meaning": "can/can’t do something",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%9f%e3%81%88%e3%82%8b%e3%81%ab%e3%81%9f%e3%81%88%e3%81%aa%e3%81%84-ni-taeruni-taenai/"
+  },
+  {
+   "pattern": "に足る/に足りる",
+   "romaji": "ni taru/ni tariru",
+   "meaning": "to be enough, to be worthy of",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e8%b6%b3%e3%82%8b%e3%81%ab%e8%b6%b3%e3%82%8a%e3%82%8b-ni-taruni-tariru/"
+  },
+  {
+   "pattern": "に足りない",
+   "romaji": "ni tarinai",
+   "meaning": "to be not worth",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%9f%e3%82%8a%e3%81%aa%e3%81%84-ni-tarinai/"
+  },
+  {
+   "pattern": "に照らして",
+   "romaji": "ni terashite",
+   "meaning": "in comparison with, according to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%a6%e3%82%89%e3%81%97%e3%81%a6-ni-terashite/"
+  },
+  {
+   "pattern": "にとどまらず",
+   "romaji": "ni todomarazu",
+   "meaning": "not limited to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%a8%e3%81%a9%e3%81%be%e3%82%89%e3%81%9a-ni-todomarazu/"
+  },
+  {
+   "pattern": "には及ばない",
+   "romaji": "niwa oyobanai",
+   "meaning": "there’s no need to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%81%af%e3%81%8a%e3%82%88%e3%81%b0%e3%81%aa%e3%81%84-niwa-oyobanai/"
+  },
+  {
+   "pattern": "によらず",
+   "romaji": "ni yorazu",
+   "meaning": "regardless of",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ab%e3%82%88%e3%82%89%e3%81%9a-ni-yorazu/"
+  },
+  {
+   "pattern": "んばかりに",
+   "romaji": "n bakari ni",
+   "meaning": "as if, as though",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%93%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%ab-n-bakari-ni/"
+  },
+  {
+   "pattern": "んがため",
+   "romaji": "n ga tame",
+   "meaning": "in order to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%93%e3%81%8c%e3%81%9f%e3%82%81-n-ga-tame/"
+  },
+  {
+   "pattern": "の至り",
+   "romaji": "no itari",
+   "meaning": "utmost",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ae%e3%81%84%e3%81%9f%e3%82%8a-no-itari/"
+  },
+  {
+   "pattern": "の極み",
+   "romaji": "no kiwami",
+   "meaning": "utmost",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ae%e3%81%8d%e3%82%8f%e3%81%bf-no-kiwami/"
+  },
+  {
+   "pattern": "のみか",
+   "romaji": "nomika",
+   "meaning": "not only… but also",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ae%e3%81%bf%e3%81%8b-nomika/"
+  },
+  {
+   "pattern": "のなんのって",
+   "romaji": "no nan no tte",
+   "meaning": "extremely",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%ae%e3%81%aa%e3%82%93%e3%81%ae%e3%81%a3%e3%81%a6-no-nan-no-tte/"
+  },
+  {
+   "pattern": "を踏まえて",
+   "romaji": "o fumaete",
+   "meaning": "based on",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%92%e3%81%b5%e3%81%be%e3%81%88%e3%81%a6-o-fumaete/"
+  },
+  {
+   "pattern": "を経て",
+   "romaji": "o hete",
+   "meaning": "through, after, via",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%92%e3%81%b8%e3%81%a6-o-hete/"
+  },
+  {
+   "pattern": "をいいことに",
+   "romaji": "o ii koto ni",
+   "meaning": "to take advantage of",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%92%e3%81%84%e3%81%84%e3%81%93%e3%81%a8%e3%81%ab-o-ii-koto-ni/"
+  },
+  {
+   "pattern": "を限りに",
+   "romaji": "o kagiri ni",
+   "meaning": "starting from",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%92%e3%81%8b%e3%81%8e%e3%82%8a%e3%81%ab-o-kagiri-ni/"
+  },
+  {
+   "pattern": "を兼ねて",
+   "romaji": "o kanete",
+   "meaning": "also for the purpose of",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%92%e3%81%8b%e3%81%ad%e3%81%a6-o-kanete/"
+  },
+  {
+   "pattern": "を皮切りに",
+   "romaji": "o kawakiri ni",
+   "meaning": "starting with",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%92%e3%81%8b%e3%82%8f%e3%81%8d%e3%82%8a%e3%81%ab-o-kawakiri-ni/"
+  },
+  {
+   "pattern": "を機に",
+   "romaji": "o ki ni",
+   "meaning": "as an opportunity to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%92%e3%81%8d%e3%81%ab-o-ki-ni/"
+  },
+  {
+   "pattern": "を禁じえない",
+   "romaji": "o kinjienai",
+   "meaning": "can’t help but",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%92%e3%81%8d%e3%82%93%e3%81%98%e3%81%88%e3%81%aa%e3%81%84-o-kinjienai/"
+  },
+  {
+   "pattern": "をものともせず",
+   "romaji": "o monotomo sezu",
+   "meaning": "in defiance of",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%92%e3%82%82%e3%81%ae%e3%81%a8%e3%82%82%e3%81%9b%e3%81%9a-o-monotomo-sezu/"
+  },
+  {
+   "pattern": "をおいて",
+   "romaji": "o oite",
+   "meaning": "other than, without",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%92%e3%81%8a%e3%81%84%e3%81%a6-o-oite/"
+  },
+  {
+   "pattern": "を余儀なくされる",
+   "romaji": "o yogi naku sareru",
+   "meaning": "to be forced to do something",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%92%e3%82%88%e3%81%8e%e3%81%aa%e3%81%8f%e3%81%95%e3%82%8c%e3%82%8b-o-yoginaku-sareru/"
+  },
+  {
+   "pattern": "をよそに",
+   "romaji": "o yoso ni",
+   "meaning": "despite",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%92%e3%82%88%e3%81%9d%e3%81%ab-o-yoso-ni/"
+  },
+  {
+   "pattern": "思いをする",
+   "romaji": "omoi o suru",
+   "meaning": "to feel",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8a%e3%82%82%e3%81%84%e3%82%92%e3%81%99%e3%82%8b-omoi-o-suru/"
+  },
+  {
+   "pattern": "折に",
+   "romaji": "ori ni",
+   "meaning": "when, on the occasion",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8a%e3%82%8a%e3%81%ab-ori-ni/"
+  },
+  {
+   "pattern": "およそ",
+   "romaji": "oyoso",
+   "meaning": "totally, (not) at all",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%8a%e3%82%88%e3%81%9d-oyoso/"
+  },
+  {
+   "pattern": "さもないと",
+   "romaji": "samonaito",
+   "meaning": "otherwise, else, if not so",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%95%e3%82%82%e3%81%aa%e3%81%84%e3%81%a8-samonaito/"
+  },
+  {
+   "pattern": "さぞ",
+   "romaji": "sazo",
+   "meaning": "I’m sure, I’m certain",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%95%e3%81%9e-sazo/"
+  },
+  {
+   "pattern": "始末だ",
+   "romaji": "shimatsu da",
+   "meaning": "end up, in the end",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%97%e3%81%be%e3%81%a4%e3%81%a0-shimatsu-da/"
+  },
+  {
+   "pattern": "そばから",
+   "romaji": "soba kara",
+   "meaning": "as soon as",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%9d%e3%81%b0%e3%81%8b%e3%82%89-soba-kara/"
+  },
+  {
+   "pattern": "さも",
+   "romaji": "samo",
+   "meaning": "truly, really",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%95%e3%82%82-samo/"
+  },
+  {
+   "pattern": "それなりに",
+   "romaji": "sore nari ni",
+   "meaning": "as it is, in its own way",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%9d%e3%82%8c%e3%81%aa%e3%82%8a%e3%81%ab-sore-nari-ni/"
+  },
+  {
+   "pattern": "そうにもない",
+   "romaji": "sou nimo nai",
+   "meaning": "impossible, unlikely",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%9d%e3%81%86%e3%81%ab%e3%82%82%e3%81%aa%e3%81%84-sou-nimo-nai/"
+  },
+  {
+   "pattern": "ただ～のみだ",
+   "romaji": "tada~nomi da",
+   "meaning": "can do nothing but",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%9f%e3%81%a0%ef%bd%9e%e3%81%ae%e3%81%bf%e3%81%a0/"
+  },
+  {
+   "pattern": "た拍子に",
+   "romaji": "ta hyoushi ni",
+   "meaning": "the instant",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%9f%e3%81%b2%e3%82%87%e3%81%86%e3%81%97%e3%81%ab-ta-hyoushi-ni/"
+  },
+  {
+   "pattern": "ためしがない",
+   "romaji": "tameshi ga nai",
+   "meaning": "(something) is never the case",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%9f%e3%82%81%e3%81%97%e3%81%8c%e3%81%aa%e3%81%84-tameshi-ga-nai/"
+  },
+  {
+   "pattern": "たりとも",
+   "romaji": "taritomo",
+   "meaning": "(not) even, (not) any",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%9f%e3%82%8a%e3%81%a8%e3%82%82-tari-tomo/"
+  },
+  {
+   "pattern": "た瞬間に",
+   "romaji": "ta shunkan ni",
+   "meaning": "the moment",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%9f%e3%81%97%e3%82%85%e3%82%93%e3%81%8b%e3%82%93%e3%81%ab-ta-shunkan-ni/"
+  },
+  {
+   "pattern": "てっきり",
+   "romaji": "tekkiri",
+   "meaning": "surely, certainly",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a6%e3%81%a3%e3%81%8d%e3%82%8a-tekkiri/"
+  },
+  {
+   "pattern": "たところで",
+   "romaji": "ta tokoro de",
+   "meaning": "even if one does something",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n2-grammar-%e3%81%9f%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7-ta-tokoro-de/"
+  },
+  {
+   "pattern": "てからというもの",
+   "romaji": "te kara to iu mono",
+   "meaning": "after, since",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a6%e3%81%8b%e3%82%89%e3%81%a8%e3%81%84%e3%81%86%e3%82%82%e3%81%ae-te-kara-to-iu-mono/"
+  },
+  {
+   "pattern": "てかなわない",
+   "romaji": "te kanawanai",
+   "meaning": "can’t stand, unable to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a6%e3%81%8b%e3%81%aa%e3%82%8f%e3%81%aa%e3%81%84-te-kanawanai/"
+  },
+  {
+   "pattern": "てまで",
+   "romaji": "te made",
+   "meaning": "even",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a6%e3%81%be%e3%81%a7-te-made/"
+  },
+  {
+   "pattern": "てみせる",
+   "romaji": "te miseru",
+   "meaning": "I’ll definitely",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a6%e3%81%bf%e3%81%9b%e3%82%8b-te-miseru/"
+  },
+  {
+   "pattern": "てもどうにもならない",
+   "romaji": "temo dou nimo naranai",
+   "meaning": "it’s no use",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a6%e3%82%82%e3%81%a9%e3%81%86%e3%81%ab%e3%82%82%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84-temo-dou-nimo-naranai/"
+  },
+  {
+   "pattern": "ても始まらない",
+   "romaji": "temo hajimaranai",
+   "meaning": "it’s no use",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a6%e3%82%82%e3%81%af%e3%81%98%e3%81%be%e3%82%89%e3%81%aa%e3%81%84-temo-hajimaranai/"
+  },
+  {
+   "pattern": "ても差し支えない",
+   "romaji": "temo sashitsukaenai",
+   "meaning": "can, it’s okay if",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a6%e3%82%82%e3%81%95%e3%81%97%e3%81%a4%e3%81%8b%e3%81%88%e3%81%aa%e3%81%84-temo-sashitsukaenai/"
+  },
+  {
+   "pattern": "てしかるべきだ",
+   "romaji": "te shikaru beki da",
+   "meaning": "should",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a6%e3%81%97%e3%81%8b%e3%82%8b%e3%81%b9%e3%81%8d%e3%81%a0-te-shikaru-beki-da/"
+  },
+  {
+   "pattern": "ってば",
+   "romaji": "tteba",
+   "meaning": "I said, I told you to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a3%e3%81%a6%e3%81%b0-tteba/"
+  },
+  {
+   "pattern": "てやまない",
+   "romaji": "te yamanai",
+   "meaning": "always, never stop",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a6%e3%82%84%e3%81%be%e3%81%aa%e3%81%84-te-yamanai/"
+  },
+  {
+   "pattern": "と相まって",
+   "romaji": "to aimatte",
+   "meaning": "together with",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%82%e3%81%84%e3%81%be%e3%81%a3%e3%81%a6-to-aimatte/"
+  },
+  {
+   "pattern": "とあれば",
+   "romaji": "to areba",
+   "meaning": "if, if it’s the case that",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%82%e3%82%8c%e3%81%b0-to-areba/"
+  },
+  {
+   "pattern": "とあって",
+   "romaji": "to atte",
+   "meaning": "because of",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%82%e3%81%a3%e3%81%a6-to-atte/"
+  },
+  {
+   "pattern": "とばかりに",
+   "romaji": "to bakari ni",
+   "meaning": "as if, as though",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%ab-to-bakari-ni/"
+  },
+  {
+   "pattern": "といえども",
+   "romaji": "to ie domo",
+   "meaning": "even, even if",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%84%e3%81%88%e3%81%a9%e3%82%82-to-ie-domo/"
+  },
+  {
+   "pattern": "といい～といい",
+   "romaji": "to ii~to ii",
+   "meaning": "and, or",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%84%e3%81%84%ef%bd%9e%e3%81%a8%e3%81%84%e3%81%84-to-iito-ii/"
+  },
+  {
+   "pattern": "といったらない",
+   "romaji": "to ittara nai",
+   "meaning": "very, extremely",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%84%e3%81%a3%e3%81%9f%e3%82%89%e3%81%aa%e3%81%84-to-ittara-nai/"
+  },
+  {
+   "pattern": "という",
+   "romaji": "to iu",
+   "meaning": "all, every",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%84%e3%81%86-to-iu/"
+  },
+  {
+   "pattern": "というか",
+   "romaji": "to iu ka",
+   "meaning": "or, or more precisely",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%84%e3%81%86%e3%81%8b-to-iu-ka/"
+  },
+  {
+   "pattern": "というか～というか",
+   "romaji": "to iu ka~to iu ka",
+   "meaning": "(I’m not sure if it’s) A or B",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%84%e3%81%86%e3%81%8b%ef%bd%9e%e3%81%a8%e3%81%84%e3%81%86%e3%81%8b-to-iu-kato-iu-ka/"
+  },
+  {
+   "pattern": "というところだ/といったところだ",
+   "romaji": "to iu tokoro da/to itta tokoro da",
+   "meaning": "approximately, about",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%84%e3%81%86%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a0-to-iu-tokoro-da/"
+  },
+  {
+   "pattern": "というもの",
+   "romaji": "to iu mono",
+   "meaning": "during a period of time",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%84%e3%81%86%e3%82%82%e3%81%ae-to-iu-mono/"
+  },
+  {
+   "pattern": "というわけだ",
+   "romaji": "to iu wake da",
+   "meaning": "this means",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%84%e3%81%86%e3%82%8f%e3%81%91%e3%81%a0-to-iu-wake-da/"
+  },
+  {
+   "pattern": "というわけではない",
+   "romaji": "to iu wake dewa nai",
+   "meaning": "it’s not that, it doesn’t mean that",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%84%e3%81%86%e3%82%8f%e3%81%91%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-to-iu-wake-dewa-nai/"
+  },
+  {
+   "pattern": "といわず",
+   "romaji": "to iwazu",
+   "meaning": "not just, both",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%84%e3%82%8f%e3%81%9a-to-iwazu/"
+  },
+  {
+   "pattern": "ときたら",
+   "romaji": "tokitara",
+   "meaning": "when it comes to, concerning",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%8d%e3%81%9f%e3%82%89-tokitara/"
+  },
+  {
+   "pattern": "ときている",
+   "romaji": "to kite iru",
+   "meaning": "because",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%8d%e3%81%a6%e3%81%84%e3%82%8b-to-kite-iru/"
+  },
+  {
+   "pattern": "ところがある",
+   "romaji": "tokoro ga aru",
+   "meaning": "there is",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%93%e3%82%8d%e3%81%8c%e3%81%82%e3%82%8b-tokoro-ga-aru/"
+  },
+  {
+   "pattern": "ところから",
+   "romaji": "tokoro kara",
+   "meaning": "from the fact that",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%93%e3%82%8d%e3%81%8b%e3%82%89-tokoro-kara/"
+  },
+  {
+   "pattern": "とみられる",
+   "romaji": "to mirareru",
+   "meaning": "to be regarded as, to be expected to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%bf%e3%82%89%e3%82%8c%e3%82%8b-to-mirareru/"
+  },
+  {
+   "pattern": "とみるや",
+   "romaji": "to miru ya",
+   "meaning": "at the sight of, upon seeing",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%bf%e3%82%8b%e3%82%84-to-miru-ya/"
+  },
+  {
+   "pattern": "ともなく",
+   "romaji": "tomonaku",
+   "meaning": "to do something without thinking about it",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%82%82%e3%81%aa%e3%81%8f-tomonaku/"
+  },
+  {
+   "pattern": "ともなると/ともなれば",
+   "romaji": "tomo naru to/tomo nareba",
+   "meaning": "when, once (something happens)",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%82%82%e3%81%aa%e3%82%8b%e3%81%a8%e3%81%a8%e3%82%82%e3%81%aa%e3%82%8c%e3%81%b0-tomo-naru-totomo-nareba/"
+  },
+  {
+   "pattern": "ともすれば",
+   "romaji": "tomo sureba",
+   "meaning": "apt to, prone to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%82%82%e3%81%99%e3%82%8c%e3%81%b0-tomo-sureba/"
+  },
+  {
+   "pattern": "と思いきや",
+   "romaji": "to omoikiya",
+   "meaning": "I thought",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%8a%e3%82%82%e3%81%84%e3%81%8d%e3%82%84-to-omoikiya/"
+  },
+  {
+   "pattern": "とりわけ",
+   "romaji": "toriwake",
+   "meaning": "especially",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%82%8a%e3%82%8f%e3%81%91-toriwake/"
+  },
+  {
+   "pattern": "とされる",
+   "romaji": "to sareru",
+   "meaning": "is considered",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%95%e3%82%8c%e3%82%8b-to-sareru/"
+  },
+  {
+   "pattern": "とっさに",
+   "romaji": "tossa ni",
+   "meaning": "at once, right away",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%a3%e3%81%95%e3%81%ab-tossa-ni/"
+  },
+  {
+   "pattern": "としたって/としたところで",
+   "romaji": "to shitatte/to shita tokoro de",
+   "meaning": "even if",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%97%e3%81%9f%e3%81%a3%e3%81%a6-to-shitatte/"
+  },
+  {
+   "pattern": "として～ない",
+   "romaji": "toshite~nai",
+   "meaning": "not even one",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%97%e3%81%a6%ef%bd%9e%e3%81%aa%e3%81%84/"
+  },
+  {
+   "pattern": "とて",
+   "romaji": "tote",
+   "meaning": "even if, even though",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%a6-tote/"
+  },
+  {
+   "pattern": "とても～ない",
+   "romaji": "totemo~nai",
+   "meaning": "cannot possibly",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%a6%e3%82%82%ef%bd%9e%e3%81%aa%e3%81%84-totemonai/"
+  },
+  {
+   "pattern": "とは",
+   "romaji": "towa",
+   "meaning": "[indicates word or phrase being defined]",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%af-towa/"
+  },
+  {
+   "pattern": "とはいえ",
+   "romaji": "towaie",
+   "meaning": "nonetheless, although",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%af%e3%81%84%e3%81%88-towaie/"
+  },
+  {
+   "pattern": "とはいうものの",
+   "romaji": "towa iu mono no",
+   "meaning": "having said that, be that as it may",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a8%e3%81%af%e3%81%84%e3%81%86%e3%82%82%e3%81%ae%e3%81%ae-towa-iu-mono-no/"
+  },
+  {
+   "pattern": "つ～つ",
+   "romaji": "tsu~tsu",
+   "meaning": "[indicates two contrasting actions]",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%a4%ef%bd%9e%e3%81%a4-tsutsu/"
+  },
+  {
+   "pattern": "はおろか",
+   "romaji": "wa oroka",
+   "meaning": "let alone, not to mention",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%af%e3%81%8a%e3%82%8d%e3%81%8b-wa-oro-ka/"
+  },
+  {
+   "pattern": "はさておき",
+   "romaji": "wa sateoki",
+   "meaning": "setting aside",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%af%e3%81%95%e3%81%a6%e3%81%8a%e3%81%8d-wa-sateoki/"
+  },
+  {
+   "pattern": "や否や",
+   "romaji": "ya ina ya",
+   "meaning": "the moment that, as soon as",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%84%e3%81%84%e3%81%aa%e3%82%84-ya-ina-ya/"
+  },
+  {
+   "pattern": "やしない",
+   "romaji": "yashinai",
+   "meaning": "not (emphatic negative)",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%84%e3%81%97%e3%81%aa%e3%81%84-yashinai/"
+  },
+  {
+   "pattern": "(よ)うが/(よ)うと",
+   "romaji": "you ga/you to",
+   "meaning": "うが/(よ)うと (you ga/you to): no matter how/what",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%88%e3%81%86%e3%81%8c%e3%82%88%e3%81%86%e3%81%a8-you-gayou-to/"
+  },
+  {
+   "pattern": "(よ)うが～まいが/(よ)うと～まいと",
+   "romaji": "you ga~mai ga/you to~mai to",
+   "meaning": "うが～まいが/(よ)うと～まいと (you ga~mai ga/you to~mai to): whether or not",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%ef%bc%88%e3%82%88%ef%bc%89%e3%81%86%e3%81%8c%ef%bd%9e%e3%81%be%e3%81%84%e3%81%8c-you-gamai-ga/"
+  },
+  {
+   "pattern": "(よ)うか～まいか",
+   "romaji": "you ka~mai ka",
+   "meaning": "うか～まいか (you ka~mai ka): whether or not",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%ef%bc%88%e3%82%88%ef%bc%89%e3%81%86%e3%81%8b%ef%bd%9e%e3%81%be%e3%81%84%e3%81%8b-you-kamai-ka/"
+  },
+  {
+   "pattern": "(よ)うものなら",
+   "romaji": "you mono nara",
+   "meaning": "うものなら (you mono nara): if one chooses to",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%ef%bc%88%e3%82%88%ef%bc%89%e3%81%86%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89-you-mono-nara/"
+  },
+  {
+   "pattern": "ようによっては",
+   "romaji": "you ni yotte wa",
+   "meaning": "depending on",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%88%e3%81%86%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6%e3%81%af-you-ni-yotte-wa/"
+  },
+  {
+   "pattern": "ゆえに",
+   "romaji": "yue ni",
+   "meaning": "therefore, consequently",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%82%86%e3%81%88%e3%81%ab-yue-ni/"
+  },
+  {
+   "pattern": "ざる",
+   "romaji": "zaru",
+   "meaning": "not, -un",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%96%e3%82%8b-zaru/"
+  },
+  {
+   "pattern": "ずじまい",
+   "romaji": "zu jimai",
+   "meaning": "never",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%9a%e3%81%98%e3%81%be%e3%81%84-zu-jimai/"
+  },
+  {
+   "pattern": "ずくめ",
+   "romaji": "zukume",
+   "meaning": "entirely, completely",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%9a%e3%81%8f%e3%82%81-zukume/"
+  },
+  {
+   "pattern": "ずとも",
+   "romaji": "zu tomo",
+   "meaning": "even without doing",
+   "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n1-grammar-%e3%81%9a%e3%81%a8%e3%82%82-zu-tomo/"
+  }
+ ]
+}

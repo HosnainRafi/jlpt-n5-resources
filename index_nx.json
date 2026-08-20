@@ -1,0 +1,111 @@
+{
+ "repo": "HosnainRafi/jlpt-n5-resources",
+ "levels": {
+  "N1": {
+   "total_exercises": 165,
+   "categories": {
+    "listening": 28,
+    "grammar": 31,
+    "kanji": 24,
+    "reading": 55,
+    "vocabulary": 27
+   },
+   "reference_lists": {
+    "vocabulary": {
+     "count": 436,
+     "file": "lists/n1/vocabulary.json"
+    },
+    "files": [
+     "lists/n1/jlpt-n1-vocabulary-list-s.jpg",
+     "lists/n1/grammar-list-n1.jpg",
+     "lists/n1/jlpt-n1-grammar-list.pdf"
+    ],
+    "grammar": {
+     "count": 214,
+     "file": "lists/n1/grammar.json"
+    }
+   }
+  },
+  "N2": {
+   "total_exercises": 161,
+   "categories": {
+    "listening": 35,
+    "grammar": 30,
+    "kanji": 24,
+    "reading": 41,
+    "vocabulary": 31
+   },
+   "reference_lists": {
+    "vocabulary": {
+     "count": 1545,
+     "file": "lists/n2/vocabulary.json"
+    },
+    "files": [
+     "lists/n2/jlpt-n2-vocabulary-list-s.jpg",
+     "lists/n2/grammar-list-n2.jpg",
+     "lists/n2/jlpt-n2-grammar-list.pdf"
+    ],
+    "grammar": {
+     "count": 199,
+     "file": "lists/n2/grammar.json"
+    }
+   }
+  },
+  "N3": {
+   "total_exercises": 132,
+   "categories": {
+    "listening": 22,
+    "grammar": 34,
+    "kanji": 34,
+    "reading": 16,
+    "vocabulary": 26
+   },
+   "reference_lists": {
+    "vocabulary": {
+     "count": 1696,
+     "file": "lists/n3/vocabulary.json"
+    },
+    "files": [
+     "lists/n3/jlpt-n3-vocabulary-list-s.jpg",
+     "lists/n3/grammar-list-n3.jpg",
+     "lists/n3/jlpt-n3-grammar-list.pdf"
+    ],
+    "grammar": {
+     "count": 117,
+     "file": "lists/n3/grammar.json"
+    },
+    "kanji": {
+     "file": "lists/n3/kanji.json"
+    }
+   }
+  },
+  "N4": {
+   "total_exercises": 168,
+   "categories": {
+    "listening": 54,
+    "grammar": 35,
+    "kanji": 22,
+    "reading": 21,
+    "vocabulary": 36
+   },
+   "reference_lists": {
+    "vocabulary": {
+     "count": 533,
+     "file": "lists/n4/vocabulary.json"
+    },
+    "files": [
+     "lists/n4/jlpt-n4-vocabulary-list-s.jpg",
+     "lists/n4/grammar-list-n4.jpg",
+     "lists/n4/jlpt-n4-grammar-list.pdf"
+    ],
+    "grammar": {
+     "count": 98,
+     "file": "lists/n4/grammar.json"
+    },
+    "kanji": {
+     "file": "lists/n4/kanji.json"
+    }
+   }
+  }
+ }
+}

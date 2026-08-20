@@ -1,0 +1,5 @@
+# 
+
+Source: https://japanesetest4you.com/jlpt-n4-listening-exercise-9
+
+1. Question 1 1 2 3 4 2. Question 2 1 2 3 4 3. Question 3 1 2 3 4 4. Question 4 1 2 3 4 5. Question 5 1 2 3 4 Answer Key: Question 1: 4 Question 2: 4 Question 3: 3 Question 4: 2 Question 5: 3 New words: 運動会 (undoukai): athletic meet, sports day 先日 (senjitsu): the other day, a few days ago クリスマス: Christmas 頼む (tanomu): to request, to ask 願う (negau): to request お祝い (oiwai): congratulation, celebration ピアノ: piano ギター: guitar 弾く (hiku): to play (piano, guitar) 乗り換える (norikaeru): to transfer (trains), to change (bus) 本日 (honjitsu): today 地下鉄 (chikatetsu): underground train, subway 利用 (riyou): use, utilization 出来る (dekiru): to be made, to be built 注意 (chuui): caution, being careful 番線 (bansen): track number 集まる (atsumaru): to assemble 場所 (basho): place, location 遅れる (okureru): to be late View transcript If you find any error in this post please don't hesitate to contact me . If you have any questions please check the F.A.Q section. If you find this post useful, please share it with your friends! JLPT N4 – Listening Exercise 10 JLPT N4 – Listening Exercise 08
